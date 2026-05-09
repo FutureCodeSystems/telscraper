@@ -5,17 +5,37 @@ const path = require('path');
 
 const MAX_FILE_SIZE = 90 * 1024 * 1024;
 const BASE_DIR = 'channels';
-const PROXY = 'https://api.codetabs.com/v1/proxy?quest=';
 
 function fetchHTML(url) {
     return new Promise((resolve, reject) => {
-        const fullUrl = PROXY + encodeURIComponent(url);
-        https.get(fullUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
+        const protocol = url.startsWith('https') ? https : http;
+        protocol.get(url, {
+            headers: {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+                'Accept-Language': 'en-US,en;q=0.9',
+            }
+        }, (res) => {
+            // Handle redirect
+            if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+                fetchHTML(res.headers.location).then(resolve).catch(reject);
+                return;
+            }
             let data = '';
             res.on('data', chunk => data += chunk);
             res.on('end', () => resolve(data));
             res.on('error', reject);
-        }).on('error', reject);
+        }).on('error', (e) => {
+            // Fallback to allorigins proxy
+            console.log(`   ⚠️ Direct failed, trying proxy...`);
+            const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`;
+            https.get(proxyUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res2) => {
+                let data2 = '';
+                res2.on('data', chunk => data2 += chunk);
+                res2.on('end', () => resolve(data2));
+                res2.on('error', reject);
+            }).on('error', reject);
+        });
     });
 }
 
@@ -87,21 +107,6 @@ function getFileExtension(url, type) {
     return defaults[type] || 'bin';
 }
 
-function isProfilePhoto(url, channel) {
-    // Filter out channel avatar/profile photos
-    // They usually appear in tgme_page_photo or channel info section
-    if (!url.includes('telesco.pe/file/')) return false;
-    
-    // Profile photos have specific patterns
-    const hash = url.split('/file/').pop()?.split('.')[0] || '';
-    
-    // Very long hashes are usually post media
-    // Short hashes or specific channel avatar patterns
-    if (hash.length < 20) return true;
-    
-    return false;
-}
-
 async function processMedia(channel, items) {
     const mediaDir = path.join(BASE_DIR, channel, 'media');
     const results = [];
@@ -112,16 +117,9 @@ async function processMedia(channel, items) {
         const typeDir = path.join(mediaDir, type);
         if (!fs.existsSync(typeDir)) fs.mkdirSync(typeDir, { recursive: true });
 
-        let url = item.url || item.full_url || item.thumbnail;
+        let url = item.full_url || item.url || item.thumbnail;
         if (!url || !url.startsWith('http')) {
             results.push({ ...item, local_path: null, error: 'No URL' });
-            continue;
-        }
-
-        // Skip profile photos
-        if ((item.type === 'photo' || type === 'unknown') && isProfilePhoto(url, channel)) {
-            console.log(`  🚫 Skipping (profile photo)`);
-            results.push({ ...item, local_path: null, remote_url: url, skipped: 'profile_photo' });
             continue;
         }
 
@@ -158,16 +156,19 @@ async function processMedia(channel, items) {
     return results;
 }
 
-function parsePosts(html, channel) {
+function parsePosts(html) {
     const posts = [];
     
-    // Find all message blocks - they contain data-post attribute
-    const messageRegex = /<div class="tgme_widget_message[^"]*"\s+data-post="([^"]+)"[\s\S]*?(?=<div class="tgme_widget_message_wrap|$)/g;
+    // Find all message containers
+    const regex = /<div class="tgme_widget_message_wrap js-widget_message_wrap">([\s\S]*?)<\/div>\s*<\/div>\s*<\/div>\s*(?=<div class="tgme_widget_message_wrap|<div class="tgme_widget_message_centered|$)/g;
     let match;
     
-    while ((match = messageRegex.exec(html)) !== null) {
-        const block = match[0];
-        const postId = match[1];
+    while ((match = regex.exec(html)) !== null) {
+        const block = match[1];
+        
+        const c = block.match(/data-post="([^"]+)"/);
+        if (!c) continue;
+        const postId = c[1];
         
         const p = {
             index: null,
@@ -198,26 +199,21 @@ function parsePosts(html, channel) {
             type: null
         };
 
-        // Date
         const t = block.match(/<time[^>]*datetime="([^"]+)"/);
         if (t) { p.date = t[1]; p.date_unix = new Date(t[1]).getTime() / 1000; }
 
-        // Edited
         const ts = [...block.matchAll(/<time[^>]*datetime="([^"]+)"/g)];
         if (ts.length > 1) { p.edit_date = ts[1][1]; p.edit_date_unix = new Date(ts[1][1]).getTime() / 1000; p.is_edited = true; }
 
-        // Author
         const a = block.match(/<a class="tgme_widget_message_author_name"[^>]*href="([^"]+)"[^>]*>[\s\S]*?<span[^>]*>(.*?)<\/span>/);
         if (a) { p.author = a[2].replace(/<[^>]+>/g, '').trim(); p.author_url = a[1]; }
 
-        // Text
         const txt = block.match(/<div class="tgme_widget_message_text[^"]*"[^>]*>([\s\S]*?)<\/div>/);
         if (txt) {
             p.text_html = txt[1].trim();
             p.text = txt[1].replace(/<br\s*\/?>/gi, '\n').replace(/<[^>]+>/g, '').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').trim();
         }
 
-        // Views
         const v = block.match(/<span class="tgme_widget_message_views"[^>]*>([\d.]+[KM]?)/);
         if (v) {
             p.views_raw = v[1];
@@ -225,7 +221,6 @@ function parsePosts(html, channel) {
             p.views = v[1].includes('K') ? Math.round(n * 1000) : v[1].includes('M') ? Math.round(n * 1000000) : Math.round(n);
         }
 
-        // Forward
         const fwd = block.match(/<a class="tgme_widget_message_forwarded_from[^"]*" href="([^"]+)">\s*Forwarded from\s*([^<]+)<\/a>/);
         if (fwd) {
             p.forward.forwarded = true;
@@ -235,7 +230,6 @@ function parsePosts(html, channel) {
             if (fd) { p.forward.date = fd[1]; p.forward.date_unix = new Date(fd[1]).getTime() / 1000; }
         }
 
-        // Reply
         const rep = block.match(/<a class="tgme_widget_message_reply"[^>]*href="([^"]+)"[^>]*>/);
         if (rep) {
             p.reply.is_reply = true;
@@ -246,34 +240,23 @@ function parsePosts(html, channel) {
 
         p.pinned = block.includes('tgme_widget_message_pinned');
 
-        // Extract ALL CDN URLs from this message block
+        // Extract CDN URLs
         const cdns = [...block.matchAll(/https:\/\/cdn\d+\.telesco\.pe\/[^\s"'<>)]+/g)];
         const seen = new Set();
-        
         cdns.forEach(c => {
-            const url = c[0].replace(/[)"']+$/, ''); // Clean trailing chars
-            
+            const url = c[0].replace(/[)"']+$/, '');
             if (seen.has(url)) return;
             seen.add(url);
 
-            // Skip if it's a profile photo
-            // Profile photos in message blocks are rare, but we check anyway
-            const hash = url.split('/file/').pop()?.split('.')[0] || '';
-            if (hash.length < 20) return; // Skip short hashes (profile pics)
-
-            // Determine type
             let type = 'photo';
-            if (/\.(mp4|webm|avi|mov|mkv)(\?|$)/i.test(url)) type = 'video';
-            else if (/\.(mp3|ogg|wav)(\?|$)/i.test(url)) type = 'audio';
-            else if (/\.(pdf|zip|rar|7z|tar|gz|doc|docx|xls|xlsx|apk|exe)(\?|$)/i.test(url)) type = 'document';
-
-            const fullUrl = url.includes('/thumb_') ? url.replace(/thumb_\d+_/, '') : url;
+            if (/\.(mp4|webm)(\?|$)/i.test(url)) type = 'video';
+            else if (/\.(pdf|zip|rar|apk|doc)(\?|$)/i.test(url)) type = 'document';
 
             p.media.items.push({
                 type,
                 post_id: postId,
                 url: url,
-                full_url: fullUrl,
+                full_url: url.replace(/thumb_\d+_/, ''),
                 thumbnail: url.includes('/thumb_') ? url : null
             });
         });
@@ -282,12 +265,9 @@ function parsePosts(html, channel) {
             p.media.has_media = true;
             const types = [...new Set(p.media.items.map(x => x.type))];
             p.media.type = types.length > 1 ? 'mixed' : types[0];
-            if (p.media.items.filter(x => x.type === 'photo').length > 1 && p.media.type === 'photo') {
-                p.media.type = 'album';
-            }
+            if (p.media.items.filter(x => x.type === 'photo').length > 1 && p.media.type === 'photo') p.media.type = 'album';
         }
 
-        // Poll
         if (block.includes('<div class="tgme_widget_message_poll')) {
             p.poll.has_poll = true;
             const q = block.match(/<div class="tgme_widget_message_poll_question"[^>]*>(.*?)<\/div>/);
@@ -301,7 +281,6 @@ function parsePosts(html, channel) {
             p.poll.is_closed = block.includes('tgme_widget_message_poll_closed');
         }
 
-        // Buttons, hashtags, mentions, links, emoji, reactions
         const btns = [...block.matchAll(/<a class="tgme_widget_message_inline_button[^"]*" href="([^"]+)"[^>]*>(.*?)<\/a>/g)];
         p.buttons = btns.map(b => ({ text: b[2].replace(/<[^>]+>/g, '').trim(), url: b[1] }));
         p.hashtags = [...new Set([...block.matchAll(/#(\w+)/g)].map(m => m[1]))];
@@ -312,7 +291,6 @@ function parsePosts(html, channel) {
         const reacts = [...block.matchAll(/<span class="tgme_widget_message_reaction_emoji"[^>]*>(.*?)<\/span>\s*<span class="tgme_widget_message_reaction_count"[^>]*>([^<]+)<\/span>/g)];
         p.reactions = reacts.map(r => ({ emoji: r[1].trim(), count: parseInt(r[2]) || 0 }));
 
-        // Type
         if (p.poll.has_poll) p.type = 'poll';
         else if (p.media.type === 'album') p.type = 'album';
         else if (p.media.type === 'photo') p.type = 'photo';
@@ -340,42 +318,38 @@ async function fetchPosts(channel, maxPosts) {
 
         console.log(`📄 Page ${page}: ${url}`);
 
-        let html;
-        try {
-            html = await fetchHTML(url);
-        } catch (e) {
-            console.log(`❌ ${e.message}`);
+        const html = await fetchHTML(url);
+        
+        if (!html || html.length < 500) {
+            console.log(`   ❌ Empty or too short response (${html?.length || 0} chars)`);
             break;
         }
 
-        const posts = parsePosts(html, channel);
+        const posts = parsePosts(html);
         
         if (posts.length === 0) {
-            console.log(`   No posts found`);
+            console.log(`   No posts found in HTML`);
             break;
         }
 
+        // Page 1: newest posts first, subsequent pages: older posts
         console.log(`   Got ${posts.length} posts: ${posts[0].post_id} → ${posts[posts.length-1].post_id}`);
 
         allPosts = allPosts.concat(posts);
 
         if (allPosts.length >= maxPosts) break;
 
-        // Get the LAST (oldest) post ID from this page to load OLDER posts
+        // Get last (oldest) post ID for next page
         beforeId = posts[posts.length - 1].post_id?.split('/').pop();
-        if (!beforeId) break;
-
         page++;
-        await new Promise(r => setTimeout(r, 1500)); // Rate limit for codetabs
+        await new Promise(r => setTimeout(r, 2000));
     }
 
-    // NOW REVERSE: page 1 has newest, page 2 has older, etc.
-    // After reverse, index 0 = newest
     const result = allPosts.slice(0, maxPosts);
-    
+
     console.log(`\n📊 Final order (newest first):`);
-    console.log(`   First (newest): ${result[0]?.post_id}`);
-    console.log(`   Last (oldest): ${result[result.length-1]?.post_id}`);
+    console.log(`   index 1: ${result[0]?.post_id}`);
+    console.log(`   index ${result.length}: ${result[result.length-1]?.post_id}`);
 
     return result;
 }
@@ -383,15 +357,14 @@ async function fetchPosts(channel, maxPosts) {
 // Main
 (async () => {
     const channel = process.env.CHANNEL || 'devefun';
-    const maxPosts = parseInt(process.env.MAX_POSTS || '4');
+    const maxPosts = parseInt(process.env.MAX_POSTS || '5');
 
-    console.log(`\n🚀 Telegram Scraper v4`);
-    console.log(`📺 @${channel} | 📊 ${maxPosts} latest posts`);
-    console.log(`🔗 Proxy: codetabs\n`);
+    console.log(`\n🚀 Telegram Scraper v5`);
+    console.log(`📺 @${channel} | 📊 ${maxPosts} latest posts\n`);
 
     try {
         const posts = await fetchPosts(channel, maxPosts);
-        if (posts.length === 0) { console.log('❌ No posts'); process.exit(1); }
+        if (posts.length === 0) { console.log('❌ No posts'); process.exit(0); }
 
         // Process media
         let totalMedia = 0;
@@ -407,7 +380,7 @@ async function fetchPosts(channel, maxPosts) {
             }
         }
 
-        // Filter & index (1 = newest)
+        // Filter & index
         const filtered = posts.filter(p => p.type !== 'empty' || p.text);
         filtered.forEach((p, i) => p.index = i + 1);
 
@@ -417,10 +390,7 @@ async function fetchPosts(channel, maxPosts) {
         fs.writeFileSync(path.join(channelDir, 'data.json'), JSON.stringify(filtered, null, 2));
 
         const downloaded = filtered.reduce((s, p) => s + p.media.items.filter(i => i.local_path).length, 0);
-        console.log(`\n✅ ${filtered.length} posts | ${downloaded} files | saved to ${channelDir}/data.json`);
-
-        // Show order
-        console.log(`\n📋 Post order:`);
+        console.log(`\n✅ ${filtered.length} posts | ${downloaded} files`);
         filtered.forEach(p => console.log(`   ${p.index}. ${p.post_id} [${p.type}]`));
 
     } catch (error) {
