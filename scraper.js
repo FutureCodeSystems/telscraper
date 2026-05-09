@@ -138,7 +138,7 @@ async function processMedia(channel, items) {
 }
 
 async function getPosts(channel) {
-    const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(`https://t.me/s/${channel}`)}`;
+    const proxyUrl = `https://api.codetabs.com/v1/proxy/?quest=${encodeURIComponent(`https://t.me/s/${channel}`)}`;
     console.log(`🌐 Fetching posts from @${channel}...`);
     const html = await fetchHTML(proxyUrl);
     
