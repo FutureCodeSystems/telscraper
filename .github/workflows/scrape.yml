@@ -1,9 +1,14 @@
-name: Telegram Scraper
+name: Telegram Media Scraper
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # هر ۶ ساعت
-  workflow_dispatch:  # امکان اجرای دستی
+    - cron: '0 */12 * * *'  # هر ۱۲ ساعت
+  workflow_dispatch:
+    inputs:
+      channel:
+        description: 'Channel username (without @)'
+        required: false
+        default: 'devefun'
 
 jobs:
   scrape:
@@ -15,7 +20,16 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-        
+        with:
+          fetch-depth: 0
+          lfs: true
+          
+      - name: Setup Git LFS
+        run: |
+          git lfs install
+          git lfs track "media/**"
+          git add .gitattributes
+          
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
@@ -23,13 +37,23 @@ jobs:
           
       - name: Run scraper
         env:
-          CHANNEL: ${{ vars.CHANNEL || 'devefun' }}
+          CHANNEL: ${{ inputs.channel || vars.CHANNEL || 'devefun' }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_REF_NAME: ${{ github.ref_name }}
         run: node scraper.js
         
       - name: Commit and push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.json
-          git diff --staged --quiet || git commit -m "📊 Update posts - $(date +'%Y-%m-%d %H:%M')"
-          git push
+          
+          # Stage all changes
+          git add data.json media/
+          
+          # Commit only if there are changes
+          if ! git diff --cached --quiet; then
+            git commit -m "📊 Update posts & media - $(date +'%Y-%m-%d %H:%M UTC')"
+            git push
+          else
+            echo "No changes to commit"
+          fi
