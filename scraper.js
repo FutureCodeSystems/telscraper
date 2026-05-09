@@ -25,7 +25,6 @@ function fetchHTML(url) {
             res.on('end', () => resolve(data));
             res.on('error', reject);
         }).on('error', (e) => {
-            // Fallback to proxy
             const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`;
             https.get(proxyUrl, {}, (res2) => {
                 let data2 = '';
@@ -69,8 +68,8 @@ function downloadFile(url, filepath) {
                 return;
             }
 
-            const contentType = response.headers['content-type'] || '';
-            if (contentType.includes('text/html')) {
+            const ct = response.headers['content-type'] || '';
+            if (ct.includes('text/html')) {
                 file.close();
                 try { fs.unlinkSync(filepath); } catch (e) {}
                 resolve(false);
@@ -101,7 +100,7 @@ function downloadFile(url, filepath) {
 function getFileExtension(url, type) {
     const extMatch = url.match(/\.(\w+)(\?|$)/);
     if (extMatch) return extMatch[1].toLowerCase();
-    return { 'photo': 'jpg', 'video': 'mp4', 'document': 'bin', 'voice': 'ogg', 'audio': 'mp3' }[type] || 'bin';
+    return { 'photo': 'jpg', 'video': 'mp4', 'document': 'bin' }[type] || 'bin';
 }
 
 async function processMedia(channel, items) {
@@ -155,7 +154,6 @@ async function processMedia(channel, items) {
 
 function parsePosts(html) {
     const posts = [];
-
     const regex = /<div class="tgme_widget_message_wrap js-widget_message_wrap">([\s\S]*?)<\/div>\s*<\/div>\s*<\/div>\s*(?=<div class="tgme_widget_message_wrap|<div class="tgme_widget_message_centered|<div class="tgme_footer|$)/g;
     let match;
 
@@ -221,7 +219,7 @@ function parsePosts(html) {
 
             let type = 'photo';
             if (/\.(mp4|webm)(\?|$)/i.test(url)) type = 'video';
-            else if (/\.(pdf|zip|rar|apk|doc)(\?|$)/i.test(url)) type = 'document';
+            else if (/\.(pdf|zip|rar|apk)(\?|$)/i.test(url)) type = 'document';
 
             p.media.items.push({ type, post_id: postId, url, full_url: url.replace(/thumb_\d+_/, ''), thumbnail: url.includes('/thumb_') ? url : null });
         });
@@ -267,56 +265,48 @@ function parsePosts(html) {
         posts.push(p);
     }
 
-    return posts;
+    // REVERSE: t.me/s/ shows NEWEST last, so last post in HTML = newest
+    return posts.reverse();
 }
 
 async function fetchPosts(channel, maxPosts) {
     let allPosts = [];
-    let afterId = null;  // Changed: use AFTER to get newer posts
+    let beforeId = null;
     let page = 1;
 
     console.log(`🎯 Getting ${maxPosts} latest posts from @${channel}`);
 
     while (allPosts.length < maxPosts) {
         let url = `https://t.me/s/${channel}`;
-        if (afterId) url += `?after=${afterId}`;  // AFTER for newer posts
+        if (beforeId) url += `?before=${beforeId}`;
 
         console.log(`📄 Page ${page}: ${url}`);
 
         const html = await fetchHTML(url);
         if (!html || html.length < 500) break;
 
-        const posts = parsePosts(html);
+        const posts = parsePosts(html); // Already reversed: newest first
         if (posts.length === 0) break;
 
-        console.log(`   Got ${posts.length} posts: ${posts[0].post_id} → ${posts[posts.length-1].post_id}`);
+        console.log(`   Got ${posts.length} posts: ${posts[0].post_id} ← ${posts[posts.length-1].post_id}`);
 
-        // Page 1: newest 20 posts (ordered newest first by t.me/s/)
-        // To get even newer posts, we need ?after= with the FIRST post ID
-        
         allPosts = allPosts.concat(posts);
 
         if (allPosts.length >= maxPosts) break;
 
-        // Get FIRST (newest) post ID to load NEWER posts
-        afterId = posts[0].post_id?.split('/').pop();
-        
-        if (!afterId) break;
-        
-        // If we're already at the very latest, stop
-        if (page > 1 && posts.length < 20) break;
-        
+        // For next page, get OLDER posts (before the oldest we have)
+        beforeId = posts[posts.length - 1].post_id?.split('/').pop();
+        if (!beforeId) break;
+
         page++;
         await new Promise(r => setTimeout(r, 2000));
     }
 
-    // t.me/s/ returns newest first, but after concat we need to re-sort
-    // Actually they're already newest first since page 1 = newest
     const result = allPosts.slice(0, maxPosts);
 
     console.log(`\n📊 Final (newest first):`);
-    console.log(`   index 1: ${result[0]?.post_id}`);
-    console.log(`   index ${result.length}: ${result[result.length-1]?.post_id}`);
+    console.log(`   index 1 (newest): ${result[0]?.post_id}`);
+    console.log(`   index ${result.length} (oldest): ${result[result.length-1]?.post_id}`);
 
     return result;
 }
@@ -324,9 +314,9 @@ async function fetchPosts(channel, maxPosts) {
 // Main
 (async () => {
     const channel = process.env.CHANNEL || 'devefun';
-    const maxPosts = parseInt(process.env.MAX_POSTS || '7');
+    const maxPosts = parseInt(process.env.MAX_POSTS || '6');
 
-    console.log(`\n🚀 Telegram Scraper v6`);
+    console.log(`\n🚀 Telegram Scraper v7`);
     console.log(`📺 @${channel} | 📊 ${maxPosts} latest posts\n`);
 
     try {
