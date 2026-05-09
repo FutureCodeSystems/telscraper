@@ -2,7 +2,7 @@ name: Telegram Media Scraper
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # هر ۱۲ ساعت
+    - cron: '0 */12 * * *'
   workflow_dispatch:
     inputs:
       channel:
@@ -21,14 +21,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
-          lfs: true
-          
-      - name: Setup Git LFS
-        run: |
-          git lfs install
-          git lfs track "media/**"
-          git add .gitattributes
+          token: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -42,18 +35,11 @@ jobs:
           GITHUB_REF_NAME: ${{ github.ref_name }}
         run: node scraper.js
         
-      - name: Commit and push
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Stage all changes
-          git add data.json media/
-          
-          # Commit only if there are changes
-          if ! git diff --cached --quiet; then
-            git commit -m "📊 Update posts & media - $(date +'%Y-%m-%d %H:%M UTC')"
-            git push
-          else
-            echo "No changes to commit"
-          fi
+      - name: Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "📊 Update posts & media"
+          file_pattern: 'data.json media/'
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
