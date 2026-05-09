@@ -44,7 +44,7 @@ jobs:
       - name: Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "📊 Scraped ${{ env.MAX_POSTS || '20' }} posts from @${{ env.CHANNEL || 'devefun' }}"
-          file_pattern: 'data.json media/'
+          commit_message: "📊 @${{ env.CHANNEL || 'devefun' }} - ${{ env.MAX_POSTS || '20' }} posts"
+          file_pattern: 'channels/'
           commit_user_name: "github-actions[bot]"
           commit_user_email: "github-actions[bot]@users.noreply.github.com"
