@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 const MAX_FILE_SIZE = 90 * 1024 * 1024; // 90MB
-const POSTS_PER_PAGE = 20;
+const BASE_DIR = 'channels';
 
 async function fetchHTML(url) {
     return new Promise((resolve, reject) => {
@@ -32,6 +32,9 @@ function getFileSize(url) {
 
 function downloadFile(url, filepath) {
     return new Promise((resolve, reject) => {
+        const dir = path.dirname(filepath);
+        if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
+        
         const protocol = url.startsWith('https') ? https : http;
         const file = fs.createWriteStream(filepath);
         protocol.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (response) => {
@@ -59,16 +62,16 @@ function getFileExtension(url, type) {
 }
 
 async function processMedia(channel, items) {
-    const baseDir = path.join('media', channel);
+    const mediaDir = path.join(BASE_DIR, channel, 'media');
     const results = [];
 
     for (let i = 0; i < items.length; i++) {
         const item = items[i];
         const type = item.type || 'unknown';
-        const dir = path.join(baseDir, type);
+        const typeDir = path.join(mediaDir, type);
 
-        if (!fs.existsSync(dir)) {
-            fs.mkdirSync(dir, { recursive: true });
+        if (!fs.existsSync(typeDir)) {
+            fs.mkdirSync(typeDir, { recursive: true });
         }
 
         const url = item.url || item.full_url || item.thumbnail;
@@ -90,8 +93,9 @@ async function processMedia(channel, items) {
         }
 
         const ext = getFileExtension(url, type);
-        const filename = `${item.post_id ? item.post_id.replace(/[\/\\]/g, '_') + '_' : ''}${Date.now()}_${i}.${ext}`;
-        const filepath = path.join(dir, filename);
+        const postId = (item.post_id || 'unknown').replace(/[\/\\]/g, '_');
+        const filename = `${postId}_${Date.now()}_${i}.${ext}`;
+        const filepath = path.join(typeDir, filename);
 
         try {
             console.log(`  💾 Downloading (${(size/1024/1024).toFixed(1)}MB)...`);
@@ -99,9 +103,10 @@ async function processMedia(channel, items) {
 
             const repoUrl = process.env.GITHUB_REPOSITORY || 'user/repo';
             const branch = process.env.GITHUB_REF_NAME || 'main';
-            const rawUrl = `https://raw.githubusercontent.com/${repoUrl}/${branch}/${filepath.replace(/\\/g, '/')}`;
+            const relativePath = filepath.replace(/\\/g, '/');
+            const rawUrl = `https://raw.githubusercontent.com/${repoUrl}/${branch}/${relativePath}`;
 
-            results.push({ ...item, local_path: filepath, raw_url: rawUrl, size_bytes: size });
+            results.push({ ...item, local_path: relativePath, raw_url: rawUrl, size_bytes: size });
             console.log(`  ✅ Saved`);
         } catch (err) {
             console.log(`  ❌ Failed: ${err.message}`);
@@ -117,7 +122,7 @@ function parsePosts(html, channel) {
     const blocks = html.split(/<div class="tgme_widget_message_wrap[^"]*">/);
     blocks.shift();
 
-    blocks.forEach((block, i) => {
+    blocks.forEach((block) => {
         const p = {
             index: null,
             post_url: null,
@@ -300,17 +305,11 @@ async function fetchAllPosts(channel, maxPosts) {
 
         console.log(`   Got ${posts.length} posts from this page`);
 
-        // Assign correct indexes
-        posts.forEach(p => {
-            p.index = allPosts.length + 1;
-        });
-
         allPosts = allPosts.concat(posts);
         console.log(`   Total so far: ${allPosts.length}/${maxPosts}`);
 
         if (allPosts.length >= maxPosts) break;
 
-        // Get last post ID for next page
         const lastPost = posts[posts.length - 1];
         if (lastPost && lastPost.post_id) {
             const postNum = lastPost.post_id.split('/').pop();
@@ -320,33 +319,10 @@ async function fetchAllPosts(channel, maxPosts) {
         }
 
         page++;
-        
-        // Rate limiting
         await new Promise(r => setTimeout(r, 1000));
     }
 
     return allPosts.slice(0, maxPosts);
-}
-
-async function processAllMedia(channel, posts) {
-    let totalItems = 0;
-    posts.forEach(p => totalItems += p.media.items.length);
-
-    if (totalItems === 0) {
-        console.log('📭 No media items to download');
-        return;
-    }
-
-    console.log(`\n📦 Processing ${totalItems} media items...`);
-
-    let processed = 0;
-    for (const post of posts) {
-        if (post.media.items.length > 0) {
-            console.log(`\n📝 Post #${post.index} (${post.media.items.length} items - ${processed}/${totalItems} done)`);
-            post.media.items = await processMedia(channel, post.media.items);
-            processed += post.media.items.length;
-        }
-    }
 }
 
 // Main
@@ -357,9 +333,14 @@ async function processAllMedia(channel, posts) {
     console.log(`\n🚀 Telegram Scraper`);
     console.log(`📺 Channel: @${channel}`);
     console.log(`📊 Max posts: ${maxPosts}`);
-    console.log(`📁 Max file size: ${MAX_FILE_SIZE / 1024 / 1024}MB\n`);
+    console.log(`📁 Max file size: ${MAX_FILE_SIZE / 1024 / 1024}MB`);
+    console.log(`📂 Base directory: ${BASE_DIR}/${channel}/\n`);
 
     try {
+        // Create channel directory
+        const channelDir = path.join(BASE_DIR, channel);
+        if (!fs.existsSync(channelDir)) fs.mkdirSync(channelDir, { recursive: true });
+
         // Fetch posts
         const posts = await fetchAllPosts(channel, maxPosts);
 
@@ -368,18 +349,35 @@ async function processAllMedia(channel, posts) {
             process.exit(1);
         }
 
-        // Process media
-        await processAllMedia(channel, posts);
+        // Assign correct indexes
+        posts.forEach((p, i) => p.index = i + 1);
 
-        // Renumber indexes after filtering
+        // Process media
+        let totalMedia = 0;
+        posts.forEach(p => totalMedia += p.media.items.length);
+
+        if (totalMedia > 0) {
+            console.log(`\n📦 Processing ${totalMedia} media items...`);
+            let processed = 0;
+            for (const post of posts) {
+                if (post.media.items.length > 0) {
+                    console.log(`\n📝 Post #${post.index} (${post.media.items.length} items - ${processed}/${totalMedia} done)`);
+                    post.media.items = await processMedia(channel, post.media.items);
+                    processed += post.media.items.length;
+                }
+            }
+        }
+
+        // Filter empty posts
         const filtered = posts.filter(p => p.type !== 'empty' || p.text);
         filtered.forEach((p, i) => p.index = i + 1);
 
-        // Save
-        fs.writeFileSync('data.json', JSON.stringify(filtered, null, 2));
-        
+        // Save data.json inside channel folder
+        const dataPath = path.join(channelDir, 'data.json');
+        fs.writeFileSync(dataPath, JSON.stringify(filtered, null, 2));
+
         // Create .gitkeep files
-        const mediaDir = path.join('media', channel);
+        const mediaDir = path.join(channelDir, 'media');
         if (fs.existsSync(mediaDir)) {
             const dirs = fs.readdirSync(mediaDir, { withFileTypes: true });
             dirs.filter(d => d.isDirectory()).forEach(d => {
@@ -388,7 +386,32 @@ async function processAllMedia(channel, posts) {
             });
         }
 
-        console.log(`\n✅ Done! ${filtered.length} posts saved to data.json`);
+        // Create channels/.gitkeep
+        if (!fs.existsSync(path.join(BASE_DIR, '.gitkeep'))) {
+            fs.writeFileSync(path.join(BASE_DIR, '.gitkeep'), '');
+        }
+
+        // Stats
+        const stats = {
+            channel: `@${channel}`,
+            scraped_at: new Date().toISOString(),
+            total_posts: filtered.length,
+            media_stats: {}
+        };
+
+        filtered.forEach(p => {
+            if (p.media.has_media) {
+                stats.media_stats[p.media.type] = (stats.media_stats[p.media.type] || 0) + 1;
+            }
+        });
+
+        console.log(`\n📊 Stats:`);
+        console.log(`   Posts: ${stats.total_posts}`);
+        Object.entries(stats.media_stats).forEach(([type, count]) => {
+            console.log(`   ${type}: ${count}`);
+        });
+
+        console.log(`\n✅ Done! Data saved to ${dataPath}`);
 
     } catch (error) {
         console.error('❌ Fatal error:', error.message);
