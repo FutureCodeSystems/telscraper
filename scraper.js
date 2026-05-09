@@ -2,10 +2,9 @@ const https = require('https');
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
-const { execSync } = require('child_process');
 
 const MAX_FILE_SIZE = 90 * 1024 * 1024; // 90MB
-const CHUNK_SIZE = 64 * 1024; // 64KB chunks
+const POSTS_PER_PAGE = 20;
 
 async function fetchHTML(url) {
     return new Promise((resolve, reject) => {
@@ -14,7 +13,7 @@ async function fetchHTML(url) {
             res.on('data', chunk => data += chunk);
             res.on('end', () => resolve(data));
             res.on('error', reject);
-        });
+        }).on('error', reject);
     });
 }
 
@@ -26,6 +25,7 @@ function getFileSize(url) {
             resolve(size);
         });
         req.on('error', () => resolve(0));
+        req.setTimeout(5000, () => { req.destroy(); resolve(0); });
         req.end();
     });
 }
@@ -35,22 +35,17 @@ function downloadFile(url, filepath) {
         const protocol = url.startsWith('https') ? https : http;
         const file = fs.createWriteStream(filepath);
         protocol.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (response) => {
-            // Handle redirects
             if (response.statusCode >= 300 && response.statusCode < 400 && response.headers.location) {
                 file.close();
-                fs.unlinkSync(filepath);
+                try { fs.unlinkSync(filepath); } catch (e) {}
                 downloadFile(response.headers.location, filepath).then(resolve).catch(reject);
                 return;
             }
-            
             response.pipe(file);
-            file.on('finish', () => {
-                file.close();
-                resolve(true);
-            });
+            file.on('finish', () => { file.close(); resolve(true); });
         }).on('error', (err) => {
             file.close();
-            fs.unlinkSync(filepath);
+            try { fs.unlinkSync(filepath); } catch (e) {}
             reject(err);
         });
     });
@@ -59,97 +54,70 @@ function downloadFile(url, filepath) {
 function getFileExtension(url, type) {
     const extMatch = url.match(/\.(\w+)(\?|$)/);
     if (extMatch) return extMatch[1].toLowerCase();
-    
-    // Default extensions based on type
-    const defaults = {
-        'photo': 'jpg',
-        'video': 'mp4',
-        'document': 'bin',
-        'voice': 'ogg',
-        'audio': 'mp3'
-    };
+    const defaults = { 'photo': 'jpg', 'video': 'mp4', 'document': 'bin', 'voice': 'ogg', 'audio': 'mp3' };
     return defaults[type] || 'bin';
 }
 
 async function processMedia(channel, items) {
     const baseDir = path.join('media', channel);
     const results = [];
-    
+
     for (let i = 0; i < items.length; i++) {
         const item = items[i];
         const type = item.type || 'unknown';
         const dir = path.join(baseDir, type);
-        
+
         if (!fs.existsSync(dir)) {
             fs.mkdirSync(dir, { recursive: true });
         }
-        
+
         const url = item.url || item.full_url || item.thumbnail;
         if (!url || !url.startsWith('http')) {
             results.push({ ...item, local_path: null, error: 'No valid URL' });
             continue;
         }
-        
-        console.log(`  📥 [${i+1}/${items.length}] Checking: ${url.substring(0, 80)}...`);
-        
-        // Check file size
+
         const size = await getFileSize(url);
-        
         if (size === 0) {
             results.push({ ...item, local_path: null, remote_url: url, error: 'Could not determine size' });
             continue;
         }
-        
+
         if (size > MAX_FILE_SIZE) {
-            console.log(`  ⚠️ File too large (${(size/1024/1024).toFixed(1)}MB), skipping download`);
+            console.log(`  ⚠️ Large file (${(size/1024/1024).toFixed(1)}MB), linking only`);
             results.push({ ...item, local_path: null, remote_url: url, size_bytes: size });
             continue;
         }
-        
-        // Generate filename
+
         const ext = getFileExtension(url, type);
-        const timestamp = Date.now();
-        const filename = `${item.post_id ? item.post_id.replace(/[\/\\]/g, '_') + '_' : ''}${timestamp}_${i}.${ext}`;
+        const filename = `${item.post_id ? item.post_id.replace(/[\/\\]/g, '_') + '_' : ''}${Date.now()}_${i}.${ext}`;
         const filepath = path.join(dir, filename);
-        
+
         try {
             console.log(`  💾 Downloading (${(size/1024/1024).toFixed(1)}MB)...`);
             await downloadFile(url, filepath);
-            
-            // Generate raw GitHub URL
+
             const repoUrl = process.env.GITHUB_REPOSITORY || 'user/repo';
             const branch = process.env.GITHUB_REF_NAME || 'main';
             const rawUrl = `https://raw.githubusercontent.com/${repoUrl}/${branch}/${filepath.replace(/\\/g, '/')}`;
-            
-            results.push({
-                ...item,
-                local_path: filepath,
-                raw_url: rawUrl,
-                size_bytes: size
-            });
-            console.log(`  ✅ Saved: ${filename}`);
+
+            results.push({ ...item, local_path: filepath, raw_url: rawUrl, size_bytes: size });
+            console.log(`  ✅ Saved`);
         } catch (err) {
             console.log(`  ❌ Failed: ${err.message}`);
             results.push({ ...item, local_path: null, remote_url: url, error: err.message });
         }
     }
-    
+
     return results;
 }
 
-async function getPosts(channel) {
-    const proxyUrl = `https://api.codetabs.com/v1/proxy/?quest=${encodeURIComponent(`https://t.me/s/${channel}`)}`;
-    console.log(`🌐 Fetching posts from @${channel}...`);
-    const html = await fetchHTML(proxyUrl);
-    
+function parsePosts(html, channel) {
     const posts = [];
     const blocks = html.split(/<div class="tgme_widget_message_wrap[^"]*">/);
     blocks.shift();
-    
-    console.log(`📝 Found ${blocks.length} raw blocks`);
-    
-    for (let i = 0; i < blocks.length; i++) {
-        const block = blocks[i];
+
+    blocks.forEach((block, i) => {
         const p = {
             index: null,
             post_url: null,
@@ -178,34 +146,32 @@ async function getPosts(channel) {
             reactions: [],
             type: null
         };
-        
-        p.index = i + 1;
-        
+
         const c = block.match(/data-post="([^"]+)"/);
         if (c) { p.post_id = c[1]; p.post_url = `https://t.me/${c[1]}`; }
-        
+
         const t = block.match(/<time[^>]*datetime="([^"]+)"[^>]*>/);
         if (t) { p.date = t[1]; p.date_unix = new Date(t[1]).getTime() / 1000; }
-        
+
         const ts = [...block.matchAll(/<time[^>]*datetime="([^"]+)"[^>]*>/g)];
         if (ts.length > 1) { p.edit_date = ts[1][1]; p.edit_date_unix = new Date(ts[1][1]).getTime() / 1000; p.is_edited = true; }
-        
+
         const a = block.match(/<a class="tgme_widget_message_author_name"[^>]*href="([^"]+)"[^>]*>[\s\S]*?<span[^>]*>(.*?)<\/span>/);
         if (a) { p.author = a[2].replace(/<[^>]+>/g, '').trim(); p.author_url = a[1]; }
-        
+
         const txt = block.match(/<div class="tgme_widget_message_text[^"]*"[^>]*>([\s\S]*?)<\/div>/);
         if (txt) {
             p.text_html = txt[1].trim();
             p.text = txt[1].replace(/<br\s*\/?>/gi, '\n').replace(/<[^>]+>/g, '').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').trim();
         }
-        
+
         const v = block.match(/<span class="tgme_widget_message_views"[^>]*>([\d.]+[KM]?)/);
         if (v) {
             p.views_raw = v[1];
             const n = parseFloat(v[1]);
             p.views = v[1].includes('K') ? Math.round(n * 1000) : v[1].includes('M') ? Math.round(n * 1000000) : Math.round(n);
         }
-        
+
         const fwd = block.match(/<a class="tgme_widget_message_forwarded_from[^"]*" href="([^"]+)">\s*Forwarded from\s*([^<]+)<\/a>/);
         if (fwd) {
             p.forward.forwarded = true;
@@ -214,7 +180,7 @@ async function getPosts(channel) {
             const fd = block.match(/Forwarded from[\s\S]*?<time[^>]*datetime="([^"]+)"[^>]*>/);
             if (fd) { p.forward.date = fd[1]; p.forward.date_unix = new Date(fd[1]).getTime() / 1000; }
         }
-        
+
         const rep = block.match(/<a class="tgme_widget_message_reply"[^>]*href="([^"]+)"[^>]*>/);
         if (rep) {
             p.reply.is_reply = true;
@@ -222,10 +188,9 @@ async function getPosts(channel) {
             const rt = block.match(/<div class="tgme_widget_message_reply_text"[^>]*>([\s\S]*?)<\/div>/);
             if (rt) p.reply.to_text = rt[1].replace(/<[^>]+>/g, '').trim();
         }
-        
+
         p.pinned = block.includes('tgme_widget_message_pinned');
-        
-        // Extract all media items
+
         const photos = [...block.matchAll(/<a class="tgme_widget_message_photo_wrap[^"]*"(?: href="([^"]+)")?[^>]*style="[^"]*background-image:\s*url\('([^']+)'\)/g)];
         photos.forEach(ph => {
             p.media.items.push({
@@ -236,12 +201,10 @@ async function getPosts(channel) {
                 full_url: (ph[1] || ph[2] || '').replace(/thumb_\d+_/, '')
             });
         });
-        
+
         const videos = [...block.matchAll(/<video[^>]*src="([^"]+)"[^>]*>/g)];
-        videos.forEach(vi => {
-            p.media.items.push({ type: 'video', post_id: p.post_id, url: vi[1] });
-        });
-        
+        videos.forEach(vi => p.media.items.push({ type: 'video', post_id: p.post_id, url: vi[1] }));
+
         const docs = [...block.matchAll(/<a class="tgme_widget_message_document_wrap[^"]*" href="([^"]+)"[^>]*>/g)];
         docs.forEach(d => {
             const item = { type: 'document', post_id: p.post_id, url: d[1] };
@@ -251,27 +214,21 @@ async function getPosts(channel) {
             if (sz) item.size = sz[1];
             p.media.items.push(item);
         });
-        
+
         const cdns = [...block.matchAll(/https:\/\/cdn\d+\.telesco\.pe\/[^\s"'<>]+/g)];
         cdns.forEach(c => {
             if (!p.media.items.some(x => JSON.stringify(x).includes(c[0]))) {
                 p.media.items.push({ type: 'unknown', post_id: p.post_id, url: c[0] });
             }
         });
-        
+
         if (p.media.items.length) {
             p.media.has_media = true;
             const types = [...new Set(p.media.items.map(x => x.type))];
             p.media.type = types.length > 1 ? 'mixed' : types[0];
             if (photos.length > 1 && p.media.type === 'photo') p.media.type = 'album';
         }
-        
-        // Process media downloads
-        if (p.media.items.length > 0) {
-            console.log(`\n📦 Processing media for post #${p.index} (${p.media.items.length} items)`);
-            p.media.items = await processMedia(channel, p.media.items);
-        }
-        
+
         if (block.includes('<div class="tgme_widget_message_poll')) {
             p.poll.has_poll = true;
             const q = block.match(/<div class="tgme_widget_message_poll_question"[^>]*>(.*?)<\/div>/);
@@ -284,21 +241,19 @@ async function getPosts(channel) {
             p.poll.is_anonymous = !block.includes('tgme_widget_message_poll_type_visible');
             p.poll.is_closed = block.includes('tgme_widget_message_poll_closed');
         }
-        
+
         const btns = [...block.matchAll(/<a class="tgme_widget_message_inline_button[^"]*" href="([^"]+)"[^>]*>(.*?)<\/a>/g)];
         p.buttons = btns.map(b => ({ text: b[2].replace(/<[^>]+>/g, '').trim(), url: b[1] }));
-        
+
         p.hashtags = [...new Set([...block.matchAll(/#(\w+)/g)].map(m => m[1]))];
         p.mentions = [...new Set([...block.matchAll(/@(\w+)/g)].map(m => m[1]))];
         const lks = [...block.matchAll(/<a[^>]*href="(https?:\/\/[^"]+)"[^>]*>/g)];
         p.links = [...new Set(lks.map(l => l[1]).filter(u => !u.includes('t.me/') && !u.includes('telesco.pe')))];
-        
-        const emojiMatches = [...block.matchAll(/[\p{Emoji_Presentation}\u200D\uFE0F]/gu)];
-        p.emoji = [...new Set(emojiMatches.map(m => m[0]))];
-        
+        p.emoji = [...new Set([...block.matchAll(/[\p{Emoji_Presentation}\u200D\uFE0F]/gu)].map(m => m[0]))];
+
         const reacts = [...block.matchAll(/<span class="tgme_widget_message_reaction_emoji"[^>]*>(.*?)<\/span>\s*<span class="tgme_widget_message_reaction_count"[^>]*>([^<]+)<\/span>/g)];
         p.reactions = reacts.map(r => ({ emoji: r[1].trim(), count: parseInt(r[2]) || 0 }));
-        
+
         if (p.poll.has_poll) p.type = 'poll';
         else if (p.media.type === 'album') p.type = 'album';
         else if (p.media.type === 'photo') p.type = 'photo';
@@ -306,36 +261,137 @@ async function getPosts(channel) {
         else if (p.media.type === 'document') p.type = 'document';
         else if (p.text) p.type = 'text';
         else p.type = 'empty';
-        
+
         posts.push(p);
-    }
-    
-    return posts.filter(p => p.type !== 'empty' || p.text);
+    });
+
+    return posts;
 }
 
-// Main execution
+async function fetchAllPosts(channel, maxPosts) {
+    let allPosts = [];
+    let beforeId = null;
+    let page = 1;
+
+    console.log(`🎯 Target: ${maxPosts} posts from @${channel}`);
+
+    while (allPosts.length < maxPosts) {
+        let url = `https://api.allorigins.win/raw?url=${encodeURIComponent(`https://t.me/s/${channel}`)}`;
+        if (beforeId) {
+            url = `https://api.allorigins.win/raw?url=${encodeURIComponent(`https://t.me/s/${channel}?before=${beforeId}`)}`;
+        }
+
+        console.log(`📄 Fetching page ${page}${beforeId ? ` (before ${beforeId})` : ''}...`);
+
+        let html;
+        try {
+            html = await fetchHTML(url);
+        } catch (e) {
+            console.log(`❌ Failed to fetch page ${page}: ${e.message}`);
+            break;
+        }
+
+        const posts = parsePosts(html, channel);
+
+        if (posts.length === 0) {
+            console.log('🏁 No more posts found');
+            break;
+        }
+
+        console.log(`   Got ${posts.length} posts from this page`);
+
+        // Assign correct indexes
+        posts.forEach(p => {
+            p.index = allPosts.length + 1;
+        });
+
+        allPosts = allPosts.concat(posts);
+        console.log(`   Total so far: ${allPosts.length}/${maxPosts}`);
+
+        if (allPosts.length >= maxPosts) break;
+
+        // Get last post ID for next page
+        const lastPost = posts[posts.length - 1];
+        if (lastPost && lastPost.post_id) {
+            const postNum = lastPost.post_id.split('/').pop();
+            beforeId = postNum;
+        } else {
+            break;
+        }
+
+        page++;
+        
+        // Rate limiting
+        await new Promise(r => setTimeout(r, 1000));
+    }
+
+    return allPosts.slice(0, maxPosts);
+}
+
+async function processAllMedia(channel, posts) {
+    let totalItems = 0;
+    posts.forEach(p => totalItems += p.media.items.length);
+
+    if (totalItems === 0) {
+        console.log('📭 No media items to download');
+        return;
+    }
+
+    console.log(`\n📦 Processing ${totalItems} media items...`);
+
+    let processed = 0;
+    for (const post of posts) {
+        if (post.media.items.length > 0) {
+            console.log(`\n📝 Post #${post.index} (${post.media.items.length} items - ${processed}/${totalItems} done)`);
+            post.media.items = await processMedia(channel, post.media.items);
+            processed += post.media.items.length;
+        }
+    }
+}
+
+// Main
 (async () => {
     const channel = process.env.CHANNEL || 'devefun';
-    console.log(`🚀 Starting scrape for @${channel}`);
-    
+    const maxPosts = parseInt(process.env.MAX_POSTS || '20');
+
+    console.log(`\n🚀 Telegram Scraper`);
+    console.log(`📺 Channel: @${channel}`);
+    console.log(`📊 Max posts: ${maxPosts}`);
+    console.log(`📁 Max file size: ${MAX_FILE_SIZE / 1024 / 1024}MB\n`);
+
     try {
-        const posts = await getPosts(channel);
+        // Fetch posts
+        const posts = await fetchAllPosts(channel, maxPosts);
+
+        if (posts.length === 0) {
+            console.log('❌ No posts found!');
+            process.exit(1);
+        }
+
+        // Process media
+        await processAllMedia(channel, posts);
+
+        // Renumber indexes after filtering
+        const filtered = posts.filter(p => p.type !== 'empty' || p.text);
+        filtered.forEach((p, i) => p.index = i + 1);
+
+        // Save
+        fs.writeFileSync('data.json', JSON.stringify(filtered, null, 2));
         
-        // Save data.json
-        fs.writeFileSync('data.json', JSON.stringify(posts, null, 2));
-        console.log(`\n✅ Done! ${posts.length} posts saved to data.json`);
-        
-        // Create .gitkeep in media folders to ensure they're tracked
+        // Create .gitkeep files
         const mediaDir = path.join('media', channel);
         if (fs.existsSync(mediaDir)) {
-            const types = fs.readdirSync(mediaDir);
-            types.forEach(type => {
-                const typeDir = path.join(mediaDir, type);
-                fs.writeFileSync(path.join(typeDir, '.gitkeep'), '');
+            const dirs = fs.readdirSync(mediaDir, { withFileTypes: true });
+            dirs.filter(d => d.isDirectory()).forEach(d => {
+                const gitkeep = path.join(mediaDir, d.name, '.gitkeep');
+                if (!fs.existsSync(gitkeep)) fs.writeFileSync(gitkeep, '');
             });
         }
+
+        console.log(`\n✅ Done! ${filtered.length} posts saved to data.json`);
+
     } catch (error) {
-        console.error('❌ Error:', error.message);
+        console.error('❌ Fatal error:', error.message);
         process.exit(1);
     }
 })();
