@@ -297,9 +297,9 @@ async function fetchLatestPosts(channel, count) {
     console.log(`📄 Need ~${pagesNeeded} page(s) for ${count} posts`);
 
     while (allPosts.length < count + 20) { // Fetch extra to be safe
-        let url = `https://api.allorigins.win/raw?url=${encodeURIComponent(`https://t.me/s/${channel}`)}`;
+        let url = `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(`https://t.me/s/${channel}`)}`;
         if (beforeId) {
-            url = `https://api.allorigins.win/raw?url=${encodeURIComponent(`https://t.me/s/${channel}?before=${beforeId}`)}`;
+            url = `https://api.codetabs.com/v1/proxy?quest=${encodeURIComponent(`https://t.me/s/${channel}?before=${beforeId}`)}`;
         }
 
         console.log(`📥 Page ${page}${beforeId ? ` (before=${beforeId})` : ' (first/newest)'}`);
