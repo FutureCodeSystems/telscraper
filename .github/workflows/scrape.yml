@@ -6,13 +6,18 @@ on:
   workflow_dispatch:
     inputs:
       channel:
-        description: 'Channel username (without @)'
+        description: 'نام کانال (بدون @)'
         required: false
         default: 'devefun'
+      max_posts:
+        description: 'تعداد پست‌ها'
+        required: false
+        default: '40'
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     
     permissions:
       contents: write
@@ -31,6 +36,7 @@ jobs:
       - name: Run scraper
         env:
           CHANNEL: ${{ inputs.channel || vars.CHANNEL || 'devefun' }}
+          MAX_POSTS: ${{ inputs.max_posts || vars.MAX_POSTS || '20' }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_REF_NAME: ${{ github.ref_name }}
         run: node scraper.js
@@ -38,8 +44,7 @@ jobs:
       - name: Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "📊 Update posts & media"
+          commit_message: "📊 Scraped ${{ env.MAX_POSTS || '20' }} posts from @${{ env.CHANNEL || 'devefun' }}"
           file_pattern: 'data.json media/'
           commit_user_name: "github-actions[bot]"
           commit_user_email: "github-actions[bot]@users.noreply.github.com"
-          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
