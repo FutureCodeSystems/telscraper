@@ -6,7 +6,7 @@ const path = require('path');
 const MAX_FILE_SIZE = 90 * 1024 * 1024; // 90MB
 const BASE_DIR = 'channels';
 
-async function fetchHTML(url) {
+function fetchHTML(url) {
     return new Promise((resolve, reject) => {
         https.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
             let data = '';
@@ -20,7 +20,12 @@ async function fetchHTML(url) {
 function getFileSize(url) {
     return new Promise((resolve) => {
         const protocol = url.startsWith('https') ? https : http;
-        const req = protocol.request(url, { method: 'HEAD' }, (res) => {
+        const req = protocol.request(url, { method: 'HEAD', headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
+            // Handle redirects
+            if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
+                getFileSize(res.headers.location).then(resolve);
+                return;
+            }
             const size = parseInt(res.headers['content-length'] || 0);
             resolve(size);
         });
@@ -34,18 +39,46 @@ function downloadFile(url, filepath) {
     return new Promise((resolve, reject) => {
         const dir = path.dirname(filepath);
         if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
-        
+
         const protocol = url.startsWith('https') ? https : http;
         const file = fs.createWriteStream(filepath);
+
         protocol.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (response) => {
+            // Handle redirects
             if (response.statusCode >= 300 && response.statusCode < 400 && response.headers.location) {
                 file.close();
                 try { fs.unlinkSync(filepath); } catch (e) {}
                 downloadFile(response.headers.location, filepath).then(resolve).catch(reject);
                 return;
             }
+
+            const contentType = response.headers['content-type'] || '';
+            
+            // Check if it's HTML instead of actual media
+            if (contentType.includes('text/html') || contentType.includes('application/xml')) {
+                file.close();
+                try { fs.unlinkSync(filepath); } catch (e) {}
+                console.log(`  ⚠️ Got HTML instead of media, keeping remote URL only`);
+                resolve(false);
+                return;
+            }
+
             response.pipe(file);
-            file.on('finish', () => { file.close(); resolve(true); });
+            file.on('finish', () => {
+                file.close();
+                // Verify file is not HTML
+                const stat = fs.statSync(filepath);
+                if (stat.size < 500) {
+                    const content = fs.readFileSync(filepath, 'utf8');
+                    if (content.includes('<!DOCTYPE') || content.includes('<html')) {
+                        fs.unlinkSync(filepath);
+                        console.log(`  ⚠️ File is HTML, removed`);
+                        resolve(false);
+                        return;
+                    }
+                }
+                resolve(true);
+            });
         }).on('error', (err) => {
             file.close();
             try { fs.unlinkSync(filepath); } catch (e) {}
@@ -61,6 +94,15 @@ function getFileExtension(url, type) {
     return defaults[type] || 'bin';
 }
 
+function getDirectImageUrl(url) {
+    // Extract direct image URL from CDN
+    if (url.includes('telesco.pe/file/')) return url;
+    if (url.includes('telesco.pe/file/thumb_')) {
+        return url.replace(/thumb_\d+_/, '');
+    }
+    return url;
+}
+
 async function processMedia(channel, items) {
     const mediaDir = path.join(BASE_DIR, channel, 'media');
     const results = [];
@@ -74,19 +116,33 @@ async function processMedia(channel, items) {
             fs.mkdirSync(typeDir, { recursive: true });
         }
 
-        const url = item.url || item.full_url || item.thumbnail;
+        let url = item.url || item.full_url || item.thumbnail || item.page_url;
+        
+        // Skip invalid URLs
         if (!url || !url.startsWith('http')) {
             results.push({ ...item, local_path: null, error: 'No valid URL' });
             continue;
         }
 
-        const size = await getFileSize(url);
-        if (size === 0) {
-            results.push({ ...item, local_path: null, remote_url: url, error: 'Could not determine size' });
-            continue;
+        // Get direct image URL for photos
+        if (item.type === 'photo' && url.includes('t.me/')) {
+            url = item.full_url || item.thumbnail || url;
         }
 
-        if (size > MAX_FILE_SIZE) {
+        url = getDirectImageUrl(url);
+
+        console.log(`  📥 [${i+1}/${items.length}] ${url.substring(0, 80)}...`);
+
+        // Check file size
+        const size = await getFileSize(url);
+        
+        if (size === 0) {
+            console.log(`  ⚠️ Could not determine size, trying download anyway...`);
+            // Try to download anyway but with size check after
+        }
+
+        const MAX_SIZE = 90 * 1024 * 1024; // 90MB
+        if (size > MAX_SIZE) {
             console.log(`  ⚠️ Large file (${(size/1024/1024).toFixed(1)}MB), linking only`);
             results.push({ ...item, local_path: null, remote_url: url, size_bytes: size });
             continue;
@@ -98,16 +154,22 @@ async function processMedia(channel, items) {
         const filepath = path.join(typeDir, filename);
 
         try {
-            console.log(`  💾 Downloading (${(size/1024/1024).toFixed(1)}MB)...`);
-            await downloadFile(url, filepath);
+            console.log(`  💾 Downloading ${size > 0 ? `(${(size/1024/1024).toFixed(1)}MB)` : ''}...`);
+            const success = await downloadFile(url, filepath);
 
-            const repoUrl = process.env.GITHUB_REPOSITORY || 'user/repo';
-            const branch = process.env.GITHUB_REF_NAME || 'main';
-            const relativePath = filepath.replace(/\\/g, '/');
-            const rawUrl = `https://raw.githubusercontent.com/${repoUrl}/${branch}/${relativePath}`;
+            if (success) {
+                const repoUrl = process.env.GITHUB_REPOSITORY || 'user/repo';
+                const branch = process.env.GITHUB_REF_NAME || 'main';
+                const relativePath = filepath.replace(/\\/g, '/');
+                const rawUrl = `https://raw.githubusercontent.com/${repoUrl}/${branch}/${relativePath}`;
 
-            results.push({ ...item, local_path: relativePath, raw_url: rawUrl, size_bytes: size });
-            console.log(`  ✅ Saved`);
+                const finalSize = fs.statSync(filepath).size;
+                results.push({ ...item, local_path: relativePath, raw_url: rawUrl, size_bytes: finalSize });
+                console.log(`  ✅ Saved (${(finalSize/1024).toFixed(1)}KB)`);
+            } else {
+                results.push({ ...item, local_path: null, remote_url: url, error: 'Download returned HTML' });
+                console.log(`  ⚠️ Skipped (got HTML instead of media)`);
+            }
         } catch (err) {
             console.log(`  ❌ Failed: ${err.message}`);
             results.push({ ...item, local_path: null, remote_url: url, error: err.message });
@@ -196,20 +258,38 @@ function parsePosts(html, channel) {
 
         p.pinned = block.includes('tgme_widget_message_pinned');
 
-        const photos = [...block.matchAll(/<a class="tgme_widget_message_photo_wrap[^"]*"(?: href="([^"]+)")?[^>]*style="[^"]*background-image:\s*url\('([^']+)'\)/g)];
-        photos.forEach(ph => {
-            p.media.items.push({
-                type: 'photo',
-                post_id: p.post_id,
-                page_url: ph[1] || null,
-                thumbnail: ph[2] || null,
-                full_url: (ph[1] || ph[2] || '').replace(/thumb_\d+_/, '')
+        // Extract photos with direct CDN URLs
+        const photoPatterns = [
+            /<a class="tgme_widget_message_photo_wrap[^"]*"(?: href="([^"]+)")?[^>]*style="[^"]*background-image:\s*url\('([^']+)'\)/g,
+            /background-image:\s*url\('([^']+)'\)/g
+        ];
+
+        photoPatterns.forEach(pattern => {
+            const matches = [...block.matchAll(pattern)];
+            matches.forEach(m => {
+                const url = m[2] || m[1];
+                if (url && url.includes('telesco.pe')) {
+                    if (!p.media.items.some(x => x.full_url === url || x.thumbnail === url)) {
+                        p.media.items.push({
+                            type: 'photo',
+                            post_id: p.post_id,
+                            thumbnail: url,
+                            full_url: url.replace(/thumb_\d+_/, '')
+                        });
+                    }
+                }
             });
         });
 
+        // Extract videos with direct CDN URLs
         const videos = [...block.matchAll(/<video[^>]*src="([^"]+)"[^>]*>/g)];
-        videos.forEach(vi => p.media.items.push({ type: 'video', post_id: p.post_id, url: vi[1] }));
+        videos.forEach(vi => {
+            if (vi[1].includes('telesco.pe')) {
+                p.media.items.push({ type: 'video', post_id: p.post_id, url: vi[1] });
+            }
+        });
 
+        // Extract documents
         const docs = [...block.matchAll(/<a class="tgme_widget_message_document_wrap[^"]*" href="([^"]+)"[^>]*>/g)];
         docs.forEach(d => {
             const item = { type: 'document', post_id: p.post_id, url: d[1] };
@@ -220,18 +300,32 @@ function parsePosts(html, channel) {
             p.media.items.push(item);
         });
 
+        // Extract all CDN URLs
         const cdns = [...block.matchAll(/https:\/\/cdn\d+\.telesco\.pe\/[^\s"'<>]+/g)];
         cdns.forEach(c => {
-            if (!p.media.items.some(x => JSON.stringify(x).includes(c[0]))) {
-                p.media.items.push({ type: 'unknown', post_id: p.post_id, url: c[0] });
+            const url = c[0];
+            if (!p.media.items.some(x => {
+                return JSON.stringify(x).includes(url) || 
+                       (x.full_url && x.full_url === url) ||
+                       (x.thumbnail && x.thumbnail === url);
+            })) {
+                // Determine type by extension
+                let type = 'unknown';
+                if (/\.(jpg|jpeg|png|gif|webp|svg)(\?|$)/i.test(url)) type = 'photo';
+                else if (/\.(mp4|webm|avi|mov|mkv)(\?|$)/i.test(url)) type = 'video';
+                else if (/\.(mp3|ogg|wav)(\?|$)/i.test(url)) type = 'audio';
+                else if (/\.(pdf|zip|rar|7z|tar|gz|doc|docx|xls|xlsx|apk|exe)(\?|$)/i.test(url)) type = 'document';
+                
+                p.media.items.push({ type, post_id: p.post_id, url: url });
             }
         });
 
-        if (p.media.items.length) {
+        if (p.media.items.length > 0) {
             p.media.has_media = true;
             const types = [...new Set(p.media.items.map(x => x.type))];
             p.media.type = types.length > 1 ? 'mixed' : types[0];
-            if (photos.length > 1 && p.media.type === 'photo') p.media.type = 'album';
+            const photoCount = p.media.items.filter(x => x.type === 'photo').length;
+            if (photoCount > 1 && p.media.type === 'photo') p.media.type = 'album';
         }
 
         if (block.includes('<div class="tgme_widget_message_poll')) {
@@ -278,7 +372,7 @@ async function fetchAllPosts(channel, maxPosts) {
     let beforeId = null;
     let page = 1;
 
-    console.log(`🎯 Target: ${maxPosts} posts from @${channel}`);
+    console.log(`🎯 Target: ${maxPosts} LATEST posts from @${channel}`);
 
     while (allPosts.length < maxPosts) {
         let url = `https://api.allorigins.win/raw?url=${encodeURIComponent(`https://t.me/s/${channel}`)}`;
@@ -286,34 +380,36 @@ async function fetchAllPosts(channel, maxPosts) {
             url = `https://api.allorigins.win/raw?url=${encodeURIComponent(`https://t.me/s/${channel}?before=${beforeId}`)}`;
         }
 
-        console.log(`📄 Fetching page ${page}${beforeId ? ` (before ${beforeId})` : ''}...`);
+        console.log(`📄 Fetching page ${page}${beforeId ? ` (before post ${beforeId})` : ' (latest)'}...`);
 
         let html;
         try {
             html = await fetchHTML(url);
         } catch (e) {
-            console.log(`❌ Failed to fetch page ${page}: ${e.message}`);
+            console.log(`❌ Failed: ${e.message}`);
             break;
         }
 
         const posts = parsePosts(html, channel);
 
         if (posts.length === 0) {
-            console.log('🏁 No more posts found');
+            console.log('🏁 No more posts');
             break;
         }
 
-        console.log(`   Got ${posts.length} posts from this page`);
+        console.log(`   Got ${posts.length} posts`);
 
+        // First page = newest posts
+        // They're already in correct order (newest first) from t.me/s/
         allPosts = allPosts.concat(posts);
-        console.log(`   Total so far: ${allPosts.length}/${maxPosts}`);
+        console.log(`   Total: ${allPosts.length}/${maxPosts}`);
 
         if (allPosts.length >= maxPosts) break;
 
-        const lastPost = posts[posts.length - 1];
-        if (lastPost && lastPost.post_id) {
-            const postNum = lastPost.post_id.split('/').pop();
-            beforeId = postNum;
+        // Get oldest post ID from this page for next page
+        const oldestPost = posts[posts.length - 1];
+        if (oldestPost && oldestPost.post_id) {
+            beforeId = oldestPost.post_id.split('/').pop();
         } else {
             break;
         }
@@ -322,26 +418,22 @@ async function fetchAllPosts(channel, maxPosts) {
         await new Promise(r => setTimeout(r, 1000));
     }
 
-    return allPosts.slice(0, maxPosts);
+    // Trim to max and reverse so oldest first, newest last
+    const result = allPosts.slice(0, maxPosts);
+    
+    return result;
 }
 
 // Main
 (async () => {
     const channel = process.env.CHANNEL || 'devefun';
-    const maxPosts = parseInt(process.env.MAX_POSTS || '20');
+    const maxPosts = parseInt(process.env.MAX_POSTS || '5');
 
-    console.log(`\n🚀 Telegram Scraper`);
-    console.log(`📺 Channel: @${channel}`);
-    console.log(`📊 Max posts: ${maxPosts}`);
-    console.log(`📁 Max file size: ${MAX_FILE_SIZE / 1024 / 1024}MB`);
-    console.log(`📂 Base directory: ${BASE_DIR}/${channel}/\n`);
+    console.log(`\n🚀 Telegram Scraper v2`);
+    console.log(`📺 @${channel} | 📊 ${maxPosts} latest posts\n`);
 
     try {
-        // Create channel directory
-        const channelDir = path.join(BASE_DIR, channel);
-        if (!fs.existsSync(channelDir)) fs.mkdirSync(channelDir, { recursive: true });
-
-        // Fetch posts
+        // Fetch
         const posts = await fetchAllPosts(channel, maxPosts);
 
         if (posts.length === 0) {
@@ -349,72 +441,43 @@ async function fetchAllPosts(channel, maxPosts) {
             process.exit(1);
         }
 
-        // Assign correct indexes
-        posts.forEach((p, i) => p.index = i + 1);
-
         // Process media
         let totalMedia = 0;
         posts.forEach(p => totalMedia += p.media.items.length);
 
         if (totalMedia > 0) {
             console.log(`\n📦 Processing ${totalMedia} media items...`);
-            let processed = 0;
             for (const post of posts) {
                 if (post.media.items.length > 0) {
-                    console.log(`\n📝 Post #${post.index} (${post.media.items.length} items - ${processed}/${totalMedia} done)`);
+                    console.log(`\n📝 Post #${post.post_id} (${post.media.items.length} items)`);
                     post.media.items = await processMedia(channel, post.media.items);
-                    processed += post.media.items.length;
                 }
             }
         }
 
-        // Filter empty posts
+        // Filter and sort (newest first by default from API)
         const filtered = posts.filter(p => p.type !== 'empty' || p.text);
+
+        // Assign indexes (1 = newest post)
         filtered.forEach((p, i) => p.index = i + 1);
 
-        // Save data.json inside channel folder
+        // Save
+        const channelDir = path.join(BASE_DIR, channel);
+        if (!fs.existsSync(channelDir)) fs.mkdirSync(channelDir, { recursive: true });
+
         const dataPath = path.join(channelDir, 'data.json');
         fs.writeFileSync(dataPath, JSON.stringify(filtered, null, 2));
 
-        // Create .gitkeep files
-        const mediaDir = path.join(channelDir, 'media');
-        if (fs.existsSync(mediaDir)) {
-            const dirs = fs.readdirSync(mediaDir, { withFileTypes: true });
-            dirs.filter(d => d.isDirectory()).forEach(d => {
-                const gitkeep = path.join(mediaDir, d.name, '.gitkeep');
-                if (!fs.existsSync(gitkeep)) fs.writeFileSync(gitkeep, '');
-            });
-        }
+        const downloadedCount = filtered.reduce((sum, p) => 
+            sum + p.media.items.filter(i => i.local_path).length, 0);
 
-        // Create channels/.gitkeep
-        if (!fs.existsSync(path.join(BASE_DIR, '.gitkeep'))) {
-            fs.writeFileSync(path.join(BASE_DIR, '.gitkeep'), '');
-        }
-
-        // Stats
-        const stats = {
-            channel: `@${channel}`,
-            scraped_at: new Date().toISOString(),
-            total_posts: filtered.length,
-            media_stats: {}
-        };
-
-        filtered.forEach(p => {
-            if (p.media.has_media) {
-                stats.media_stats[p.media.type] = (stats.media_stats[p.media.type] || 0) + 1;
-            }
-        });
-
-        console.log(`\n📊 Stats:`);
-        console.log(`   Posts: ${stats.total_posts}`);
-        Object.entries(stats.media_stats).forEach(([type, count]) => {
-            console.log(`   ${type}: ${count}`);
-        });
-
-        console.log(`\n✅ Done! Data saved to ${dataPath}`);
+        console.log(`\n✅ Done!`);
+        console.log(`   Posts: ${filtered.length}`);
+        console.log(`   Downloaded: ${downloadedCount} files`);
+        console.log(`   Saved: ${dataPath}`);
 
     } catch (error) {
-        console.error('❌ Fatal error:', error.message);
+        console.error('❌ Fatal:', error.message);
         process.exit(1);
     }
 })();
