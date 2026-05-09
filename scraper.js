@@ -11,12 +11,11 @@ function fetchHTML(url) {
         const protocol = url.startsWith('https') ? https : http;
         protocol.get(url, {
             headers: {
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+                'Accept': 'text/html',
                 'Accept-Language': 'en-US,en;q=0.9',
             }
         }, (res) => {
-            // Handle redirect
             if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
                 fetchHTML(res.headers.location).then(resolve).catch(reject);
                 return;
@@ -26,10 +25,9 @@ function fetchHTML(url) {
             res.on('end', () => resolve(data));
             res.on('error', reject);
         }).on('error', (e) => {
-            // Fallback to allorigins proxy
-            console.log(`   ⚠️ Direct failed, trying proxy...`);
+            // Fallback to proxy
             const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`;
-            https.get(proxyUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res2) => {
+            https.get(proxyUrl, {}, (res2) => {
                 let data2 = '';
                 res2.on('data', chunk => data2 += chunk);
                 res2.on('end', () => resolve(data2));
@@ -103,8 +101,7 @@ function downloadFile(url, filepath) {
 function getFileExtension(url, type) {
     const extMatch = url.match(/\.(\w+)(\?|$)/);
     if (extMatch) return extMatch[1].toLowerCase();
-    const defaults = { 'photo': 'jpg', 'video': 'mp4', 'document': 'bin', 'voice': 'ogg', 'audio': 'mp3' };
-    return defaults[type] || 'bin';
+    return { 'photo': 'jpg', 'video': 'mp4', 'document': 'bin', 'voice': 'ogg', 'audio': 'mp3' }[type] || 'bin';
 }
 
 async function processMedia(channel, items) {
@@ -158,45 +155,27 @@ async function processMedia(channel, items) {
 
 function parsePosts(html) {
     const posts = [];
-    
-    // Find all message containers
-    const regex = /<div class="tgme_widget_message_wrap js-widget_message_wrap">([\s\S]*?)<\/div>\s*<\/div>\s*<\/div>\s*(?=<div class="tgme_widget_message_wrap|<div class="tgme_widget_message_centered|$)/g;
+
+    const regex = /<div class="tgme_widget_message_wrap js-widget_message_wrap">([\s\S]*?)<\/div>\s*<\/div>\s*<\/div>\s*(?=<div class="tgme_widget_message_wrap|<div class="tgme_widget_message_centered|<div class="tgme_footer|$)/g;
     let match;
-    
+
     while ((match = regex.exec(html)) !== null) {
         const block = match[1];
-        
         const c = block.match(/data-post="([^"]+)"/);
         if (!c) continue;
         const postId = c[1];
-        
+
         const p = {
-            index: null,
-            post_url: `https://t.me/${postId}`,
-            post_id: postId,
-            date: null,
-            date_unix: null,
-            edit_date: null,
-            edit_date_unix: null,
-            author: null,
-            author_url: null,
-            text: null,
-            text_html: null,
-            is_edited: false,
-            views: null,
-            views_raw: null,
+            index: null, post_url: `https://t.me/${postId}`, post_id: postId,
+            date: null, date_unix: null, edit_date: null, edit_date_unix: null,
+            author: null, author_url: null, text: null, text_html: null,
+            is_edited: false, views: null, views_raw: null,
             forward: { forwarded: false, from: null, from_url: null, date: null, date_unix: null },
             reply: { is_reply: false, to_url: null, to_text: null },
             pinned: false,
             media: { has_media: false, type: null, items: [] },
             poll: { has_poll: false, question: null, options: [], total_votes: null, is_anonymous: null, is_closed: false },
-            buttons: [],
-            hashtags: [],
-            mentions: [],
-            links: [],
-            emoji: [],
-            reactions: [],
-            type: null
+            buttons: [], hashtags: [], mentions: [], links: [], emoji: [], reactions: [], type: null
         };
 
         const t = block.match(/<time[^>]*datetime="([^"]+)"/);
@@ -215,32 +194,24 @@ function parsePosts(html) {
         }
 
         const v = block.match(/<span class="tgme_widget_message_views"[^>]*>([\d.]+[KM]?)/);
-        if (v) {
-            p.views_raw = v[1];
-            const n = parseFloat(v[1]);
-            p.views = v[1].includes('K') ? Math.round(n * 1000) : v[1].includes('M') ? Math.round(n * 1000000) : Math.round(n);
-        }
+        if (v) { p.views_raw = v[1]; const n = parseFloat(v[1]); p.views = v[1].includes('K') ? Math.round(n * 1000) : v[1].includes('M') ? Math.round(n * 1000000) : Math.round(n); }
 
         const fwd = block.match(/<a class="tgme_widget_message_forwarded_from[^"]*" href="([^"]+)">\s*Forwarded from\s*([^<]+)<\/a>/);
         if (fwd) {
-            p.forward.forwarded = true;
-            p.forward.from = fwd[2].trim();
-            p.forward.from_url = fwd[1];
+            p.forward.forwarded = true; p.forward.from = fwd[2].trim(); p.forward.from_url = fwd[1];
             const fd = block.match(/Forwarded from[\s\S]*?<time[^>]*datetime="([^"]+)"/);
             if (fd) { p.forward.date = fd[1]; p.forward.date_unix = new Date(fd[1]).getTime() / 1000; }
         }
 
         const rep = block.match(/<a class="tgme_widget_message_reply"[^>]*href="([^"]+)"[^>]*>/);
         if (rep) {
-            p.reply.is_reply = true;
-            p.reply.to_url = rep[1];
+            p.reply.is_reply = true; p.reply.to_url = rep[1];
             const rt = block.match(/<div class="tgme_widget_message_reply_text"[^>]*>([\s\S]*?)<\/div>/);
             if (rt) p.reply.to_text = rt[1].replace(/<[^>]+>/g, '').trim();
         }
 
         p.pinned = block.includes('tgme_widget_message_pinned');
 
-        // Extract CDN URLs
         const cdns = [...block.matchAll(/https:\/\/cdn\d+\.telesco\.pe\/[^\s"'<>)]+/g)];
         const seen = new Set();
         cdns.forEach(c => {
@@ -252,13 +223,7 @@ function parsePosts(html) {
             if (/\.(mp4|webm)(\?|$)/i.test(url)) type = 'video';
             else if (/\.(pdf|zip|rar|apk|doc)(\?|$)/i.test(url)) type = 'document';
 
-            p.media.items.push({
-                type,
-                post_id: postId,
-                url: url,
-                full_url: url.replace(/thumb_\d+_/, ''),
-                thumbnail: url.includes('/thumb_') ? url : null
-            });
+            p.media.items.push({ type, post_id: postId, url, full_url: url.replace(/thumb_\d+_/, ''), thumbnail: url.includes('/thumb_') ? url : null });
         });
 
         if (p.media.items.length > 0) {
@@ -307,47 +272,49 @@ function parsePosts(html) {
 
 async function fetchPosts(channel, maxPosts) {
     let allPosts = [];
-    let beforeId = null;
+    let afterId = null;  // Changed: use AFTER to get newer posts
     let page = 1;
 
     console.log(`🎯 Getting ${maxPosts} latest posts from @${channel}`);
 
     while (allPosts.length < maxPosts) {
         let url = `https://t.me/s/${channel}`;
-        if (beforeId) url += `?before=${beforeId}`;
+        if (afterId) url += `?after=${afterId}`;  // AFTER for newer posts
 
         console.log(`📄 Page ${page}: ${url}`);
 
         const html = await fetchHTML(url);
-        
-        if (!html || html.length < 500) {
-            console.log(`   ❌ Empty or too short response (${html?.length || 0} chars)`);
-            break;
-        }
+        if (!html || html.length < 500) break;
 
         const posts = parsePosts(html);
-        
-        if (posts.length === 0) {
-            console.log(`   No posts found in HTML`);
-            break;
-        }
+        if (posts.length === 0) break;
 
-        // Page 1: newest posts first, subsequent pages: older posts
         console.log(`   Got ${posts.length} posts: ${posts[0].post_id} → ${posts[posts.length-1].post_id}`);
 
+        // Page 1: newest 20 posts (ordered newest first by t.me/s/)
+        // To get even newer posts, we need ?after= with the FIRST post ID
+        
         allPosts = allPosts.concat(posts);
 
         if (allPosts.length >= maxPosts) break;
 
-        // Get last (oldest) post ID for next page
-        beforeId = posts[posts.length - 1].post_id?.split('/').pop();
+        // Get FIRST (newest) post ID to load NEWER posts
+        afterId = posts[0].post_id?.split('/').pop();
+        
+        if (!afterId) break;
+        
+        // If we're already at the very latest, stop
+        if (page > 1 && posts.length < 20) break;
+        
         page++;
         await new Promise(r => setTimeout(r, 2000));
     }
 
+    // t.me/s/ returns newest first, but after concat we need to re-sort
+    // Actually they're already newest first since page 1 = newest
     const result = allPosts.slice(0, maxPosts);
 
-    console.log(`\n📊 Final order (newest first):`);
+    console.log(`\n📊 Final (newest first):`);
     console.log(`   index 1: ${result[0]?.post_id}`);
     console.log(`   index ${result.length}: ${result[result.length-1]?.post_id}`);
 
@@ -357,16 +324,15 @@ async function fetchPosts(channel, maxPosts) {
 // Main
 (async () => {
     const channel = process.env.CHANNEL || 'devefun';
-    const maxPosts = parseInt(process.env.MAX_POSTS || '5');
+    const maxPosts = parseInt(process.env.MAX_POSTS || '7');
 
-    console.log(`\n🚀 Telegram Scraper v5`);
+    console.log(`\n🚀 Telegram Scraper v6`);
     console.log(`📺 @${channel} | 📊 ${maxPosts} latest posts\n`);
 
     try {
         const posts = await fetchPosts(channel, maxPosts);
         if (posts.length === 0) { console.log('❌ No posts'); process.exit(0); }
 
-        // Process media
         let totalMedia = 0;
         posts.forEach(p => totalMedia += p.media.items.length);
 
@@ -374,17 +340,15 @@ async function fetchPosts(channel, maxPosts) {
             console.log(`\n📦 Processing ${totalMedia} media items...`);
             for (const post of posts) {
                 if (post.media.items.length > 0) {
-                    console.log(`\n📝 ${post.post_id} (${post.media.items.length} items)`);
+                    console.log(`\n📝 ${post.post_id} (${post.media.items.length})`);
                     post.media.items = await processMedia(channel, post.media.items);
                 }
             }
         }
 
-        // Filter & index
         const filtered = posts.filter(p => p.type !== 'empty' || p.text);
         filtered.forEach((p, i) => p.index = i + 1);
 
-        // Save
         const channelDir = path.join(BASE_DIR, channel);
         if (!fs.existsSync(channelDir)) fs.mkdirSync(channelDir, { recursive: true });
         fs.writeFileSync(path.join(channelDir, 'data.json'), JSON.stringify(filtered, null, 2));
