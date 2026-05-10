@@ -265,49 +265,107 @@ function parsePosts(html) {
         posts.push(p);
     }
 
-    // REVERSE: t.me/s/ shows NEWEST last, so last post in HTML = newest
-    posts.sort((a, b) => (b.date_unix || 0) - (a.date_unix || 0));
+    // No reverse - sort by date in fetchPosts
     return posts;
 }
 
 async function fetchPosts(channel, maxPosts) {
     let allPosts = [];
-    let beforeId = null;
     let page = 1;
 
     console.log(`🎯 Getting ${maxPosts} latest posts from @${channel}`);
 
-    while (allPosts.length < maxPosts) {
-        let url = `https://t.me/s/${channel}`;
-        if (beforeId) url += `?before=${beforeId}`;
+    // Strategy 1: Normal page (usually shows 20 most recent)
+    const normalUrl = `https://t.me/s/${channel}`;
+    console.log(`📄 Page ${page}: ${normalUrl}`);
+    
+    let html = await fetchHTML(normalUrl);
+    
+    if (html && html.length >= 500) {
+        const posts = parsePosts(html);
+        console.log(`   Got ${posts.length} posts: ${posts[0].post_id} ← ${posts[posts.length-1].post_id}`);
+        
+        for (const post of posts) {
+            if (!allPosts.find(p => p.post_id === post.post_id)) {
+                allPosts.push(post);
+            }
+        }
+    }
 
+    // Strategy 2: Try with ?after= to get any cached newer posts
+    if (allPosts.length > 0) {
+        const newestId = allPosts[0].post_id?.split('/').pop();
+        const afterUrl = `https://t.me/s/${channel}?after=${newestId}`;
+        
+        console.log(`📄 Page ${page + 1}: ${afterUrl}`);
+        html = await fetchHTML(afterUrl);
+        
+        if (html && html.length >= 500) {
+            const posts = parsePosts(html);
+            if (posts.length > 0) {
+                console.log(`   Got ${posts.length} posts: ${posts[0].post_id} ← ${posts[posts.length-1].post_id}`);
+                
+                for (const post of posts) {
+                    if (!allPosts.find(p => p.post_id === post.post_id)) {
+                        allPosts.push(post);
+                    }
+                }
+            } else {
+                console.log(`   No newer posts found`);
+            }
+        }
+        
+        page += 2;
+    }
+
+    // Strategy 3: Get older posts with ?before= if needed
+    while (allPosts.length < maxPosts && allPosts.length > 0) {
+        const oldestPost = allPosts[allPosts.length - 1];
+        const beforeId = oldestPost.post_id?.split('/').pop();
+        if (!beforeId) break;
+
+        const url = `https://t.me/s/${channel}?before=${beforeId}`;
         console.log(`📄 Page ${page}: ${url}`);
 
-        const html = await fetchHTML(url);
+        html = await fetchHTML(url);
         if (!html || html.length < 500) break;
 
-        const posts = parsePosts(html); // Already reversed: newest first
+        const posts = parsePosts(html);
         if (posts.length === 0) break;
 
         console.log(`   Got ${posts.length} posts: ${posts[0].post_id} ← ${posts[posts.length-1].post_id}`);
 
-        allPosts = allPosts.concat(posts);
+        let addedCount = 0;
+        for (const post of posts) {
+            if (!allPosts.find(p => p.post_id === post.post_id)) {
+                allPosts.push(post);
+                addedCount++;
+            }
+        }
 
+        if (addedCount === 0) break;
         if (allPosts.length >= maxPosts) break;
-
-        // For next page, get OLDER posts (before the oldest we have)
-        beforeId = posts[posts.length - 1].post_id?.split('/').pop();
-        if (!beforeId) break;
 
         page++;
         await new Promise(r => setTimeout(r, 2000));
     }
 
-    const result = allPosts.slice(0, maxPosts);
+    // Sort by date descending (newest first) to ensure correct order
+    allPosts.sort((a, b) => (b.date_unix || 0) - (a.date_unix || 0));
+
+    // Remove duplicates (just in case)
+    const seen = new Set();
+    const unique = allPosts.filter(p => {
+        if (seen.has(p.post_id)) return false;
+        seen.add(p.post_id);
+        return true;
+    });
+
+    const result = unique.slice(0, maxPosts);
 
     console.log(`\n📊 Final (newest first):`);
-    console.log(`   index 1 (newest): ${result[0]?.post_id}`);
-    console.log(`   index ${result.length} (oldest): ${result[result.length-1]?.post_id}`);
+    console.log(`   index 1 (newest): ${result[0]?.post_id} - ${result[0]?.date}`);
+    console.log(`   index ${result.length} (oldest): ${result[result.length-1]?.post_id} - ${result[result.length-1]?.date}`);
 
     return result;
 }
@@ -315,9 +373,9 @@ async function fetchPosts(channel, maxPosts) {
 // Main
 (async () => {
     const channel = process.env.CHANNEL || 'devefun';
-    const maxPosts = parseInt(process.env.MAX_POSTS || '6');
+    const maxPosts = parseInt(process.env.MAX_POSTS || '5');
 
-    console.log(`\n🚀 Telegram Scraper v7`);
+    console.log(`\n🚀 Telegram Scraper v8`);
     console.log(`📺 @${channel} | 📊 ${maxPosts} latest posts\n`);
 
     try {
@@ -346,7 +404,7 @@ async function fetchPosts(channel, maxPosts) {
 
         const downloaded = filtered.reduce((s, p) => s + p.media.items.filter(i => i.local_path).length, 0);
         console.log(`\n✅ ${filtered.length} posts | ${downloaded} files`);
-        filtered.forEach(p => console.log(`   ${p.index}. ${p.post_id} [${p.type}]`));
+        filtered.forEach(p => console.log(`   ${p.index}. ${p.post_id} [${p.type}] - ${p.date}`));
 
     } catch (error) {
         console.error('❌', error.message);
