@@ -266,7 +266,8 @@ function parsePosts(html) {
     }
 
     // REVERSE: t.me/s/ shows NEWEST last, so last post in HTML = newest
-    return posts.reverse();
+    posts.sort((a, b) => (b.date_unix || 0) - (a.date_unix || 0));
+    return posts;
 }
 
 async function fetchPosts(channel, maxPosts) {
