@@ -100,7 +100,7 @@ function downloadFile(url, filepath) {
 function getFileExtension(url, type) {
     const extMatch = url.match(/\.(\w+)(\?|$)/);
     if (extMatch) return extMatch[1].toLowerCase();
-    return { 'photo': 'jpg', 'video': 'mp4', 'document': 'bin' }[type] || 'bin';
+    return { 'photo': 'jpg', 'video': 'mp4', 'document': 'bin', 'voice': 'ogg', 'audio': 'mp3' }[type] || 'bin';
 }
 
 async function processMedia(channel, items) {
@@ -123,7 +123,7 @@ async function processMedia(channel, items) {
 
         const size = await getFileSize(url);
         if (size > MAX_FILE_SIZE) {
-            console.log(`  ⚠️ Large (${(size/1024/1024).toFixed(1)}MB)`);
+            console.log(`  ⚠️ Large (${(size/1024/1024).toFixed(1)}MB), remote only`);
             results.push({ ...item, local_path: null, remote_url: url, size_bytes: size });
             continue;
         }
@@ -219,7 +219,7 @@ function parsePosts(html) {
 
             let type = 'photo';
             if (/\.(mp4|webm)(\?|$)/i.test(url)) type = 'video';
-            else if (/\.(pdf|zip|rar|apk)(\?|$)/i.test(url)) type = 'document';
+            else if (/\.(pdf|zip|rar|apk|doc)(\?|$)/i.test(url)) type = 'document';
 
             p.media.items.push({ type, post_id: postId, url, full_url: url.replace(/thumb_\d+_/, ''), thumbnail: url.includes('/thumb_') ? url : null });
         });
@@ -254,102 +254,187 @@ function parsePosts(html) {
         const reacts = [...block.matchAll(/<span class="tgme_widget_message_reaction_emoji"[^>]*>(.*?)<\/span>\s*<span class="tgme_widget_message_reaction_count"[^>]*>([^<]+)<\/span>/g)];
         p.reactions = reacts.map(r => ({ emoji: r[1].trim(), count: parseInt(r[2]) || 0 }));
 
-        // Type detection - DON'T filter empty posts here
         if (p.poll.has_poll) p.type = 'poll';
         else if (p.media.type === 'album') p.type = 'album';
         else if (p.media.type === 'photo') p.type = 'photo';
         else if (p.media.type === 'video') p.type = 'video';
         else if (p.media.type === 'document') p.type = 'document';
         else if (p.text) p.type = 'text';
-        else p.type = 'media_only'; // Keep media-only posts!
+        else p.type = 'media_only';
 
         posts.push(p);
     }
 
-    // REVERSE to get newest first
     posts.reverse();
     return posts;
 }
 
+function checkPostExists(channel, postNum) {
+    return new Promise((resolve) => {
+        const url = `https://t.me/${channel}/${postNum}?embed=1`;
+        https.get(url, { headers: { 'User-Agent': 'Mozilla/5.0' } }, (res) => {
+            let data = '';
+            res.on('data', chunk => data += chunk);
+            res.on('end', () => {
+                if (data.includes('tgme_widget_message') && data.includes(`data-post="${channel}/${postNum}"`)) {
+                    resolve(data);
+                } else {
+                    resolve(null);
+                }
+            });
+        }).on('error', () => resolve(null));
+    });
+}
+
+function parseSinglePost(html, channel, postNum) {
+    const postId = `${channel}/${postNum}`;
+    const p = {
+        index: null, post_url: `https://t.me/${postId}`, post_id: postId,
+        date: null, date_unix: null, edit_date: null, edit_date_unix: null,
+        author: null, author_url: null, text: null, text_html: null,
+        is_edited: false, views: null, views_raw: null,
+        forward: { forwarded: false, from: null, from_url: null, date: null, date_unix: null },
+        reply: { is_reply: false, to_url: null, to_text: null },
+        pinned: false,
+        media: { has_media: false, type: null, items: [] },
+        poll: { has_poll: false, question: null, options: [], total_votes: null, is_anonymous: null, is_closed: false },
+        buttons: [], hashtags: [], mentions: [], links: [], emoji: [], reactions: [], type: null
+    };
+
+    const t = html.match(/<time[^>]*datetime="([^"]+)"/);
+    if (t) { p.date = t[1]; p.date_unix = new Date(t[1]).getTime() / 1000; }
+
+    const txt = html.match(/<div class="tgme_widget_message_text[^"]*"[^>]*>([\s\S]*?)<\/div>/);
+    if (txt) {
+        p.text_html = txt[1].trim();
+        p.text = txt[1].replace(/<br\s*\/?>/gi, '\n').replace(/<[^>]+>/g, '').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').trim();
+    }
+
+    const v = html.match(/<span class="tgme_widget_message_views"[^>]*>([\d.]+[KM]?)/);
+    if (v) { p.views_raw = v[1]; const n = parseFloat(v[1]); p.views = v[1].includes('K') ? Math.round(n * 1000) : v[1].includes('M') ? Math.round(n * 1000000) : Math.round(n); }
+
+    const cdns = [...html.matchAll(/https:\/\/cdn\d+\.telesco\.pe\/[^\s"'<>)]+/g)];
+    const seen = new Set();
+    cdns.forEach(c => {
+        const url = c[0].replace(/[)"']+$/, '');
+        if (seen.has(url)) return;
+        seen.add(url);
+
+        let type = 'photo';
+        if (/\.(mp4|webm)(\?|$)/i.test(url)) type = 'video';
+        else if (/\.(pdf|zip|rar|apk)(\?|$)/i.test(url)) type = 'document';
+
+        p.media.items.push({ type, post_id: postId, url, full_url: url.replace(/thumb_\d+_/, ''), thumbnail: url.includes('/thumb_') ? url : null });
+    });
+
+    if (p.media.items.length > 0) {
+        p.media.has_media = true;
+        const types = [...new Set(p.media.items.map(x => x.type))];
+        p.media.type = types.length > 1 ? 'mixed' : types[0];
+    }
+
+    if (p.text) p.type = 'text';
+    else if (p.media.has_media) p.type = 'media_only';
+    else p.type = 'empty';
+
+    return p;
+}
+
 async function fetchPosts(channel, maxPosts) {
     let allPosts = [];
-    let before = null;
-    let page = 1;
+    let highestId = 0;
 
     console.log(`🎯 Getting ${maxPosts} latest posts from @${channel}`);
 
-    while (allPosts.length < maxPosts) {
-        let url = `https://t.me/s/${channel}`;
-        if (before) url += `?before=${before}`;
-
-        console.log(`📄 Page ${page}: fetching...`);
-
-        const html = await fetchHTML(url);
-        if (!html || html.length < 500) {
-            console.log(`   ❌ Empty response`);
-            break;
-        }
-
-        const posts = parsePosts(html);
-        if (posts.length === 0) {
-            console.log(`   No posts found`);
-            break;
-        }
-
-        console.log(`   Got ${posts.length} posts: ${posts[0].post_id} ← ${posts[posts.length-1].post_id}`);
-
-        // Check for new posts we haven't seen
-        const newPosts = posts.filter(p => !allPosts.some(ap => ap.post_id === p.post_id));
-        
-        if (newPosts.length === 0) {
-            console.log(`   No new posts, stopping`);
-            break;
-        }
-
-        allPosts = allPosts.concat(newPosts);
-
-        // Sort by date_unix descending
-        allPosts.sort((a, b) => (b.date_unix || 0) - (a.date_unix || 0));
-        
-        // Trim to maxPosts
-        if (allPosts.length > maxPosts * 2) {
-            allPosts = allPosts.slice(0, maxPosts * 2);
-        }
-
-        console.log(`   Total: ${allPosts.length} unique posts`);
-
-        if (allPosts.length >= maxPosts) break;
-
-        // Go older
-        before = posts[posts.length - 1].post_id?.split('/').pop();
-        if (!before) break;
-
-        page++;
-        await new Promise(r => setTimeout(r, 2000));
+    // Step 1: Get main page
+    const html = await fetchHTML(`https://t.me/s/${channel}`);
+    if (!html || html.length < 500) {
+        console.log('❌ Empty response from main page');
+        return [];
     }
 
-    // Final sort and slice
-    allPosts.sort((a, b) => (b.date_unix || 0) - (a.date_unix || 0));
-    const result = allPosts.slice(0, maxPosts);
+    const posts = parsePosts(html);
+    console.log(`📄 Page 1: ${posts.length} posts (${posts[0]?.post_id} ← ${posts[posts.length-1]?.post_id})`);
 
-    console.log(`\n📊 Final:`);
+    allPosts = allPosts.concat(posts);
+
+    // Find highest ID
+    allPosts.forEach(p => {
+        const num = parseInt(p.post_id?.split('/').pop());
+        if (num > highestId) highestId = num;
+    });
+
+    console.log(`   Highest ID on page: ${highestId}`);
+
+    // Step 2: Check for newer posts
+    const existingIds = new Set(allPosts.map(p => p.post_id));
+    
+    for (let i = 1; i <= 5; i++) {
+        const nextId = highestId + i;
+        const postId = `${channel}/${nextId}`;
+        
+        if (existingIds.has(postId)) continue;
+        
+        console.log(`   Checking: ${postId}...`);
+        const embedHtml = await checkPostExists(channel, nextId);
+        
+        if (embedHtml) {
+            const newPost = parseSinglePost(embedHtml, channel, nextId);
+            if (newPost) {
+                allPosts.unshift(newPost);
+                existingIds.add(postId);
+                console.log(`   ✅ Found: ${postId}`);
+            }
+        } else {
+            // If 2 consecutive misses, probably no more
+            console.log(`   ❌ Not found: ${postId}`);
+            break;
+        }
+        
+        await new Promise(r => setTimeout(r, 1000));
+    }
+
+    // Step 3: Sort by post number (descending)
+    allPosts.sort((a, b) => {
+        const aNum = parseInt(a.post_id?.split('/').pop()) || 0;
+        const bNum = parseInt(b.post_id?.split('/').pop()) || 0;
+        return bNum - aNum;
+    });
+
+    // Deduplicate
+    const seen = new Set();
+    const unique = allPosts.filter(p => {
+        if (seen.has(p.post_id)) return false;
+        seen.add(p.post_id);
+        return true;
+    });
+
+    const result = unique.slice(0, maxPosts);
+
+    console.log(`\n📊 Final (${result.length} posts):`);
     result.forEach((p, i) => console.log(`   ${i+1}. ${p.post_id} [${p.type}]`));
 
     return result;
 }
 
+// ============================================
 // Main
+// ============================================
 (async () => {
     const channel = process.env.CHANNEL || 'devefun';
     const maxPosts = parseInt(process.env.MAX_POSTS || '5');
 
-    console.log(`\n🚀 Telegram Scraper v8`);
+    console.log(`\n🚀 Telegram Scraper v9`);
     console.log(`📺 @${channel} | 📊 ${maxPosts} latest posts\n`);
 
     try {
         const posts = await fetchPosts(channel, maxPosts);
-        if (posts.length === 0) { console.log('❌ No posts'); process.exit(0); }
+        if (posts.length === 0) {
+            console.log('❌ No posts found');
+            process.exit(0);
+        }
 
+        // Process media
         let totalMedia = 0;
         posts.forEach(p => totalMedia += p.media.items.length);
 
@@ -357,25 +442,39 @@ async function fetchPosts(channel, maxPosts) {
             console.log(`\n📦 Processing ${totalMedia} media items...`);
             for (const post of posts) {
                 if (post.media.items.length > 0) {
-                    console.log(`\n📝 ${post.post_id} (${post.media.items.length})`);
+                    console.log(`\n📝 ${post.post_id} (${post.media.items.length} items)`);
                     post.media.items = await processMedia(channel, post.media.items);
                 }
             }
         }
 
-        // DON'T filter - keep all posts including media_only
+        // Assign indexes (1 = newest)
         posts.forEach((p, i) => p.index = i + 1);
 
+        // Save
         const channelDir = path.join(BASE_DIR, channel);
         if (!fs.existsSync(channelDir)) fs.mkdirSync(channelDir, { recursive: true });
-        fs.writeFileSync(path.join(channelDir, 'data.json'), JSON.stringify(posts, null, 2));
+        
+        const dataPath = path.join(channelDir, 'data.json');
+        fs.writeFileSync(dataPath, JSON.stringify(posts, null, 2));
 
+        // Stats
         const downloaded = posts.reduce((s, p) => s + p.media.items.filter(i => i.local_path).length, 0);
-        console.log(`\n✅ ${posts.length} posts | ${downloaded} files`);
-        posts.forEach(p => console.log(`   ${p.index}. ${p.post_id} [${p.type}]`));
+        const skipped = posts.reduce((s, p) => s + p.media.items.filter(i => !i.local_path && i.remote_url).length, 0);
+        
+        console.log(`\n✅ Done!`);
+        console.log(`   💾 Saved: ${dataPath}`);
+        console.log(`   📰 Posts: ${posts.length}`);
+        console.log(`   📥 Downloaded: ${downloaded} files`);
+        console.log(`   🔗 Remote only: ${skipped} files`);
+        console.log(`\n📋 Posts:`);
+        posts.forEach(p => {
+            const mediaInfo = p.media.has_media ? ` [${p.media.type}: ${p.media.items.length}]` : '';
+            console.log(`   ${p.index}. ${p.post_id} [${p.type}]${mediaInfo}`);
+        });
 
     } catch (error) {
-        console.error('❌', error.message);
+        console.error('❌ Fatal error:', error.message);
         process.exit(1);
     }
 })();
