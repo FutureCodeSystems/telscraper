@@ -1,0 +1,117 @@
+name: OpenRouter Chat with ChatID
+
+on:
+  workflow_dispatch:
+    inputs:
+      user_message:
+        description: '📝 پیام خود به مدل:'
+        required: true
+        type: string
+      chat_id:
+        description: '🆔 شناسه چت (مثال: 001, my-chat, test)'
+        required: true
+        type: string
+        default: '001'
+
+jobs:
+  chat:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # اجازه نوشتن در ریپو
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Call gemma with retry and append to chat file
+        run: |
+          CHAT_ID="${{ github.event.inputs.chat_id }}"
+          QUESTION="${{ github.event.inputs.user_message }}"
+          JSON_FILE="${CHAT_ID}.json"
+          MAX_RETRIES=20
+          RETRY_COUNT=0
+          
+          echo "🆔 Chat ID: $CHAT_ID"
+          echo "📄 فایل هدف: $JSON_FILE"
+          echo ""
+          
+          # ایجاد فایل اگر وجود نداشت
+          if [ ! -f "$JSON_FILE" ]; then
+            echo "[]" > "$JSON_FILE"
+            echo "✅ فایل جدید ساخته شد: $JSON_FILE"
+          fi
+          
+          while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
+            RETRY_COUNT=$((RETRY_COUNT + 1))
+            echo "🔄 تلاش $RETRY_COUNT از $MAX_RETRIES - در حال فراخوانی مدل ..."
+            
+            RESPONSE=$(curl -s -X POST https://openrouter.ai/api/v1/chat/completions \
+              -H "Content-Type: application/json" \
+              -H "Authorization: Bearer ${{ secrets.OPENROUTER_API_KEY }}" \
+              -d "{
+                \"model\": \"google/gemma-4-31b-it:free\",
+                \"messages\": [{\"role\": \"user\", \"content\": \"$QUESTION\"}]
+              }")
+            
+            # بررسی خطای 429
+            if echo "$RESPONSE" | jq -e '.error.code == 429' > /dev/null 2>&1; then
+              echo "⚠️ محدودیت نرخ! منتظر 5 ثانیه و تلاش مجدد..."
+              sleep 5
+              continue
+            fi
+            
+            # بررسی سایر خطاها
+            if echo "$RESPONSE" | jq -e '.error' > /dev/null 2>&1; then
+              echo "❌ خطا: $(echo "$RESPONSE" | jq -r '.error.message')"
+              echo "منتظر 10 ثانیه و تلاش مجدد..."
+              sleep 10
+              continue
+            fi
+            
+            # استخراج پاسخ
+            ANSWER=$(echo "$RESPONSE" | jq -r '.choices[0].message.content')
+            
+            # اضافه کردن پاسخ جدید به فایل JSON
+            TIMESTAMP=$(date -Iseconds)
+            
+            # خواندن محتوای قبلی و اضافه کردن پاسخ جدید
+            NEW_ENTRY=$(jq -n \
+              --arg ts "$TIMESTAMP" \
+              --arg q "$QUESTION" \
+              --arg a "$ANSWER" \
+              '{
+                id: ($ts | gsub("[:TZ]"; "") | gsub("-"; "") | gsub(":"; "")),
+                timestamp: $ts,
+                question: $q,
+                answer: $a
+              }')
+            
+            # اضافه کردن به آرایه موجود
+            jq --argjson new "$NEW_ENTRY" '. += [$new]' "$JSON_FILE" > tmp.json && mv tmp.json "$JSON_FILE"
+            
+            echo ""
+            echo "✅ موفقیت در تلاش $RETRY_COUNT"
+            echo "========================================="
+            echo "📥 سوال: $QUESTION"
+            echo "========================================="
+            echo "🤖 پاسخ:"
+            echo "$ANSWER"
+            echo "========================================="
+            echo ""
+            echo "💾 پاسخ به فایل $JSON_FILE اضافه شد"
+            echo "📊 تعداد کل پاسخ‌ها در این چت: $(jq '. | length' "$JSON_FILE")"
+            
+            exit 0
+          done
+          
+          echo "❌ بعد از $MAX_RETRIES تلاش، موفق نشدیم."
+          exit 1
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add "${{ github.event.inputs.chat_id }}.json"
+          git diff --staged --quiet || git commit -m "Add new message to chat ${{ github.event.inputs.chat_id }}"
+          git push
+          echo "✅ تغییرات به ریپازیتوری ارسال شد"
