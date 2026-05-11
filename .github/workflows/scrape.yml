@@ -23,7 +23,7 @@ jobs:
       contents: write
     
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -33,18 +33,33 @@ jobs:
         with:
           node-version: '20'
           
+      - name: Set environment variables
+        run: |
+          echo "CHANNEL=${{ inputs.channel || vars.CHANNEL || 'devefun' }}" >> $GITHUB_ENV
+          echo "MAX_POSTS=${{ inputs.max_posts || vars.MAX_POSTS || '40' }}" >> $GITHUB_ENV
+          
       - name: Run scraper
         env:
-          CHANNEL: ${{ inputs.channel || vars.CHANNEL || 'devefun' }}
-          MAX_POSTS: ${{ inputs.max_posts || vars.MAX_POSTS || '20' }}
+          CHANNEL: ${{ env.CHANNEL }}
+          MAX_POSTS: ${{ env.MAX_POSTS }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_REF_NAME: ${{ github.ref_name }}
         run: node scraper.js
         
-      - name: Push changes
+      - name: Upload scraper output (artifact)
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: scraped-data-${{ env.CHANNEL }}
+          path: channels/
+          retention-days: 7
+          
+      - name: Commit and push changes
+        if: success()
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "📊 @${{ env.CHANNEL || 'devefun' }} - ${{ env.MAX_POSTS || '20' }} posts"
-          file_pattern: 'channels/'
+          commit_message: "📊 Scraped @${{ env.CHANNEL }} - ${{ env.MAX_POSTS }} posts"
           commit_user_name: "github-actions[bot]"
           commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
+          file_pattern: 'channels/'
