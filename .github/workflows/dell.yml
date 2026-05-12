@@ -1,0 +1,69 @@
+name: Clean Direct Folder
+
+on:
+  schedule:
+    # هر شب ساعت 19:30 UTC = 00:00 IRST (12 شب ایران)
+    # در زمستان: 20:30 UTC = 00:00 IRST
+    - cron: '30 19 * * *'
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: 'پاک کردن همه فایل‌های direct/ ؟'
+        required: true
+        type: choice
+        options:
+          - 'بله، مطمئنم'
+          - 'خیر'
+
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Check confirmation for manual run
+        if: github.event_name == 'workflow_dispatch' && github.event.inputs.confirm != 'بله، مطمئنم'
+        run: |
+          echo "❌ عملیات لغو شد - تأیید نکردید"
+          exit 1
+
+      - name: Clean direct folder
+        run: |
+          if [ -d "direct" ] && [ "$(ls -A direct/ 2>/dev/null)" ]; then
+            echo "📁 فایل‌های فعلی:"
+            ls -lh direct/
+            echo ""
+            rm -rf direct/*
+            echo "✅ پوشه direct/ پاک شد"
+          else
+            echo "ℹ️ پوشه direct/ خالی است یا وجود ندارد"
+          fi
+
+      - name: Commit and push
+        run: |
+          git config --local user.email "github-actions@github.com"
+          git config --local user.name "GitHub Actions"
+          
+          # اگر پوشه direct خالی شد
+          if [ -d "direct" ]; then
+            git add direct/
+            if git diff --staged --quiet; then
+              echo "ℹ️ تغییر جدیدی برای commit وجود ندارد"
+            else
+              git commit -m "🧹 Clean direct folder - $(date +'%Y-%m-%d %H:%M')"
+              git push
+              echo "✅ تغییرات push شد"
+            fi
+          else
+            # اگر پوشه وجود ندارد، یک .gitkeep ایجاد کن
+            mkdir -p direct
+            touch direct/.gitkeep
+            git add direct/.gitkeep
+            git commit -m "📁 Create direct folder with .gitkeep"
+            git push
+          fi
