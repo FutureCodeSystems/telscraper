@@ -1,6 +1,221 @@
 [
   {
     "index": 1,
+    "post_url": "https://t.me/ConfigX2ray/38782",
+    "post_id": "ConfigX2ray/38782",
+    "date": "2026-05-13T07:50:08+00:00",
+    "date_unix": 1778658608,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "{\"remarks\":\"https://t.me/ConfigX2ray 👈 کانال تلگرامی ما\",\"log\":{\"loglevel\":\"warning\"},\"inbounds\":[{\"tag\":\"socks\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true,\"userLevel\":8},\"sniffing\":{\"enabled\":true,\"destOverride\":[\"http\",\"tls\"],\"routeOnly\":false}}],\"outbounds\":[{\"tag\":\"proxy\",\"protocol\":\"socks\",\"settings\":{\"servers\":[{\"address\":\"62.220.126.92\",\"ota\":false,\"port\":32302,\"level\":8}]},\"streamSettings\":{\"network\":\"tcp\"},\"mux\":{\"enabled\":false,\"concurrency\":-1,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"direct\",\"protocol\":\"freedom\",\"settings\":{\"domainStrategy\":\"UseIP\"},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"block\",\"protocol\":\"blackhole\",\"settings\":{\"response\":{\"type\":\"http\"}},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}}],\"dns\":{\"servers\":[\"1.1.1.1\"],\"hosts\":{\"domain:googleapis.cn\":\"googleapis.com\",\"dns.alidns.com\":[\"223.5.5.5\",\"223.6.6.6\",\"2400:3200::1\",\"2400:3200:baba::1\"],\"one.one.one.one\":[\"1.1.1.1\",\"1.0.0.1\",\"2606:4700:4700::1111\",\"2606:4700:4700::1001\"],\"dot.pub\":[\"1.12.12.12\",\"120.53.53.53\"],\"dns.google\":[\"8.8.8.8\",\"8.8.4.4\",\"2001:4860:4860::8888\",\"2001:4860:4860::8844\"],\"dns.quad9.net\":[\"9.9.9.9\",\"149.112.112.112\",\"2620:fe::fe\",\"2620:fe::9\"],\"common.dot.dns.yandex.net\":[\"77.88.8.8\",\"77.88.8.1\",\"2a02:6b8::feed:0ff\",\"2a02:6b8:0:1::feed:0ff\"]}},\"routing\":{\"domainStrategy\":\"IPIfNonMatch\",\"rules\":[{\"type\":\"field\",\"ip\":[\"1.1.1.1\"],\"outboundTag\":\"proxy\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"223.5.5.5\"],\"outboundTag\":\"direct\",\"port\":\"53\"}]}}\n\nترکیبی با سایفون وصله ✅\n\nآموزش استفادع : 👇\nhttps://t.me/ConfigX2ray0/1665\n\nChannel :  https://t.me/ConfigX2ray",
+    "text_html": "<blockquote expandable><code>{&quot;remarks&quot;:&quot;https://t.me/ConfigX2ray <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i> کانال تلگرامی ما&quot;,&quot;log&quot;:{&quot;loglevel&quot;:&quot;warning&quot;},&quot;inbounds&quot;:[{&quot;tag&quot;:&quot;socks&quot;,&quot;port&quot;:10808,&quot;protocol&quot;:&quot;socks&quot;,&quot;settings&quot;:{&quot;auth&quot;:&quot;noauth&quot;,&quot;udp&quot;:true,&quot;userLevel&quot;:8},&quot;sniffing&quot;:{&quot;enabled&quot;:true,&quot;destOverride&quot;:[&quot;http&quot;,&quot;tls&quot;],&quot;routeOnly&quot;:false}}],&quot;outbounds&quot;:[{&quot;tag&quot;:&quot;proxy&quot;,&quot;protocol&quot;:&quot;socks&quot;,&quot;settings&quot;:{&quot;servers&quot;:[{&quot;address&quot;:&quot;62.220.126.92&quot;,&quot;ota&quot;:false,&quot;port&quot;:32302,&quot;level&quot;:8}]},&quot;streamSettings&quot;:{&quot;network&quot;:&quot;tcp&quot;},&quot;mux&quot;:{&quot;enabled&quot;:false,&quot;concurrency&quot;:-1,&quot;xudpConcurrency&quot;:8,&quot;xudpProxyUDP443&quot;:&quot;&quot;}},{&quot;tag&quot;:&quot;direct&quot;,&quot;protocol&quot;:&quot;freedom&quot;,&quot;settings&quot;:{&quot;domainStrategy&quot;:&quot;UseIP&quot;},&quot;mux&quot;:{&quot;enabled&quot;:false,&quot;concurrency&quot;:8,&quot;xudpConcurrency&quot;:8,&quot;xudpProxyUDP443&quot;:&quot;&quot;}},{&quot;tag&quot;:&quot;block&quot;,&quot;protocol&quot;:&quot;blackhole&quot;,&quot;settings&quot;:{&quot;response&quot;:{&quot;type&quot;:&quot;http&quot;}},&quot;mux&quot;:{&quot;enabled&quot;:false,&quot;concurrency&quot;:8,&quot;xudpConcurrency&quot;:8,&quot;xudpProxyUDP443&quot;:&quot;&quot;}}],&quot;dns&quot;:{&quot;servers&quot;:[&quot;1.1.1.1&quot;],&quot;hosts&quot;:{&quot;domain:googleapis.cn&quot;:&quot;googleapis.com&quot;,&quot;dns.alidns.com&quot;:[&quot;223.5.5.5&quot;,&quot;223.6.6.6&quot;,&quot;2400:3200::1&quot;,&quot;2400:3200:baba::1&quot;],&quot;one.one.one.one&quot;:[&quot;1.1.1.1&quot;,&quot;1.0.0.1&quot;,&quot;2606:4700:4700::1111&quot;,&quot;2606:4700:4700::1001&quot;],&quot;dot.pub&quot;:[&quot;1.12.12.12&quot;,&quot;120.53.53.53&quot;],&quot;dns.google&quot;:[&quot;8.8.8.8&quot;,&quot;8.8.4.4&quot;,&quot;2001:4860:4860::8888&quot;,&quot;2001:4860:4860::8844&quot;],&quot;dns.quad9.net&quot;:[&quot;9.9.9.9&quot;,&quot;149.112.112.112&quot;,&quot;2620:fe::fe&quot;,&quot;2620:fe::9&quot;],&quot;common.dot.dns.yandex.net&quot;:[&quot;77.88.8.8&quot;,&quot;77.88.8.1&quot;,&quot;2a02:6b8::feed:0ff&quot;,&quot;2a02:6b8:0:1::feed:0ff&quot;]}},&quot;routing&quot;:{&quot;domainStrategy&quot;:&quot;IPIfNonMatch&quot;,&quot;rules&quot;:[{&quot;type&quot;:&quot;field&quot;,&quot;ip&quot;:[&quot;1.1.1.1&quot;],&quot;outboundTag&quot;:&quot;proxy&quot;,&quot;port&quot;:&quot;53&quot;},{&quot;type&quot;:&quot;field&quot;,&quot;ip&quot;:[&quot;223.5.5.5&quot;],&quot;outboundTag&quot;:&quot;direct&quot;,&quot;port&quot;:&quot;53&quot;}]}}</code></blockquote><code><br/></code><br/><b>ترکیبی با سایفون وصله </b><b><tg-emoji emoji-id=\"5866341893683549429\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji></b><b><br/><br/>آموزش استفادع : </b><b><tg-emoji emoji-id=\"5800754418768942233\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji></b><br/><a href=\"https://t.me/ConfigX2ray0/1665\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray0/1665</a><br/><br/>Channel :  <a href=\"https://t.me/ConfigX2ray\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray</a>",
+    "is_edited": false,
+    "views": 10900,
+    "views_raw": "10.9K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "ConfigX2ray/38782",
+          "url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
+          "thumbnail": null,
+          "local_path": "channels/configx2ray/media/photo/ConfigX2ray_38782_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/configx2ray/media/photo/ConfigX2ray_38782_0.jpg",
+          "size_bytes": 8186
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "👈",
+      "✅",
+      "👇",
+      "🔥",
+      "👏",
+      "🥰",
+      "😍"
+    ],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 2,
+    "post_url": "https://t.me/ConfigX2ray/38779",
+    "post_id": "ConfigX2ray/38779",
+    "date": "2026-05-13T07:17:30+00:00",
+    "date_unix": 1778656650,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "کانفیگ برای Npv tunnel ⭕️\n\nبه هیچ وج دانلود نزنید باهاش❤️\n\nرمز فایل : @ConfigX2ray\n\n Channel :  https://t.me/ConfigX2ray",
+    "text_html": "کانفیگ برای Npv tunnel <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i><br/><br/>به هیچ وج دانلود نزنید باهاش<tg-emoji emoji-id=\"5388790256772331442\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4.png')\"><b>❤️</b></i></tg-emoji><br/><br/>رمز فایل : <code>@ConfigX2ray</code><br/><br/> Channel :  <a href=\"https://t.me/ConfigX2ray\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray</a>",
+    "is_edited": false,
+    "views": 12900,
+    "views_raw": "12.9K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "ConfigX2ray/38779",
+          "url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
+          "thumbnail": null,
+          "local_path": "channels/configx2ray/media/photo/ConfigX2ray_38779_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/configx2ray/media/photo/ConfigX2ray_38779_0.jpg",
+          "size_bytes": 8186
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [
+      "ConfigX2ray"
+    ],
+    "links": [],
+    "emoji": [
+      "💯",
+      "⭕",
+      "️",
+      "🥰",
+      "💋",
+      "👏"
+    ],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 3,
+    "post_url": "https://t.me/ConfigX2ray/38778",
+    "post_id": "ConfigX2ray/38778",
+    "date": "2026-05-12T22:59:30+00:00",
+    "date_unix": 1778626770,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "vless://92177ca1-c032-4335-a166-c1947a3447b4@snapp.ir:80?path=%2F&security=none&encryption=none&host=M1.snllshop.ir&type=ws#https://t.me/ConfigX2ray\n\nترکیبی با سایفون وصله ✅\n\nآموزش استفادع : 👇\nhttps://t.me/ConfigX2ray0/1665\n\nChannel :  https://t.me/ConfigX2ray",
+    "text_html": "<code>vless://92177ca1-c032-4335-a166-c1947a3447b4@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=M1.snllshop.ir&amp;type=ws#https://t.me/ConfigX2ray<br/></code><br/><b>ترکیبی با سایفون وصله </b><b><tg-emoji emoji-id=\"5866341893683549429\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji></b><b><br/><br/>آموزش استفادع : </b><b><tg-emoji emoji-id=\"5800754418768942233\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji></b><br/><a href=\"https://t.me/ConfigX2ray0/1665\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray0/1665</a><br/><br/>Channel :  <a href=\"https://t.me/ConfigX2ray\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray</a>",
+    "is_edited": false,
+    "views": 23800,
+    "views_raw": "23.8K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "ConfigX2ray/38778",
+          "url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
+          "thumbnail": null,
+          "local_path": "channels/configx2ray/media/photo/ConfigX2ray_38778_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/configx2ray/media/photo/ConfigX2ray_38778_0.jpg",
+          "size_bytes": 8186
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec",
+      "https"
+    ],
+    "mentions": [
+      "snapp"
+    ],
+    "links": [],
+    "emoji": [
+      "✅",
+      "👇",
+      "🫡",
+      "💅",
+      "👍"
+    ],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 4,
     "post_url": "https://t.me/ConfigX2ray/38777",
     "post_id": "ConfigX2ray/38777",
     "date": "2026-05-12T19:49:44+00:00",
@@ -12,8 +227,8 @@
     "text": "کانفیگ برای Npv tunnel ⭕️\n\nبه هیچ وج دانلود نزنید باهاش❤️\n\nرمز فایل : @ConfigX2ray\n\n Channel :  https://t.me/ConfigX2ray",
     "text_html": "کانفیگ برای Npv tunnel <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i><br/><br/>به هیچ وج دانلود نزنید باهاش<tg-emoji emoji-id=\"5388790256772331442\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4.png')\"><b>❤️</b></i></tg-emoji><br/><br/>رمز فایل : <code>@ConfigX2ray</code><br/><br/> Channel :  <a href=\"https://t.me/ConfigX2ray\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray</a>",
     "is_edited": false,
-    "views": 19200,
-    "views_raw": "19.2K",
+    "views": 28800,
+    "views_raw": "28.8K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -34,8 +249,8 @@
         {
           "type": "photo",
           "post_id": "ConfigX2ray/38777",
-          "url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
           "thumbnail": null,
           "local_path": "channels/configx2ray/media/photo/ConfigX2ray_38777_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/configx2ray/media/photo/ConfigX2ray_38777_0.jpg",
@@ -63,16 +278,16 @@
     "emoji": [
       "⭕",
       "️",
+      "👏",
       "💅",
       "🔥",
-      "👏",
       "🥰"
     ],
     "reactions": [],
     "type": "photo"
   },
   {
-    "index": 2,
+    "index": 5,
     "post_url": "https://t.me/ConfigX2ray/38774",
     "post_id": "ConfigX2ray/38774",
     "date": "2026-05-12T19:25:03+00:00",
@@ -84,8 +299,8 @@
     "text": "{\"remarks\":\"Telegram : https://t.me/ConfigX2ray 🦅\",\"log\":{\"loglevel\":\"warning\"},\"inbounds\":[{\"tag\":\"socks\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true,\"userLevel\":8},\"sniffing\":{\"enabled\":true,\"destOverride\":[\"http\",\"tls\"],\"routeOnly\":false}}],\"outbounds\":[{\"tag\":\"proxy\",\"protocol\":\"socks\",\"settings\":{\"servers\":[{\"address\":\"62.220.126.92\",\"ota\":false,\"port\":32302,\"level\":8}]},\"streamSettings\":{\"network\":\"tcp\"},\"mux\":{\"enabled\":false,\"concurrency\":-1,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"direct\",\"protocol\":\"freedom\",\"settings\":{\"domainStrategy\":\"UseIP\"},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"block\",\"protocol\":\"blackhole\",\"settings\":{\"response\":{\"type\":\"http\"}},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}}],\"dns\":{\"servers\":[\"1.1.1.1\"],\"hosts\":{\"domain:googleapis.cn\":\"googleapis.com\",\"dns.alidns.com\":[\"223.5.5.5\",\"223.6.6.6\",\"2400:3200::1\",\"2400:3200:baba::1\"],\"one.one.one.one\":[\"1.1.1.1\",\"1.0.0.1\",\"2606:4700:4700::1111\",\"2606:4700:4700::1001\"],\"dot.pub\":[\"1.12.12.12\",\"120.53.53.53\"],\"dns.google\":[\"8.8.8.8\",\"8.8.4.4\",\"2001:4860:4860::8888\",\"2001:4860:4860::8844\"],\"dns.quad9.net\":[\"9.9.9.9\",\"149.112.112.112\",\"2620:fe::fe\",\"2620:fe::9\"],\"common.dot.dns.yandex.net\":[\"77.88.8.8\",\"77.88.8.1\",\"2a02:6b8::feed:0ff\",\"2a02:6b8:0:1::feed:0ff\"]}},\"routing\":{\"domainStrategy\":\"IPIfNonMatch\",\"rules\":[{\"type\":\"field\",\"ip\":[\"1.1.1.1\"],\"outboundTag\":\"proxy\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"223.5.5.5\"],\"outboundTag\":\"direct\",\"port\":\"53\"}]}}\nترکیبی با سایفون وصله ✅\n\nآموزش استفادع : 👇\nhttps://t.me/ConfigX2ray0/1665\n\nChannel :  https://t.me/ConfigX2ray",
     "text_html": "<blockquote expandable><code>{&quot;remarks&quot;:&quot;Telegram : https://t.me/ConfigX2ray <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA685.png')\"><b>🦅</b></i>&quot;,&quot;log&quot;:{&quot;loglevel&quot;:&quot;warning&quot;},&quot;inbounds&quot;:[{&quot;tag&quot;:&quot;socks&quot;,&quot;port&quot;:10808,&quot;protocol&quot;:&quot;socks&quot;,&quot;settings&quot;:{&quot;auth&quot;:&quot;noauth&quot;,&quot;udp&quot;:true,&quot;userLevel&quot;:8},&quot;sniffing&quot;:{&quot;enabled&quot;:true,&quot;destOverride&quot;:[&quot;http&quot;,&quot;tls&quot;],&quot;routeOnly&quot;:false}}],&quot;outbounds&quot;:[{&quot;tag&quot;:&quot;proxy&quot;,&quot;protocol&quot;:&quot;socks&quot;,&quot;settings&quot;:{&quot;servers&quot;:[{&quot;address&quot;:&quot;62.220.126.92&quot;,&quot;ota&quot;:false,&quot;port&quot;:32302,&quot;level&quot;:8}]},&quot;streamSettings&quot;:{&quot;network&quot;:&quot;tcp&quot;},&quot;mux&quot;:{&quot;enabled&quot;:false,&quot;concurrency&quot;:-1,&quot;xudpConcurrency&quot;:8,&quot;xudpProxyUDP443&quot;:&quot;&quot;}},{&quot;tag&quot;:&quot;direct&quot;,&quot;protocol&quot;:&quot;freedom&quot;,&quot;settings&quot;:{&quot;domainStrategy&quot;:&quot;UseIP&quot;},&quot;mux&quot;:{&quot;enabled&quot;:false,&quot;concurrency&quot;:8,&quot;xudpConcurrency&quot;:8,&quot;xudpProxyUDP443&quot;:&quot;&quot;}},{&quot;tag&quot;:&quot;block&quot;,&quot;protocol&quot;:&quot;blackhole&quot;,&quot;settings&quot;:{&quot;response&quot;:{&quot;type&quot;:&quot;http&quot;}},&quot;mux&quot;:{&quot;enabled&quot;:false,&quot;concurrency&quot;:8,&quot;xudpConcurrency&quot;:8,&quot;xudpProxyUDP443&quot;:&quot;&quot;}}],&quot;dns&quot;:{&quot;servers&quot;:[&quot;1.1.1.1&quot;],&quot;hosts&quot;:{&quot;domain:googleapis.cn&quot;:&quot;googleapis.com&quot;,&quot;dns.alidns.com&quot;:[&quot;223.5.5.5&quot;,&quot;223.6.6.6&quot;,&quot;2400:3200::1&quot;,&quot;2400:3200:baba::1&quot;],&quot;one.one.one.one&quot;:[&quot;1.1.1.1&quot;,&quot;1.0.0.1&quot;,&quot;2606:4700:4700::1111&quot;,&quot;2606:4700:4700::1001&quot;],&quot;dot.pub&quot;:[&quot;1.12.12.12&quot;,&quot;120.53.53.53&quot;],&quot;dns.google&quot;:[&quot;8.8.8.8&quot;,&quot;8.8.4.4&quot;,&quot;2001:4860:4860::8888&quot;,&quot;2001:4860:4860::8844&quot;],&quot;dns.quad9.net&quot;:[&quot;9.9.9.9&quot;,&quot;149.112.112.112&quot;,&quot;2620:fe::fe&quot;,&quot;2620:fe::9&quot;],&quot;common.dot.dns.yandex.net&quot;:[&quot;77.88.8.8&quot;,&quot;77.88.8.1&quot;,&quot;2a02:6b8::feed:0ff&quot;,&quot;2a02:6b8:0:1::feed:0ff&quot;]}},&quot;routing&quot;:{&quot;domainStrategy&quot;:&quot;IPIfNonMatch&quot;,&quot;rules&quot;:[{&quot;type&quot;:&quot;field&quot;,&quot;ip&quot;:[&quot;1.1.1.1&quot;],&quot;outboundTag&quot;:&quot;proxy&quot;,&quot;port&quot;:&quot;53&quot;},{&quot;type&quot;:&quot;field&quot;,&quot;ip&quot;:[&quot;223.5.5.5&quot;],&quot;outboundTag&quot;:&quot;direct&quot;,&quot;port&quot;:&quot;53&quot;}]}}</code></blockquote><br/><b>ترکیبی با سایفون وصله </b><b><tg-emoji emoji-id=\"5866341893683549429\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji></b><b><br/><br/>آموزش استفادع : </b><b><tg-emoji emoji-id=\"5800754418768942233\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji></b><br/><a href=\"https://t.me/ConfigX2ray0/1665\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray0/1665</a><br/><br/>Channel :  <a href=\"https://t.me/ConfigX2ray\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray</a>",
     "is_edited": false,
-    "views": 20700,
-    "views_raw": "20.7K",
+    "views": 28700,
+    "views_raw": "28.7K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -106,8 +321,8 @@
         {
           "type": "photo",
           "post_id": "ConfigX2ray/38774",
-          "url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
           "thumbnail": null,
           "local_path": "channels/configx2ray/media/photo/ConfigX2ray_38774_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/configx2ray/media/photo/ConfigX2ray_38774_0.jpg",
@@ -139,7 +354,7 @@
     "type": "photo"
   },
   {
-    "index": 3,
+    "index": 6,
     "post_url": "https://t.me/ConfigX2ray/38773",
     "post_id": "ConfigX2ray/38773",
     "date": "2026-05-12T17:55:57+00:00",
@@ -151,8 +366,8 @@
     "text": "کانفیگ برای Npv tunnel ⭕️\n\nبه هیچ وج دانلود نزنید باهاش❤️\n\nرمز فایل : @ConfigX2ray\n\n Channel :  https://t.me/ConfigX2ray",
     "text_html": "کانفیگ برای Npv tunnel <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i><br/><br/>به هیچ وج دانلود نزنید باهاش<tg-emoji emoji-id=\"5388790256772331442\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4.png')\"><b>❤️</b></i></tg-emoji><br/><br/>رمز فایل : <code>@ConfigX2ray</code><br/><br/> Channel :  <a href=\"https://t.me/ConfigX2ray\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray</a>",
     "is_edited": false,
-    "views": 22800,
-    "views_raw": "22.8K",
+    "views": 28800,
+    "views_raw": "28.8K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -173,8 +388,8 @@
         {
           "type": "photo",
           "post_id": "ConfigX2ray/38773",
-          "url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
           "thumbnail": null,
           "local_path": "channels/configx2ray/media/photo/ConfigX2ray_38773_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/configx2ray/media/photo/ConfigX2ray_38773_0.jpg",
@@ -210,7 +425,7 @@
     "type": "photo"
   },
   {
-    "index": 4,
+    "index": 7,
     "post_url": "https://t.me/ConfigX2ray/38771",
     "post_id": "ConfigX2ray/38771",
     "date": "2026-05-12T17:52:53+00:00",
@@ -222,8 +437,8 @@
     "text": "کانفیگ برای Npv tunnel ⭕️\n\nبه هیچ وج دانلود نزنید باهاش❤️\n\nرمز فایل : @ConfigX2ray\n\n Channel :  https://t.me/ConfigX2ray",
     "text_html": "کانفیگ برای Npv tunnel <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i><br/><br/>به هیچ وج دانلود نزنید باهاش<tg-emoji emoji-id=\"5388790256772331442\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4.png')\"><b>❤️</b></i></tg-emoji><br/><br/>رمز فایل : <code>@ConfigX2ray</code><br/><br/> Channel :  <a href=\"https://t.me/ConfigX2ray\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray</a>",
     "is_edited": false,
-    "views": 21500,
-    "views_raw": "21.5K",
+    "views": 26900,
+    "views_raw": "26.9K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -244,8 +459,8 @@
         {
           "type": "photo",
           "post_id": "ConfigX2ray/38771",
-          "url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
           "thumbnail": null,
           "local_path": "channels/configx2ray/media/photo/ConfigX2ray_38771_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/configx2ray/media/photo/ConfigX2ray_38771_0.jpg",
@@ -281,7 +496,7 @@
     "type": "photo"
   },
   {
-    "index": 5,
+    "index": 8,
     "post_url": "https://t.me/ConfigX2ray/38770",
     "post_id": "ConfigX2ray/38770",
     "date": "2026-05-12T17:40:30+00:00",
@@ -293,8 +508,8 @@
     "text": "کانفیگ برای Npv tunnel ⭕️\n\nبه هیچ وج دانلود نزنید باهاش❤️\n\nرمز فایل : @ConfigX2ray\n\n Channel :  https://t.me/ConfigX2ray",
     "text_html": "کانفیگ برای Npv tunnel <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i><br/><br/>به هیچ وج دانلود نزنید باهاش<tg-emoji emoji-id=\"5388790256772331442\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4.png')\"><b>❤️</b></i></tg-emoji><br/><br/>رمز فایل : <code>@ConfigX2ray</code><br/><br/> Channel :  <a href=\"https://t.me/ConfigX2ray\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray</a>",
     "is_edited": false,
-    "views": 21400,
-    "views_raw": "21.4K",
+    "views": 26300,
+    "views_raw": "26.3K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -315,8 +530,8 @@
         {
           "type": "photo",
           "post_id": "ConfigX2ray/38770",
-          "url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
           "thumbnail": null,
           "local_path": "channels/configx2ray/media/photo/ConfigX2ray_38770_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/configx2ray/media/photo/ConfigX2ray_38770_0.jpg",
@@ -353,7 +568,7 @@
     "type": "photo"
   },
   {
-    "index": 6,
+    "index": 9,
     "post_url": "https://t.me/ConfigX2ray/38768",
     "post_id": "ConfigX2ray/38768",
     "date": "2026-05-12T16:26:43+00:00",
@@ -365,8 +580,8 @@
     "text": "trojan://2a599135-886f-4359-bf68-0993baa990f1@79.127.82.170:443?path=%2F1000%2F10%2Fb449693f-1869-4379-946d-279f2ad95021&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd&fp=randomized&type=ws&allowInsecure=0&sni=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd#https://t.me/ConfigX2ray\n\nترکیبی با سایفون وصله ✅\n\nآموزش استفادع : 👇\nhttps://t.me/ConfigX2ray0/1665\n\nChannel :  https://t.me/ConfigX2ray",
     "text_html": "<code>trojan://2a599135-886f-4359-bf68-0993baa990f1@79.127.82.170:443?path=%2F1000%2F10%2Fb449693f-1869-4379-946d-279f2ad95021&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;insecure=0&amp;host=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd&amp;fp=randomized&amp;type=ws&amp;allowInsecure=0&amp;sni=wow-game-server-gb-nb-d.world-of-warcraft-game-server.cfd#https://t.me/ConfigX2ray<br/></code><br/><b>ترکیبی با سایفون وصله </b><b><tg-emoji emoji-id=\"5866341893683549429\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji></b><b><br/><br/>آموزش استفادع : </b><b><tg-emoji emoji-id=\"5800754418768942233\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji></b><br/><a href=\"https://t.me/ConfigX2ray0/1665\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray0/1665</a><br/><br/>Channel :  <a href=\"https://t.me/ConfigX2ray\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray</a>",
     "is_edited": false,
-    "views": 23600,
-    "views_raw": "23.6K",
+    "views": 27600,
+    "views_raw": "27.6K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -387,8 +602,8 @@
         {
           "type": "photo",
           "post_id": "ConfigX2ray/38768",
-          "url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
           "thumbnail": null,
           "local_path": "channels/configx2ray/media/photo/ConfigX2ray_38768_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/configx2ray/media/photo/ConfigX2ray_38768_0.jpg",
@@ -424,7 +639,7 @@
     "type": "photo"
   },
   {
-    "index": 7,
+    "index": 10,
     "post_url": "https://t.me/ConfigX2ray/38763",
     "post_id": "ConfigX2ray/38763",
     "date": "2026-05-12T15:05:11+00:00",
@@ -436,8 +651,8 @@
     "text": "vless://92177ca1-c032-4335-a166-c1947a3447b4@snapp.ir:80?path=%2F&security=none&encryption=none&host=M1.snllshop.ir&type=ws#https://t.me/ConfigX2ray\n\nترکیبی با سایفون وصله ✅\n\nآموزش استفادع : 👇\nhttps://t.me/ConfigX2ray0/1665\n\nChannel :  https://t.me/ConfigX2ray",
     "text_html": "<code>vless://92177ca1-c032-4335-a166-c1947a3447b4@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=M1.snllshop.ir&amp;type=ws#https://t.me/ConfigX2ray<br/></code><br/><b>ترکیبی با سایفون وصله </b><b><tg-emoji emoji-id=\"5866341893683549429\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji></b><b><br/><br/>آموزش استفادع : </b><b><tg-emoji emoji-id=\"5800754418768942233\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji></b><br/><a href=\"https://t.me/ConfigX2ray0/1665\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray0/1665</a><br/><br/>Channel :  <a href=\"https://t.me/ConfigX2ray\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray</a>",
     "is_edited": false,
-    "views": 24800,
-    "views_raw": "24.8K",
+    "views": 27400,
+    "views_raw": "27.4K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -458,8 +673,8 @@
         {
           "type": "photo",
           "post_id": "ConfigX2ray/38763",
-          "url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
           "thumbnail": null,
           "local_path": "channels/configx2ray/media/photo/ConfigX2ray_38763_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/configx2ray/media/photo/ConfigX2ray_38763_0.jpg",
@@ -494,7 +709,7 @@
     "type": "photo"
   },
   {
-    "index": 8,
+    "index": 11,
     "post_url": "https://t.me/ConfigX2ray/38762",
     "post_id": "ConfigX2ray/38762",
     "date": "2026-05-12T13:38:32+00:00",
@@ -506,8 +721,8 @@
     "text": "مرادعلی متصل.npvt",
     "text_html": "مرادعلی متصل.npvt",
     "is_edited": false,
-    "views": 26100,
-    "views_raw": "26.1K",
+    "views": 28500,
+    "views_raw": "28.5K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -528,8 +743,8 @@
         {
           "type": "photo",
           "post_id": "ConfigX2ray/38762",
-          "url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
           "thumbnail": null,
           "local_path": "channels/configx2ray/media/photo/ConfigX2ray_38762_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/configx2ray/media/photo/ConfigX2ray_38762_0.jpg",
@@ -560,7 +775,7 @@
     "type": "photo"
   },
   {
-    "index": 9,
+    "index": 12,
     "post_url": "https://t.me/ConfigX2ray/38761",
     "post_id": "ConfigX2ray/38761",
     "date": "2026-05-12T13:38:10+00:00",
@@ -572,8 +787,8 @@
     "text": "کانفیگ برای Npv tunnel ⭕️\n\nبه هیچ وج دانلود نزنید باهاش❤️\n\nرمز فایل : @ConfigX2ray\n\n Channel :  https://t.me/ConfigX2ray",
     "text_html": "کانفیگ برای Npv tunnel <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i><br/><br/>به هیچ وج دانلود نزنید باهاش<tg-emoji emoji-id=\"5388790256772331442\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4.png')\"><b>❤️</b></i></tg-emoji><br/><br/>رمز فایل : <code>@ConfigX2ray</code><br/><br/> Channel :  <a href=\"https://t.me/ConfigX2ray\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray</a>",
     "is_edited": false,
-    "views": 26400,
-    "views_raw": "26.4K",
+    "views": 29200,
+    "views_raw": "29.2K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -594,8 +809,8 @@
         {
           "type": "photo",
           "post_id": "ConfigX2ray/38761",
-          "url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
           "thumbnail": null,
           "local_path": "channels/configx2ray/media/photo/ConfigX2ray_38761_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/configx2ray/media/photo/ConfigX2ray_38761_0.jpg",
@@ -631,7 +846,7 @@
     "type": "photo"
   },
   {
-    "index": 10,
+    "index": 13,
     "post_url": "https://t.me/ConfigX2ray/38760",
     "post_id": "ConfigX2ray/38760",
     "date": "2026-05-12T13:29:30+00:00",
@@ -643,8 +858,8 @@
     "text": "{\"remarks\":\"Telegram : https://t.me/ConfigX2ray 🦅\",\"log\":{\"loglevel\":\"warning\"},\"inbounds\":[{\"tag\":\"socks\",\"port\":10808,\"protocol\":\"socks\",\"settings\":{\"auth\":\"noauth\",\"udp\":true,\"userLevel\":8},\"sniffing\":{\"enabled\":true,\"destOverride\":[\"http\",\"tls\"],\"routeOnly\":false}}],\"outbounds\":[{\"tag\":\"proxy\",\"protocol\":\"socks\",\"settings\":{\"servers\":[{\"address\":\"62.220.126.92\",\"ota\":false,\"port\":32302,\"level\":8}]},\"streamSettings\":{\"network\":\"tcp\"},\"mux\":{\"enabled\":false,\"concurrency\":-1,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"direct\",\"protocol\":\"freedom\",\"settings\":{\"domainStrategy\":\"UseIP\"},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}},{\"tag\":\"block\",\"protocol\":\"blackhole\",\"settings\":{\"response\":{\"type\":\"http\"}},\"mux\":{\"enabled\":false,\"concurrency\":8,\"xudpConcurrency\":8,\"xudpProxyUDP443\":\"\"}}],\"dns\":{\"servers\":[\"1.1.1.1\"],\"hosts\":{\"domain:googleapis.cn\":\"googleapis.com\",\"dns.alidns.com\":[\"223.5.5.5\",\"223.6.6.6\",\"2400:3200::1\",\"2400:3200:baba::1\"],\"one.one.one.one\":[\"1.1.1.1\",\"1.0.0.1\",\"2606:4700:4700::1111\",\"2606:4700:4700::1001\"],\"dot.pub\":[\"1.12.12.12\",\"120.53.53.53\"],\"dns.google\":[\"8.8.8.8\",\"8.8.4.4\",\"2001:4860:4860::8888\",\"2001:4860:4860::8844\"],\"dns.quad9.net\":[\"9.9.9.9\",\"149.112.112.112\",\"2620:fe::fe\",\"2620:fe::9\"],\"common.dot.dns.yandex.net\":[\"77.88.8.8\",\"77.88.8.1\",\"2a02:6b8::feed:0ff\",\"2a02:6b8:0:1::feed:0ff\"]}},\"routing\":{\"domainStrategy\":\"IPIfNonMatch\",\"rules\":[{\"type\":\"field\",\"ip\":[\"1.1.1.1\"],\"outboundTag\":\"proxy\",\"port\":\"53\"},{\"type\":\"field\",\"ip\":[\"223.5.5.5\"],\"outboundTag\":\"direct\",\"port\":\"53\"}]}}\nترکیبی با سایفون وصله ✅\n\nآموزش استفادع : 👇\nhttps://t.me/ConfigX2ray0/1665\n\nChannel :  https://t.me/ConfigX2ray",
     "text_html": "<blockquote expandable><code>{&quot;remarks&quot;:&quot;Telegram : https://t.me/ConfigX2ray <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA685.png')\"><b>🦅</b></i>&quot;,&quot;log&quot;:{&quot;loglevel&quot;:&quot;warning&quot;},&quot;inbounds&quot;:[{&quot;tag&quot;:&quot;socks&quot;,&quot;port&quot;:10808,&quot;protocol&quot;:&quot;socks&quot;,&quot;settings&quot;:{&quot;auth&quot;:&quot;noauth&quot;,&quot;udp&quot;:true,&quot;userLevel&quot;:8},&quot;sniffing&quot;:{&quot;enabled&quot;:true,&quot;destOverride&quot;:[&quot;http&quot;,&quot;tls&quot;],&quot;routeOnly&quot;:false}}],&quot;outbounds&quot;:[{&quot;tag&quot;:&quot;proxy&quot;,&quot;protocol&quot;:&quot;socks&quot;,&quot;settings&quot;:{&quot;servers&quot;:[{&quot;address&quot;:&quot;62.220.126.92&quot;,&quot;ota&quot;:false,&quot;port&quot;:32302,&quot;level&quot;:8}]},&quot;streamSettings&quot;:{&quot;network&quot;:&quot;tcp&quot;},&quot;mux&quot;:{&quot;enabled&quot;:false,&quot;concurrency&quot;:-1,&quot;xudpConcurrency&quot;:8,&quot;xudpProxyUDP443&quot;:&quot;&quot;}},{&quot;tag&quot;:&quot;direct&quot;,&quot;protocol&quot;:&quot;freedom&quot;,&quot;settings&quot;:{&quot;domainStrategy&quot;:&quot;UseIP&quot;},&quot;mux&quot;:{&quot;enabled&quot;:false,&quot;concurrency&quot;:8,&quot;xudpConcurrency&quot;:8,&quot;xudpProxyUDP443&quot;:&quot;&quot;}},{&quot;tag&quot;:&quot;block&quot;,&quot;protocol&quot;:&quot;blackhole&quot;,&quot;settings&quot;:{&quot;response&quot;:{&quot;type&quot;:&quot;http&quot;}},&quot;mux&quot;:{&quot;enabled&quot;:false,&quot;concurrency&quot;:8,&quot;xudpConcurrency&quot;:8,&quot;xudpProxyUDP443&quot;:&quot;&quot;}}],&quot;dns&quot;:{&quot;servers&quot;:[&quot;1.1.1.1&quot;],&quot;hosts&quot;:{&quot;domain:googleapis.cn&quot;:&quot;googleapis.com&quot;,&quot;dns.alidns.com&quot;:[&quot;223.5.5.5&quot;,&quot;223.6.6.6&quot;,&quot;2400:3200::1&quot;,&quot;2400:3200:baba::1&quot;],&quot;one.one.one.one&quot;:[&quot;1.1.1.1&quot;,&quot;1.0.0.1&quot;,&quot;2606:4700:4700::1111&quot;,&quot;2606:4700:4700::1001&quot;],&quot;dot.pub&quot;:[&quot;1.12.12.12&quot;,&quot;120.53.53.53&quot;],&quot;dns.google&quot;:[&quot;8.8.8.8&quot;,&quot;8.8.4.4&quot;,&quot;2001:4860:4860::8888&quot;,&quot;2001:4860:4860::8844&quot;],&quot;dns.quad9.net&quot;:[&quot;9.9.9.9&quot;,&quot;149.112.112.112&quot;,&quot;2620:fe::fe&quot;,&quot;2620:fe::9&quot;],&quot;common.dot.dns.yandex.net&quot;:[&quot;77.88.8.8&quot;,&quot;77.88.8.1&quot;,&quot;2a02:6b8::feed:0ff&quot;,&quot;2a02:6b8:0:1::feed:0ff&quot;]}},&quot;routing&quot;:{&quot;domainStrategy&quot;:&quot;IPIfNonMatch&quot;,&quot;rules&quot;:[{&quot;type&quot;:&quot;field&quot;,&quot;ip&quot;:[&quot;1.1.1.1&quot;],&quot;outboundTag&quot;:&quot;proxy&quot;,&quot;port&quot;:&quot;53&quot;},{&quot;type&quot;:&quot;field&quot;,&quot;ip&quot;:[&quot;223.5.5.5&quot;],&quot;outboundTag&quot;:&quot;direct&quot;,&quot;port&quot;:&quot;53&quot;}]}}</code></blockquote><br/><b>ترکیبی با سایفون وصله </b><b><tg-emoji emoji-id=\"5866341893683549429\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji></b><b><br/><br/>آموزش استفادع : </b><b><tg-emoji emoji-id=\"5800754418768942233\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji></b><br/><a href=\"https://t.me/ConfigX2ray0/1665\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray0/1665</a><br/><br/>Channel :  <a href=\"https://t.me/ConfigX2ray\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray</a>",
     "is_edited": false,
-    "views": 26700,
-    "views_raw": "26.7K",
+    "views": 29800,
+    "views_raw": "29.8K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -665,8 +880,8 @@
         {
           "type": "photo",
           "post_id": "ConfigX2ray/38760",
-          "url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
           "thumbnail": null,
           "local_path": "channels/configx2ray/media/photo/ConfigX2ray_38760_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/configx2ray/media/photo/ConfigX2ray_38760_0.jpg",
@@ -698,7 +913,7 @@
     "type": "photo"
   },
   {
-    "index": 11,
+    "index": 14,
     "post_url": "https://t.me/ConfigX2ray/38756",
     "post_id": "ConfigX2ray/38756",
     "date": "2026-05-12T11:27:48+00:00",
@@ -710,8 +925,8 @@
     "text": "کانفیگ برای Npv tunnel ⭕️\n\nبه هیچ وج دانلود نزنید باهاش❤️\n\nرمز فایل : @ConfigX2ray\n\n Channel :  https://t.me/ConfigX2ray",
     "text_html": "کانفیگ برای Npv tunnel <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i><br/><br/>به هیچ وج دانلود نزنید باهاش<tg-emoji emoji-id=\"5388790256772331442\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4.png')\"><b>❤️</b></i></tg-emoji><br/><br/>رمز فایل : <code>@ConfigX2ray</code><br/><br/> Channel :  <a href=\"https://t.me/ConfigX2ray\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray</a>",
     "is_edited": false,
-    "views": 31100,
-    "views_raw": "31.1K",
+    "views": 34000,
+    "views_raw": "34K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -732,8 +947,8 @@
         {
           "type": "photo",
           "post_id": "ConfigX2ray/38756",
-          "url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
           "thumbnail": null,
           "local_path": "channels/configx2ray/media/photo/ConfigX2ray_38756_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/configx2ray/media/photo/ConfigX2ray_38756_0.jpg",
@@ -773,7 +988,7 @@
     "type": "photo"
   },
   {
-    "index": 12,
+    "index": 15,
     "post_url": "https://t.me/ConfigX2ray/38753",
     "post_id": "ConfigX2ray/38753",
     "date": "2026-05-12T08:33:44+00:00",
@@ -785,8 +1000,8 @@
     "text": "socks://ZXJtaWE6RXJtaWEzNDcyIw%3D%3D@185.231.183.229:80#https://t.me/ConfigX2ray\n\nترکیبی با سایفون وصله ✅\n\nآموزش استفادع : 👇\nhttps://t.me/ConfigX2ray0/1665\n\nChannel :  https://t.me/ConfigX2ray",
     "text_html": "<code>socks://ZXJtaWE6RXJtaWEzNDcyIw%3D%3D@185.231.183.229:80#https://t.me/ConfigX2ray<br/></code><br/><b>ترکیبی با سایفون وصله </b><b><tg-emoji emoji-id=\"5866341893683549429\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji></b><b><br/><br/>آموزش استفادع : </b><b><tg-emoji emoji-id=\"5800754418768942233\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji></b><br/><a href=\"https://t.me/ConfigX2ray0/1665\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray0/1665</a><br/><br/>Channel :  <a href=\"https://t.me/ConfigX2ray\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray</a>",
     "is_edited": false,
-    "views": 36200,
-    "views_raw": "36.2K",
+    "views": 38600,
+    "views_raw": "38.6K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -807,8 +1022,8 @@
         {
           "type": "photo",
           "post_id": "ConfigX2ray/38753",
-          "url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
           "thumbnail": null,
           "local_path": "channels/configx2ray/media/photo/ConfigX2ray_38753_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/configx2ray/media/photo/ConfigX2ray_38753_0.jpg",
@@ -838,15 +1053,15 @@
       "✅",
       "👇",
       "👍",
-      "🫡",
       "💋",
+      "🫡",
       "💅"
     ],
     "reactions": [],
     "type": "photo"
   },
   {
-    "index": 13,
+    "index": 16,
     "post_url": "https://t.me/ConfigX2ray/38750",
     "post_id": "ConfigX2ray/38750",
     "date": "2026-05-11T22:47:55+00:00",
@@ -858,8 +1073,8 @@
     "text": "کانفیگ برای Npv tunnel ⭕️\n\nبه هیچ وج دانلود نزنید باهاش❤️\n\nرمز فایل : @ConfigX2ray\n\n Channel :  https://t.me/ConfigX2ray",
     "text_html": "کانفیگ برای Npv tunnel <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i><br/><br/>به هیچ وج دانلود نزنید باهاش<tg-emoji emoji-id=\"5388790256772331442\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4.png')\"><b>❤️</b></i></tg-emoji><br/><br/>رمز فایل : <code>@ConfigX2ray</code><br/><br/> Channel :  <a href=\"https://t.me/ConfigX2ray\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray</a>",
     "is_edited": false,
-    "views": 41500,
-    "views_raw": "41.5K",
+    "views": 43100,
+    "views_raw": "43.1K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -880,8 +1095,8 @@
         {
           "type": "photo",
           "post_id": "ConfigX2ray/38750",
-          "url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
           "thumbnail": null,
           "local_path": "channels/configx2ray/media/photo/ConfigX2ray_38750_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/configx2ray/media/photo/ConfigX2ray_38750_0.jpg",
@@ -919,7 +1134,7 @@
     "type": "photo"
   },
   {
-    "index": 14,
+    "index": 17,
     "post_url": "https://t.me/ConfigX2ray/38744",
     "post_id": "ConfigX2ray/38744",
     "date": "2026-05-11T16:52:44+00:00",
@@ -931,8 +1146,8 @@
     "text": "vless://92177ca1-c032-4335-a166-c1947a3447b4@snapp.ir:80?path=%2F&security=none&encryption=none&host=M1.snllshop.ir&type=ws#https://t.me/ConfigX2ray\n\nترکیبی با سایفون وصله ✅\n\nآموزش استفادع : 👇\nhttps://t.me/ConfigX2ray0/1665\n\nChannel :  https://t.me/ConfigX2ray",
     "text_html": "<code>vless://92177ca1-c032-4335-a166-c1947a3447b4@snapp.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=M1.snllshop.ir&amp;type=ws#https://t.me/ConfigX2ray<br/></code><br/><b>ترکیبی با سایفون وصله </b><b><tg-emoji emoji-id=\"5866341893683549429\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji></b><b><br/><br/>آموزش استفادع : </b><b><tg-emoji emoji-id=\"5800754418768942233\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji></b><br/><a href=\"https://t.me/ConfigX2ray0/1665\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray0/1665</a><br/><br/>Channel :  <a href=\"https://t.me/ConfigX2ray\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray</a>",
     "is_edited": false,
-    "views": 47400,
-    "views_raw": "47.4K",
+    "views": 48500,
+    "views_raw": "48.5K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -953,8 +1168,8 @@
         {
           "type": "photo",
           "post_id": "ConfigX2ray/38744",
-          "url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
           "thumbnail": null,
           "local_path": "channels/configx2ray/media/photo/ConfigX2ray_38744_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/configx2ray/media/photo/ConfigX2ray_38744_0.jpg",
@@ -992,7 +1207,7 @@
     "type": "photo"
   },
   {
-    "index": 15,
+    "index": 18,
     "post_url": "https://t.me/ConfigX2ray/38743",
     "post_id": "ConfigX2ray/38743",
     "date": "2026-05-11T16:08:42+00:00",
@@ -1004,8 +1219,8 @@
     "text": "کانفیگ برای Npv tunnel ⭕️\n\nبه هیچ وج دانلود نزنید باهاش❤️\n\nرمز فایل : @ConfigX2ray\n\n Channel :  https://t.me/ConfigX2ray",
     "text_html": "کانفیگ برای Npv tunnel <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i><br/><br/>به هیچ وج دانلود نزنید باهاش<tg-emoji emoji-id=\"5388790256772331442\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4.png')\"><b>❤️</b></i></tg-emoji><br/><br/>رمز فایل : <code>@ConfigX2ray</code><br/><br/> Channel :  <a href=\"https://t.me/ConfigX2ray\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray</a>",
     "is_edited": false,
-    "views": 44500,
-    "views_raw": "44.5K",
+    "views": 45500,
+    "views_raw": "45.5K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1026,8 +1241,8 @@
         {
           "type": "photo",
           "post_id": "ConfigX2ray/38743",
-          "url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
           "thumbnail": null,
           "local_path": "channels/configx2ray/media/photo/ConfigX2ray_38743_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/configx2ray/media/photo/ConfigX2ray_38743_0.jpg",
@@ -1061,7 +1276,7 @@
     "type": "photo"
   },
   {
-    "index": 16,
+    "index": 19,
     "post_url": "https://t.me/ConfigX2ray/38738",
     "post_id": "ConfigX2ray/38738",
     "date": "2026-05-11T12:32:51+00:00",
@@ -1073,8 +1288,8 @@
     "text": "کانفیگ برای Npv tunnel ⭕️\n\nبه هیچ وج دانلود نزنید باهاش❤️\n\nرمز فایل : @ConfigX2ray\n\n Channel :  https://t.me/ConfigX2ray",
     "text_html": "کانفیگ برای Npv tunnel <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i><br/><br/>به هیچ وج دانلود نزنید باهاش<tg-emoji emoji-id=\"5388790256772331442\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4.png')\"><b>❤️</b></i></tg-emoji><br/><br/>رمز فایل : <code>@ConfigX2ray</code><br/><br/> Channel :  <a href=\"https://t.me/ConfigX2ray\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray</a>",
     "is_edited": false,
-    "views": 45400,
-    "views_raw": "45.4K",
+    "views": 46300,
+    "views_raw": "46.3K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1095,8 +1310,8 @@
         {
           "type": "photo",
           "post_id": "ConfigX2ray/38738",
-          "url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/BofMKE2bhDWiOK8dLudmK4Y7lLkmD_QVHOCUr7d3N5W1jM7LB7FZraXD15KfUrnG5Z9Dq9EI55zlQTqhUK-u9oZoiovwspPHp6mVuOh6YuplRAScLzmROETIcH-NOUkqjX0KfPd7BpVFbEe75Wtem5M7xkn1icxgk7AgiZH8_uWKFYzmc0lSEZJciXZEXR7Zb6IlNuIN08U4I4855oY0CccPBYEOFHj3-ePskd_WpjcYPbfRBD7FT8zP10zGBSHIDu1Md3PPzWTZv5JLSioPUEJjpJGY5HocRm_L0cQmOLHtlOCtTmLpqDOW_jGXNbGZE53RS6WWc_BpwguTg6YM0Q.jpg",
           "thumbnail": null,
           "local_path": "channels/configx2ray/media/photo/ConfigX2ray_38738_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/configx2ray/media/photo/ConfigX2ray_38738_0.jpg",
@@ -1131,225 +1346,6 @@
       "🎉",
       "😇",
       "💅"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 17,
-    "post_url": "https://t.me/ConfigX2ray/38737",
-    "post_id": "ConfigX2ray/38737",
-    "date": "2026-05-11T11:57:26+00:00",
-    "date_unix": 1778500646,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eE53NWRpWllOM3NycTh1Q2ZtUVI5OHZZYzM5ZWN0NA@xiaomandapple4certificate.ikco.ir.soserverbot.shop:15152?type=tcp&headerType=none#https://t.me/ConfigX2ray\n\nترکیبی با سایفون وصله ✅\n\nآموزش استفادع : 👇\nhttps://t.me/ConfigX2ray0/1665\n\nChannel :  https://t.me/ConfigX2ray",
-    "text_html": "<code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eE53NWRpWllOM3NycTh1Q2ZtUVI5OHZZYzM5ZWN0NA@xiaomandapple4certificate.ikco.ir.soserverbot.shop:15152?type=tcp&amp;headerType=none#https://t.me/ConfigX2ray<br/></code><br/><b>ترکیبی با سایفون وصله </b><b><tg-emoji emoji-id=\"5866341893683549429\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji></b><b><br/><br/>آموزش استفادع : </b><b><tg-emoji emoji-id=\"5800754418768942233\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji></b><br/><a href=\"https://t.me/ConfigX2ray0/1665\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray0/1665</a><br/><br/>Channel :  <a href=\"https://t.me/ConfigX2ray\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray</a>",
-    "is_edited": false,
-    "views": 43700,
-    "views_raw": "43.7K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "ConfigX2ray/38737",
-          "url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/configx2ray/media/photo/ConfigX2ray_38737_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/configx2ray/media/photo/ConfigX2ray_38737_0.jpg",
-          "size_bytes": 8186
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec",
-      "https"
-    ],
-    "mentions": [
-      "xiaomandapple4certificate"
-    ],
-    "links": [],
-    "emoji": [
-      "✅",
-      "👇",
-      "🎉",
-      "👍",
-      "🥰",
-      "🫡"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 18,
-    "post_url": "https://t.me/ConfigX2ray/38736",
-    "post_id": "ConfigX2ray/38736",
-    "date": "2026-05-11T11:43:11+00:00",
-    "date_unix": 1778499791,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "Free 🔥 اختصاصی @ConfigX2ray.npvt",
-    "text_html": "Free <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i> اختصاصی @ConfigX2ray.npvt",
-    "is_edited": false,
-    "views": 40600,
-    "views_raw": "40.6K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "ConfigX2ray/38736",
-          "url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/configx2ray/media/photo/ConfigX2ray_38736_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/configx2ray/media/photo/ConfigX2ray_38736_0.jpg",
-          "size_bytes": 8186
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [
-      "ConfigX2ray"
-    ],
-    "links": [],
-    "emoji": [
-      "🔥",
-      "😈",
-      "👏",
-      "👍",
-      "💋",
-      "💅"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 19,
-    "post_url": "https://t.me/ConfigX2ray/38735",
-    "post_id": "ConfigX2ray/38735",
-    "date": "2026-05-11T09:55:06+00:00",
-    "date_unix": 1778493306,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "کانفیگ برای Npv tunnel ⭕️\n\nبه هیچ وج دانلود نزنید باهاش❤️\n\nرمز فایل : @ConfigX2ray\n\n Channel :  https://t.me/ConfigX2ray",
-    "text_html": "کانفیگ برای Npv tunnel <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i><br/><br/>به هیچ وج دانلود نزنید باهاش<tg-emoji emoji-id=\"5388790256772331442\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4.png')\"><b>❤️</b></i></tg-emoji><br/><br/>رمز فایل : <code>@ConfigX2ray</code><br/><br/> Channel :  <a href=\"https://t.me/ConfigX2ray\" target=\"_blank\" rel=\"noopener\">https://t.me/ConfigX2ray</a>",
-    "is_edited": false,
-    "views": 41000,
-    "views_raw": "41K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "ConfigX2ray/38735",
-          "url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/ahwUXBw1uvO_yuBNCTgCV09TQQ_S85kfhkRkAGokbhBcl6ZS58odrichrFrhewM3ohUzgDjltApr8D3GvD1TYHdEs4sEVwELnT7YDfACm8kMey0CRM6caj1XTxyUy04_cEu_95MbsAbv_Vqhb6s7TD5_t7qQ1VtVjdrcO5X3KRfsD0IgxSetfrSRLElb2IlCVJv7QPsrXZ686z-LQ6t5eCxLOK-OPDpz2tStlmOXp93EX6qMDaaFGT-jQHZRj8VVAsKuME9Xk6T-WcbjmxPILHcgX4Vx82jVcLxZM3We6BL8hWcQ38cIw-YBtIoBcyRR5n_vTl3Wh3GJffBczYUGbQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/configx2ray/media/photo/ConfigX2ray_38735_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/configx2ray/media/photo/ConfigX2ray_38735_0.jpg",
-          "size_bytes": 8186
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [
-      "ConfigX2ray"
-    ],
-    "links": [],
-    "emoji": [
-      "🔥",
-      "⭕",
-      "️",
-      "💅",
-      "👍",
-      "‍",
-      "🥰",
-      "👏"
     ],
     "reactions": [],
     "type": "photo"
