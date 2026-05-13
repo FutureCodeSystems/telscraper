@@ -1,0 +1,273 @@
+name: 🎬 YouTube MP4 Downloader (11 Fallbacks with On-Demand WARP)
+
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: |
+          URLها با فرمت: [url] v 1080 یا [url] a 128 (جدا با Enter یا کاما)
+          مثال:
+            https://youtu.be/abc123 v 1080
+            https://youtu.be/xyz789 a 128
+        required: true
+        type: string
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          lfs: true
+
+      - name: Install tools & Git LFS
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg jq wget curl git-lfs
+          git lfs install
+          git lfs track "youtube/*.mp4" "youtube/*.mp3"
+          git add .gitattributes
+          git commit -m "Track MP4/MP3 with LFS" || true
+          mkdir -p ~/.local/bin
+          echo "$HOME/.local/bin" >> $GITHUB_PATH
+          curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o ~/.local/bin/yt-dlp
+          chmod a+rx ~/.local/bin/yt-dlp
+          curl -fsSL https://deno.land/install.sh | sh -s -- -y
+          sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+          sudo chmod a+rx /usr/local/bin/youtube-dl
+          pip3 install --quiet pytube
+
+      - name: Load YouTube cookies (optional)
+        run: |
+          if [ -n "$YOUTUBE_COOKIES" ]; then
+            echo "$YOUTUBE_COOKIES" > youtube-cookies.txt
+            echo "✅ Cookies loaded"
+          else
+            echo "⚠️ No cookies"
+          fi
+        env:
+          YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
+
+      - name: Parse URLs
+        id: parse
+        run: |
+          INPUT="${{ github.event.inputs.urls }}"
+          MODIFIED=$(echo "$INPUT" | tr ',' '\n' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
+          ENTRIES='[]'
+          while IFS= read -r line; do
+            [ -z "$line" ] && continue
+            tokens=($line)
+            i=0
+            while [ $i -lt ${#tokens[@]} ]; do
+              if [[ "${tokens[$i]}" =~ ^https?:// ]]; then
+                url="${tokens[$i]}"
+                args=()
+                i=$((i+1))
+                while [ $i -lt ${#tokens[@]} ] && [[ ! "${tokens[$i]}" =~ ^https?:// ]]; do
+                  args+=("${tokens[$i]}")
+                  i=$((i+1))
+                done
+                type="v"; quality="max"
+                [ ${#args[@]} -ge 1 ] && type="${args[0]}"
+                [ ${#args[@]} -ge 2 ] && quality="${args[1]}"
+                entry=$(jq -n --arg url "$url" --arg type "$type" --arg quality "$quality" '{url: $url, type: $type, quality: $quality}')
+                ENTRIES=$(echo "$ENTRIES" | jq ". + [$entry]")
+              else
+                i=$((i+1))
+              fi
+            done
+          done <<< "$MODIFIED"
+          echo "entries=$(echo "$ENTRIES" | jq -c .)" >> $GITHUB_OUTPUT
+          echo "Total entries: $(echo "$ENTRIES" | jq length)"
+
+      - name: Download with 11 fallbacks (WARP on-demand as method 7)
+        run: |
+          mkdir -p youtube
+          ENTRIES='${{ steps.parse.outputs.entries }}'
+          COOKIE_OPT=""; [ -f youtube-cookies.txt ] && COOKIE_OPT="--cookies youtube-cookies.txt"
+          YT_DLP_BASE="$COOKIE_OPT --no-progress --retries 5 --fragment-retries 10"
+
+          # تعریف ۱۱ روش پشتیبان
+          fallback_android() {
+            echo "[F1] yt-dlp with Android client"
+            yt-dlp $YT_DLP_BASE --extractor-args "youtube:player_client=android" --js-runtimes deno -f "$1" -o "youtube/$2" "$3"
+          }
+          fallback_ios() {
+            echo "[F2] yt-dlp with iOS client"
+            yt-dlp $YT_DLP_BASE --extractor-args "youtube:player_client=ios" --js-runtimes deno -f "$1" -o "youtube/$2" "$3"
+          }
+          fallback_nocookies() {
+            echo "[F3] yt-dlp without cookies"
+            yt-dlp --no-progress -f "$1" -o "youtube/$2" "$3"
+          }
+          fallback_youtubedl() {
+            echo "[F4] youtube-dl"
+            youtube-dl --no-progress -f "$1" -o "youtube/$2" "$3"
+          }
+          fallback_pytube_best() {
+            echo "[F5] pytube (best quality)"
+            python3 -c "
+          from pytube import YouTube
+          yt = YouTube('$3')
+          if '$4' == 'a':
+              stream = yt.streams.get_audio_only()
+          else:
+              stream = yt.streams.get_highest_resolution()
+          stream.download(output_path='youtube', filename='$2')
+          " 2>/dev/null
+          }
+          fallback_pytube_res() {
+            echo "[F6] pytube with resolution $5"
+            python3 -c "
+          from pytube import YouTube
+          yt = YouTube('$3')
+          streams = yt.streams.filter(res='${5}p', progressive=True)
+          if not streams:
+              streams = yt.streams.filter(res='${5}p', adaptive=True)
+          if streams:
+              streams.first().download(output_path='youtube', filename='$2')
+          else:
+              yt.streams.get_highest_resolution().download(output_path='youtube', filename='$2')
+          " 2>/dev/null
+          }
+          fallback_warp() {
+            echo "[F7] yt-dlp via temporary WARP container"
+            # راه‌اندازی موقت WARP
+            docker run -d --name warp_temp --rm -p 1081:1080 --cap-add NET_ADMIN caomingjun/warp:latest
+            sleep 15
+            # بررسی آمادگی
+            for i in {1..10}; do
+              if curl -s --max-time 3 --socks5-hostname 127.0.0.1:1081 https://cloudflare.com/cdn-cgi/trace | grep -qE "warp=(on|plus)"; then
+                break
+              fi
+              sleep 3
+            done
+            yt-dlp --proxy socks5://127.0.0.1:1081 $YT_DLP_BASE -f "$1" --merge-output-format mp4 -o "youtube/$2" "$3"
+            local ret=$?
+            docker stop warp_temp
+            return $ret
+          }
+          fallback_api_loader() {
+            echo "[F8] loader.to API"
+            encoded=$(python3 -c "import urllib.parse; print(urllib.parse.quote('$3'))")
+            resp=$(curl -s "https://loader.to/ajax/download.php?format=best&url=$encoded")
+            dlink=$(echo "$resp" | jq -r '.link // empty')
+            [ -n "$dlink" ] && wget -O "youtube/$2" "$dlink"
+          }
+          fallback_api_vevioz() {
+            echo "[F9] vevioz API"
+            encoded=$(python3 -c "import urllib.parse; print(urllib.parse.quote('$3'))")
+            resp=$(curl -s "https://api.vevioz.com/apis/downloader?url=$encoded")
+            dlink=$(echo "$resp" | jq -r '.download_url // empty')
+            [ -n "$dlink" ] && wget -O "youtube/$2" "$dlink"
+          }
+          fallback_cobalt() {
+            echo "[F10] cobalt.tools API"
+            payload='{"url":"'"$3"'","vCodec":"h264","aFormat":"mp3","videoQuality":"720"}'
+            resp=$(curl -s -H "Content-Type: application/json" -d "$payload" https://api.cobalt.tools/api/json)
+            dlink=$(echo "$resp" | jq -r '.url // empty')
+            [ -n "$dlink" ] && wget -O "youtube/$2" "$dlink"
+          }
+          fallback_ipv4() {
+            echo "[F11] yt-dlp force IPv4"
+            yt-dlp --force-ipv4 --retries 10 -f "$1" -o "youtube/$2" "$3"
+          }
+
+          count=$(echo "$ENTRIES" | jq length)
+          for ((idx=0; idx<count; idx++)); do
+            entry=$(echo "$ENTRIES" | jq ".[$idx]")
+            url=$(echo "$entry" | jq -r '.url')
+            type=$(echo "$entry" | jq -r '.type')
+            quality=$(echo "$entry" | jq -r '.quality')
+            echo "========================================"
+            echo "Processing: $url (type=$type, quality=$quality)"
+
+            # نام فایل
+            if echo "$url" | grep -qE '(youtube\.com/watch\?v=|youtu\.be/)'; then
+              title=$(yt-dlp $YT_DLP_BASE --print "%(title)s" "$url" 2>/dev/null | head -c 100 | sed 's/[^a-zA-Z0-9\-_]/ /g' | sed 's/ *$//')
+              [ -z "$title" ] && title="video_$idx"
+            else
+              title=$(basename "$url" | sed 's/\?.*//' | cut -d. -f1)
+              [ -z "$title" ] && title="file_$idx"
+            fi
+            safe_title=$(echo "$title" | sed 's/ /_/g')
+            if [ "$type" = "a" ]; then
+              output_file="${safe_title}.mp3"
+              format="bestaudio[ext=m4a]/bestaudio"
+            else
+              output_file="${safe_title}.mp4"
+              if [[ "$quality" =~ ^[0-9]+$ ]]; then
+                format="bestvideo[height<=${quality}][ext=mp4]+bestaudio[ext=m4a]/best[height<=${quality}][ext=mp4]"
+              else
+                format="bestvideo+bestaudio/best"
+              fi
+            fi
+
+            # تلاش اصلی با yt-dlp (همان روش 0)
+            echo "Primary attempt: yt-dlp -f \"$format\""
+            if yt-dlp $YT_DLP_BASE -f "$format" --merge-output-format mp4 -o "youtube/$output_file" "$url"; then
+              echo "✅ Primary download successful"
+              continue
+            fi
+
+            # اعمال ۱۱ روش پشتیبان
+            success=0
+            # روش 1 تا 4
+            for fb in fallback_android fallback_ios fallback_nocookies fallback_youtubedl; do
+              if $fb "$format" "$output_file" "$url" 2>/dev/null; then
+                success=1
+                break
+              fi
+            done
+            # روش 5
+            if [ $success -eq 0 ] && [ "$type" = "a" ]; then
+              fallback_pytube_best "$output_file" "$url" "a" && success=1
+            elif [ $success -eq 0 ] && [ "$type" = "v" ]; then
+              fallback_pytube_best "$output_file" "$url" "v" && success=1
+            fi
+            # روش 6 (در صورت وجود کیفیت عددی)
+            if [ $success -eq 0 ] && [ "$type" = "v" ] && [[ "$quality" =~ ^[0-9]+$ ]]; then
+              fallback_pytube_res "$output_file" "$url" "v" "$quality" && success=1
+            fi
+            # روش 7: WARP
+            if [ $success -eq 0 ]; then
+              fallback_warp "$format" "$output_file" "$url" && success=1
+            fi
+            # روش 8 و 9: APIها
+            if [ $success -eq 0 ]; then
+              fallback_api_loader "$format" "$output_file" "$url" && success=1
+            fi
+            if [ $success -eq 0 ]; then
+              fallback_api_vevioz "$format" "$output_file" "$url" && success=1
+            fi
+            # روش 10: cobalt
+            if [ $success -eq 0 ]; then
+              fallback_cobalt "$format" "$output_file" "$url" && success=1
+            fi
+            # روش 11: force IPv4
+            if [ $success -eq 0 ]; then
+              fallback_ipv4 "$format" "$output_file" "$url" && success=1
+            fi
+
+            if [ $success -eq 0 ]; then
+              echo "❌ All 11 fallbacks failed for $url"
+            else
+              echo "✅ Downloaded via fallback method"
+            fi
+          done
+
+      - name: Commit and push with Git LFS
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git config http.postBuffer 524288000
+          git add youtube/ .gitattributes
+          git commit -m "Add MP4/MP3 files (Git LFS) [skip ci]" || echo "No changes to commit"
+          BRANCH="${{ github.ref_name }}"
+          for i in {1..5}; do
+            git pull --rebase origin "$BRANCH" && git push origin HEAD:"$BRANCH" && break
+            echo "Push retry $i/5..."
+            sleep 5
+          done
