@@ -1,6 +1,84 @@
 [
   {
     "index": 1,
+    "post_url": "https://t.me/IraneAzad_Net/35873",
+    "post_id": "IraneAzad_Net/35873",
+    "date": "2026-05-14T07:25:56+00:00",
+    "date_unix": 1778743556,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "🟢📶 کانفیگِ جدید برایِ SlipNet \n\nslipnet-enc://AU1KZP8t3JAtWp1D9o63rqdHC+iYWfGnovbDvgGiZmg8QqDOb4EdbPuceuk5JTjxEJjvqKfcvCfQxx3RZIwIOKfI/+oJapG1ijVlVmSWponrqGd7a2eRVIGQX30QWj53EN+yiRNMTdtWGFhu/as04426Sms+11kq8GPcTjMF9q+PClioYU5LLW4XaBv/pWhFS+XqcdamSFtDLbMki/jp2rUxqb1IAjxEIE0AndMuucBRpusa9/FPVbHS+W9OTFMzEW8YsYhmLCYG7AQHx0kGELTg65kwx+TsrKNmcAk2IDEWYEWTpnhTKOSPFyuFVHaCmEuxHbaFaXNkipUKrXQbOEtgDir6uIEuCgcsW5Rl5hGigC3BL2LjUCCibdcSmvLDnjWIcjChI4HsfWmCBPtojyZsbgiHm/dr8kLi0zWWnvj2AX3a1Vt4bURHpzOn3h/rrZS1JKxmdwvmfuuhMndIpXpwzHpSfGbIcjPXLzIWHCuIGtjjpspQgw61Gg4/EYXsHWJHRZwuB9phtG0lKY8cOCYHfHR3uRRBpglfklFWGOeSkGGMUAXrEiFUF5aXUODV1GmIY8dpUQuCb34Fcw0hcxv2D+dN9p63sg2xpowoxpkOoeIfefFR+aoX/js+yVJZFGd2UhgykHJqtgbtmlLeRz/z8jn/J6cQZBNcZqCRaol/s6BFZcknGrmMmgZbLWGd5esxMt9eczH/vlQeyIdJDqyR\n📥 لینکِ دانلودِ مستقیمِ بدونِ فیلترِ اپلیکیشنِ SlipNet \n⚪️   حتماً از داخل تنظیمات VPN مقدار MTU رو روی 512 تنظیم کنید و ذخیره کنید.\n⚪️   بعد از اضافه کردن کانفیگ، قبل از اتصال روی آیکون مداد کنار کانفیگ بزنید و مقدار DNS Query Size رو یک‌بار روی 50 بذارید تست کنید و یک‌بار هم روی 60 قرار بدید و دوباره امتحان کنید.\n⚪️   حتماً گزینه Proxy-only Mode رو هم از تنظیمات فعال کنید. بعد از اینکه کانفیگ وصل شد، داخل تلگرام به یکی از پروکسی‌های زیر متصل بشید.\n🔗 : https://t.me/socks?server=127.0.0.1&port=10880\n\n🔗 : https://t.me/socks?server=0.0.0.0&port=10880\n\n🟢   تنظیماتِ پیشنهادی برایِ SlipNet \n\nواردِ قسمتِ تنظیمات شَوید ، سپس:\nگزینه ی Proxy-Only Mode رو روشن کنید .\n\nListen Address : Localhost (127.0.0.1)\nListen Port : 10880\n\nگزینه ی Disable QUIC رو خاموش کنید .\n\nVPN MTU : 512\n\nگزینه ی Append HTTP Proxy To VPN رو خاموش کنید .\n\nDNS Worker : 5 Workers ( Fastest )\n\nگزینه ی Enable Geo Bypass رو روشن کنید .\n\nCipher : Auto ( Fastest )\n\nگزینه ی Compression رو روشن کنید .\n\nMax Tunnel : 43\n\nگزینه ی Prevent Dns Fallback رو روشن کنید .\n@IraneAzad_Net\n@IraneAzad_News",
+    "text_html": "<tg-emoji emoji-id=\"4990298741463319592\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')\"><b>🟢</b></i></tg-emoji><tg-emoji emoji-id=\"5764810859670935813\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i></tg-emoji> <b>کانفیگِ جدید برایِ SlipNet </b><br/><br/><blockquote expandable><code>slipnet-enc://AU1KZP8t3JAtWp1D9o63rqdHC+iYWfGnovbDvgGiZmg8QqDOb4EdbPuceuk5JTjxEJjvqKfcvCfQxx3RZIwIOKfI/+oJapG1ijVlVmSWponrqGd7a2eRVIGQX30QWj53EN+yiRNMTdtWGFhu/as04426Sms+11kq8GPcTjMF9q+PClioYU5LLW4XaBv/pWhFS+XqcdamSFtDLbMki/jp2rUxqb1IAjxEIE0AndMuucBRpusa9/FPVbHS+W9OTFMzEW8YsYhmLCYG7AQHx0kGELTg65kwx+TsrKNmcAk2IDEWYEWTpnhTKOSPFyuFVHaCmEuxHbaFaXNkipUKrXQbOEtgDir6uIEuCgcsW5Rl5hGigC3BL2LjUCCibdcSmvLDnjWIcjChI4HsfWmCBPtojyZsbgiHm/dr8kLi0zWWnvj2AX3a1Vt4bURHpzOn3h/rrZS1JKxmdwvmfuuhMndIpXpwzHpSfGbIcjPXLzIWHCuIGtjjpspQgw61Gg4/EYXsHWJHRZwuB9phtG0lKY8cOCYHfHR3uRRBpglfklFWGOeSkGGMUAXrEiFUF5aXUODV1GmIY8dpUQuCb34Fcw0hcxv2D+dN9p63sg2xpowoxpkOoeIfefFR+aoX/js+yVJZFGd2UhgykHJqtgbtmlLeRz/z8jn/J6cQZBNcZqCRaol/s6BFZcknGrmMmgZbLWGd5esxMt9eczH/vlQeyIdJDqyR</code><br/></blockquote><tg-emoji emoji-id=\"5433811242135331842\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i></tg-emoji> <a href=\"https://t.me/IraneAzad_Net/35785\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>لینکِ دانلودِ مستقیمِ بدونِ فیلترِ اپلیکیشنِ SlipNet</b></a> <br/><blockquote><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b>   <b>حتماً از داخل تنظیمات VPN مقدار MTU رو روی 512 تنظیم کنید و ذخیره کنید.<br/></b></blockquote><blockquote><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b>   <b>بعد از اضافه کردن کانفیگ، قبل از اتصال روی آیکون مداد کنار کانفیگ بزنید و مقدار DNS Query Size رو یک‌بار روی 50 بذارید تست کنید و یک‌بار هم روی 60 قرار بدید و دوباره امتحان کنید.<br/></b></blockquote><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b>   <b>حتماً گزینه Proxy-only Mode رو هم از تنظیمات فعال کنید. بعد از اینکه کانفیگ وصل شد، داخل تلگرام به یکی از پروکسی‌های زیر متصل بشید.</b><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> : <a href=\"https://t.me/socks?server=127.0.0.1&amp;port=10880\" target=\"_blank\" rel=\"noopener\">https://t.me/socks?server=127.0.0.1&amp;port=10880</a><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> : <a href=\"https://t.me/socks?server=0.0.0.0&amp;port=10880\" target=\"_blank\" rel=\"noopener\">https://t.me/socks?server=0.0.0.0&amp;port=10880</a></blockquote><br/><br/><blockquote expandable><tg-emoji emoji-id=\"4990298741463319592\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')\"><b>🟢</b></i></tg-emoji>   <b>تنظیماتِ پیشنهادی برایِ SlipNet</b> <br/><br/>واردِ قسمتِ تنظیمات شَوید ، سپس:<br/>گزینه ی Proxy-Only Mode رو روشن کنید .<br/><br/>Listen Address : Localhost (<a href=\"http://127.0.0.1/\" target=\"_blank\" rel=\"noopener\">127.0.0.1</a>)<br/>Listen Port : 10880<br/><br/>گزینه ی Disable QUIC رو خاموش کنید .<br/><br/>VPN MTU : 512<br/><br/>گزینه ی Append HTTP Proxy To VPN رو خاموش کنید .<br/><br/>DNS Worker : 5 Workers ( Fastest )<br/><br/>گزینه ی Enable Geo Bypass رو روشن کنید .<br/><br/>Cipher : Auto ( Fastest )<br/><br/>گزینه ی Compression رو روشن کنید .<br/><br/>Max Tunnel : 43<br/><br/>گزینه ی Prevent Dns Fallback رو روشن کنید .<br/></blockquote><a href=\"https://t.me/IraneAzad_Net\" target=\"_blank\">@IraneAzad_Net</a><br/><a href=\"https://t.me/IraneAzad_News\" target=\"_blank\">@IraneAzad_News</a>",
+    "is_edited": false,
+    "views": 4160,
+    "views_raw": "4.16K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "IraneAzad_Net/35873",
+          "url": "https://cdn1.telesco.pe/file/K0THzeA6RoP5hZ1JHGs5_H1vDEt5e3Ot4qJR0UCfZNf6MXhEopHX2rCaWHuMDp6cixOLTPahhlaCWoIxpb9-ebzNYwulKmEsOlJklZkhB-td8lLbx-mZiHO1YgL2IH9ViQ4vcH-8J6lK2W97a1_tLXD3WjtDJ4dHE9ZLjzHWX5SQu6AdUyLQgsATP_gOF8Ne96dHV32oOYUvsLiDSwHt4VQD9Cg2S7ZIHsOUC1G4uycsa_j_Hpn_AJq7sjISG2_h_NNQhRGjh7SWRqlelBPsaWm_GVMOKRtieuAVrjeMWaeF8i9fRdwyX2rcYuMP3QFk8ixBREfFiXL70bsy_ZpSSA.jpg",
+          "full_url": "https://cdn1.telesco.pe/file/K0THzeA6RoP5hZ1JHGs5_H1vDEt5e3Ot4qJR0UCfZNf6MXhEopHX2rCaWHuMDp6cixOLTPahhlaCWoIxpb9-ebzNYwulKmEsOlJklZkhB-td8lLbx-mZiHO1YgL2IH9ViQ4vcH-8J6lK2W97a1_tLXD3WjtDJ4dHE9ZLjzHWX5SQu6AdUyLQgsATP_gOF8Ne96dHV32oOYUvsLiDSwHt4VQD9Cg2S7ZIHsOUC1G4uycsa_j_Hpn_AJq7sjISG2_h_NNQhRGjh7SWRqlelBPsaWm_GVMOKRtieuAVrjeMWaeF8i9fRdwyX2rcYuMP3QFk8ixBREfFiXL70bsy_ZpSSA.jpg",
+          "thumbnail": null,
+          "local_path": "channels/iraneazad_net/media/photo/IraneAzad_Net_35873_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/iraneazad_net/media/photo/IraneAzad_Net_35873_0.jpg",
+          "size_bytes": 13432
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [
+      "IraneAzad_Net",
+      "IraneAzad_News"
+    ],
+    "links": [
+      "http://127.0.0.1/"
+    ],
+    "emoji": [
+      "🟢",
+      "📶",
+      "📥",
+      "⚪",
+      "️",
+      "🔗",
+      "‍",
+      "🔥",
+      "👍"
+    ],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 2,
     "post_url": "https://t.me/IraneAzad_Net/35872",
     "post_id": "IraneAzad_Net/35872",
     "date": "2026-05-14T07:25:46+00:00",
@@ -12,8 +90,8 @@
     "text": "🎉  بونوس ویژه ثبت‌نام – ۵۰۰٬۰۰۰ تومان رایگان\n\n💥 با ثبت‌نام در سایت، ۵۰۰٬۰۰۰ تومان بونوس رایگان دریافت کنید و شانس خود را امتحان کنید.\n\n🔥 چگونه کار می‌کند؟\n\n⬅️ ثبت‌نام کنید&nbsp; \n⬅️بونوس ۵۰۰٬۰۰۰ تومانی دریافت کنید&nbsp; \n⬅️ شرط‌بندی کنید و بونوس را به موجودی واقعی تبدیل کنید\n\n🔥 وقتشه بازی رو یه جور دیگه ببینی\n\n⚽️  پوشش کامل مسابقات ورزشی&nbsp; \n📊  پیش‌بینی با بهترین ضرایب&nbsp; \n⚡️  تجربه سریع و حرفه‌ای \n\n😀 پرداخت مستقیم و سریع بدون واسطه، بدون دردسر، واریز و برداشت در سریع‌ترین زمان ممکن  \nR24\n😀 کانال تلگرام:&nbsp; \n🔴 @winro_io&nbsp;&nbsp; \n\n😀 هدیه خود را با ثبت نام در سایت دریافت کنید:&nbsp; \n🔴 Winro.io\n\nسایت اصلی در روزهای آینده بازگشایی خواهد شد ✅",
     "text_html": "<tg-emoji emoji-id=\"5208541126583136130\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E89.png')\"><b>🎉</b></i></tg-emoji>  <b>بونوس ویژه ثبت‌نام – ۵۰۰٬۰۰۰ تومان رایگان</b><br/><br/><tg-emoji emoji-id=\"5276032951342088188\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A5.png')\"><b>💥</b></i></tg-emoji> با ثبت‌نام در سایت، ۵۰۰٬۰۰۰ تومان بونوس رایگان دریافت کنید و شانس خود را امتحان کنید.<br/><br/><tg-emoji emoji-id=\"5424972470023104089\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i></tg-emoji> <b>چگونه کار می‌کند؟</b><br/><br/><tg-emoji emoji-id=\"5841510003390812630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC85.png')\"><b>⬅️</b></i></tg-emoji> ثبت‌نام کنید&nbsp; <br/><tg-emoji emoji-id=\"5841510003390812630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC85.png')\"><b>⬅️</b></i></tg-emoji>بونوس ۵۰۰٬۰۰۰ تومانی دریافت کنید&nbsp; <br/><tg-emoji emoji-id=\"5841510003390812630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC85.png')\"><b>⬅️</b></i></tg-emoji> شرط‌بندی کنید و بونوس را به موجودی واقعی تبدیل کنید<br/><br/><tg-emoji emoji-id=\"5424972470023104089\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i></tg-emoji> <b>وقتشه بازی رو یه جور دیگه ببینی<br/></b><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽️</b></i>  پوشش کامل مسابقات ورزشی&nbsp; <br/><tg-emoji emoji-id=\"5843884819657790721\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938A.png')\"><b>📊</b></i></tg-emoji>  پیش‌بینی با بهترین ضرایب&nbsp; <br/><tg-emoji emoji-id=\"5456140674028019486\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i></tg-emoji>  تجربه سریع و حرفه‌ای <br/><br/><tg-emoji emoji-id=\"5212962322967966165\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9880.png')\"><b>😀</b></i></tg-emoji> پرداخت مستقیم و سریع بدون واسطه، بدون دردسر، واریز و برداشت در سریع‌ترین زمان ممکن  <br/>R24<br/><tg-emoji emoji-id=\"5406809207947142040\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9880.png')\"><b>😀</b></i></tg-emoji> <b>کانال تلگرام:</b>&nbsp; <br/><tg-emoji emoji-id=\"4992646795789075643\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji> <a href=\"https://t.me/winro_io\" target=\"_blank\">@winro_io</a>&nbsp;&nbsp; <br/><br/><b><tg-emoji emoji-id=\"5843475994605786369\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9880.png')\"><b>😀</b></i></tg-emoji></b><b> هدیه خود را با ثبت نام در سایت دریافت کنید:&nbsp; </b><br/><tg-emoji emoji-id=\"4992646795789075643\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji> <a href=\"http://Winro.io/\" target=\"_blank\" rel=\"noopener\">Winro.io</a><br/><br/><b>سایت اصلی در روزهای آینده بازگشایی خواهد شد</b> <tg-emoji emoji-id=\"5841470760274629468\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji>",
     "is_edited": false,
-    "views": 1400,
-    "views_raw": "1.4K",
+    "views": 3910,
+    "views_raw": "3.91K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -90,7 +168,7 @@
     "type": "album"
   },
   {
-    "index": 2,
+    "index": 3,
     "post_url": "https://t.me/IraneAzad_Net/35871",
     "post_id": "IraneAzad_Net/35871",
     "date": "2026-05-13T16:56:46+00:00",
@@ -102,8 +180,8 @@
     "text": "🟢📶 کانفیگِ جدید برایِ SlipNet \n\nslipnet-enc://ARN8dcFLs6pMT3aRYo3u7hhh2h9J6UOKBiVw8A5C7Nff/Sw0Ky0WEI7A6C38IqlWJ2aT+vO49vchbulF9LnWmdPPExAkPUJhYBvmDAZi3Bshg+k9NYhZ4138FmC5d2sVJVGVAKAseuupyBc7zeD0D+yVLmP9ojKu59CQ9RkJCFJcNSuoGmUVwo0nVbCDMJP5fjmJSfNL2KVPNupcs5toKLaeg94QsYh1Ie3TsQwV5u7/ROzwtV1cPW5l70+46+A1pQwtv7LwBX3KYX6aKl6q3p5KvkG7X+iyJEw+gYN03uqT88s/0je+v1Raigd+swv4ICVUmqSPFWeHBGIXmZbie76QEY61Ro4msFSCZn87YEes8PWUYEIYTa9cW2sC+5i8RE10pZP9WEH2TkwRhRlNQmz44821EN22NSpGpPOjXG1i6Gssqkubi+aolt3cWVr6YET4GqeacpfvByL/H6uKB6uY+nMJu/vJnr9JxRjmSmz5bLKZW/du7teRsdiV+gJqiQyLFBwK0jhnRTKO2maLWTjctqGEqZr8In+3rSEVMYSXFEd88rVfSNMBLplTuP15a7x00CWU5tQ4nxDI3PerBzAO1H3imySgHTX6efrObcXfgnR+6kwMsJLs1w5KDWxGSiQL/4SgkVeK1tzv04CNkREmo93NJyPQF5n6z9cuCDEfMlHwdDuQzfkyoqHbsepn+kDPDJkAxcSu9PjPiFa+ZHRXd/jSPU+UqPZMXpVArxt8RYbdH05BhaIP12mIltGPM5S0mCtsD/UGx/w+sQujYg==\n📥 لینکِ دانلودِ مستقیمِ بدونِ فیلترِ اپلیکیشنِ SlipNet \n⚪️   حتماً از داخل تنظیمات VPN مقدار MTU رو روی 512 تنظیم کنید و ذخیره کنید.\n⚪️   بعد از اضافه کردن کانفیگ، قبل از اتصال روی آیکون مداد کنار کانفیگ بزنید و مقدار DNS Query Size رو یک‌بار روی 50 بذارید تست کنید و یک‌بار هم روی 60 قرار بدید و دوباره امتحان کنید.\n⚪️   حتماً گزینه Proxy-only Mode رو هم از تنظیمات فعال کنید. بعد از اینکه کانفیگ وصل شد، داخل تلگرام به یکی از پروکسی‌های زیر متصل بشید.\n🔗 : https://t.me/socks?server=127.0.0.1&port=10880\n\n🔗 : https://t.me/socks?server=0.0.0.0&port=10880\n\n🟢   تنظیماتِ پیشنهادی برایِ SlipNet \n\nواردِ قسمتِ تنظیمات شَوید ، سپس:\nگزینه ی Proxy-Only Mode رو روشن کنید .\n\nListen Address : Localhost (127.0.0.1)\nListen Port : 10880\n\nگزینه ی Disable QUIC رو خاموش کنید .\n\nVPN MTU : 512\n\nگزینه ی Append HTTP Proxy To VPN رو خاموش کنید .\n\nDNS Worker : 5 Workers ( Fastest )\n\nگزینه ی Enable Geo Bypass رو روشن کنید .\n\nCipher : Auto ( Fastest )\n\nگزینه ی Compression رو روشن کنید .\n\nMax Tunnel : 43\n\nگزینه ی Prevent Dns Fallback رو روشن کنید .\n@IraneAzad_Net\n@IraneAzad_News",
     "text_html": "<tg-emoji emoji-id=\"4990298741463319592\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')\"><b>🟢</b></i></tg-emoji><tg-emoji emoji-id=\"5764810859670935813\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i></tg-emoji> <b>کانفیگِ جدید برایِ SlipNet </b><br/><br/><blockquote expandable><code>slipnet-enc://ARN8dcFLs6pMT3aRYo3u7hhh2h9J6UOKBiVw8A5C7Nff/Sw0Ky0WEI7A6C38IqlWJ2aT+vO49vchbulF9LnWmdPPExAkPUJhYBvmDAZi3Bshg+k9NYhZ4138FmC5d2sVJVGVAKAseuupyBc7zeD0D+yVLmP9ojKu59CQ9RkJCFJcNSuoGmUVwo0nVbCDMJP5fjmJSfNL2KVPNupcs5toKLaeg94QsYh1Ie3TsQwV5u7/ROzwtV1cPW5l70+46+A1pQwtv7LwBX3KYX6aKl6q3p5KvkG7X+iyJEw+gYN03uqT88s/0je+v1Raigd+swv4ICVUmqSPFWeHBGIXmZbie76QEY61Ro4msFSCZn87YEes8PWUYEIYTa9cW2sC+5i8RE10pZP9WEH2TkwRhRlNQmz44821EN22NSpGpPOjXG1i6Gssqkubi+aolt3cWVr6YET4GqeacpfvByL/H6uKB6uY+nMJu/vJnr9JxRjmSmz5bLKZW/du7teRsdiV+gJqiQyLFBwK0jhnRTKO2maLWTjctqGEqZr8In+3rSEVMYSXFEd88rVfSNMBLplTuP15a7x00CWU5tQ4nxDI3PerBzAO1H3imySgHTX6efrObcXfgnR+6kwMsJLs1w5KDWxGSiQL/4SgkVeK1tzv04CNkREmo93NJyPQF5n6z9cuCDEfMlHwdDuQzfkyoqHbsepn+kDPDJkAxcSu9PjPiFa+ZHRXd/jSPU+UqPZMXpVArxt8RYbdH05BhaIP12mIltGPM5S0mCtsD/UGx/w+sQujYg==</code></blockquote><br/><tg-emoji emoji-id=\"5433811242135331842\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i></tg-emoji> <a href=\"https://t.me/IraneAzad_Net/35785\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>لینکِ دانلودِ مستقیمِ بدونِ فیلترِ اپلیکیشنِ SlipNet</b></a> <br/><blockquote><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b>   <b>حتماً از داخل تنظیمات VPN مقدار MTU رو روی 512 تنظیم کنید و ذخیره کنید.<br/></b></blockquote><blockquote><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b>   <b>بعد از اضافه کردن کانفیگ، قبل از اتصال روی آیکون مداد کنار کانفیگ بزنید و مقدار DNS Query Size رو یک‌بار روی 50 بذارید تست کنید و یک‌بار هم روی 60 قرار بدید و دوباره امتحان کنید.<br/></b></blockquote><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b>   <b>حتماً گزینه Proxy-only Mode رو هم از تنظیمات فعال کنید. بعد از اینکه کانفیگ وصل شد، داخل تلگرام به یکی از پروکسی‌های زیر متصل بشید.</b><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> : <a href=\"https://t.me/socks?server=127.0.0.1&amp;port=10880\" target=\"_blank\" rel=\"noopener\">https://t.me/socks?server=127.0.0.1&amp;port=10880</a><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> : <a href=\"https://t.me/socks?server=0.0.0.0&amp;port=10880\" target=\"_blank\" rel=\"noopener\">https://t.me/socks?server=0.0.0.0&amp;port=10880</a></blockquote><br/><br/><blockquote expandable><tg-emoji emoji-id=\"4990298741463319592\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')\"><b>🟢</b></i></tg-emoji>   <b>تنظیماتِ پیشنهادی برایِ SlipNet</b> <br/><br/>واردِ قسمتِ تنظیمات شَوید ، سپس:<br/>گزینه ی Proxy-Only Mode رو روشن کنید .<br/><br/>Listen Address : Localhost (<a href=\"http://127.0.0.1/\" target=\"_blank\" rel=\"noopener\">127.0.0.1</a>)<br/>Listen Port : 10880<br/><br/>گزینه ی Disable QUIC رو خاموش کنید .<br/><br/>VPN MTU : 512<br/><br/>گزینه ی Append HTTP Proxy To VPN رو خاموش کنید .<br/><br/>DNS Worker : 5 Workers ( Fastest )<br/><br/>گزینه ی Enable Geo Bypass رو روشن کنید .<br/><br/>Cipher : Auto ( Fastest )<br/><br/>گزینه ی Compression رو روشن کنید .<br/><br/>Max Tunnel : 43<br/><br/>گزینه ی Prevent Dns Fallback رو روشن کنید .<br/></blockquote><a href=\"https://t.me/IraneAzad_Net\" target=\"_blank\">@IraneAzad_Net</a><br/><a href=\"https://t.me/IraneAzad_News\" target=\"_blank\">@IraneAzad_News</a>",
     "is_edited": false,
-    "views": 7930,
-    "views_raw": "7.93K",
+    "views": 9090,
+    "views_raw": "9.09K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -168,7 +246,7 @@
     "type": "photo"
   },
   {
-    "index": 3,
+    "index": 4,
     "post_url": "https://t.me/IraneAzad_Net/35870",
     "post_id": "IraneAzad_Net/35870",
     "date": "2026-05-13T16:55:20+00:00",
@@ -180,8 +258,8 @@
     "text": "کانال ویژه معرفی شت‌کوین‌های انفجاری&#33;🐳\n\nدوستان، آماده باشید&#33; چند روز دیگه یک شت‌کوین فوق‌العاده داخل این کانال معرفی میشه — شت‌کوینی که به‌زودی در صرافی‌های بزرگی مثل OKX، Gate، KuCoin، Bybit و چند صرافی مطرح دیگه لیست میشه&#33;\nاگه جزو نفرات اول خریدار باشی، احتمال سود بالای ۳۰۰۰٪ رو داری&#33;\nدنبال جزئیات دقیق، تحلیل، و روش خریدش هستی؟\nپس همین حالا به کانال زیر بپیوند تا از بقیه جا نمونی&#33;\nفرصت‌های بزرگ، منتظر کسی نمی‌مونن&#33;\n\nلینک عضویت:👇🏼\nhttps://t.me/+S82k1OZQMr40NGNk\nhttps://t.me/+S82k1OZQMr40NGNk",
     "text_html": "<b>کانال ویژه معرفی شت‌کوین‌های انفجاری&#33;</b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F90B3.png')\"><b>🐳</b></i><br/><br/>دوستان، آماده باشید&#33; چند روز دیگه یک شت‌کوین فوق‌العاده داخل این کانال معرفی میشه — شت‌کوینی که به‌زودی در صرافی‌های بزرگی مثل OKX، Gate، KuCoin، Bybit و چند صرافی مطرح دیگه لیست میشه&#33;<br/>اگه جزو نفرات اول خریدار باشی، احتمال سود بالای <b>۳۰۰۰٪</b> رو داری&#33;<br/>دنبال جزئیات دقیق، تحلیل، و روش خریدش هستی؟<br/>پس همین حالا به کانال زیر بپیوند تا از بقیه جا نمونی&#33;<br/><b>فرصت‌های بزرگ، منتظر کسی نمی‌مونن&#33;</b><br/><br/>لینک عضویت:<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187F09F8FBC.png')\"><b>👇🏼</b></i><br/><a href=\"https://t.me/+S82k1OZQMr40NGNk\" target=\"_blank\" rel=\"noopener\">https://t.me/+S82k1OZQMr40NGNk</a><br/><a href=\"https://t.me/+S82k1OZQMr40NGNk\" target=\"_blank\" rel=\"noopener\">https://t.me/+S82k1OZQMr40NGNk</a>",
     "is_edited": false,
-    "views": 7610,
-    "views_raw": "7.61K",
+    "views": 8600,
+    "views_raw": "8.6K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -249,7 +327,7 @@
     "type": "album"
   },
   {
-    "index": 4,
+    "index": 5,
     "post_url": "https://t.me/IraneAzad_Net/35869",
     "post_id": "IraneAzad_Net/35869",
     "date": "2026-05-13T11:20:54+00:00",
@@ -261,8 +339,8 @@
     "text": "🔘 کانفیگ Injector جدید و متصل مخصوص شرایط فعلی اینترنت ملی 👇\n\n⚪️&nbsp;&nbsp; برای دریافت کانفیگ کلیک کنید\n\n📶📶📶🛜 تمام نت ها\n\n✈️ بعد از هربار قطع شدن، باید حالت هواپیما بزنید تا دوباره متصل بشه.\nلینک دانلود اندروید\nلینک دانلود ایفون\n@IraneAzad_Net\n@IraneAzad_News",
     "text_html": "<tg-emoji emoji-id=\"5064777550299923690\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9498.png')\"><b>🔘</b></i></tg-emoji> <b>کانفیگ Injector جدید و متصل مخصوص شرایط فعلی اینترنت ملی <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></b><br/><br/><blockquote><tg-emoji emoji-id=\"4987767712940819293\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji>&nbsp;&nbsp; <a href=\"https://t.me/IraneAzadTM_bot?start=677150590\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>برای دریافت کانفیگ کلیک کنید</b></a></blockquote><br/><br/><tg-emoji emoji-id=\"6050886193032207644\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i></tg-emoji><tg-emoji emoji-id=\"5764810859670935813\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i></tg-emoji><tg-emoji emoji-id=\"5764771891432658472\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i></tg-emoji><tg-emoji emoji-id=\"5931374725111485006\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B9C.png')\"><b>🛜</b></i></tg-emoji> <b>تمام نت ها</b><br/><br/><tg-emoji emoji-id=\"5361600266225326825\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C88.png')\"><b>✈️</b></i></tg-emoji> <b>بعد از هربار قطع شدن، باید حالت هواپیما بزنید تا دوباره متصل بشه.</b><br/><blockquote><a href=\"https://t.me/IraneAzad_Net/35657\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>لینک دانلود اندروید</b></a><br/><a href=\"https://apps.apple.com/app/id1659992827\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">لینک دانلود ایفون</a></blockquote><br/><a href=\"https://t.me/IraneAzad_Net\" target=\"_blank\">@IraneAzad_Net</a><br/><a href=\"https://t.me/IraneAzad_News\" target=\"_blank\">@IraneAzad_News</a>",
     "is_edited": false,
-    "views": 9680,
-    "views_raw": "9.68K",
+    "views": 10300,
+    "views_raw": "10.3K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -327,7 +405,7 @@
     "type": "photo"
   },
   {
-    "index": 5,
+    "index": 6,
     "post_url": "https://t.me/IraneAzad_Net/35868",
     "post_id": "IraneAzad_Net/35868",
     "date": "2026-05-13T10:05:05+00:00",
@@ -339,8 +417,8 @@
     "text": "آگهی دفتر پیشخوان دولت برای فروش اینترنت طبقاتی پرو&#33;\n\n@IraneAzad_Net\n@IraneAzad_News",
     "text_html": "<b>آگهی دفتر پیشخوان دولت برای فروش اینترنت طبقاتی پرو&#33;</b><br/><br/><a href=\"https://t.me/IraneAzad_Net\" target=\"_blank\">@IraneAzad_Net</a><br/><a href=\"https://t.me/IraneAzad_News\" target=\"_blank\">@IraneAzad_News</a>",
     "is_edited": false,
-    "views": 28500,
-    "views_raw": "28.5K",
+    "views": 29200,
+    "views_raw": "29.2K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -371,8 +449,8 @@
         {
           "type": "photo",
           "post_id": "IraneAzad_Net/35868",
-          "url": "https://cdn4.telesco.pe/file/oFltrnZEheUQpbgzYp8CIFudLQAOFya4LABFEMYCY9FW8XhfzK8prqTBaYIdUtt_vdCJPfD15iTRyF3Gss01hKRZdep_VaXsDU2PXmn9XpPvRyjZ2AyMThd8yLpYrNxyFkLYv7Xc_E8y8fra5YD58w_LAOF1NijFEajN0FNkJmh-poXPJ-A7SYKosnw0ojrAYhQV9rTjql2zmyaaK7mVzhEGTL2QG3JpFYkg7TnI0zL8yOFAT0rDjziFS6wpwtM2BRV9QaUEjn-_sxoD9QHf0P7z_EIPv6yF-ir-mtm83z4ByZGXUqSmo93rFWb-AZxFMGuu6fqN-_9YP-gAHq5aag.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/oFltrnZEheUQpbgzYp8CIFudLQAOFya4LABFEMYCY9FW8XhfzK8prqTBaYIdUtt_vdCJPfD15iTRyF3Gss01hKRZdep_VaXsDU2PXmn9XpPvRyjZ2AyMThd8yLpYrNxyFkLYv7Xc_E8y8fra5YD58w_LAOF1NijFEajN0FNkJmh-poXPJ-A7SYKosnw0ojrAYhQV9rTjql2zmyaaK7mVzhEGTL2QG3JpFYkg7TnI0zL8yOFAT0rDjziFS6wpwtM2BRV9QaUEjn-_sxoD9QHf0P7z_EIPv6yF-ir-mtm83z4ByZGXUqSmo93rFWb-AZxFMGuu6fqN-_9YP-gAHq5aag.jpg",
+          "url": "https://cdn4.telesco.pe/file/nFaaR8YIyY9thLHUg4uAQtc3X0cpOsp2RdO45EXKjyLKiM4Ks0CWoDCz7e3hj6Qn-V9DAastE8W2UwXnpNdv5oHRn8viXiO8O7rdGp8ZmnFV5zMUJ89esAsAC2L-jK80N_Ssskz6rKxiLudHbyjvOmQ2ZY7QkZQfHUX1H8q1A56WR_5WiVBFMWbQOVHiBu2UV9tXgeL8ukbvMwWmma1v8OuhDWORpvf2pNENlTi1TpP48MorR31TJS-FzT1DLg6hNhrtaFsFv8aDGtLAFMN9PP790yARkoY47DMhUlScwt0LFNCOE18LrGQ2gSMnYh9dHzncQe26SgxxqbGGtN0L_A.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/nFaaR8YIyY9thLHUg4uAQtc3X0cpOsp2RdO45EXKjyLKiM4Ks0CWoDCz7e3hj6Qn-V9DAastE8W2UwXnpNdv5oHRn8viXiO8O7rdGp8ZmnFV5zMUJ89esAsAC2L-jK80N_Ssskz6rKxiLudHbyjvOmQ2ZY7QkZQfHUX1H8q1A56WR_5WiVBFMWbQOVHiBu2UV9tXgeL8ukbvMwWmma1v8OuhDWORpvf2pNENlTi1TpP48MorR31TJS-FzT1DLg6hNhrtaFsFv8aDGtLAFMN9PP790yARkoY47DMhUlScwt0LFNCOE18LrGQ2gSMnYh9dHzncQe26SgxxqbGGtN0L_A.jpg",
           "thumbnail": null,
           "local_path": "channels/iraneazad_net/media/photo/IraneAzad_Net_35868_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/iraneazad_net/media/photo/IraneAzad_Net_35868_1.jpg",
@@ -409,7 +487,7 @@
     "type": "album"
   },
   {
-    "index": 6,
+    "index": 7,
     "post_url": "https://t.me/IraneAzad_Net/35867",
     "post_id": "IraneAzad_Net/35867",
     "date": "2026-05-13T09:54:17+00:00",
@@ -421,8 +499,8 @@
     "text": "صنف کفاشان و اغذیه فروشان هم شامل دریافت اینترنت پرو شدن&#33;\n\nبه‌زودی کل مردم ایران شامل اینترنت پرو میشن که دقیقا همون اینترنت قبل از جنگه، فقط به جای گیگی ۵ هزار تومن باید گیگی ۴۰ هزار تومن پول بدید. و فقط اونایی که توانشو دارن میتونن از این کالای لوکس بهره‌مند بشن&#33; \n\n@IraneAzad_Net\n@IraneAzad_News",
     "text_html": "<b>صنف کفاشان و اغذیه فروشان هم شامل دریافت اینترنت پرو شدن&#33;</b><br/><br/>به‌زودی کل مردم ایران شامل اینترنت پرو میشن که دقیقا همون اینترنت قبل از جنگه، فقط به جای گیگی ۵ هزار تومن باید گیگی ۴۰ هزار تومن پول بدید. و فقط اونایی که توانشو دارن میتونن از این کالای لوکس بهره‌مند بشن&#33; <br/><br/><a href=\"https://t.me/IraneAzad_Net\" target=\"_blank\">@IraneAzad_Net</a><br/><a href=\"https://t.me/IraneAzad_News\" target=\"_blank\">@IraneAzad_News</a>",
     "is_edited": false,
-    "views": 26600,
-    "views_raw": "26.6K",
+    "views": 27500,
+    "views_raw": "27.5K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -453,8 +531,8 @@
         {
           "type": "photo",
           "post_id": "IraneAzad_Net/35867",
-          "url": "https://cdn4.telesco.pe/file/ZK7N-EXbnXS68_XKVZ-Ro-l7QezITTO64yYbm5p4S6GLPOHCG1-48UfJb4jI4TwWP-gjwDWvCB3xihOceCvVViKa9jeHWZVjw50gXrNJmluGYiYaZSAdOEe2tY_xYFjvWSpEweEkfZkipS_MzSktRIJOeMEweeT936EctQ-2yf3-dRB2BuY0pi0ocPUcZx4rCfPdzQ3aPvXIQHC6jcwBxmCFXPNKYJ3RmbbNFKOeUggdnmAtNQbzuB2AWlwpq9ce6LOFruVXn56ciMoeNOX36XCRtX7JpQLFgawC207y8FaelCGiR5sOlYGroI4maY-2VZpWRutu3pXwimUz2SC7RA.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/ZK7N-EXbnXS68_XKVZ-Ro-l7QezITTO64yYbm5p4S6GLPOHCG1-48UfJb4jI4TwWP-gjwDWvCB3xihOceCvVViKa9jeHWZVjw50gXrNJmluGYiYaZSAdOEe2tY_xYFjvWSpEweEkfZkipS_MzSktRIJOeMEweeT936EctQ-2yf3-dRB2BuY0pi0ocPUcZx4rCfPdzQ3aPvXIQHC6jcwBxmCFXPNKYJ3RmbbNFKOeUggdnmAtNQbzuB2AWlwpq9ce6LOFruVXn56ciMoeNOX36XCRtX7JpQLFgawC207y8FaelCGiR5sOlYGroI4maY-2VZpWRutu3pXwimUz2SC7RA.jpg",
+          "url": "https://cdn4.telesco.pe/file/jTGvyLnv8akUwbfZB0v8iK9y4_1q16jv_jXnhiFWG8n2cEb1cyAESQ2JdCzUc2bW5WYG6pAcGgHdAdmVrSdNpeRstTKXHmcLkA5JaDdB4JE24d-eP_4cRYw5ir5T4cKSXdLhVCWK6_K_OddIAGal-bzcM9vQbeLWdKFgEUOX_8FtrHiwSDvlsN1un6OJua8YvkidLyBo4cN1Y9NsZBeL54k1waiUimY1SPlkt9uUODslHy5dOXixIfTNZ_e7HGR_apJeeQkLAeDJNOFhJpo4alLX3iQ3YQPmlpmvkqZwC47z5XJuxR8DO7K-Q20YbWDYDmhs2aAQQJxcSJ_c7mpIZw.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/jTGvyLnv8akUwbfZB0v8iK9y4_1q16jv_jXnhiFWG8n2cEb1cyAESQ2JdCzUc2bW5WYG6pAcGgHdAdmVrSdNpeRstTKXHmcLkA5JaDdB4JE24d-eP_4cRYw5ir5T4cKSXdLhVCWK6_K_OddIAGal-bzcM9vQbeLWdKFgEUOX_8FtrHiwSDvlsN1un6OJua8YvkidLyBo4cN1Y9NsZBeL54k1waiUimY1SPlkt9uUODslHy5dOXixIfTNZ_e7HGR_apJeeQkLAeDJNOFhJpo4alLX3iQ3YQPmlpmvkqZwC47z5XJuxR8DO7K-Q20YbWDYDmhs2aAQQJxcSJ_c7mpIZw.jpg",
           "thumbnail": null,
           "local_path": "channels/iraneazad_net/media/photo/IraneAzad_Net_35867_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/iraneazad_net/media/photo/IraneAzad_Net_35867_1.jpg",
@@ -490,7 +568,7 @@
     "type": "album"
   },
   {
-    "index": 7,
+    "index": 8,
     "post_url": "https://t.me/IraneAzad_Net/35866",
     "post_id": "IraneAzad_Net/35866",
     "date": "2026-05-13T08:03:46+00:00",
@@ -502,8 +580,8 @@
     "text": "🔴 نت‌بلاکس:\n\nقطعی اینترنت ایران حالا از ۱۷۷۶ ساعت گذشته و وارد هفتادوپنجمین روز خود شده.\n\nاین محدودیت گسترده اینترنتی باعث افزایش رانت، کاهش امنیت دیجیتال و گسترش طرح‌های موسوم به «اینترنت پرو» شده؛ طرح‌هایی که با دسترسی‌های گزینشی، زمینه نظارت، فساد و کلاهبرداری را فراهم کرده‌اند.\n\n@IraneAzad_Net\n@IraneAzad_News",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> <b>نت‌بلاکس:<br/><br/>قطعی اینترنت ایران حالا از ۱۷۷۶ ساعت گذشته و وارد هفتادوپنجمین روز خود شده.<br/><br/>این محدودیت گسترده اینترنتی باعث افزایش رانت، کاهش امنیت دیجیتال و گسترش طرح‌های موسوم به «اینترنت پرو» شده؛ طرح‌هایی که با دسترسی‌های گزینشی، زمینه نظارت، فساد و کلاهبرداری را فراهم کرده‌اند.<br/></b><br/><a href=\"https://t.me/IraneAzad_Net\" target=\"_blank\">@IraneAzad_Net</a><br/><a href=\"https://t.me/IraneAzad_News\" target=\"_blank\">@IraneAzad_News</a>",
     "is_edited": false,
-    "views": 26800,
-    "views_raw": "26.8K",
+    "views": 27500,
+    "views_raw": "27.5K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -571,7 +649,7 @@
     "type": "album"
   },
   {
-    "index": 8,
+    "index": 9,
     "post_url": "https://t.me/IraneAzad_Net/35865",
     "post_id": "IraneAzad_Net/35865",
     "date": "2026-05-13T07:59:16+00:00",
@@ -583,8 +661,8 @@
     "text": "🟢لینکِ دانلودِ مستقیمِ داخلی (بدونِ فیلتر) وی‌پی‌ان‌ها و کلاینت‌های اندروید که این چند روز کارآمد و متصل بودن:\n⚪️Psiphon [ v 453 ] : https://punkpaste.ir/f/Psiphon-v-453-Spotif-1gbnma\n\n⚪️Psiphon ( Mod ) [ v 462 ] : https://punkpaste.ir/f/Psiphon-Mod-v-462-Sp-wp26x3\n\n⚪️V2RayNG [ v 2.1.7 ] : https://punkpaste.ir/f/V2rayNG-v-2-1-7-Spot-s677ol\n\n⚪️V2RayN ( Windows ) [ v 7.20.4 ] : https://punkpaste.ir/f/V2rayN-Windows-64-v--igs81c\n\n⚪️NapsternetV [ v 123.1 ] : https://punkpaste.ir/f/NapsternetV-v-123-1--gfsice\n\n⚪️SlipNet [ v 2.5.3 ] : https://punkpaste.ir/f/SlipNet-v-2-5-3-Spot-0ou2rk\n\n⚪️SlipStream ( Windows ) : https://punkpaste.ir/f/SlipStream-Windows-6-ddn0qt\n\n⚪️V2Box [ v 5.0.3 ] : https://punkpaste.ir/f/V2Box-v-5-0-3-Spotif-d03m6x\n\n⚪️Happ [ v 3.18.1 ] : https://punkpaste.ir/f/Happ-v-3-18-1-Spotif-mqbzfr\n\n⚪️OpenVPN&nbsp; [ v 3.3.2 ] : https://punkpaste.ir/f/OpenVPN-Connect-v-3--eue4ww\n\n⚪️HTTP Injector [ v 6.5.0 ] : https://punkpaste.ir/f/HTTP-Injector-v-6-5--zzhcby\n\n⚪️NetMod [ v 3.2.8 ] : https://punkpaste.ir/f/NetMod-v-3-2-8-Spoti-35hvqy\n\n⚪️ShirOKhorshid [ v 2026.3.17 ] : https://punkpaste.ir/f/ShirOKhorshid-v-2026-781llx\n\n⚪️AM Tunnel Pro [ v 28.0 ] : https://punkpaste.ir/f/AM-TUNNEL-Pro-v-28-0-n2xjmg\n\n⚪️AM Tunnel Lite : [ v 2.0 ] : https://punkpaste.ir/f/AM-TUNNEL-LITE-v-2-0-y325mm\n\n⚪️MasterDNS [ v 1.0.9 ] : https://punkpaste.ir/f/MasterDns-v-1-0-9-Sp-z58k11\n\n⚪️WireGuard [ v 1.0.20 ] : https://punkpaste.ir/f/WireGuard-v-1-0-20-S-80q8vj\n\n⚪️WhiteDNS [ v 1.1.0 ] : https://punkpaste.ir/f/WhiteDNS-v-1-1-0-Spo-8gruhs\n\n⚪️Every Proxy [ v 12.7 ] : https://punkpaste.ir/f/Every-Proxy-v-12-7-S-ypu92j\n\n⚪️NetShare [ v 2.5.50 ] : https://punkpaste.ir/f/NetShare-v-2-5-50-Sp-66mr6e\n🔴&nbsp;&nbsp; مهم؛ حتما لینک رو کپی کنید و در مرورگر Chrome جایگذاری کنید و دانلود کنید ؛ لینک ها با همه ی اینترنت ها بدونِ نیاز به وی پی ان کار می‌کنند .\n+ اعتبارِ لینک هایِ دانلود: ۲۴ ساعت [ لینک ها آپدیت میشه ]\n\n@IraneAzad_Net\n@IraneAzad_News",
     "text_html": "<tg-emoji emoji-id=\"4990298741463319592\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')\"><b>🟢</b></i></tg-emoji><b>لینکِ دانلودِ مستقیمِ داخلی (بدونِ فیلتر) وی‌پی‌ان‌ها و کلاینت‌های اندروید که این چند روز کارآمد و متصل بودن</b>:<br/><blockquote expandable><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b><b>Psiphon</b> [ v 453 ] : <a href=\"https://punkpaste.ir/f/Psiphon-v-453-Spotif-1gbnma\" target=\"_blank\" rel=\"noopener\">https://punkpaste.ir/f/Psiphon-v-453-Spotif-1gbnma</a><br/><br/><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b><b>Psiphon ( Mod )</b> [ v 462 ] : <a href=\"https://punkpaste.ir/f/Psiphon-Mod-v-462-Sp-wp26x3\" target=\"_blank\" rel=\"noopener\">https://punkpaste.ir/f/Psiphon-Mod-v-462-Sp-wp26x3</a><br/><br/><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b><b>V2RayNG</b> [ v 2.1.7 ] : <a href=\"https://punkpaste.ir/f/V2rayNG-v-2-1-7-Spot-s677ol\" target=\"_blank\" rel=\"noopener\">https://punkpaste.ir/f/V2rayNG-v-2-1-7-Spot-s677ol</a><br/><br/><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b><b>V2RayN</b> ( <b>Windows</b> ) [ v 7.20.4 ] : <a href=\"https://punkpaste.ir/f/V2rayN-Windows-64-v--igs81c\" target=\"_blank\" rel=\"noopener\">https://punkpaste.ir/f/V2rayN-Windows-64-v--igs81c</a><br/><br/><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji><b>NapsternetV</b> [ v 123.1 ] : <a href=\"https://punkpaste.ir/f/NapsternetV-v-123-1--gfsice\" target=\"_blank\" rel=\"noopener\">https://punkpaste.ir/f/NapsternetV-v-123-1--gfsice</a><br/><br/><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b><b>SlipNet</b> [ v 2.5.3 ] : <a href=\"https://punkpaste.ir/f/SlipNet-v-2-5-3-Spot-0ou2rk\" target=\"_blank\" rel=\"noopener\">https://punkpaste.ir/f/SlipNet-v-2-5-3-Spot-0ou2rk</a><br/><br/><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b><b>SlipStream</b> ( <b>Windows</b> ) : <a href=\"https://punkpaste.ir/f/SlipStream-Windows-6-ddn0qt\" target=\"_blank\" rel=\"noopener\">https://punkpaste.ir/f/SlipStream-Windows-6-ddn0qt</a><br/><br/><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b><b>V2Box</b> [ v 5.0.3 ] : <a href=\"https://punkpaste.ir/f/V2Box-v-5-0-3-Spotif-d03m6x\" target=\"_blank\" rel=\"noopener\">https://punkpaste.ir/f/V2Box-v-5-0-3-Spotif-d03m6x</a><br/><br/><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b><b>Happ</b> [ v 3.18.1 ] : <a href=\"https://punkpaste.ir/f/Happ-v-3-18-1-Spotif-mqbzfr\" target=\"_blank\" rel=\"noopener\">https://punkpaste.ir/f/Happ-v-3-18-1-Spotif-mqbzfr</a><br/><br/><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b><b>OpenVPN</b>&nbsp; [ v 3.3.2 ] : <a href=\"https://punkpaste.ir/f/OpenVPN-Connect-v-3--eue4ww\" target=\"_blank\" rel=\"noopener\">https://punkpaste.ir/f/OpenVPN-Connect-v-3--eue4ww</a><br/><br/><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b><b>HTTP Injector</b> [ v 6.5.0 ] : <a href=\"https://punkpaste.ir/f/HTTP-Injector-v-6-5--zzhcby\" target=\"_blank\" rel=\"noopener\">https://punkpaste.ir/f/HTTP-Injector-v-6-5--zzhcby</a><br/><br/><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b><b>NetMod</b> [ v 3.2.8 ] : <a href=\"https://punkpaste.ir/f/NetMod-v-3-2-8-Spoti-35hvqy\" target=\"_blank\" rel=\"noopener\">https://punkpaste.ir/f/NetMod-v-3-2-8-Spoti-35hvqy</a><br/><br/><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b><b>ShirOKhorshid</b> [ v 2026.3.17 ] : <a href=\"https://punkpaste.ir/f/ShirOKhorshid-v-2026-781llx\" target=\"_blank\" rel=\"noopener\">https://punkpaste.ir/f/ShirOKhorshid-v-2026-781llx</a><br/><br/><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b><b>AM Tunnel</b> <b>Pro</b> [ v 28.0 ] : <a href=\"https://punkpaste.ir/f/AM-TUNNEL-Pro-v-28-0-n2xjmg\" target=\"_blank\" rel=\"noopener\">https://punkpaste.ir/f/AM-TUNNEL-Pro-v-28-0-n2xjmg</a><br/><br/><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b><b>AM Tunnel Lite</b> : [ v 2.0 ] : <a href=\"https://punkpaste.ir/f/AM-TUNNEL-LITE-v-2-0-y325mm\" target=\"_blank\" rel=\"noopener\">https://punkpaste.ir/f/AM-TUNNEL-LITE-v-2-0-y325mm</a><br/><br/><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b><b>MasterDNS </b>[ v 1.0.9 ] : <a href=\"https://punkpaste.ir/f/MasterDns-v-1-0-9-Sp-z58k11\" target=\"_blank\" rel=\"noopener\">https://punkpaste.ir/f/MasterDns-v-1-0-9-Sp-z58k11</a><br/><br/><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b><b>WireGuard</b> [ v 1.0.20 ] : <a href=\"https://punkpaste.ir/f/WireGuard-v-1-0-20-S-80q8vj\" target=\"_blank\" rel=\"noopener\">https://punkpaste.ir/f/WireGuard-v-1-0-20-S-80q8vj</a><br/><br/><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji><b>WhiteDNS</b> [ v 1.1.0 ] : <a href=\"https://punkpaste.ir/f/WhiteDNS-v-1-1-0-Spo-8gruhs\" target=\"_blank\" rel=\"noopener\">https://punkpaste.ir/f/WhiteDNS-v-1-1-0-Spo-8gruhs</a><b><br/><br/></b><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b><b>Every Proxy </b>[ v 12.7 ] : <a href=\"https://punkpaste.ir/f/Every-Proxy-v-12-7-S-ypu92j\" target=\"_blank\" rel=\"noopener\">https://punkpaste.ir/f/Every-Proxy-v-12-7-S-ypu92j</a><br/><br/><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji><b>NetShare</b> [ v 2.5.50 ] : <a href=\"https://punkpaste.ir/f/NetShare-v-2-5-50-Sp-66mr6e\" target=\"_blank\" rel=\"noopener\">https://punkpaste.ir/f/NetShare-v-2-5-50-Sp-66mr6e</a></blockquote><br/><blockquote><tg-emoji emoji-id=\"4990182601252668309\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>&nbsp;&nbsp; <b>مهم؛ حتما لینک رو کپی کنید و در مرورگر Chrome جایگذاری کنید و دانلود کنید ؛ لینک ها با همه ی اینترنت ها بدونِ نیاز به وی پی ان کار می‌کنند .</b></blockquote><br/>+ <b>اعتبارِ لینک هایِ دانلود: ۲۴ ساعت</b> [ لینک ها آپدیت میشه ]<br/><br/><a href=\"https://t.me/IraneAzad_Net\" target=\"_blank\">@IraneAzad_Net</a><br/><a href=\"https://t.me/IraneAzad_News\" target=\"_blank\">@IraneAzad_News</a>",
     "is_edited": false,
-    "views": 9970,
-    "views_raw": "9.97K",
+    "views": 10400,
+    "views_raw": "10.4K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -666,7 +744,7 @@
     "type": "photo"
   },
   {
-    "index": 9,
+    "index": 10,
     "post_url": "https://t.me/IraneAzad_Net/35864",
     "post_id": "IraneAzad_Net/35864",
     "date": "2026-05-13T07:29:00+00:00",
@@ -678,8 +756,8 @@
     "text": "غضنفری، نماینده مجلس:\n\nقطع اینترنت مختص ایران نیست؛ اروپایی‌ها هم اینترنت مردم رو قطع میکنن.\n\n@IraneAzad_Net\n@IraneAzad_News",
     "text_html": "<b>غضنفری، نماینده مجلس:<br/><br/>قطع اینترنت مختص ایران نیست؛ اروپایی‌ها هم اینترنت مردم رو قطع میکنن.</b><br/><br/><a href=\"https://t.me/IraneAzad_Net\" target=\"_blank\">@IraneAzad_Net</a><br/><a href=\"https://t.me/IraneAzad_News\" target=\"_blank\">@IraneAzad_News</a>",
     "is_edited": false,
-    "views": 23500,
-    "views_raw": "23.5K",
+    "views": 24000,
+    "views_raw": "24K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -737,7 +815,7 @@
     "type": "photo"
   },
   {
-    "index": 10,
+    "index": 11,
     "post_url": "https://t.me/IraneAzad_Net/35863",
     "post_id": "IraneAzad_Net/35863",
     "date": "2026-05-13T05:18:42+00:00",
@@ -749,8 +827,8 @@
     "text": "مهاجرانی، سخنگوی دولت:\n\nعامل خشم مردم از نبود اینترنت، دشمنانی هستن که باعث میشن فضای امنیتی ما مخدوش بشه&#33;\n\n@IraneAzad_Net\n@IraneAzad_News",
     "text_html": "<b>مهاجرانی، سخنگوی دولت:<br/><br/>عامل خشم مردم از نبود اینترنت، دشمنانی هستن که باعث میشن فضای امنیتی ما مخدوش بشه&#33;</b><br/><br/><a href=\"https://t.me/IraneAzad_Net\" target=\"_blank\">@IraneAzad_Net</a><br/><a href=\"https://t.me/IraneAzad_News\" target=\"_blank\">@IraneAzad_News</a>",
     "is_edited": false,
-    "views": 25200,
-    "views_raw": "25.2K",
+    "views": 25500,
+    "views_raw": "25.5K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -808,7 +886,7 @@
     "type": "photo"
   },
   {
-    "index": 11,
+    "index": 12,
     "post_url": "https://t.me/IraneAzad_Net/35862",
     "post_id": "IraneAzad_Net/35862",
     "date": "2026-05-13T04:59:28+00:00",
@@ -820,8 +898,8 @@
     "text": "محمدرضا شهبازی، مجری صداوسیما:\n\nاگه اینترنت براتون خیلی مهمه، برید افغانستان و سوریه زندگی کنید.\n\n@IraneAzad_Net\n@IraneAzad_News",
     "text_html": "<b>محمدرضا شهبازی، مجری صداوسیما:<br/><br/>اگه اینترنت براتون خیلی مهمه، برید افغانستان و سوریه زندگی کنید.</b><br/><br/><a href=\"https://t.me/IraneAzad_Net\" target=\"_blank\">@IraneAzad_Net</a><br/><a href=\"https://t.me/IraneAzad_News\" target=\"_blank\">@IraneAzad_News</a>",
     "is_edited": false,
-    "views": 27000,
-    "views_raw": "27K",
+    "views": 27500,
+    "views_raw": "27.5K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -898,7 +976,7 @@
     "type": "text"
   },
   {
-    "index": 12,
+    "index": 13,
     "post_url": "https://t.me/IraneAzad_Net/35861",
     "post_id": "IraneAzad_Net/35861",
     "date": "2026-05-13T04:59:19+00:00",
@@ -907,11 +985,11 @@
     "edit_date_unix": null,
     "author": null,
     "author_url": null,
-    "text": "🎉  بونوس ویژه ثبت‌نام – ۵۰۰٬۰۰۰ تومان رایگان\n\n💥 با ثبت‌نام در سایت، ۵۰۰٬۰۰۰ تومان بونوس رایگان دریافت کنید و شانس خود را امتحان کنید.\n\n🔥 چگونه کار ��ی‌کند؟\n\n⬅️ ثبت‌نام کنید&nbsp; \n⬅️بونوس ۵۰۰٬۰۰۰ تومانی دریافت کنید&nbsp; \n⬅️ شرط‌بندی کنید و بونوس را به موجودی واقعی تبدیل کنید\n\n🔥 وقتشه بازی رو یه جور دیگه ببینی\n\n⚽️  پوشش کامل مسابقات ورزشی&nbsp; \n📊  پیش‌بینی با بهترین ضرایب&nbsp; \n⚡️  تجربه سریع و حرفه‌ای \n\n😀 پرداخت مستقیم و سریع بدون واسطه، بدون دردسر، واریز و برداشت در سریع‌ترین زمان ممکن  \nR23\n😀 کانال تلگرام:&nbsp; \n🔴 @winro_io&nbsp;&nbsp; \n\n😀 هدیه خود را با ثبت نام در سایت دریافت کنید:&nbsp; \n🔴 Winro.io\n\nسایت اصلی در روزهای آینده بازگشایی خواهد شد ✅",
-    "text_html": "<tg-emoji emoji-id=\"5208541126583136130\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E89.png')\"><b>🎉</b></i></tg-emoji>  <b>بونوس ویژه ثبت‌نام – ۵۰۰٬۰۰۰ تومان رایگان</b><br/><br/><tg-emoji emoji-id=\"5276032951342088188\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A5.png')\"><b>💥</b></i></tg-emoji> با ثبت‌نام در سایت، ۵۰۰٬۰۰۰ تومان بونوس رایگان دریافت کنید و شانس خود را امتحان کنید.<br/><br/><tg-emoji emoji-id=\"5424972470023104089\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i></tg-emoji> <b>چگونه کار ��ی‌کند؟</b><br/><br/><tg-emoji emoji-id=\"5841510003390812630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC85.png')\"><b>⬅️</b></i></tg-emoji> ثبت‌نام کنید&nbsp; <br/><tg-emoji emoji-id=\"5841510003390812630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC85.png')\"><b>⬅️</b></i></tg-emoji>بونوس ۵۰۰٬۰۰۰ تومانی دریافت کنید&nbsp; <br/><tg-emoji emoji-id=\"5841510003390812630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC85.png')\"><b>⬅️</b></i></tg-emoji> شرط‌بندی کنید و بونوس را به موجودی واقعی تبدیل کنید<br/><br/><tg-emoji emoji-id=\"5424972470023104089\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i></tg-emoji> <b>وقتشه بازی رو یه جور دیگه ببینی<br/></b><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽️</b></i>  پوشش کامل مسابقات ورزشی&nbsp; <br/><tg-emoji emoji-id=\"5843884819657790721\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938A.png')\"><b>📊</b></i></tg-emoji>  پیش‌بینی با بهترین ضرایب&nbsp; <br/><tg-emoji emoji-id=\"5456140674028019486\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i></tg-emoji>  تجربه سریع و حرفه‌ای <br/><br/><tg-emoji emoji-id=\"5212962322967966165\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9880.png')\"><b>😀</b></i></tg-emoji> پرداخت مستقیم و سریع بدون واسطه، بدون دردسر، واریز و برداشت در سریع‌ترین زمان ممکن  <br/>R23<br/><tg-emoji emoji-id=\"5406809207947142040\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9880.png')\"><b>😀</b></i></tg-emoji> <b>کانال تلگرام:</b>&nbsp; <br/><tg-emoji emoji-id=\"4992646795789075643\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji> <a href=\"https://t.me/winro_io\" target=\"_blank\">@winro_io</a>&nbsp;&nbsp; <br/><br/><b><tg-emoji emoji-id=\"5843475994605786369\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9880.png')\"><b>😀</b></i></tg-emoji></b><b> هدیه خود را با ثبت نام در سایت دریافت کنید:&nbsp; </b><br/><tg-emoji emoji-id=\"4992646795789075643\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji> <a href=\"http://Winro.io/\" target=\"_blank\" rel=\"noopener\">Winro.io</a><br/><br/><b>سایت اصلی در روزهای آینده بازگشایی خواهد شد</b> <tg-emoji emoji-id=\"5841470760274629468\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji>",
+    "text": "🎉  بونوس ویژه ثبت‌نام – ۵۰۰٬۰۰۰ تومان رایگان\n\n💥 با ثبت‌نام در سایت، ۵۰۰٬۰۰۰ تومان بونوس رایگان دریافت کنید و شانس خود را امتحان کنید.\n\n🔥 چگونه کار می‌کند؟\n\n⬅️ ثبت‌نام کنید&nbsp; \n⬅️بونوس ۵۰۰٬۰۰۰ تومانی دریافت کنید&nbsp; \n⬅️ شرط‌بندی کنید و بونوس را به موجودی واقعی تبدیل کنید\n\n🔥 وقتشه بازی رو یه جور دیگه ببینی\n\n⚽️  پوشش کامل مسابقات ورزشی&nbsp; \n📊  پیش‌بینی با بهترین ضرایب&nbsp; \n⚡️  تجربه سریع و حرفه‌ای \n\n😀 پرداخت مستقیم و سریع بدون واسطه، بدون دردسر، واریز و برداشت در سریع‌ترین زمان ممکن  \nR23\n😀 کانال تلگرام:&nbsp; \n🔴 @winro_io&nbsp;&nbsp; \n\n😀 هدیه خود را با ثبت نام در سایت دریافت کنید:&nbsp; \n🔴 Winro.io\n\nسایت اصلی در روزهای آینده بازگشایی خواهد شد ✅",
+    "text_html": "<tg-emoji emoji-id=\"5208541126583136130\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E89.png')\"><b>🎉</b></i></tg-emoji>  <b>بونوس ویژه ثبت‌نام – ۵۰۰٬۰۰۰ تومان رایگان</b><br/><br/><tg-emoji emoji-id=\"5276032951342088188\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A5.png')\"><b>💥</b></i></tg-emoji> با ثبت‌نام در سایت، ۵۰۰٬۰۰۰ تومان بونوس رایگان دریافت کنید و شانس خود را امتحان کنید.<br/><br/><tg-emoji emoji-id=\"5424972470023104089\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i></tg-emoji> <b>چگونه کار می‌کند؟</b><br/><br/><tg-emoji emoji-id=\"5841510003390812630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC85.png')\"><b>⬅️</b></i></tg-emoji> ثبت‌نام کنید&nbsp; <br/><tg-emoji emoji-id=\"5841510003390812630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC85.png')\"><b>⬅️</b></i></tg-emoji>بونوس ۵۰۰٬۰۰۰ تومانی دریافت کنید&nbsp; <br/><tg-emoji emoji-id=\"5841510003390812630\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC85.png')\"><b>⬅️</b></i></tg-emoji> شرط‌بندی کنید و بونوس را به موجودی واقعی تبدیل کنید<br/><br/><tg-emoji emoji-id=\"5424972470023104089\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i></tg-emoji> <b>وقتشه بازی رو یه جور دیگه ببینی<br/></b><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29ABD.png')\"><b>⚽️</b></i>  پوشش کامل مسابقات ورزشی&nbsp; <br/><tg-emoji emoji-id=\"5843884819657790721\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938A.png')\"><b>📊</b></i></tg-emoji>  پیش‌بینی با بهترین ضرایب&nbsp; <br/><tg-emoji emoji-id=\"5456140674028019486\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA1.png')\"><b>⚡️</b></i></tg-emoji>  تجربه سریع و حرفه‌ای <br/><br/><tg-emoji emoji-id=\"5212962322967966165\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9880.png')\"><b>😀</b></i></tg-emoji> پرداخت مستقیم و سریع بدون واسطه، بدون دردسر، واریز و برداشت در سریع‌ترین زمان ممکن  <br/>R23<br/><tg-emoji emoji-id=\"5406809207947142040\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9880.png')\"><b>😀</b></i></tg-emoji> <b>کانال تلگرام:</b>&nbsp; <br/><tg-emoji emoji-id=\"4992646795789075643\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji> <a href=\"https://t.me/winro_io\" target=\"_blank\">@winro_io</a>&nbsp;&nbsp; <br/><br/><b><tg-emoji emoji-id=\"5843475994605786369\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9880.png')\"><b>😀</b></i></tg-emoji></b><b> هدیه خود را با ثبت نام در سایت دریافت کنید:&nbsp; </b><br/><tg-emoji emoji-id=\"4992646795789075643\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji> <a href=\"http://Winro.io/\" target=\"_blank\" rel=\"noopener\">Winro.io</a><br/><br/><b>سایت اصلی در روزهای آینده بازگشایی خواهد شد</b> <tg-emoji emoji-id=\"5841470760274629468\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i></tg-emoji>",
     "is_edited": false,
-    "views": 10500,
-    "views_raw": "10.5K",
+    "views": 10700,
+    "views_raw": "10.7K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -987,7 +1065,7 @@
     "type": "album"
   },
   {
-    "index": 13,
+    "index": 14,
     "post_url": "https://t.me/IraneAzad_Net/35860",
     "post_id": "IraneAzad_Net/35860",
     "date": "2026-05-12T18:30:34+00:00",
@@ -999,8 +1077,8 @@
     "text": "🔘 کانفیگ Injector جدید و متصل مخصوص شرایط فعلی اینترنت ملی 👇\n\n⚪️&nbsp;&nbsp; برای دریافت کانفیگ کلیک کنید\n\n📶📶📶🛜 تمام نت ها\n\n✈️ بعد از هربار قطع شدن، باید حالت هواپیما بزنید تا دوباره متصل بشه.\nلینک دانلود اندروید\nلینک دانلود ایفون\n@IraneAzad_Net\n@IraneAzad_News",
     "text_html": "<tg-emoji emoji-id=\"5064777550299923690\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9498.png')\"><b>🔘</b></i></tg-emoji> <b>کانفیگ Injector جدید و متصل مخصوص شرایط فعلی اینترنت ملی <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></b><br/><br/><blockquote><tg-emoji emoji-id=\"4987767712940819293\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji>&nbsp;&nbsp; <a href=\"https://t.me/IraneAzadTM_bot?start=741427902\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>برای دریافت کانفیگ کلیک کنید</b></a></blockquote><br/><br/><tg-emoji emoji-id=\"6050886193032207644\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i></tg-emoji><tg-emoji emoji-id=\"5764810859670935813\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i></tg-emoji><tg-emoji emoji-id=\"5764771891432658472\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i></tg-emoji><tg-emoji emoji-id=\"5931374725111485006\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9B9C.png')\"><b>🛜</b></i></tg-emoji> <b>تمام نت ها</b><br/><br/><tg-emoji emoji-id=\"5361600266225326825\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C88.png')\"><b>✈️</b></i></tg-emoji> <b>بعد از هربار قطع شدن، باید حالت هواپیما بزنید تا دوباره متصل بشه.</b><br/><blockquote><a href=\"https://t.me/IraneAzad_Net/35657\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>لینک دانلود اندروید</b></a><br/><a href=\"https://apps.apple.com/app/id1659992827\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">لینک دانلود ایفون</a></blockquote><br/><a href=\"https://t.me/IraneAzad_Net\" target=\"_blank\">@IraneAzad_Net</a><br/><a href=\"https://t.me/IraneAzad_News\" target=\"_blank\">@IraneAzad_News</a>",
     "is_edited": false,
-    "views": 12000,
-    "views_raw": "12K",
+    "views": 12300,
+    "views_raw": "12.3K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1063,7 +1141,7 @@
     "type": "photo"
   },
   {
-    "index": 14,
+    "index": 15,
     "post_url": "https://t.me/IraneAzad_Net/35859",
     "post_id": "IraneAzad_Net/35859",
     "date": "2026-05-12T16:16:29+00:00",
@@ -1075,8 +1153,8 @@
     "text": "🟢📶 کانفیگِ جدید برایِ SlipNet \n\nslipnet-enc://AW00Jpz+nyD3huWZP4Hpxyl7oiQ+kHmuCixYXyOZ7d15UOIsNiN4CG1Wx+22gRY2BzJquX2T2zUDklMECV0+PuavJn54dG7kobPyVsirwqsnAFckbNuNh7QDdu9zz5O6f+AslTfptzDEEE+9qDKZBLyn+78CqiI3ZBNVlPnmfhB3cLJ50UrYwM/gGK5BSxisth2ZDqP2Iu8r0xhe68RS340z0Rrreh+jGpr8yHHcq8utBP9gM2M+mTZtqjoFkEvcozWQoGjExjbAoXr30Haitp0E6TTlACoHKcGeORM/FHRmzQk49TFw4k13DkcnavQhrKxXCD+xwTzkJbjTOfwX2hakSsUSWWasjpVizVVdegW4iMf+0AQi+9WuKvbSGnGbtEEiu84JJ74/yMKZ+gOizp2xK6vpLPUnz623Hs3eVlTwlmVt/jXIYz5sORqKwuyy0dz/xBMh4BD943hH/hfgblQgltjYsvm/dG7aC/6LEQV2IS2KITzru1/F9c0sQnn/tQYbT8RxVilxsZkLDTbRCdyt4DrXZIOWdFbp+n09qO8tMK60CGV9Thnt0bR/Wif7mTbvAZ4Fh48M8wXTa2NyCPa3IzBab41hHN5cPYakb1R1lEJxsOHW2pKidfTmezPXz6Ssh3im6lHfAqt6c1b5auxRfOhiCDe7RuBBtohoaHgDwsCF\n📥 لینکِ دانلودِ مستقیمِ بدونِ فیلترِ اپلیکیشنِ SlipNet \n⚪️   حتماً از داخل تنظیمات VPN مقدار MTU رو روی 512 تنظیم کنید و ذخیره کنید.\n⚪️   بعد از اضافه کردن کانفیگ، قبل از اتصال روی آیکون مداد کنار کانفیگ بزنید و مقدار DNS Query Size رو یک‌بار روی 50 بذارید تست کنید و یک‌بار هم روی 60 قرار بدید و دوباره امتحان کنید.\n⚪️   حتماً گزینه Proxy-only Mode رو هم از تنظیمات فعال کنید. بعد از اینکه کانفیگ وصل شد، داخل تلگرام به یکی از پروکسی‌های زیر متصل بشید.\n🔗 : https://t.me/socks?server=127.0.0.1&port=10880\n\n🔗 : https://t.me/socks?server=0.0.0.0&port=10880\n\n🟢   تنظیماتِ پیشنهادی برایِ SlipNet \n\nواردِ قسمتِ تنظیمات شَوید ، سپس:\nگزینه ی Proxy-Only Mode رو روشن کنید .\n\nListen Address : Localhost (127.0.0.1)\nListen Port : 10880\n\nگزینه ی Disable QUIC رو خاموش کنید .\n\nVPN MTU : 512\n\nگزینه ی Append HTTP Proxy To VPN رو خاموش کنید .\n\nDNS Worker : 5 Workers ( Fastest )\n\nگزینه ی Enable Geo Bypass رو روشن کنید .\n\nCipher : Auto ( Fastest )\n\nگزینه ی Compression رو روشن کنید .\n\nMax Tunnel : 43\n\nگزینه ی Prevent Dns Fallback رو روشن کنید .\n@IraneAzad_Net\n@IraneAzad_News",
     "text_html": "<tg-emoji emoji-id=\"4990298741463319592\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')\"><b>🟢</b></i></tg-emoji><tg-emoji emoji-id=\"5764810859670935813\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B6.png')\"><b>📶</b></i></tg-emoji> <b>کانفیگِ جدید برایِ SlipNet </b><br/><br/><blockquote expandable><code>slipnet-enc://AW00Jpz+nyD3huWZP4Hpxyl7oiQ+kHmuCixYXyOZ7d15UOIsNiN4CG1Wx+22gRY2BzJquX2T2zUDklMECV0+PuavJn54dG7kobPyVsirwqsnAFckbNuNh7QDdu9zz5O6f+AslTfptzDEEE+9qDKZBLyn+78CqiI3ZBNVlPnmfhB3cLJ50UrYwM/gGK5BSxisth2ZDqP2Iu8r0xhe68RS340z0Rrreh+jGpr8yHHcq8utBP9gM2M+mTZtqjoFkEvcozWQoGjExjbAoXr30Haitp0E6TTlACoHKcGeORM/FHRmzQk49TFw4k13DkcnavQhrKxXCD+xwTzkJbjTOfwX2hakSsUSWWasjpVizVVdegW4iMf+0AQi+9WuKvbSGnGbtEEiu84JJ74/yMKZ+gOizp2xK6vpLPUnz623Hs3eVlTwlmVt/jXIYz5sORqKwuyy0dz/xBMh4BD943hH/hfgblQgltjYsvm/dG7aC/6LEQV2IS2KITzru1/F9c0sQnn/tQYbT8RxVilxsZkLDTbRCdyt4DrXZIOWdFbp+n09qO8tMK60CGV9Thnt0bR/Wif7mTbvAZ4Fh48M8wXTa2NyCPa3IzBab41hHN5cPYakb1R1lEJxsOHW2pKidfTmezPXz6Ssh3im6lHfAqt6c1b5auxRfOhiCDe7RuBBtohoaHgDwsCF</code><br/></blockquote><tg-emoji emoji-id=\"5433811242135331842\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i></tg-emoji> <a href=\"https://t.me/IraneAzad_Net/35785\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>لینکِ دانلودِ مستقیمِ بدونِ فیلترِ اپلیکیشنِ SlipNet</b></a> <br/><blockquote><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b>   <b>حتماً از داخل تنظیمات VPN مقدار MTU رو روی 512 تنظیم کنید و ذخیره کنید.<br/></b></blockquote><blockquote><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b>   <b>بعد از اضافه کردن کانفیگ، قبل از اتصال روی آیکون مداد کنار کانفیگ بزنید و مقدار DNS Query Size رو یک‌بار روی 50 بذارید تست کنید و یک‌بار هم روی 60 قرار بدید و دوباره امتحان کنید.<br/></b></blockquote><b><tg-emoji emoji-id=\"5123344136665039833\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AAA.png')\"><b>⚪️</b></i></tg-emoji></b>   <b>حتماً گزینه Proxy-only Mode رو هم از تنظیمات فعال کنید. بعد از اینکه کانفیگ وصل شد، داخل تلگرام به یکی از پروکسی‌های زیر متصل بشید.</b><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> : <a href=\"https://t.me/socks?server=127.0.0.1&amp;port=10880\" target=\"_blank\" rel=\"noopener\">https://t.me/socks?server=127.0.0.1&amp;port=10880</a><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> : <a href=\"https://t.me/socks?server=0.0.0.0&amp;port=10880\" target=\"_blank\" rel=\"noopener\">https://t.me/socks?server=0.0.0.0&amp;port=10880</a></blockquote><br/><br/><blockquote expandable><tg-emoji emoji-id=\"4990298741463319592\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')\"><b>🟢</b></i></tg-emoji>   <b>تنظیماتِ پیشنهادی برایِ SlipNet</b> <br/><br/>واردِ قسمتِ تنظیمات شَوید ، سپس:<br/>گزینه ی Proxy-Only Mode رو روشن کنید .<br/><br/>Listen Address : Localhost (<a href=\"http://127.0.0.1/\" target=\"_blank\" rel=\"noopener\">127.0.0.1</a>)<br/>Listen Port : 10880<br/><br/>گزینه ی Disable QUIC رو خاموش کنید .<br/><br/>VPN MTU : 512<br/><br/>گزینه ی Append HTTP Proxy To VPN رو خاموش کنید .<br/><br/>DNS Worker : 5 Workers ( Fastest )<br/><br/>گزینه ی Enable Geo Bypass رو روشن کنید .<br/><br/>Cipher : Auto ( Fastest )<br/><br/>گزینه ی Compression رو روشن کنید .<br/><br/>Max Tunnel : 43<br/><br/>گزینه ی Prevent Dns Fallback رو روشن کنید .<br/></blockquote><a href=\"https://t.me/IraneAzad_Net\" target=\"_blank\">@IraneAzad_Net</a><br/><a href=\"https://t.me/IraneAzad_News\" target=\"_blank\">@IraneAzad_News</a>",
     "is_edited": false,
-    "views": 12700,
-    "views_raw": "12.7K",
+    "views": 13000,
+    "views_raw": "13K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1141,7 +1219,7 @@
     "type": "photo"
   },
   {
-    "index": 15,
+    "index": 16,
     "post_url": "https://t.me/IraneAzad_Net/35857",
     "post_id": "IraneAzad_Net/35857",
     "date": "2026-05-12T11:15:13+00:00",
@@ -1153,8 +1231,8 @@
     "text": "اژه‌ای، رئیس قوه قضائیه:\n\nاگه سیم‌کارت سفید و اینترنت پرو تخلف هستن باید با اونا برخورد قانونی بکنیم.\n\n@IraneAzad_Net\n@IraneAzad_News",
     "text_html": "<b>اژه‌ای، رئیس قوه قضائیه:<br/><br/>اگه سیم‌کارت سفید و اینترنت پرو تخلف هستن باید با اونا برخورد قانونی بکنیم.</b><br/><br/><a href=\"https://t.me/IraneAzad_Net\" target=\"_blank\">@IraneAzad_Net</a><br/><a href=\"https://t.me/IraneAzad_News\" target=\"_blank\">@IraneAzad_News</a>",
     "is_edited": false,
-    "views": 28400,
-    "views_raw": "28.4K",
+    "views": 28600,
+    "views_raw": "28.6K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1211,7 +1289,7 @@
     "type": "photo"
   },
   {
-    "index": 16,
+    "index": 17,
     "post_url": "https://t.me/IraneAzad_Net/35856",
     "post_id": "IraneAzad_Net/35856",
     "date": "2026-05-12T10:22:32+00:00",
@@ -1223,8 +1301,8 @@
     "text": "🟢 پروکسی مخصوص اینترنت ملی؛ برای اتصال باید صبوری کنید.\n\nپروکسی - پروکسی \n\n\n@IraneAzad_Net\n@IraneAzad_News",
     "text_html": "<tg-emoji emoji-id=\"4990298741463319592\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')\"><b>🟢</b></i></tg-emoji> <b>پروکسی مخصوص اینترنت ملی؛ برای اتصال باید صبوری کنید.</b><br/><br/><a href=\"https://t.me/socks?server=62.220.126.92&amp;amp;port=32024#\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">پروکسی</a> - <a href=\"https://t.me/IraneAzad_News\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">پروکسی</a> <br/><br/><br/><a href=\"https://t.me/IraneAzad_Net\" target=\"_blank\">@IraneAzad_Net</a><br/><a href=\"https://t.me/IraneAzad_News\" target=\"_blank\">@IraneAzad_News</a>",
     "is_edited": false,
-    "views": 28900,
-    "views_raw": "28.9K",
+    "views": 29200,
+    "views_raw": "29.2K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1282,7 +1360,7 @@
     "type": "photo"
   },
   {
-    "index": 17,
+    "index": 18,
     "post_url": "https://t.me/IraneAzad_Net/35855",
     "post_id": "IraneAzad_Net/35855",
     "date": "2026-05-12T09:53:36+00:00",
@@ -1294,8 +1372,8 @@
     "text": "سخنگوی دولت: اینترنت پرو، مصوبه شورای عالی امنیت ملی است. اینترنت پرو برای کسب‌و‌کارها است. کشور در جنگ است و ویژگی جنگ امنیت مردم است\nخانم فاطمه مهاجرانی دروغ می‌گوید. در هفته‌های اخیر، پیامک فعال‌سازی اینترنت پرو برای بسیاری از شهروندانی ارسال شده که هیچ کسب‌وکار خاصی ندارند. همزمان، گزارش‌های متعددی از شکل‌گیری بازار دلالی این نوع دسترسی منتشر شده؛ افرادی که در ازای دریافت مبالغی تا حدود ۶ میلیون تومان، اینترنت پرو را برای شهروندان فعال می‌کنند.\n\nاظهارات امروز سخنگوی دولت مسعود پزشکیان، بار دیگر نشان می‌دهد که این دولت نه‌تنها مخالف فیلترینگ و محدودسازی اینترنت نیست، بلکه از سیاست ارائه اینترنت طبقاتی و دسترسی تبعیض‌آمیز به اینترنت آزاد نیز حمایت می‌کند.\n\n@IraneAzad_Net\n@IraneAzad_News",
     "text_html": "<b>سخنگوی دولت: اینترنت پرو، مصوبه شورای عالی امنیت ملی است. اینترنت پرو برای کسب‌و‌کارها است. کشور در جنگ است و ویژگی جنگ امنیت مردم است</b><br/><blockquote>خانم فاطمه مهاجرانی دروغ می‌گوید. در هفته‌های اخیر، پیامک فعال‌سازی اینترنت پرو برای بسیاری از شهروندانی ارسال شده که هیچ کسب‌وکار خاصی ندارند. همزمان، گزارش‌های متعددی از شکل‌گیری بازار دلالی این نوع دسترسی منتشر شده؛ افرادی که در ازای دریافت مبالغی تا حدود ۶ میلیون تومان، اینترنت پرو را برای شهروندان فعال می‌کنند.<br/><br/>اظهارات امروز سخنگوی دولت مسعود پزشکیان، بار دیگر نشان می‌دهد که این دولت نه‌تنها مخالف فیلترینگ و محدودسازی اینترنت نیست، بلکه از سیاست ارائه اینترنت طبقاتی و دسترسی تبعیض‌آمیز به اینترنت آزاد نیز حمایت می‌کند.</blockquote><br/><br/><a href=\"https://t.me/IraneAzad_Net\" target=\"_blank\">@IraneAzad_Net</a><br/><a href=\"https://t.me/IraneAzad_News\" target=\"_blank\">@IraneAzad_News</a>",
     "is_edited": false,
-    "views": 29100,
-    "views_raw": "29.1K",
+    "views": 29200,
+    "views_raw": "29.2K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1326,8 +1404,8 @@
         {
           "type": "photo",
           "post_id": "IraneAzad_Net/35855",
-          "url": "https://cdn4.telesco.pe/file/M3ezDlEGBeKJhQy1nFKAwGBBLZlWen5hBZqhXE6vLfgAA01CnMHNCHoOiJTHZ_RbN-7sUN5NkEqHGzuZJs2CmS5kauQQGNMbth2bo3MvV5OMbG0hOD4xEsxLCQdIHXyzb5M5WSyFTVHjAuuj87pMRalaZJBJRe-8OGk4iO2xOaEB--dLPC55TI50RfSiC16iyDs1R6UK17ZX3cmDIwDgRukIgVvOOMiEDeTnlgvGwIs5Req-aJz2jw0YgXg5LvO7vzVBl2aE0HAMepC3cagr4QKMrN7JknTAz7GZQShsKl-M9pfFcGCkDT0NV_l36dQO-Kb9c__nYmkyX1m3S_WzoA",
-          "full_url": "https://cdn4.telesco.pe/file/M3ezDlEGBeKJhQy1nFKAwGBBLZlWen5hBZqhXE6vLfgAA01CnMHNCHoOiJTHZ_RbN-7sUN5NkEqHGzuZJs2CmS5kauQQGNMbth2bo3MvV5OMbG0hOD4xEsxLCQdIHXyzb5M5WSyFTVHjAuuj87pMRalaZJBJRe-8OGk4iO2xOaEB--dLPC55TI50RfSiC16iyDs1R6UK17ZX3cmDIwDgRukIgVvOOMiEDeTnlgvGwIs5Req-aJz2jw0YgXg5LvO7vzVBl2aE0HAMepC3cagr4QKMrN7JknTAz7GZQShsKl-M9pfFcGCkDT0NV_l36dQO-Kb9c__nYmkyX1m3S_WzoA",
+          "url": "https://cdn4.telesco.pe/file/niLXfOGnd-uFn4xgkn1ftVON4ch0IWR2IW9bvywxPsfis36aOisiDY0ZDlDkSBVWnPt45oJqUTNGB0z8QhAVsP6dgCj_6tptPkWpdLZxzNCcZNynMxz4yW5X1jE4i24DxHsgQjOM89gjFHnu8DmKvvNvbgsP_ARRJ8gYPl_AVNJ2U4EO8QQptFvZUNmXNzD3JNU2B5kAAG9De_F-j_y--65tYuyJapLXXiUCo6O6tY1MHmbDLww6A_S7XSYkw47gIbpVtMbQoUBKv6gKxTeDtFahSXNr3Y6dwAgfIBKBF9uW9hR2rc-24UHYckaQpRHLjJtXhC9IPSsuaqTMy5UkkA",
+          "full_url": "https://cdn4.telesco.pe/file/niLXfOGnd-uFn4xgkn1ftVON4ch0IWR2IW9bvywxPsfis36aOisiDY0ZDlDkSBVWnPt45oJqUTNGB0z8QhAVsP6dgCj_6tptPkWpdLZxzNCcZNynMxz4yW5X1jE4i24DxHsgQjOM89gjFHnu8DmKvvNvbgsP_ARRJ8gYPl_AVNJ2U4EO8QQptFvZUNmXNzD3JNU2B5kAAG9De_F-j_y--65tYuyJapLXXiUCo6O6tY1MHmbDLww6A_S7XSYkw47gIbpVtMbQoUBKv6gKxTeDtFahSXNr3Y6dwAgfIBKBF9uW9hR2rc-24UHYckaQpRHLjJtXhC9IPSsuaqTMy5UkkA",
           "thumbnail": null,
           "local_path": "channels/iraneazad_net/media/photo/IraneAzad_Net_35855_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/iraneazad_net/media/photo/IraneAzad_Net_35855_1.jpg",
@@ -1336,8 +1414,8 @@
         {
           "type": "video",
           "post_id": "IraneAzad_Net/35855",
-          "url": "https://cdn4.telesco.pe/file/3f6a77c051.mp4?token=QdXWevkk6xHBOnCC5tT0KF6-q8i-ND739xFNBjOmGlWKvD7jegvJxmlyFrpqhKM8423ptq05YGmcN2o8E8OdIYhmnZ9Rjz6FbtxRqkIm8kly0deE32AG40wkrA8j0PAWv1RsCrAyHHsNoc0uu3YTj7LTTAB02udGvsewFUNyNWPNvMWaNKUA1tYgGDGYsDcIfTfC96C1tXA3RKI0-7Ob_trD7kMzF9rXmEilGBbj2JLKf7z7HU07QBLkrEDgZ2VtPnN1u2R7ts5dYoh_zlugj8KFSVke6bdnepQ3Lr1eJcTIncU2CbtKR3VCIjdYwiauoeMyXOmV-R81APmmocFqyA",
-          "full_url": "https://cdn4.telesco.pe/file/3f6a77c051.mp4?token=QdXWevkk6xHBOnCC5tT0KF6-q8i-ND739xFNBjOmGlWKvD7jegvJxmlyFrpqhKM8423ptq05YGmcN2o8E8OdIYhmnZ9Rjz6FbtxRqkIm8kly0deE32AG40wkrA8j0PAWv1RsCrAyHHsNoc0uu3YTj7LTTAB02udGvsewFUNyNWPNvMWaNKUA1tYgGDGYsDcIfTfC96C1tXA3RKI0-7Ob_trD7kMzF9rXmEilGBbj2JLKf7z7HU07QBLkrEDgZ2VtPnN1u2R7ts5dYoh_zlugj8KFSVke6bdnepQ3Lr1eJcTIncU2CbtKR3VCIjdYwiauoeMyXOmV-R81APmmocFqyA",
+          "url": "https://cdn4.telesco.pe/file/3f6a77c051.mp4?token=Ez-Bxicc2pheZ-KsM_AJYML-vtsavfE-PKVDmmmmEKZAWBW_zYqIwSb-y9g7ZKwWbbd5_fKqosMq__PnZ7_AJB6eSXI2US7iVwDWRzh8vqhHUiNrSVZYBJf0dX_Er7MKqvNvNijU6f3H8uNmDUgJz-vXmj_7fYw6jNQCQSD6hgrhvGuMkSbqf9xKwMLiHLHwM2AzWZ958q7-N6P36HFrk22pBMkp-vwA7RjE1J0-c6F6vnsxSDsFEmEmBhEHIvGBUu2FPEMSIy5OB0vhenlIEEcqThNBD8T5-4Sh3nQ8Fa2WvCKDy5ANRVlTeSpibjbBqYvjowpgC1tz129R3y_0Ww",
+          "full_url": "https://cdn4.telesco.pe/file/3f6a77c051.mp4?token=Ez-Bxicc2pheZ-KsM_AJYML-vtsavfE-PKVDmmmmEKZAWBW_zYqIwSb-y9g7ZKwWbbd5_fKqosMq__PnZ7_AJB6eSXI2US7iVwDWRzh8vqhHUiNrSVZYBJf0dX_Er7MKqvNvNijU6f3H8uNmDUgJz-vXmj_7fYw6jNQCQSD6hgrhvGuMkSbqf9xKwMLiHLHwM2AzWZ958q7-N6P36HFrk22pBMkp-vwA7RjE1J0-c6F6vnsxSDsFEmEmBhEHIvGBUu2FPEMSIy5OB0vhenlIEEcqThNBD8T5-4Sh3nQ8Fa2WvCKDy5ANRVlTeSpibjbBqYvjowpgC1tz129R3y_0Ww",
           "thumbnail": null,
           "local_path": "channels/iraneazad_net/media/video/IraneAzad_Net_35855_2.mp4",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/iraneazad_net/media/video/IraneAzad_Net_35855_2.mp4",
@@ -1371,7 +1449,7 @@
     "type": "text"
   },
   {
-    "index": 18,
+    "index": 19,
     "post_url": "https://t.me/IraneAzad_Net/35854",
     "post_id": "IraneAzad_Net/35854",
     "date": "2026-05-12T08:48:51+00:00",
@@ -1383,8 +1461,8 @@
     "text": "فاطمه مهاجرانی، سخنگوی دولت:\n\nاینترنت حق مردمه و عصبانیت‌شون کاملا درسته.\n\n@IraneAzad_Net\n@IraneAzad_News",
     "text_html": "<b>فاطمه مهاجرانی، سخنگوی دولت:<br/><br/>اینترنت حق مردمه و عصبانیت‌شون کاملا درسته.</b><br/><br/><a href=\"https://t.me/IraneAzad_Net\" target=\"_blank\">@IraneAzad_Net</a><br/><a href=\"https://t.me/IraneAzad_News\" target=\"_blank\">@IraneAzad_News</a>",
     "is_edited": false,
-    "views": 27400,
-    "views_raw": "27.4K",
+    "views": 27500,
+    "views_raw": "27.5K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1439,85 +1517,5 @@
     ],
     "reactions": [],
     "type": "photo"
-  },
-  {
-    "index": 19,
-    "post_url": "https://t.me/IraneAzad_Net/35853",
-    "post_id": "IraneAzad_Net/35853",
-    "date": "2026-05-12T08:34:37+00:00",
-    "date_unix": 1778574877,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "🔴 نت‌بلاکس:\n\nامروز هفتاد‌وچهارمین روزی است که ایران تا حد زیادی از اینترنت جهانی قطع شده و این وضعیت حالا از ۱۷۵۲ ساعت عبور کرده.\n\nاز ۲۸ فوریه ۲۰۲۶، جهان شاهد پیشرفت‌های علمی و فناوری بوده؛ در حالی که حکومت ایران همزمان مشغول بازداشت و اعدام فعالان و متخصصان حوزه فناوری بوده.\n\n@IraneAzad_Net\n@IraneAzad_News",
-    "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i> <b>نت‌بلاکس:<br/><br/>امروز هفتاد‌وچهارمین روزی است که ایران تا حد زیادی از اینترنت جهانی قطع شده و این وضعیت حالا از ۱۷۵۲ ساعت عبور کرده.<br/><br/>از ۲۸ فوریه ۲۰۲۶، جهان شاهد پیشرفت‌های علمی و فناوری بوده؛ در حالی که حکومت ایران همزمان مشغول بازداشت و اعدام فعالان و متخصصان حوزه فناوری بوده.</b><br/><br/><a href=\"https://t.me/IraneAzad_Net\" target=\"_blank\">@IraneAzad_Net</a><br/><a href=\"https://t.me/IraneAzad_News\" target=\"_blank\">@IraneAzad_News</a>",
-    "is_edited": false,
-    "views": 28200,
-    "views_raw": "28.2K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "album",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "IraneAzad_Net/35853",
-          "url": "https://cdn1.telesco.pe/file/K0THzeA6RoP5hZ1JHGs5_H1vDEt5e3Ot4qJR0UCfZNf6MXhEopHX2rCaWHuMDp6cixOLTPahhlaCWoIxpb9-ebzNYwulKmEsOlJklZkhB-td8lLbx-mZiHO1YgL2IH9ViQ4vcH-8J6lK2W97a1_tLXD3WjtDJ4dHE9ZLjzHWX5SQu6AdUyLQgsATP_gOF8Ne96dHV32oOYUvsLiDSwHt4VQD9Cg2S7ZIHsOUC1G4uycsa_j_Hpn_AJq7sjISG2_h_NNQhRGjh7SWRqlelBPsaWm_GVMOKRtieuAVrjeMWaeF8i9fRdwyX2rcYuMP3QFk8ixBREfFiXL70bsy_ZpSSA.jpg",
-          "full_url": "https://cdn1.telesco.pe/file/K0THzeA6RoP5hZ1JHGs5_H1vDEt5e3Ot4qJR0UCfZNf6MXhEopHX2rCaWHuMDp6cixOLTPahhlaCWoIxpb9-ebzNYwulKmEsOlJklZkhB-td8lLbx-mZiHO1YgL2IH9ViQ4vcH-8J6lK2W97a1_tLXD3WjtDJ4dHE9ZLjzHWX5SQu6AdUyLQgsATP_gOF8Ne96dHV32oOYUvsLiDSwHt4VQD9Cg2S7ZIHsOUC1G4uycsa_j_Hpn_AJq7sjISG2_h_NNQhRGjh7SWRqlelBPsaWm_GVMOKRtieuAVrjeMWaeF8i9fRdwyX2rcYuMP3QFk8ixBREfFiXL70bsy_ZpSSA.jpg",
-          "thumbnail": null,
-          "local_path": "channels/iraneazad_net/media/photo/IraneAzad_Net_35853_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/iraneazad_net/media/photo/IraneAzad_Net_35853_0.jpg",
-          "size_bytes": 13432
-        },
-        {
-          "type": "photo",
-          "post_id": "IraneAzad_Net/35853",
-          "url": "https://cdn4.telesco.pe/file/lz8crnNcYaSfZvoiWpCJpZDVz_fB0K0_XYm8OOzuTON_ufCe0ahL0EuFteqB6W6DpGwG41JiCo6RwF8Yziv8JICL92XYOvcqE0TZ0nDzV6vUQ1tcv_Zji8NVj-iDJXVTDRr6l5X1vgtIlvL5GXxzuMegBFewsGH0JlQUJOfAIwulinuVYg1IXmPMVxEMbKMK2CpMT4W4lUeKDIkb84JBUg0jJ1xfgF4UuAl8FYF9TqcIpj_zTwEnwtCeecWiQoQI4s4_YA2ueDEsIl1e5hBVARNWVPJNzjdgYS1_VxtML4cv-_iFZBq-KtcP1zREtqmLZM2qEDVIyHxNr-xtA03p1w.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/lz8crnNcYaSfZvoiWpCJpZDVz_fB0K0_XYm8OOzuTON_ufCe0ahL0EuFteqB6W6DpGwG41JiCo6RwF8Yziv8JICL92XYOvcqE0TZ0nDzV6vUQ1tcv_Zji8NVj-iDJXVTDRr6l5X1vgtIlvL5GXxzuMegBFewsGH0JlQUJOfAIwulinuVYg1IXmPMVxEMbKMK2CpMT4W4lUeKDIkb84JBUg0jJ1xfgF4UuAl8FYF9TqcIpj_zTwEnwtCeecWiQoQI4s4_YA2ueDEsIl1e5hBVARNWVPJNzjdgYS1_VxtML4cv-_iFZBq-KtcP1zREtqmLZM2qEDVIyHxNr-xtA03p1w.jpg",
-          "thumbnail": null,
-          "local_path": "channels/iraneazad_net/media/photo/IraneAzad_Net_35853_1.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/iraneazad_net/media/photo/IraneAzad_Net_35853_1.jpg",
-          "size_bytes": 34664
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [
-      "IraneAzad_Net",
-      "IraneAzad_News"
-    ],
-    "links": [],
-    "emoji": [
-      "🔴",
-      "🤬",
-      "💔"
-    ],
-    "reactions": [],
-    "type": "album"
   }
 ]
