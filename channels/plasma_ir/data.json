@@ -1,6 +1,500 @@
 [
   {
     "index": 1,
+    "post_url": "https://t.me/plasma_ir/174427",
+    "post_id": "plasma_ir/174427",
+    "date": "2026-05-16T18:44:43+00:00",
+    "date_unix": 1778957083,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "عالیه",
+    "text_html": "عالیه",
+    "is_edited": false,
+    "views": 1,
+    "views_raw": "1",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "album",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/174427",
+          "url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_174427_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_174427_0.jpg",
+          "size_bytes": 4488
+        },
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/174427",
+          "url": "https://cdn4.telesco.pe/file/k6ww-0yh8U5iJ87lM9Qg2jXCGfEKPUjCdS6Hpe5J5arK8T3NcGgkOKhmQMUdHu1gW3B97cLLCciNj7idavRKZaJW_020WbbSSJAEu1GYj08HcrIVfbdqW64gOXq9MHz-BJ7EnFVRMeKfY5ezwVO4bqEjaFDOVtkKSDEw3HMWGbOwOWkibzZx3vXVNtU7_bCTs8MdjzVBB_94R-yA0mm9hpNO_VJvGUBK1dnN7I2eAitDr_S-t3V4WYbVQxZ5D33U8nrKRCqp0y6YlIFjOB8EQPmLhlRlIK8kB441ToV665VdqDPuWgIUZvSN9S4W2ZF2tNTGZRGUfVixMXRik51qvQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/k6ww-0yh8U5iJ87lM9Qg2jXCGfEKPUjCdS6Hpe5J5arK8T3NcGgkOKhmQMUdHu1gW3B97cLLCciNj7idavRKZaJW_020WbbSSJAEu1GYj08HcrIVfbdqW64gOXq9MHz-BJ7EnFVRMeKfY5ezwVO4bqEjaFDOVtkKSDEw3HMWGbOwOWkibzZx3vXVNtU7_bCTs8MdjzVBB_94R-yA0mm9hpNO_VJvGUBK1dnN7I2eAitDr_S-t3V4WYbVQxZ5D33U8nrKRCqp0y6YlIFjOB8EQPmLhlRlIK8kB441ToV665VdqDPuWgIUZvSN9S4W2ZF2tNTGZRGUfVixMXRik51qvQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_174427_1.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_174427_1.jpg",
+          "size_bytes": 962
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [],
+    "reactions": [],
+    "type": "album"
+  },
+  {
+    "index": 2,
+    "post_url": "https://t.me/plasma_ir/174426",
+    "post_id": "plasma_ir/174426",
+    "date": "2026-05-16T18:35:21+00:00",
+    "date_unix": 1778956521,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "با چی وصلید الان",
+    "text_html": "با چی وصلید الان",
+    "is_edited": false,
+    "views": 188,
+    "views_raw": "188",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/174426",
+          "url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_174426_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_174426_0.jpg",
+          "size_bytes": 4488
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 3,
+    "post_url": "https://t.me/plasma_ir/174425",
+    "post_id": "plasma_ir/174425",
+    "date": "2026-05-16T18:33:34+00:00",
+    "date_unix": 1778956414,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "عالیه",
+    "text_html": "عالیه",
+    "is_edited": false,
+    "views": 218,
+    "views_raw": "218",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "album",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/174425",
+          "url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_174425_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_174425_0.jpg",
+          "size_bytes": 4488
+        },
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/174425",
+          "url": "https://cdn4.telesco.pe/file/YXM-iRCuNLQKZqbjL9emZsquvZUH0WSisT60tA68LPRECLnFLkxhn4BsgFoBmReZlKtgW3ZYGUxSrywa2JnQ4zCPl9LKCgzYqwqP924R-PJ7-s7Ua3I503seyhMIPI6wrti3vRS3K4CyOCTD1wOsYsY6XcgFMEwuKoAj0_OAq0roaihEHL60Eap24DS6r99WJME3_MtqMPUz24jBDst8PM_aFPcGKUlKEXegaOQ4le1mxM3XCRAKLumT4fBRm07dLQCCYHnSdSExJZYCr0ZHT0eHuHPFvQidm6JrI4HUJp2qcfugwLw1faHB-bc3cRwfd4VPwthhJ3TJtSAZb4bPNA.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/YXM-iRCuNLQKZqbjL9emZsquvZUH0WSisT60tA68LPRECLnFLkxhn4BsgFoBmReZlKtgW3ZYGUxSrywa2JnQ4zCPl9LKCgzYqwqP924R-PJ7-s7Ua3I503seyhMIPI6wrti3vRS3K4CyOCTD1wOsYsY6XcgFMEwuKoAj0_OAq0roaihEHL60Eap24DS6r99WJME3_MtqMPUz24jBDst8PM_aFPcGKUlKEXegaOQ4le1mxM3XCRAKLumT4fBRm07dLQCCYHnSdSExJZYCr0ZHT0eHuHPFvQidm6JrI4HUJp2qcfugwLw1faHB-bc3cRwfd4VPwthhJ3TJtSAZb4bPNA.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_174425_1.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_174425_1.jpg",
+          "size_bytes": 41477
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "👍",
+      "👎"
+    ],
+    "reactions": [],
+    "type": "album"
+  },
+  {
+    "index": 4,
+    "post_url": "https://t.me/plasma_ir/174424",
+    "post_id": "plasma_ir/174424",
+    "date": "2026-05-16T17:54:57+00:00",
+    "date_unix": 1778954097,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "🔴ترامپ: \nاگر توافقی حاصل نشود ایران روزهای بسیار سختی در پیش خواهد داشت&#33;\n\n🤝@plasma_ir | پلاسما",
+    "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i><b>ترامپ: <br/>اگر توافقی حاصل نشود ایران روزهای بسیار سختی در پیش خواهد داشت</b>&#33;<br/><br/><tg-emoji emoji-id=\"5954129517680270724\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA49D.png')\"><b>🤝</b></i></tg-emoji><a href=\"https://t.me/plasma_ir\" target=\"_blank\">@plasma_ir</a><b> | پلاسما</b>",
+    "is_edited": false,
+    "views": 464,
+    "views_raw": "464",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/174424",
+          "url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_174424_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_174424_0.jpg",
+          "size_bytes": 4488
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec",
+      "33"
+    ],
+    "mentions": [
+      "plasma_ir"
+    ],
+    "links": [],
+    "emoji": [
+      "🔴",
+      "🤝",
+      "👍"
+    ],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 5,
+    "post_url": "https://t.me/plasma_ir/174423",
+    "post_id": "plasma_ir/174423",
+    "date": "2026-05-16T17:53:18+00:00",
+    "date_unix": 1778953998,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "🔴#فوری | سی‌ان‌ان به نقل از سخنگوی کاخ سفید: \n\n🔻 رئیس جمهور همه گزینه‌ها را در دسترس دارد، اما گزینه ترجیحی او دیپلماسی است.\n\n🤝@plasma_ir | پلاسما",
+    "text_html": "<tg-emoji emoji-id=\"6044112265102235520\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji><a href=\"?q=%23%D9%81%D9%88%D8%B1%DB%8C\">#فوری</a><b> | سی‌ان‌ان به نقل از سخنگوی کاخ سفید: <br/><br/></b><b><tg-emoji emoji-id=\"5067030535524583192\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i></tg-emoji></b><b> رئیس جمهور همه گزینه‌ها را در دسترس دارد، اما گزینه ترجیحی او دیپلماسی است.<br/><br/></b><tg-emoji emoji-id=\"5954129517680270724\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA49D.png')\"><b>🤝</b></i></tg-emoji><a href=\"https://t.me/plasma_ir\" target=\"_blank\">@plasma_ir</a> | پلاسما",
+    "is_edited": false,
+    "views": 510,
+    "views_raw": "510",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/174423",
+          "url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_174423_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_174423_0.jpg",
+          "size_bytes": 4488
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [
+      "plasma_ir"
+    ],
+    "links": [],
+    "emoji": [
+      "🔴",
+      "🔻",
+      "🤝",
+      "🤣",
+      "🍓"
+    ],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 6,
+    "post_url": "https://t.me/plasma_ir/174422",
+    "post_id": "plasma_ir/174422",
+    "date": "2026-05-16T17:45:46+00:00",
+    "date_unix": 1778953546,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "Trump:",
+    "text_html": "Trump:",
+    "is_edited": false,
+    "views": 542,
+    "views_raw": "542",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "album",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/174422",
+          "url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_174422_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_174422_0.jpg",
+          "size_bytes": 4488
+        },
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/174422",
+          "url": "https://cdn4.telesco.pe/file/Mac6wqMEia17GcH7YCprf8Wy_4-N4iIyoUmB8Wy2mBBCBQzN8C2pjj0_7i_WmAwCoP5J-a4PmSxIjCx2ov8HK2hXift5EUHcuwt9FzkXA0D1qg2LEXt3Sxtu7NZgMliR3eq0ItD0Co8YW8Rgwk-zsKOQo3d4MZT3mu2Q1mhhE6uzTEN8mOnHLNHNTH_947ZIR5Szpo8XhgV11mM_pFVV90heYE-M9XJB-4CRS6lVcGWfSAAuvTVf9EH5GWg1vQsBEKp6ggpeU4waFcxLu_m9StVryDO3mhas7gkx9_p3ZNHzt4JEKMbhRiKZj2i_3YHHRJoiQnEGAjGheLe6XwwlCg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/Mac6wqMEia17GcH7YCprf8Wy_4-N4iIyoUmB8Wy2mBBCBQzN8C2pjj0_7i_WmAwCoP5J-a4PmSxIjCx2ov8HK2hXift5EUHcuwt9FzkXA0D1qg2LEXt3Sxtu7NZgMliR3eq0ItD0Co8YW8Rgwk-zsKOQo3d4MZT3mu2Q1mhhE6uzTEN8mOnHLNHNTH_947ZIR5Szpo8XhgV11mM_pFVV90heYE-M9XJB-4CRS6lVcGWfSAAuvTVf9EH5GWg1vQsBEKp6ggpeU4waFcxLu_m9StVryDO3mhas7gkx9_p3ZNHzt4JEKMbhRiKZj2i_3YHHRJoiQnEGAjGheLe6XwwlCg.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_174422_1.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_174422_1.jpg",
+          "size_bytes": 72368
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "🤣"
+    ],
+    "reactions": [],
+    "type": "album"
+  },
+  {
+    "index": 7,
+    "post_url": "https://t.me/plasma_ir/174421",
+    "post_id": "plasma_ir/174421",
+    "date": "2026-05-16T17:42:13+00:00",
+    "date_unix": 1778953333,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "راستی مگه قرار نبود اواخر اردیبهشت ثبت نام کنکور انجام بشه چیشد پس؟😂",
+    "text_html": "راستی مگه قرار نبود اواخر اردیبهشت ثبت نام کنکور انجام بشه چیشد پس؟<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i>",
+    "is_edited": false,
+    "views": 523,
+    "views_raw": "523",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/174421",
+          "url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_174421_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_174421_0.jpg",
+          "size_bytes": 4488
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "😂",
+      "🤣"
+    ],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 8,
     "post_url": "https://t.me/plasma_ir/174420",
     "post_id": "plasma_ir/174420",
     "date": "2026-05-16T17:40:46+00:00",
@@ -12,8 +506,8 @@
     "text": null,
     "text_html": null,
     "is_edited": false,
-    "views": 114,
-    "views_raw": "114",
+    "views": 538,
+    "views_raw": "538",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -74,7 +568,7 @@
     "type": "album"
   },
   {
-    "index": 2,
+    "index": 9,
     "post_url": "https://t.me/plasma_ir/174419",
     "post_id": "plasma_ir/174419",
     "date": "2026-05-16T17:19:38+00:00",
@@ -86,8 +580,8 @@
     "text": "روز خوبی داشته باشید ، فعلا  ❤️",
     "text_html": "<b>روز خوبی داشته باشید ، فعلا  <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4.png')\"><b>❤️</b></i></b>",
     "is_edited": false,
-    "views": 267,
-    "views_raw": "267",
+    "views": 597,
+    "views_raw": "597",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -140,7 +634,7 @@
     "type": "photo"
   },
   {
-    "index": 3,
+    "index": 10,
     "post_url": "https://t.me/plasma_ir/174418",
     "post_id": "plasma_ir/174418",
     "date": "2026-05-16T17:17:28+00:00",
@@ -152,8 +646,8 @@
     "text": "3 - احتمال بالایی برای مثبت / حذف پایه یازدهم از دست کم کنکور 05 وجود داره \n\nبرای گفتن این حرف بنظرم زوده و تصمیم گیری هم بی پایه و اساس خواهد بود اما باتوجه به شواهدی که دیده میشه ، زیرساخت ها و... ( نکاتی که در اینجا کامل بهش پرداختم ) \nپس شما اگر در حال حاضر که ما داریم صحبت می کنیم ، یازدهم رو وارد برنامه کنید ( سوابق تحصیلی ) و بخواید بخونید قطعا مشکل مغزی دارید و باید به دکتر مراجعه کنید \nاگر اخبار مهم و موثقی دال بر اجرای حتمی برنامه ازمونی پایه یازدهم وجود داشته باشه و در اینده بیاد ، تیم پلاسما بهتون اطلاع رسانی خواهد کرد پس ، فعلا 12 ام و کنکور در دستور کار شما باشه و بر این اساس برنامه تون رو بچینید",
     "text_html": "3 - احتمال بالایی برای مثبت / حذف پایه یازدهم از دست کم کنکور 05 وجود داره <br/><br/>برای گفتن این حرف بنظرم زوده و تصمیم گیری هم بی پایه و اساس خواهد بود اما باتوجه به شواهدی که دیده میشه ، زیرساخت ها و... ( <a href=\"https://t.me/plasma_ir/172575\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">نکاتی که در اینجا کامل بهش پرداختم</a> ) <br/>پس شما اگر در حال حاضر که ما داریم صحبت می کنیم ، یازدهم رو وارد برنامه کنید ( سوابق تحصیلی ) و بخواید بخونید قطعا مشکل مغزی دارید و باید به دکتر مراجعه کنید <br/>اگر اخبار مهم و موثقی دال بر اجرای حتمی برنامه ازمونی پایه یازدهم وجود داشته باشه و در اینده بیاد ، تیم پلاسما بهتون اطلاع رسانی خواهد کرد پس ، فعلا 12 ام و کنکور در دستور کار شما باشه و بر این اساس برنامه تون رو بچینید",
     "is_edited": false,
-    "views": 306,
-    "views_raw": "306",
+    "views": 624,
+    "views_raw": "624",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -206,7 +700,7 @@
     "type": "photo"
   },
   {
-    "index": 4,
+    "index": 11,
     "post_url": "https://t.me/plasma_ir/174417",
     "post_id": "plasma_ir/174417",
     "date": "2026-05-16T17:12:00+00:00",
@@ -218,8 +712,8 @@
     "text": "2 - برنامه آزمون دوپینگ ماز مجددا ریست شده  و چنتا تغییر خوب کرده \n\n*  اضافه شدن آزمون های جامع کنکورهای اخیر به برنامه  \n* بیشتر شدن آوانس بین دو آزمون برای مرور و رفع اشکال بیشتر \n* این برنامه طبق آخرین آپدیت در تاریخ ( 26 ) تیرماه به پایان می رسه \n\nنکته قابل تامل : چون موسسات همیشه از قبل همه چیز رو می دونن ، پس قرار نیست امتحانی تا تاریخ ( 26 ) تیرماه گرفته بشه پس با خیال راحت تمام برنامه های درسیتون رو اسکجول 10 هفته ای کنید از الان تا ( 26 ) تیر",
     "text_html": "2 - برنامه آزمون دوپینگ ماز مجددا ریست شده  و چنتا تغییر خوب کرده <br/><br/>*  اضافه شدن آزمون های جامع کنکورهای اخیر به برنامه  <br/>* بیشتر شدن آوانس بین دو آزمون برای مرور و رفع اشکال بیشتر <br/>* این برنامه طبق آخرین آپدیت در تاریخ ( 26 ) تیرماه به پایان می رسه <br/><br/>نکته قابل تامل : چون موسسات همیشه از قبل همه چیز رو می دونن ، پس قرار نیست امتحانی تا تاریخ ( 26 ) تیرماه گرفته بشه پس با خیال راحت تمام برنامه های درسیتون رو اسکجول 10 هفته ای کنید از الان تا ( 26 ) تیر",
     "is_edited": false,
-    "views": 359,
-    "views_raw": "359",
+    "views": 640,
+    "views_raw": "640",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -270,7 +764,7 @@
     "type": "photo"
   },
   {
-    "index": 5,
+    "index": 12,
     "post_url": "https://t.me/plasma_ir/174416",
     "post_id": "plasma_ir/174416",
     "date": "2026-05-16T17:07:33+00:00",
@@ -282,8 +776,8 @@
     "text": "1 - تاریخ قطعی امتحانات نهایی هرچند مشخص نیست اما واضحا اعلام شده که قبل از 26 تیرماه هم نخواهد بود ، پس : \n\n* امتحانات نهایی حدودا از اوایل مرداد آغاز و در هفته سوم مرداد به پایان خواهد رسید \n*کنکور سراسری احتمالا در هفته اول یا دوم شهریور ماه گرفته خواهد شد \n\nتعویق بیشتر از این زمان بسیار بعید به نظر می رسه پس هربرنامه ای که قرار هستش بریزید رو برپایه و اساس این تاریخ اعلامی بچینید",
     "text_html": "1 - تاریخ قطعی امتحانات نهایی هرچند مشخص نیست اما واضحا اعلام شده که قبل از 26 تیرماه هم نخواهد بود ، پس : <br/><br/>* امتحانات نهایی حدودا از اوایل مرداد آغاز و در هفته سوم مرداد به پایان خواهد رسید <br/>*کنکور سراسری احتمالا در هفته اول یا دوم شهریور ماه گرفته خواهد شد <br/><br/>تعویق بیشتر از این زمان بسیار بعید به نظر می رسه پس هربرنامه ای که قرار هستش بریزید رو برپایه و اساس این تاریخ اعلامی بچینید",
     "is_edited": false,
-    "views": 392,
-    "views_raw": "392",
+    "views": 633,
+    "views_raw": "633",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -334,7 +828,7 @@
     "type": "photo"
   },
   {
-    "index": 6,
+    "index": 13,
     "post_url": "https://t.me/plasma_ir/174415",
     "post_id": "plasma_ir/174415",
     "date": "2026-05-16T17:05:26+00:00",
@@ -346,8 +840,8 @@
     "text": "درود بی کران عزیزان\nخیلی سریع چندتا نکته رو خدمتتون بگم و برم",
     "text_html": "<b>درود بی کران عزیزان</b><br/>خیلی سریع چندتا نکته رو خدمتتون بگم و برم",
     "is_edited": false,
-    "views": 403,
-    "views_raw": "403",
+    "views": 625,
+    "views_raw": "625",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -401,7 +895,7 @@
     "type": "photo"
   },
   {
-    "index": 7,
+    "index": 14,
     "post_url": "https://t.me/plasma_ir/174414",
     "post_id": "plasma_ir/174414",
     "date": "2026-05-16T17:05:02+00:00",
@@ -413,8 +907,8 @@
     "text": null,
     "text_html": null,
     "is_edited": false,
-    "views": 399,
-    "views_raw": "399",
+    "views": 588,
+    "views_raw": "588",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -475,7 +969,7 @@
     "type": "album"
   },
   {
-    "index": 8,
+    "index": 15,
     "post_url": "https://t.me/plasma_ir/174413",
     "post_id": "plasma_ir/174413",
     "date": "2026-05-16T16:21:56+00:00",
@@ -487,8 +981,8 @@
     "text": "کانفیگ همراه ساب گیگی ۲۵۰ هزار بود که تا اخر شب با تخفیف ۲۲۰ هزار میدیم برای خرید پیام بدید❤️👇\n@Confing_supportt\nبا ضمانت شخصی ما بخرید❤️مشکلی داشت برگشت میزنند✅",
     "text_html": "کانفیگ همراه ساب گیگی ۲۵۰ هزار بود که تا اخر شب با تخفیف ۲۲۰ هزار میدیم برای خرید پیام بدید<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4.png')\"><b>❤️</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i><br/><a href=\"https://t.me/Confing_supportt\" target=\"_blank\">@Confing_supportt</a><br/>با ضمانت شخصی ما بخرید<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4.png')\"><b>❤️</b></i>مشکلی داشت برگشت میزنند<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C85.png')\"><b>✅</b></i>",
     "is_edited": false,
-    "views": 551,
-    "views_raw": "551",
+    "views": 751,
+    "views_raw": "751",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -545,7 +1039,7 @@
     "type": "photo"
   },
   {
-    "index": 9,
+    "index": 16,
     "post_url": "https://t.me/plasma_ir/174412",
     "post_id": "plasma_ir/174412",
     "date": "2026-05-16T16:20:52+00:00",
@@ -557,8 +1051,8 @@
     "text": "🔴#مهم | وزیر خارجه عمان پس از دیدار با معاون ترامپ:   🔻امیدوارم در روزهای آینده با روند مثبت مذاکرات، صلح و توافق در دسترس قرار بگیرد  🔸@plasma_ir | پلاسما",
     "text_html": "<tg-emoji emoji-id=\"5069006813186229311\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>#مهم | وزیر خارجه عمان پس از دیدار با معاون ترامپ:   <tg-emoji emoji-id=\"5067030535524583192\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i></tg-emoji>امیدوارم در روزهای آینده با روند مثبت مذاکرات، صلح و توافق در دسترس قرار بگیرد  <tg-emoji emoji-id=\"5938304994145998707\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i></tg-emoji>@plasma_ir | پلاسما",
     "is_edited": false,
-    "views": 579,
-    "views_raw": "579",
+    "views": 749,
+    "views_raw": "749",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -616,7 +1110,7 @@
     "type": "photo"
   },
   {
-    "index": 10,
+    "index": 17,
     "post_url": "https://t.me/plasma_ir/174411",
     "post_id": "plasma_ir/174411",
     "date": "2026-05-16T16:19:50+00:00",
@@ -628,8 +1122,8 @@
     "text": "‼️🇵🇰🇮🇷🇺🇸کامران یوسف خبرنگار رسانه پاکستانی اکسپرس نیوز: سفر اعلام‌نشده وزیر کشور پاکستان به تهران، بخشی از تلاش آخر برای حصول توافق بین ایران و آمریکا است. \n\n🔸‌ ‌نقوی از معتمدان نزدیک فیلد مارشال (فرمانده ارتش پاکستان) است و یک ماه پیش نیز او را در سفر سه‌روزه‌اش به ایران همراهی کرده بود.\n\n🔸‌ ‌با توجه به اینکه ترامپ پس از سفر پکن به واشنگتن بازگشته و در حال اندیشیدن به گام بعدی است، سفر وزیر کشور پاکستان حیاتی تلقی می‌شود.\n⠀\n🤝@plasma_ir | پلاسما",
     "text_html": "<tg-emoji emoji-id=\"5807767228484949274\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i></tg-emoji><tg-emoji emoji-id=\"5291825606219029010\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87B5F09F87B0.png')\"><b>🇵🇰</b></i></tg-emoji><tg-emoji emoji-id=\"5294220170745630736\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AEF09F87B7.png')\"><b>🇮🇷</b></i></tg-emoji><tg-emoji emoji-id=\"5294244076533600593\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')\"><b>🇺🇸</b></i></tg-emoji>کامران یوسف خبرنگار رسانه پاکستانی اکسپرس نیوز: سفر اعلام‌نشده وزیر کشور پاکستان به تهران، بخشی از تلاش آخر برای حصول توافق بین ایران و آمریکا است. <br/><br/><tg-emoji emoji-id=\"5938304994145998707\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i></tg-emoji>‌ ‌نقوی از معتمدان نزدیک فیلد مارشال (فرمانده ارتش پاکستان) است و یک ماه پیش نیز او را در سفر سه‌روزه‌اش به ایران همراهی کرده بود.<br/><br/><tg-emoji emoji-id=\"5938304994145998707\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i></tg-emoji>‌ ‌با توجه به اینکه ترامپ پس از سفر پکن به واشنگتن بازگشته و در حال اندیشیدن به گام بعدی است، سفر وزیر کشور پاکستان حیاتی تلقی می‌شود.<br/>⠀<br/><tg-emoji emoji-id=\"5954129517680270724\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA49D.png')\"><b>🤝</b></i></tg-emoji><a href=\"https://t.me/plasma_ir\" target=\"_blank\">@plasma_ir</a> | پلاسما",
     "is_edited": false,
-    "views": 551,
-    "views_raw": "551",
+    "views": 714,
+    "views_raw": "714",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -692,7 +1186,7 @@
     "type": "photo"
   },
   {
-    "index": 11,
+    "index": 18,
     "post_url": "https://t.me/plasma_ir/174410",
     "post_id": "plasma_ir/174410",
     "date": "2026-05-16T15:25:35+00:00",
@@ -704,8 +1198,8 @@
     "text": "🔴 #فوری | العربیه:\n\n🔻 طبق گفته منابع آگاه پاکستانی، در بحث تنگه هرمز، پیشرفت‌هایی حاصل شده است‼️\n\n🤝@plasma_ir | پلاسما",
     "text_html": "<tg-emoji emoji-id=\"6044112265102235520\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji><b> </b><a href=\"?q=%23%D9%81%D9%88%D8%B1%DB%8C\">#فوری</a><b> | العربیه:<br/><br/></b><b><tg-emoji emoji-id=\"5067030535524583192\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i></tg-emoji></b><b> طبق گفته منابع آگاه پاکستانی، در بحث تنگه هرمز، پیشرفت‌هایی حاصل شده است</b><b><tg-emoji emoji-id=\"5066917440445744429\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i></tg-emoji></b><b><br/><br/></b><tg-emoji emoji-id=\"5954129517680270724\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA49D.png')\"><b>🤝</b></i></tg-emoji><a href=\"https://t.me/plasma_ir\" target=\"_blank\">@plasma_ir</a> | پلاسما",
     "is_edited": false,
-    "views": 737,
-    "views_raw": "737",
+    "views": 831,
+    "views_raw": "831",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -763,7 +1257,7 @@
     "type": "photo"
   },
   {
-    "index": 12,
+    "index": 19,
     "post_url": "https://t.me/plasma_ir/174408",
     "post_id": "plasma_ir/174408",
     "date": "2026-05-16T15:24:19+00:00",
@@ -775,8 +1269,8 @@
     "text": "🇺🇸 وزیر جنگ، پیت هگستث، دریانوردان گروه ضربت ناو هواپیمابر یو‌اس‌اس جرالد آر. فورد را پس از بازگشت به پایگاه نیروی دریایی نورفولک از یک ماموریت تاریخی ۱۱ ماهه، خوش‌آمد گفت.\n\n🔸‌ ‌ویدیوی اول از جرالد فورد (CVN-78) است و ویدیوی دوم هگستث را در حال خطاب قرار دادن نیروها در یو‌اس‌اس بین‌بریدج (DDG-96) نشان می‌دهد\n⠀\n🤝@plasma_ir | پلاسما",
     "text_html": "<tg-emoji emoji-id=\"5294244076533600593\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')\"><b>🇺🇸</b></i></tg-emoji> <b>وزیر جنگ، پیت هگستث</b>، دریانوردان گروه ضربت ناو هواپیمابر یو‌اس‌اس جرالد آر. فورد را پس از بازگشت به پایگاه نیروی دریایی نورفولک از یک ماموریت تاریخی ۱۱ ماهه، خوش‌آمد گفت.<br/><br/><tg-emoji emoji-id=\"5938304994145998707\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i></tg-emoji>‌ ‌ویدیوی اول از جرالد فورد (CVN-78) است و ویدیوی دوم هگستث را در حال خطاب قرار دادن نیروها در یو‌اس‌اس بین‌بریدج (DDG-96) نشان می‌دهد<br/>⠀<br/><tg-emoji emoji-id=\"5954129517680270724\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA49D.png')\"><b>🤝</b></i></tg-emoji><a href=\"https://t.me/plasma_ir\" target=\"_blank\">@plasma_ir</a><b> | پلاسما</b>",
     "is_edited": false,
-    "views": 741,
-    "views_raw": "741",
+    "views": 867,
+    "views_raw": "867",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -862,437 +1356,5 @@
     ],
     "reactions": [],
     "type": "text"
-  },
-  {
-    "index": 13,
-    "post_url": "https://t.me/plasma_ir/174407",
-    "post_id": "plasma_ir/174407",
-    "date": "2026-05-16T15:02:38+00:00",
-    "date_unix": 1778943758,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "🚨فوری؛ آزمونهای خردادماه مقطع متوسطه دانش‌آموزان اصفهانی به صورت غیرحضوری برگزار می‌شود\n\n🔹«جلال سلمانی» مدیر روابط عمومی اداره کل آموزش و پرورش استان اصفهان با انتشار پستی در صفحه شخصی خود از تصمیم شورای تأمین استان برای برگزاری آزمونهای خرداد ماه دانش‌آموزان پایه‌های هفتم تا دهم به صورت غیرحضوری خبرداد.\n\n🤝@plasma_ir | پلاسما",
-    "text_html": "<tg-emoji emoji-id=\"5834805550851823378\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i></tg-emoji>فوری؛ <b>آزمونهای خردادماه مقطع متوسطه دانش‌آموزان اصفهانی به صورت غیرحضوری برگزار می‌شود</b><br/><br/><tg-emoji emoji-id=\"5949668090336776775\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i></tg-emoji>«جلال سلمانی» مدیر روابط عمومی اداره کل آموزش و پرورش استان اصفهان با انتشار پستی در صفحه شخصی خود از تصمیم شورای تأمین استان برای برگزاری آزمونهای خرداد ماه دانش‌آموزان پایه‌های هفتم تا دهم به صورت غیرحضوری خبرداد.<br/><br/><tg-emoji emoji-id=\"5954129517680270724\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA49D.png')\"><b>🤝</b></i></tg-emoji><a href=\"https://t.me/plasma_ir\" target=\"_blank\">@plasma_ir</a> | پلاسما",
-    "is_edited": false,
-    "views": 780,
-    "views_raw": "780",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "plasma_ir/174407",
-          "url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/plasma_ir/media/photo/plasma_ir_174407_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_174407_0.jpg",
-          "size_bytes": 4488
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [
-      "plasma_ir"
-    ],
-    "links": [],
-    "emoji": [
-      "🚨",
-      "🔹",
-      "🤝"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 14,
-    "post_url": "https://t.me/plasma_ir/174406",
-    "post_id": "plasma_ir/174406",
-    "date": "2026-05-16T13:09:34+00:00",
-    "date_unix": 1778936974,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "🇺🇸🇵🇰🇮🇷 العربیه: پاکستان قصد دارد روند میانجی‌گری میان ایران و آمریکا را «با جدیت» ادامه دهد\n⠀",
-    "text_html": "<tg-emoji emoji-id=\"5294244076533600593\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87BAF09F87B8.png')\"><b>🇺🇸</b></i></tg-emoji><tg-emoji emoji-id=\"5291825606219029010\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87B5F09F87B0.png')\"><b>🇵🇰</b></i></tg-emoji><tg-emoji emoji-id=\"5294220170745630736\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F87AEF09F87B7.png')\"><b>🇮🇷</b></i></tg-emoji> العربیه: پاکستان قصد دارد روند میانجی‌گری میان ایران و آمریکا را «با جدیت» ادامه دهد<br/>⠀",
-    "is_edited": false,
-    "views": 957,
-    "views_raw": "957",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "plasma_ir/174406",
-          "url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/plasma_ir/media/photo/plasma_ir_174406_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_174406_0.jpg",
-          "size_bytes": 4488
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [],
-    "links": [],
-    "emoji": [
-      "🇺",
-      "🇸",
-      "🇵",
-      "🇰",
-      "🇮",
-      "🇷",
-      "👎"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 15,
-    "post_url": "https://t.me/plasma_ir/174404",
-    "post_id": "plasma_ir/174404",
-    "date": "2026-05-16T10:38:50+00:00",
-    "date_unix": 1778927930,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "🔴ایران:\n\nدر جنگ بعدی انچنان بحرین رو میزنیم که فقط اسمش بمونه \n\n 🤝@plasma_ir | پلاسما",
-    "text_html": "<tg-emoji emoji-id=\"6044112265102235520\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>ایران:<br/><br/>در جنگ بعدی انچنان بحرین رو میزنیم که فقط اسمش بمونه <br/><br/> <tg-emoji emoji-id=\"5954129517680270724\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA49D.png')\"><b>🤝</b></i></tg-emoji><a href=\"https://t.me/plasma_ir\" target=\"_blank\">@plasma_ir</a> | پلاسما",
-    "is_edited": false,
-    "views": 1200,
-    "views_raw": "1.2K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "plasma_ir/174404",
-          "url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/plasma_ir/media/photo/plasma_ir_174404_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_174404_0.jpg",
-          "size_bytes": 4488
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [
-      "plasma_ir"
-    ],
-    "links": [],
-    "emoji": [
-      "🔴",
-      "🤝",
-      "🤣",
-      "‍",
-      "🔥",
-      "👎"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 16,
-    "post_url": "https://t.me/plasma_ir/174403",
-    "post_id": "plasma_ir/174403",
-    "date": "2026-05-16T10:37:40+00:00",
-    "date_unix": 1778927860,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "براورد های اطلاعاتی حاکی از شروع جنگ تا ۲۴ ساعت اینده&#33;",
-    "text_html": "براورد های اطلاعاتی حاکی از شروع جنگ تا ۲۴ ساعت اینده&#33;",
-    "is_edited": false,
-    "views": 1210,
-    "views_raw": "1.21K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "plasma_ir/174403",
-          "url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/plasma_ir/media/photo/plasma_ir_174403_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_174403_0.jpg",
-          "size_bytes": 4488
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec",
-      "33"
-    ],
-    "mentions": [],
-    "links": [],
-    "emoji": [
-      "🤣",
-      "👎"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 17,
-    "post_url": "https://t.me/plasma_ir/174402",
-    "post_id": "plasma_ir/174402",
-    "date": "2026-05-16T10:36:54+00:00",
-    "date_unix": 1778927814,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "🚨 #فوری | منابع داخلی به نقل از یک مقام نظامی آگاه ایرانی:\n\n🔻تمام واحدهای عملیاتی از یک طرح واکنش فوری و گسترده مطلع شده‌اند که تصریح می‌کند هرگونه تجاوز آمریکا با آتش شدید و چندلایه‌ای فراتر از محاسبات قبلی علیه منافع آمریکا مواجه خواهد شد.\n\n🔻برخی از ملاحظات قبلی خویشتن‌داری در طرح جدید کنار گذاشته شده و سناریوی واکنش بر اساس \"حداکثر فشار متقابل\" در سطحی فراتر از الگوهای قبلی بازتعریف شده است\n\n🤝@plasma_ir | پلاسما",
-    "text_html": "<b><tg-emoji emoji-id=\"5069064825309496667\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i></tg-emoji></b><b> </b><a href=\"?q=%23%D9%81%D9%88%D8%B1%DB%8C\">#فوری</a><b> | منابع داخلی به نقل از یک مقام نظامی آگاه ایرانی:<br/><br/></b><b><tg-emoji emoji-id=\"5067030535524583192\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i></tg-emoji></b><b>تمام واحدهای عملیاتی از یک طرح واکنش فوری و گسترده مطلع شده‌اند که تصریح می‌کند هرگونه تجاوز آمریکا با آتش شدید و چندلایه‌ای فراتر از محاسبات قبلی علیه منافع آمریکا مواجه خواهد شد.<br/><br/></b><b><tg-emoji emoji-id=\"5067030535524583192\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94BB.png')\"><b>🔻</b></i></tg-emoji></b><b>برخی از ملاحظات قبلی خویشتن‌داری در طرح جدید کنار گذاشته شده و سناریوی واکنش بر اساس &quot;حداکثر فشار متقابل&quot; در سطحی فراتر از الگوهای قبلی بازتعریف شده است<br/><br/></b><tg-emoji emoji-id=\"5954129517680270724\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA49D.png')\"><b>🤝</b></i></tg-emoji><a href=\"https://t.me/plasma_ir\" target=\"_blank\">@plasma_ir</a> | پلاسما",
-    "is_edited": false,
-    "views": 1200,
-    "views_raw": "1.2K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "plasma_ir/174402",
-          "url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/plasma_ir/media/photo/plasma_ir_174402_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_174402_0.jpg",
-          "size_bytes": 4488
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [
-      "plasma_ir"
-    ],
-    "links": [],
-    "emoji": [
-      "🚨",
-      "🔻",
-      "🤝",
-      "🤣",
-      "👎"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 18,
-    "post_url": "https://t.me/plasma_ir/174400",
-    "post_id": "plasma_ir/174400",
-    "date": "2026-05-16T09:00:52+00:00",
-    "date_unix": 1778922052,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "‼️جدید : ویدیوی ویرال شده تو برنامه‌‌ی شبکه افق استفاده از کلاشینکف AK-47 و چند شلیک تو استودیو&#33;⠀\n\n🤝@plasma_ir | پلاسما",
-    "text_html": "<tg-emoji emoji-id=\"5807767228484949274\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i></tg-emoji>جدید : ویدیوی ویرال شده تو برنامه‌‌ی شبکه افق استفاده از کلاشینکف AK-47 و چند شلیک تو استودیو&#33;⠀<br/><br/><tg-emoji emoji-id=\"5954129517680270724\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA49D.png')\"><b>🤝</b></i></tg-emoji><a href=\"https://t.me/plasma_ir\" target=\"_blank\">@plasma_ir</a><b> | پلاسما</b>",
-    "is_edited": false,
-    "views": 1250,
-    "views_raw": "1.25K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "album",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "plasma_ir/174400",
-          "url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TtAD1i9D3CpQj0MoqYN4osKdJ_U-4LI5ccf1ENfHd0yzom8zHqpzN-blm-PN1VPiC1VU7w9Pt6ZoTnBK-etxh5lb2DUozdIKOKq9AgBKWotvSHUqFXMSE7vsKcbQrrN2-N6BpE-lUwSBVaN9pnyDmNEIjSSamkOdaWcJSUjGdXb5IeoyrO2QLYCdl67aYHgZPzxfljekpxLKiu9Ye0RKv3llQ2d0UXsQEYQbMoD3ah8vyi29GqsLZuKmoN2s6ZPpuAoQ8tr8W2ZmHp3L7xj18aHv3QD6LvBnFBUulxLeLIIzCXO7uyW914J16uHtsj1RpzbJkefcHdWm7jBPEVe6qQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/plasma_ir/media/photo/plasma_ir_174400_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_174400_0.jpg",
-          "size_bytes": 4488
-        },
-        {
-          "type": "photo",
-          "post_id": "plasma_ir/174400",
-          "url": "https://cdn4.telesco.pe/file/XQzTFa6cq9ox0P3FlD6uTVU7t-K7Lqk10XHXqeHE6SfuIxmHlNWHwEGGpFAKu9r9ALJIyLLn4F6qczpDMyqm_T8FrswbHVr_3h9FhKe11GltPOb-fnDNPvG57lM7UY_9Bdjp4uAPjRJrOPq_U5qTbMeZQRTgh5GjHr7V9Qubj9_rwtkns_6xadb4Dm-2ULTbF9QDm5Aog6R380IPN0JJk7DlpmpySMyAlWwNhy5xWKGOIAiF5o84eRW6JAzlCe49gUI_j-iCkKKUnJ5JQRRA-etSOXwtcDggHdQyTjNLfCuMFEhtGRTaeje9xu7PaPVTQbSN2-2w-w7MthGTvX4iIw",
-          "full_url": "https://cdn4.telesco.pe/file/XQzTFa6cq9ox0P3FlD6uTVU7t-K7Lqk10XHXqeHE6SfuIxmHlNWHwEGGpFAKu9r9ALJIyLLn4F6qczpDMyqm_T8FrswbHVr_3h9FhKe11GltPOb-fnDNPvG57lM7UY_9Bdjp4uAPjRJrOPq_U5qTbMeZQRTgh5GjHr7V9Qubj9_rwtkns_6xadb4Dm-2ULTbF9QDm5Aog6R380IPN0JJk7DlpmpySMyAlWwNhy5xWKGOIAiF5o84eRW6JAzlCe49gUI_j-iCkKKUnJ5JQRRA-etSOXwtcDggHdQyTjNLfCuMFEhtGRTaeje9xu7PaPVTQbSN2-2w-w7MthGTvX4iIw",
-          "thumbnail": null,
-          "local_path": "channels/plasma_ir/media/photo/plasma_ir_174400_1.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_174400_1.jpg",
-          "size_bytes": 14842
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec",
-      "33"
-    ],
-    "mentions": [
-      "plasma_ir"
-    ],
-    "links": [],
-    "emoji": [
-      "️",
-      "🤝",
-      "🤣",
-      "🔥",
-      "👎"
-    ],
-    "reactions": [],
-    "type": "album"
   }
 ]
