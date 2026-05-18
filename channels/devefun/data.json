@@ -12,8 +12,8 @@
     "text": "🖥در برخی مواقع، ویندوز هنگام اختلال یا محدودیت اینترنت بین‌الملل، اتصال Wi-Fi را ناپایدار تشخیص داده و ممکن است پیام «No Internet» نمایش دهد یا اتصال را به‌صورت موقت قطع کند.\n\nبرای غیرفعال کردن بررسی اتصال اینترنت در ویندوز، مراحل زیر را انجام دهید:\n\n1. کلیدهای Win + R را فشار دهید.\n2. عبارت \"regedit\" را وارد کرده و Enter بزنید.\n3. به مسیر زیر بروید:\n\"HKEY_LOCAL_MACHINE&#092;SYSTEM&#092;CurrentControlSet&#092;Services&#092;NlaSvc&#092;Parameters&#092;Internet\"\n\n4. مقدار گزینه زیر را روی \"0\" قرار دهید:\n\"EnableActiveProbing\"\n\n5. سیستم را Restart کنید.\n\n🧬برای بازگرداندن تنظیمات به حالت اولیه، \nمقدار گزینه را مجدداً روی \"1\" قرار دهید.\n\n🙂 Channel : @devefun\n💐 Group : @WeAreXstack",
     "text_html": "<tg-emoji emoji-id=\"5215186239853964761\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96A5.png')\"><b>🖥</b></i></tg-emoji>در برخی مواقع، ویندوز هنگام اختلال یا محدودیت اینترنت بین‌الملل، اتصال Wi-Fi را ناپایدار تشخیص داده و ممکن است پیام «No Internet» نمایش دهد یا اتصال را به‌صورت موقت قطع کند.<br/><br/>برای غیرفعال کردن بررسی اتصال اینترنت در ویندوز، مراحل زیر را انجام دهید:<br/><br/>1. کلیدهای Win + R را فشار دهید.<br/>2. عبارت &quot;regedit&quot; را وارد کرده و Enter بزنید.<br/>3. به مسیر زیر بروید:<br/><blockquote>&quot;HKEY_LOCAL_MACHINE&#092;SYSTEM&#092;CurrentControlSet&#092;Services&#092;NlaSvc&#092;Parameters&#092;Internet&quot;</blockquote><br/><br/>4. مقدار گزینه زیر را روی &quot;0&quot; قرار دهید:<br/>&quot;EnableActiveProbing&quot;<br/><br/>5. سیستم را Restart کنید.<br/><br/><tg-emoji emoji-id=\"5212936673423274058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA7AC.png')\"><b>🧬</b></i></tg-emoji>برای بازگرداندن تنظیمات به حالت اولیه، <br/>مقدار گزینه را مجدداً روی &quot;1&quot; قرار دهید.<br/><br/><tg-emoji emoji-id=\"5789691669641174682\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9982.png')\"><b>🙂</b></i></tg-emoji> Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><tg-emoji emoji-id=\"5787504543445028791\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9290.png')\"><b>💐</b></i></tg-emoji> Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 1190,
-    "views_raw": "1.19K",
+    "views": 1200,
+    "views_raw": "1.2K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -117,8 +117,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4780",
-          "url": "https://cdn4.telesco.pe/file/LtRUKLl_sX90Xut2OM9UTMunB5pgWuN05idM1quim8N-Qnd87LYLZcgKEY-MZ0l_Frjxv1rXzd2A64QaCclKhI4X28qHS-euGl_0JnRp8B1horOvqy6LrfmA84bd4tT5-S2x-SS7bRllm6NbGJ6UCx8HUZ1LXwya0XrMLKoyBNmNUz2zstcQp0_ozd1eJbZB1fkqTFOXsjLoOzppiIglQPlPqgRQB-AliqNYHXLFzxRtqM3ho09yKWrsqY6EP-aUNA1IABxX2EMgJolyR8uiIC7txIaMiMxue5UjGlG_Z1Yev-6232lrrflCiHH2AGF4iuSiwnYipSAoHzwvc0jXHw",
-          "full_url": "https://cdn4.telesco.pe/file/LtRUKLl_sX90Xut2OM9UTMunB5pgWuN05idM1quim8N-Qnd87LYLZcgKEY-MZ0l_Frjxv1rXzd2A64QaCclKhI4X28qHS-euGl_0JnRp8B1horOvqy6LrfmA84bd4tT5-S2x-SS7bRllm6NbGJ6UCx8HUZ1LXwya0XrMLKoyBNmNUz2zstcQp0_ozd1eJbZB1fkqTFOXsjLoOzppiIglQPlPqgRQB-AliqNYHXLFzxRtqM3ho09yKWrsqY6EP-aUNA1IABxX2EMgJolyR8uiIC7txIaMiMxue5UjGlG_Z1Yev-6232lrrflCiHH2AGF4iuSiwnYipSAoHzwvc0jXHw",
+          "url": "https://cdn4.telesco.pe/file/jmJoBQCh_lIjisOsUmSg4HR0y1YESwcuRU8JBWiDnmUfNnOyJYJcYb93kd9ux4xMDCEmpt99rZDtuDtThl9E9rGiPyDZ3VJ-m6blfT0aXEWdbmyG14piTCZEPQ_83-fVlUHG93s6Nx3sLl8qr8GzSk5wOmg7G_7Tp8uuHFTIFO-4velQEZALFJnNCyN6tYQhOVYHsew3JZLObTZ9IluBzB4tzwfe39Ei94us0-5W46fpDBkCrxkgCAiOt76ZvH4utTpI2VCK3qBsxWUTATN4wTuqSXQcpw24NxTVO1781J9sR_5j3o1R58sYXah2AqTV_oGVsU8zyspHoYYWhuUP2A",
+          "full_url": "https://cdn4.telesco.pe/file/jmJoBQCh_lIjisOsUmSg4HR0y1YESwcuRU8JBWiDnmUfNnOyJYJcYb93kd9ux4xMDCEmpt99rZDtuDtThl9E9rGiPyDZ3VJ-m6blfT0aXEWdbmyG14piTCZEPQ_83-fVlUHG93s6Nx3sLl8qr8GzSk5wOmg7G_7Tp8uuHFTIFO-4velQEZALFJnNCyN6tYQhOVYHsew3JZLObTZ9IluBzB4tzwfe39Ei94us0-5W46fpDBkCrxkgCAiOt76ZvH4utTpI2VCK3qBsxWUTATN4wTuqSXQcpw24NxTVO1781J9sR_5j3o1R58sYXah2AqTV_oGVsU8zyspHoYYWhuUP2A",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4780_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4780_1.jpg",
@@ -127,8 +127,8 @@
         {
           "type": "video",
           "post_id": "devefun/4780",
-          "url": "https://cdn4.telesco.pe/file/0332c84b11.mp4?token=uaYXY1QLdHEQ6bO56bOP-NqwUQPrU-07RyNdGc2POsXbuc55iE3HfUVWTQIYuHYS3K9KQQElHPN5wY-GfImF4cHMDoI_htvbVh6aNbdZEVGuqwPuREQkMvblUul7gRAaNoLB1Gvc8cwB0Z7Ojh6eq9ki0vLNyRymlv2u5Vf_iNP6JFK5OZWRcQ3lUQy3yli_ukowe1lOLQf5YFPf0JnYTAu5BGhkngRao3VkBxzxpXdNUyokxnutATNoAPg-2eJonIvoQs2bTwNR6FNUy6yFB8QymKXlPRn3PP4uWNSUW_ppAcQY0zbwfsrEoSkn4apqBkjEBXoYy_YjIb5E-f5eLg",
-          "full_url": "https://cdn4.telesco.pe/file/0332c84b11.mp4?token=uaYXY1QLdHEQ6bO56bOP-NqwUQPrU-07RyNdGc2POsXbuc55iE3HfUVWTQIYuHYS3K9KQQElHPN5wY-GfImF4cHMDoI_htvbVh6aNbdZEVGuqwPuREQkMvblUul7gRAaNoLB1Gvc8cwB0Z7Ojh6eq9ki0vLNyRymlv2u5Vf_iNP6JFK5OZWRcQ3lUQy3yli_ukowe1lOLQf5YFPf0JnYTAu5BGhkngRao3VkBxzxpXdNUyokxnutATNoAPg-2eJonIvoQs2bTwNR6FNUy6yFB8QymKXlPRn3PP4uWNSUW_ppAcQY0zbwfsrEoSkn4apqBkjEBXoYy_YjIb5E-f5eLg",
+          "url": "https://cdn4.telesco.pe/file/0332c84b11.mp4?token=DXhAx1TqrOez0i31ewl8AL354VNqgfkQZstWwGDfdSjG8YX9XA1trQnT3Aq7AqnJP0Bp0P-xeYWieqyCM5zSOFcyehYIoAjYTXRk0s5n8Rtn6txO7NmttDPVfnPnLPUQf-NQ57n6awmSTBb2CxHeW9jWn7Ys78UhetM4EEA6HoxbBRyO09s6ooQyzetT9LOIM7k14prFBbWzBhi_9UwZTrB8zZ7t4xiQFU0M-1IkmBmXsYqtsKA5_z4A10BSgL4kCix5UZeoLcrNZ0ZFN1X-xsBVpVNhMQnaVmk0r5l-HQp1Ht9rVVVGGqyxa4VA5af8lMcByQ-ql1n8s4SV0bRKvg",
+          "full_url": "https://cdn4.telesco.pe/file/0332c84b11.mp4?token=DXhAx1TqrOez0i31ewl8AL354VNqgfkQZstWwGDfdSjG8YX9XA1trQnT3Aq7AqnJP0Bp0P-xeYWieqyCM5zSOFcyehYIoAjYTXRk0s5n8Rtn6txO7NmttDPVfnPnLPUQf-NQ57n6awmSTBb2CxHeW9jWn7Ys78UhetM4EEA6HoxbBRyO09s6ooQyzetT9LOIM7k14prFBbWzBhi_9UwZTrB8zZ7t4xiQFU0M-1IkmBmXsYqtsKA5_z4A10BSgL4kCix5UZeoLcrNZ0ZFN1X-xsBVpVNhMQnaVmk0r5l-HQp1Ht9rVVVGGqyxa4VA5af8lMcByQ-ql1n8s4SV0bRKvg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/video/devefun_4780_2.mp4",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/video/devefun_4780_2.mp4",
