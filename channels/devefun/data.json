@@ -1,76 +1,6 @@
 [
   {
     "index": 1,
-    "post_url": "https://t.me/devefun/4790",
-    "post_id": "devefun/4790",
-    "date": "2026-06-12T11:39:46+00:00",
-    "date_unix": 1781264386,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "چرا هوش مصنوعی هنوز جایگزین مهندسان نرم‌افزار نشده و نخواهد شد؟ 💻🤖\n\nآیا دوران برنامه‌نویسان به سر آمده است؟ مقاله‌ای جدید با بررسی چرخه‌های تاریخی صنعت کامپیوتر، به این سوال پاسخ می‌دهد و استدلال می‌کند که هوش مصنوعی به جای حذف توسعه‌دهندگان، نقش آن‌ها را ارتقا خواهد داد. 📈🛠️\n\n✨ نکات کلیدی و بحث‌های داغ در Hacker News:\n🔹 پارادوکس جوونس (Jevons Paradox): در طول تاریخ، هر بار که ابزارهای جدید بهره‌وری برنامه‌نویسان را بالا برده‌اند، به جای کاهش نیروی کار، اشتهای سیری‌ناپذیر جهان برای نرم‌افزار بیشتر شده و ما چیزهای بزرگتر و پیچیده‌تری ساخته‌ایم. 🌍\n🔹 مدل ساندویچی توسعه نرم‌افزار: برنامه‌نویسی شامل سه لایه «تصمیم‌گیری»، «اجرا» و «تحویل» است. هوش مصنوعی فقط لایه میانی (کدنویسی) را فشرده می‌کند، اما لایه‌های اول (درک نیازهای کاربر و بیزینس) و آخر (تست، نگهداری و پذیرش مسئولیت) همچنان به انسان نیاز دارند. 🥪\n🔹 بحران کدهای بی‌کیفیت (Slop): ابزارهای تولید کد برای ایجاد کدهای اولیه عالی هستند، اما در مواجهه با باگ‌های پیچیده و شرایط خاص (Edge Cases) کم می‌آورند. در نهایت، این مهندسان ارشد هستند که باید این کدهای تولیدشده را دیباگ و قابل نگهداری کنند. 🧹🐛\n🔹 مسئله پاسخگویی و مسئولیت حقوقی: شرکت‌ها همیشه به یک فرد پاسخگو نیاز دارند. شما نمی‌توانید یک مدل زبانی را به خاطر از کار انداختن یک سیستم حیاتی اخراج کنید یا از آن شکایت کنید&#33; ⚖️🚫\n🔹 آینده شغلی: هوش مصنوعی در حال تبدیل کردن توسعه‌دهندگان به «معماران سیستم» است. برنامه‌نویسانی که بتوانند چندین Agent هوش مصنوعی را هدایت و مدیریت کنند، ارزشمندتر از همیشه خواهند شد. 🚀\n\nهوش مصنوعی فعلاً یک «ضریب‌دهنده قدرت» (Force Multiplier) برای مهندسان است، نه یک جایگزین کامل. 💡\n\n🔗 لینک مقاله:\nhttps://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers\n\n🔗 بحث و بررسی در Hacker News:\nhttps://news.ycombinator.com/item?id=4848754\n\n\n@devefun",
-    "text_html": "<b>چرا هوش مصنوعی هنوز جایگزین مهندسان نرم‌افزار نشده و نخواهد شد؟</b> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92BB.png')\"><b>💻</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA496.png')\"><b>🤖</b></i><br/><br/>آیا دوران برنامه‌نویسان به سر آمده است؟ مقاله‌ای جدید با بررسی چرخه‌های تاریخی صنعت کامپیوتر، به این سوال پاسخ می‌دهد و استدلال می‌کند که هوش مصنوعی به جای حذف توسعه‌دهندگان، نقش آن‌ها را ارتقا خواهد داد. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9388.png')\"><b>📈</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9BA0.png')\"><b>🛠️</b></i><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29CA8.png')\"><b>✨</b></i> <b>نکات کلیدی و بحث‌های داغ در Hacker News:</b><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> <b>پارادوکس جوونس (Jevons Paradox):</b> در طول تاریخ، هر بار که ابزارهای جدید بهره‌وری برنامه‌نویسان را بالا برده‌اند، به جای کاهش نیروی کار، اشتهای سیری‌ناپذیر جهان برای نرم‌افزار بیشتر شده و ما چیزهای بزرگتر و پیچیده‌تری ساخته‌ایم. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C8D.png')\"><b>🌍</b></i><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> <b>مدل ساندویچی توسعه نرم‌افزار:</b> برنامه‌نویسی شامل سه لایه «تصمیم‌گیری»، «اجرا» و «تحویل» است. هوش مصنوعی فقط لایه میانی (کدنویسی) را فشرده می‌کند، اما لایه‌های اول (درک نیازهای کاربر و بیزینس) و آخر (تست، نگهداری و پذیرش مسئولیت) همچنان به انسان نیاز دارند. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA5AA.png')\"><b>🥪</b></i><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> <b>بحران کدهای بی‌کیفیت (Slop):</b> ابزارهای تولید کد برای ایجاد کدهای اولیه عالی هستند، اما در مواجهه با باگ‌های پیچیده و شرایط خاص (Edge Cases) کم می‌آورند. در نهایت، این مهندسان ارشد هستند که باید این کدهای تولیدشده را دیباگ و قابل نگهداری کنند. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA7B9.png')\"><b>🧹</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F909B.png')\"><b>🐛</b></i><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> <b>مسئله پاسخگویی و مسئولیت حقوقی:</b> شرکت‌ها همیشه به یک فرد پاسخگو نیاز دارند. شما نمی‌توانید یک مدل زبانی را به خاطر از کار انداختن یک سیستم حیاتی اخراج کنید یا از آن شکایت کنید&#33; <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29A96.png')\"><b>⚖️</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AAB.png')\"><b>🚫</b></i><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> <b>آینده شغلی:</b> هوش مصنوعی در حال تبدیل کردن توسعه‌دهندگان به «معماران سیستم» است. برنامه‌نویسانی که بتوانند چندین Agent هوش مصنوعی را هدایت و مدیریت کنند، ارزشمندتر از همیشه خواهند شد. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i><br/><br/>هوش مصنوعی فعلاً یک «ضریب‌دهنده قدرت» (Force Multiplier) برای مهندسان است، نه یک جایگزین کامل. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> لینک مقاله:<br/><a href=\"https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers\" target=\"_blank\" rel=\"noopener\">https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers</a><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> بحث و بررسی در Hacker News:<br/><a href=\"https://news.ycombinator.com/item?id=4848754\" target=\"_blank\" rel=\"noopener\">https://news.ycombinator.com/item?id=4848754</a><br/><br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a>",
-    "is_edited": false,
-    "views": 1230,
-    "views_raw": "1.23K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "devefun/4790",
-          "url": "https://cdn4.telesco.pe/file/IZ_cYbnDi7BwMVnsVDLbpF6er4X4HJTDtgG0vFYTmpZcsn--aOgGpdI3CpALy6dPm0BcN_1BiBkzPLzuRcZyYbEVLjpXbxdZMSxer04lQ5oENJYAaQs6mE27yBOFL3K8-3Qy4kQb-UbriOW8IxqEUPiYKUSLEqc2_5qMUAR5TSyOMnlthhtWMbzNB-adE3-wVEHn1Zl0pEe0C6Fd43MDn5_h7zDncFkUfbkK8DxYjWsVJKVRGdxFLWB4aCYs4aDWf6qenKozMq0TaNfqEE_Oy1nPoCescggfNq0VLdlw5IJ7jJf2Hpn5fySVUCmegEkHLzRejvW1LPqX9bVWlzESHg.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/IZ_cYbnDi7BwMVnsVDLbpF6er4X4HJTDtgG0vFYTmpZcsn--aOgGpdI3CpALy6dPm0BcN_1BiBkzPLzuRcZyYbEVLjpXbxdZMSxer04lQ5oENJYAaQs6mE27yBOFL3K8-3Qy4kQb-UbriOW8IxqEUPiYKUSLEqc2_5qMUAR5TSyOMnlthhtWMbzNB-adE3-wVEHn1Zl0pEe0C6Fd43MDn5_h7zDncFkUfbkK8DxYjWsVJKVRGdxFLWB4aCYs4aDWf6qenKozMq0TaNfqEE_Oy1nPoCescggfNq0VLdlw5IJ7jJf2Hpn5fySVUCmegEkHLzRejvW1LPqX9bVWlzESHg.jpg",
-          "thumbnail": null,
-          "local_path": "channels/devefun/media/photo/devefun_4790_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4790_0.jpg",
-          "size_bytes": 11549
-        },
-        {
-          "type": "photo",
-          "post_id": "devefun/4790",
-          "url": "https://cdn4.telesco.pe/file/mTdC0V9mld4-vWRcDHOHMiDUUEzB4ScyxyMiEPrI8-GP0nXgupn3k_AQthCTyy4ptSCqTNgIfbxLdt6odhugV0EPHYAsALSt-mgWggT6eO1D4Ewk_b_9X4LGTiF6L7Cf8yfEcjeREUNdCFhbPpAYXvCwH2TjoueKvAhjL9vCBb9sO61v1NklM_s3LCssiov1bB93D4T5mvjGcrWw3J0KdbIzqU8C8pXkZQ4yifiYydwOJBXiD1p_kqMh4KxFvlH9jMmwKE19Zs6PriI2kLvb3Gv_lIE8qY7DJHirexultlBwH-MgEShGzTunkfrOXFlQbVLoQU1IgKg2CmfCa8IHpQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/mTdC0V9mld4-vWRcDHOHMiDUUEzB4ScyxyMiEPrI8-GP0nXgupn3k_AQthCTyy4ptSCqTNgIfbxLdt6odhugV0EPHYAsALSt-mgWggT6eO1D4Ewk_b_9X4LGTiF6L7Cf8yfEcjeREUNdCFhbPpAYXvCwH2TjoueKvAhjL9vCBb9sO61v1NklM_s3LCssiov1bB93D4T5mvjGcrWw3J0KdbIzqU8C8pXkZQ4yifiYydwOJBXiD1p_kqMh4KxFvlH9jMmwKE19Zs6PriI2kLvb3Gv_lIE8qY7DJHirexultlBwH-MgEShGzTunkfrOXFlQbVLoQU1IgKg2CmfCa8IHpQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/devefun/media/photo/devefun_4790_1.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4790_1.jpg",
-          "size_bytes": 36393
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [],
-    "mentions": [],
-    "links": [],
-    "emoji": [],
-    "reactions": [],
-    "type": "text"
-  },
-  {
-    "index": 2,
     "post_url": "https://t.me/devefun/4789",
     "post_id": "devefun/4789",
     "date": "2026-06-09T05:56:44+00:00",
@@ -82,8 +12,8 @@
     "text": "یاد اون دوران باشکوه بخیر 😢\n\n\n📥Channel : @devefun\n📤Group : @WeAreXstack",
     "text_html": "یاد اون دوران باشکوه بخیر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F98A2.png')\"><b>😢</b></i><br/><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i>Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A4.png')\"><b>📤</b></i>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 1790,
-    "views_raw": "1.79K",
+    "views": 1800,
+    "views_raw": "1.8K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -162,7 +92,7 @@
     "type": "text"
   },
   {
-    "index": 3,
+    "index": 2,
     "post_url": "https://t.me/devefun/4788",
     "post_id": "devefun/4788",
     "date": "2026-06-08T19:08:22+00:00",
@@ -174,8 +104,8 @@
     "text": "🛠️🔥 اینجا کارگاه خلاقیته&#33; پروژه‌های الکترونیکی و فنی شگفت انگیز رو به ساده‌ترین شکل می‌سازم. \nاگه دنبال ایده‌های خاص و آموزش واقعی هستی، روی لینک کلیک کن. 🛰️ 🚀\n\nhttps://youtube.com/@skillgineer?si=_-ZYHbEy8hIIPTqS\n\n\n📥Channel : @devefun\n📤Group : @WeAreXstack",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9BA0.png')\"><b>🛠️</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i> اینجا کارگاه خلاقیته&#33; پروژه‌های الکترونیکی و فنی شگفت انگیز رو به ساده‌ترین شکل می‌سازم. <br/>اگه دنبال ایده‌های خاص و آموزش واقعی هستی، روی لینک کلیک کن. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9BB0.png')\"><b>🛰️</b></i> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i><br/><br/><blockquote><a href=\"https://youtube.com/@skillgineer?si=_-ZYHbEy8hIIPTqS\" target=\"_blank\" rel=\"noopener\">https://youtube.com/@skillgineer?si=_-ZYHbEy8hIIPTqS</a></blockquote><br/><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i><b>Channel</b> : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A4.png')\"><b>📤</b></i><b>Group</b> : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 1660,
-    "views_raw": "1.66K",
+    "views": 1670,
+    "views_raw": "1.67K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -249,7 +179,7 @@
     "type": "album"
   },
   {
-    "index": 4,
+    "index": 3,
     "post_url": "https://t.me/devefun/4786",
     "post_id": "devefun/4786",
     "date": "2026-06-03T08:48:29+00:00",
@@ -261,8 +191,8 @@
     "text": "گوگل یدوره رایگان ۵ روزه داره که 15 June شروع میشه.\nشامل آموزش وایب‌کدینگ و ساخت و دیپلوی ایجنت هستش.\n&rlm;سرتیفیکیت هم میده.\n\n&rlm;با لینک زیر میتونید ثبت نام کنید.\n\n🔗https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google\n\nپ.ن: هر چند میدونم که نباید vibe Coding رو عادی سازی کرد😅\n\n📥Channel : @devefun\n📤Group : @WeAreXstack",
     "text_html": "گوگل یدوره رایگان ۵ روزه داره که 15 June شروع میشه.<br/>شامل آموزش وایب‌کدینگ و ساخت و دیپلوی ایجنت هستش.<br/>&rlm;سرتیفیکیت هم میده.<br/><br/>&rlm;با لینک زیر میتونید ثبت نام کنید.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i><a href=\"https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google\" target=\"_blank\" rel=\"noopener\">https://www.kaggle.com/competitions/5-day-ai-agents-intensive-vibecoding-course-with-google</a><br/><br/><blockquote>پ.ن: هر چند میدونم که نباید vibe Coding رو عادی سازی کرد<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9885.png')\"><b>😅</b></i></blockquote><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i><b>Channel</b> : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A4.png')\"><b>📤</b></i><b>Group</b> : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 2630,
-    "views_raw": "2.63K",
+    "views": 2640,
+    "views_raw": "2.64K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -293,8 +223,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4786",
-          "url": "https://cdn4.telesco.pe/file/AzWC3XdaqttdP2GaWAHReZNuTbc38PywRTfCrDVojalFom3nDIx1uQva1TnXlnS6lVANkPqsSMyoRBWOjKaaKhyN1TbX_j-ktNm0e72iKnWPq-rlqyOBJUC8oH9AiTG6pSLEmtcUpSjrsqArqN7QqmOl_KYYVOYKXU_sJILLMLeVKLjIe8Ltg07XK0Jj_PKJcyHdauZ-6p9pIKYT4QxbDcNV4Mfcj77n2FSIwHLPK-PoGoPzInRk4BapHlzp6zKmOjERcyBd_tfsoD_atyHrkIz86FXvaGZUroy7ju0z9HHYvsWbywehlSZDBmvMz0EhPP6Kg4iMZOrBGlPhW4i7aQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/AzWC3XdaqttdP2GaWAHReZNuTbc38PywRTfCrDVojalFom3nDIx1uQva1TnXlnS6lVANkPqsSMyoRBWOjKaaKhyN1TbX_j-ktNm0e72iKnWPq-rlqyOBJUC8oH9AiTG6pSLEmtcUpSjrsqArqN7QqmOl_KYYVOYKXU_sJILLMLeVKLjIe8Ltg07XK0Jj_PKJcyHdauZ-6p9pIKYT4QxbDcNV4Mfcj77n2FSIwHLPK-PoGoPzInRk4BapHlzp6zKmOjERcyBd_tfsoD_atyHrkIz86FXvaGZUroy7ju0z9HHYvsWbywehlSZDBmvMz0EhPP6Kg4iMZOrBGlPhW4i7aQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/IjsN8p6Ilz5VYUa7eJcNSrWNoBSdOk6k40S0MhcYSpnQo8fIo83w0Ve9CAQLlHZXMcEmHptSaDtynpxD7qHJFegCKpL0jppLHsOlMBZBO47HvCLA_nOv05ssxXVm22wdcatrJh5_fnE-TJEjlHmR4yHrA4WCMgda0R6YhmAYoauCcN-M-YTSN8j6RQlX37tM8LDTO5NjdFsvNtQOK6M3OmL1_4f0F-w8vdp7tDqp5pJW5BkfR5eIeJ192fqeAyAKRYjjkV0cFcc0MoPdNE76LiML0oWezkLFdhSrp6u4wHVcKS1TACzFGzgzs0iXTHZscu9cwb3F4hYiNrRkqE4qyQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/IjsN8p6Ilz5VYUa7eJcNSrWNoBSdOk6k40S0MhcYSpnQo8fIo83w0Ve9CAQLlHZXMcEmHptSaDtynpxD7qHJFegCKpL0jppLHsOlMBZBO47HvCLA_nOv05ssxXVm22wdcatrJh5_fnE-TJEjlHmR4yHrA4WCMgda0R6YhmAYoauCcN-M-YTSN8j6RQlX37tM8LDTO5NjdFsvNtQOK6M3OmL1_4f0F-w8vdp7tDqp5pJW5BkfR5eIeJ192fqeAyAKRYjjkV0cFcc0MoPdNE76LiML0oWezkLFdhSrp6u4wHVcKS1TACzFGzgzs0iXTHZscu9cwb3F4hYiNrRkqE4qyQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4786_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4786_1.jpg",
@@ -334,7 +264,7 @@
     "type": "album"
   },
   {
-    "index": 5,
+    "index": 4,
     "post_url": "https://t.me/devefun/4785",
     "post_id": "devefun/4785",
     "date": "2026-05-30T14:25:36+00:00",
@@ -414,7 +344,7 @@
     "type": "photo"
   },
   {
-    "index": 6,
+    "index": 5,
     "post_url": "https://t.me/devefun/4784",
     "post_id": "devefun/4784",
     "date": "2026-05-27T15:55:50+00:00",
@@ -426,8 +356,8 @@
     "text": "درود دوستان \n⌨ من یه سولوشن خوب برای دوستان vue کار زدم \n\n⚙ مدیر قدرتمند میانبرهای صفحه کلید برای Vue 3&nbsp;– پشتیبانی از کلیدهای چندگانه، اجرای شرطی، ناوبری بین فیلدها و پنل راهنمای خودکار\n\n🔗https://github.com/mojskin/vue-shortcut-manager\n\n\n📍امکان تعریف شورتکات به صورت گلوبال یا مختص کامپوننت\n📍چندین عملکرد مختلف برای هر کلید\n📍امکان تعریف شرط برای عملکرد کلیدها\nو...\n\n📥Channel : @devefun\n📤Group : @WeAreXstack",
     "text_html": "درود دوستان <br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28CA8.png')\"><b>⌨</b></i> <a href=\"https://t.me/mojtabameskin\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">من</a> یه سولوشن خوب برای دوستان vue کار زدم <br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29A99.png')\"><b>⚙</b></i> <b>مدیر قدرتمند میانبرهای صفحه کلید برای Vue 3&nbsp;– پشتیبانی از کلیدهای چندگانه، اجرای شرطی، ناوبری بین فیلدها و پنل راهنمای خودکار</b><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i><a href=\"https://github.com/mojskin/vue-shortcut-manager\" target=\"_blank\" rel=\"noopener\">https://github.com/mojskin/vue-shortcut-manager</a><br/><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i>امکان تعریف شورتکات به صورت گلوبال یا مختص کامپوننت<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i>چندین عملکرد مختلف برای هر کلید<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i>امکان تعریف شرط برای عملکرد کلیدها<br/>و...<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i><b>Channel</b> : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A4.png')\"><b>📤</b></i><b>Group</b> : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 2790,
-    "views_raw": "2.79K",
+    "views": 2800,
+    "views_raw": "2.8K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -458,8 +388,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4784",
-          "url": "https://cdn4.telesco.pe/file/lWBQX0XpBR8tY8vir5sw0TFLrxygkEoKdMsfwyFn4kMeguniwZh9psKH_5kMDaF9NGyPnWPT_uB9NpeX8s6ItJ1xqLT_Yio5gjWDbCAaZE3Yz3Q3YiEMlbTY4iLnvbjyUEJCCEDBMT49PNHRiaXKRj7_ZI9QPcQiwgMucpRodLStXaVkx6CiNp8tvhbi8mKEAipmy14I0YnTNzdFKgBznUcZEcomH9CioBJVRx2lPAr1nhcvU22eLArJARBqzv-6CoTjb3ofpqC48uzimQ2cvZ5rZPUMrQCRfS1LvU9DCts6930UcqFQeLCTxzCCorsE7YjuDUFkrqX4FeH3M4eQ_w.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/lWBQX0XpBR8tY8vir5sw0TFLrxygkEoKdMsfwyFn4kMeguniwZh9psKH_5kMDaF9NGyPnWPT_uB9NpeX8s6ItJ1xqLT_Yio5gjWDbCAaZE3Yz3Q3YiEMlbTY4iLnvbjyUEJCCEDBMT49PNHRiaXKRj7_ZI9QPcQiwgMucpRodLStXaVkx6CiNp8tvhbi8mKEAipmy14I0YnTNzdFKgBznUcZEcomH9CioBJVRx2lPAr1nhcvU22eLArJARBqzv-6CoTjb3ofpqC48uzimQ2cvZ5rZPUMrQCRfS1LvU9DCts6930UcqFQeLCTxzCCorsE7YjuDUFkrqX4FeH3M4eQ_w.jpg",
+          "url": "https://cdn4.telesco.pe/file/kgDKg7OQZHNmYpdHsIRWYQNrgcyG7YR06sfOzlTBZN0pE3bTpI67fRbUlScy0nBfwTBKVuDCdcFvZBsm5JyOdCSRpmzs4o0zBWn9-yc8fs7qyWjQ2vK-wi_q9aOCVZsTyIPP6oQHqwd4-3Xx9cLf-WsTyVWGNyBs3CwdpVx8x8r8oP_-iVjSuekvZUPRjm-aipLbTQIKKrN1d2wDT-QS1fhMSfCSSqefWMCo9a98ADIbJ36GE_19PovWY3RuynLw7rRRrpvPQtS_UTcuDBPdfOEM8hVDzpmgczl5HCrIY1p0XBLVvtJZFr7UhdTTt_aHaTXvba6BBDaFY9iIAKIBVA.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/kgDKg7OQZHNmYpdHsIRWYQNrgcyG7YR06sfOzlTBZN0pE3bTpI67fRbUlScy0nBfwTBKVuDCdcFvZBsm5JyOdCSRpmzs4o0zBWn9-yc8fs7qyWjQ2vK-wi_q9aOCVZsTyIPP6oQHqwd4-3Xx9cLf-WsTyVWGNyBs3CwdpVx8x8r8oP_-iVjSuekvZUPRjm-aipLbTQIKKrN1d2wDT-QS1fhMSfCSSqefWMCo9a98ADIbJ36GE_19PovWY3RuynLw7rRRrpvPQtS_UTcuDBPdfOEM8hVDzpmgczl5HCrIY1p0XBLVvtJZFr7UhdTTt_aHaTXvba6BBDaFY9iIAKIBVA.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4784_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4784_1.jpg",
@@ -499,7 +429,7 @@
     "type": "album"
   },
   {
-    "index": 7,
+    "index": 6,
     "post_url": "https://t.me/devefun/4783",
     "post_id": "devefun/4783",
     "date": "2026-05-20T10:19:23+00:00",
@@ -511,8 +441,8 @@
     "text": "🤝درود دوستان یکی اومده با یه سری ترفندها یه اسکریپتی نوشته که میتونید در ماه 1 میلیارد توکن رایگان API های هوش مصنوعی بگیرید\nدر واقع همه پروایدر ها(گوگل، گراک و ...) یه سری توکن رایگان می‌دن این میاد به صورت خودکار همشون رو مدیریت می‌کنه و نمی‌ذاره به ریت لیمیت بخورین اگرم خوردن خودکار سویچ میکنه روی پروایدر رایگان بعدی&#33;\n\n🐱 github.com/tashfeenahmed/freellmapi\n\n\n\n❤️ Channel : @devefun\n💬Group : @WeAreXstack",
     "text_html": "<tg-emoji emoji-id=\"5963267335480415417\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA49D.png')\"><b>🤝</b></i></tg-emoji>درود دوستان یکی اومده با یه سری ترفندها یه اسکریپتی نوشته که میتونید در ماه 1 میلیارد توکن رایگان API های هوش مصنوعی بگیرید<br/>در واقع همه پروایدر ها(گوگل، گراک و ...) یه سری توکن رایگان می‌دن این میاد به صورت خودکار همشون رو مدیریت می‌کنه و نمی‌ذاره به ریت لیمیت بخورین اگرم خوردن خودکار سویچ میکنه روی پروایدر رایگان بعدی&#33;<br/><br/><tg-emoji emoji-id=\"5951663025336356427\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F90B1.png')\"><b>🐱</b></i></tg-emoji> <a href=\"http://github.com/tashfeenahmed/freellmapi\" target=\"_blank\" rel=\"noopener\">github.com/tashfeenahmed/freellmapi</a><br/><br/><br/><br/><tg-emoji emoji-id=\"4947394045400843352\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4.png')\"><b>❤️</b></i></tg-emoji> <b>Channel</b> : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><tg-emoji emoji-id=\"5443038326535759644\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AC.png')\"><b>💬</b></i></tg-emoji><b>Group</b> : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 2890,
-    "views_raw": "2.89K",
+    "views": 2900,
+    "views_raw": "2.9K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -543,8 +473,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4783",
-          "url": "https://cdn4.telesco.pe/file/PAC0vdsQFZQePcIV9AFY5ZqsgH9dWD-xhKK0kwuPbysbIwV8PdL2cNYJfFqjMxsmOscxYh7GpmZvugxFekUFr33R10S-vuDXzKOYlbIGyYD6D5SR65AmvufPg6Bb7wJinBlJVjSmju02G6TAE_3c8-9uo49Fa48FCETDzf7JO94-Ex5gjgd85zuyFXdNGG-u_ik-ydYCOpx7gaunrCHVCvhGnOpoL0vpymr8dRSSxRI8a0JXggiLxN_IxREHzmjgTEyiCxF4av_V52C6S_HqET3Qeree4QVP9Ga1YCcbhntEhCBT-G-68pkzMVI7vS5KbGP4CG70etm3Ozfr60xB7Q.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/PAC0vdsQFZQePcIV9AFY5ZqsgH9dWD-xhKK0kwuPbysbIwV8PdL2cNYJfFqjMxsmOscxYh7GpmZvugxFekUFr33R10S-vuDXzKOYlbIGyYD6D5SR65AmvufPg6Bb7wJinBlJVjSmju02G6TAE_3c8-9uo49Fa48FCETDzf7JO94-Ex5gjgd85zuyFXdNGG-u_ik-ydYCOpx7gaunrCHVCvhGnOpoL0vpymr8dRSSxRI8a0JXggiLxN_IxREHzmjgTEyiCxF4av_V52C6S_HqET3Qeree4QVP9Ga1YCcbhntEhCBT-G-68pkzMVI7vS5KbGP4CG70etm3Ozfr60xB7Q.jpg",
+          "url": "https://cdn4.telesco.pe/file/Ry5_NwCwvmWbHyq_FsxwVvd2jdHJS-iHj08mgfntlV2RiGu9wXB3tSzecDNKn1cBaqVKSowkE2_8pt6PfZb7UtVs1FMFbh7Ve0HlMpjN_eCHWftfgK7XoL5rigKF49Aqy45PqhxKYmSkZV4cI_JFY6OSgik2rKZo1fdz1kvLL-gTMQHpYhKee6YIr4WcC4VOq1BEuGJw4H-q4_kXSRIbz9DxVNoDmtvlnvy7QO4j-Nbv66c6G83X45FIkONNgLiV0dEnzx3GaLoazpeXU6lEJRzsDObhreCLdraHiqxBWJVbjZK8kWHsUCr7gGo1rouds0KnE7w9V0n3mUr_iT3GRQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/Ry5_NwCwvmWbHyq_FsxwVvd2jdHJS-iHj08mgfntlV2RiGu9wXB3tSzecDNKn1cBaqVKSowkE2_8pt6PfZb7UtVs1FMFbh7Ve0HlMpjN_eCHWftfgK7XoL5rigKF49Aqy45PqhxKYmSkZV4cI_JFY6OSgik2rKZo1fdz1kvLL-gTMQHpYhKee6YIr4WcC4VOq1BEuGJw4H-q4_kXSRIbz9DxVNoDmtvlnvy7QO4j-Nbv66c6G83X45FIkONNgLiV0dEnzx3GaLoazpeXU6lEJRzsDObhreCLdraHiqxBWJVbjZK8kWHsUCr7gGo1rouds0KnE7w9V0n3mUr_iT3GRQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4783_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4783_1.jpg",
@@ -587,7 +517,7 @@
     "type": "album"
   },
   {
-    "index": 8,
+    "index": 7,
     "post_url": "https://t.me/devefun/4782",
     "post_id": "devefun/4782",
     "date": "2026-05-14T13:08:33+00:00",
@@ -599,8 +529,8 @@
     "text": "🖥 اگر روی یک پروژه خاص کار می‌کنید، به تازگی شرکت Claude😒 یک لینک برای کسانی که می‌خواهند پروژه‌هایشان را به صورت (Open Source) متن باز روی آن کار بکنند به صورت رایگان&nbsp; Claude Max 20X ارائه میدهد.🥳\n🚨 البته شرایط و ثبت نام در لینک زیر به وضوح توضیح داده شده است.\n\n🌐https://claude.com/contact-sales/claude-for-oss\n\n\n❤️ Channel : @devefun\n💬Group : @WeAreXstack",
     "text_html": "<tg-emoji emoji-id=\"6300612629756906446\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96A5.png')\"><b>🖥</b></i></tg-emoji> اگر روی یک پروژه خاص کار می‌کنید، به تازگی شرکت Claude<tg-emoji emoji-id=\"5899837428797020489\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9892.png')\"><b>😒</b></i></tg-emoji> یک لینک برای کسانی که می‌خواهند پروژه‌هایشان را به صورت (<b>Open Source</b>) متن باز روی آن کار بکنند به صورت رایگان&nbsp; Claude Max 20X ارائه میدهد.<tg-emoji emoji-id=\"5355088047832572440\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA5B3.png')\"><b>🥳</b></i></tg-emoji><br/><tg-emoji emoji-id=\"5287388737498529298\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i></tg-emoji> البته شرایط و ثبت نام در لینک زیر به وضوح توضیح داده شده است.<br/><br/><blockquote><tg-emoji emoji-id=\"5911001706656700461\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')\"><b>🌐</b></i></tg-emoji><a href=\"https://claude.com/contact-sales/claude-for-oss\" target=\"_blank\" rel=\"noopener\">https://claude.com/contact-sales/claude-for-oss</a></blockquote><br/><br/><br/><tg-emoji emoji-id=\"4947394045400843352\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4.png')\"><b>❤️</b></i></tg-emoji> <b>Channel</b> : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><tg-emoji emoji-id=\"5443038326535759644\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AC.png')\"><b>💬</b></i></tg-emoji><b>Group</b> : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 2810,
-    "views_raw": "2.81K",
+    "views": 2820,
+    "views_raw": "2.82K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -631,8 +561,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4782",
-          "url": "https://cdn4.telesco.pe/file/q5xZj2aW9WzGh_mIDhVO5aBAgkLINRDoJiBxaFUJP_DuuSARXVUgjOBhphGiIqkhJTK-QMNgjK3o4iFOvmsGZUU0hf7hpH-Zqu_ptAC17y-IWqMinMohvvvCxcWGjmkqdqpLa9H74JpZe875OSrPuwEAMmJW7jcwZuOuGyQ3GWfsrOM_5-P1YGt87ouzB4_gfykYzQc6IUX8JH2VOiyT73_yXMDd6OUW9JLs1NIaEPvd6wuQjW7__DQm4YSfknbZwJo_4s91eyhjXgCcc7B0MMpbYgsb5iWv5cnWLqzDkOohGbuhlST6a4sRP7W9PtIe5FTqCpjMaP-_GrOzk9sP3Q.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/q5xZj2aW9WzGh_mIDhVO5aBAgkLINRDoJiBxaFUJP_DuuSARXVUgjOBhphGiIqkhJTK-QMNgjK3o4iFOvmsGZUU0hf7hpH-Zqu_ptAC17y-IWqMinMohvvvCxcWGjmkqdqpLa9H74JpZe875OSrPuwEAMmJW7jcwZuOuGyQ3GWfsrOM_5-P1YGt87ouzB4_gfykYzQc6IUX8JH2VOiyT73_yXMDd6OUW9JLs1NIaEPvd6wuQjW7__DQm4YSfknbZwJo_4s91eyhjXgCcc7B0MMpbYgsb5iWv5cnWLqzDkOohGbuhlST6a4sRP7W9PtIe5FTqCpjMaP-_GrOzk9sP3Q.jpg",
+          "url": "https://cdn4.telesco.pe/file/YwLNfrK031KVJwS1h8O6UCqCNdB78R2iTmo_sApti7m10q93ot5Ck8yF9QWNm1vVhY3QxvRXhpt6PGmi4IcyJs_sNku4Q0KhuOPO62edAjstbNC5gy1t3H1qXktHbs7LZ8pSQhmTpi7l48O_MyTidMy1glw7MV1BbQvbxCQAuj_tetnD_FHGjOVv6zEXfUNDqWJiFMurl-Qy6aAojdU-80YSiYq4yFWcX-hthaDPQZLYQEqd_Sv_qnoTbTZYYYjsarqLzdErlaCPpvrYYwuLUBig3TxS6cN3adrEs27_TGa9Cx33V4l33JfbkPG6frp2vmF30FY0wOEjmsuuHm2qKA.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/YwLNfrK031KVJwS1h8O6UCqCNdB78R2iTmo_sApti7m10q93ot5Ck8yF9QWNm1vVhY3QxvRXhpt6PGmi4IcyJs_sNku4Q0KhuOPO62edAjstbNC5gy1t3H1qXktHbs7LZ8pSQhmTpi7l48O_MyTidMy1glw7MV1BbQvbxCQAuj_tetnD_FHGjOVv6zEXfUNDqWJiFMurl-Qy6aAojdU-80YSiYq4yFWcX-hthaDPQZLYQEqd_Sv_qnoTbTZYYYjsarqLzdErlaCPpvrYYwuLUBig3TxS6cN3adrEs27_TGa9Cx33V4l33JfbkPG6frp2vmF30FY0wOEjmsuuHm2qKA.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4782_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4782_1.jpg",
@@ -676,7 +606,7 @@
     "type": "album"
   },
   {
-    "index": 9,
+    "index": 8,
     "post_url": "https://t.me/devefun/4781",
     "post_id": "devefun/4781",
     "date": "2026-05-11T09:11:47+00:00",
@@ -688,8 +618,8 @@
     "text": "🖥در برخی مواقع، ویندوز هنگام اختلال یا محدودیت اینترنت بین‌الملل، اتصال Wi-Fi را ناپایدار تشخیص داده و ممکن است پیام «No Internet» نمایش دهد یا اتصال را به‌صورت موقت قطع کند.\n\nبرای غیرفعال کردن بررسی اتصال اینترنت در ویندوز، مراحل زیر را انجام دهید:\n\n1. کلیدهای Win + R را فشار دهید.\n2. عبارت \"regedit\" را وارد کرده و Enter بزنید.\n3. به مسیر زیر بروید:\n\"HKEY_LOCAL_MACHINE&#092;SYSTEM&#092;CurrentControlSet&#092;Services&#092;NlaSvc&#092;Parameters&#092;Internet\"\n\n4. مقدار گزینه زیر را روی \"0\" قرار دهید:\n\"EnableActiveProbing\"\n\n5. سیستم را Restart کنید.\n\n🧬برای بازگرداندن تنظیمات به حالت اولیه، \nمقدار گزینه را مجدداً روی \"1\" قرار دهید.\n\n🙂 Channel : @devefun\n💐 Group : @WeAreXstack",
     "text_html": "<tg-emoji emoji-id=\"5215186239853964761\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96A5.png')\"><b>🖥</b></i></tg-emoji>در برخی مواقع، ویندوز هنگام اختلال یا محدودیت اینترنت بین‌الملل، اتصال Wi-Fi را ناپایدار تشخیص داده و ممکن است پیام «No Internet» نمایش دهد یا اتصال را به‌صورت موقت قطع کند.<br/><br/>برای غیرفعال کردن بررسی اتصال اینترنت در ویندوز، مراحل زیر را انجام دهید:<br/><br/>1. کلیدهای Win + R را فشار دهید.<br/>2. عبارت &quot;regedit&quot; را وارد کرده و Enter بزنید.<br/>3. به مسیر زیر بروید:<br/><blockquote>&quot;HKEY_LOCAL_MACHINE&#092;SYSTEM&#092;CurrentControlSet&#092;Services&#092;NlaSvc&#092;Parameters&#092;Internet&quot;</blockquote><br/><br/>4. مقدار گزینه زیر را روی &quot;0&quot; قرار دهید:<br/>&quot;EnableActiveProbing&quot;<br/><br/>5. سیستم را Restart کنید.<br/><br/><tg-emoji emoji-id=\"5212936673423274058\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA7AC.png')\"><b>🧬</b></i></tg-emoji>برای بازگرداندن تنظیمات به حالت اولیه، <br/>مقدار گزینه را مجدداً روی &quot;1&quot; قرار دهید.<br/><br/><tg-emoji emoji-id=\"5789691669641174682\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9982.png')\"><b>🙂</b></i></tg-emoji> Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><tg-emoji emoji-id=\"5787504543445028791\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9290.png')\"><b>💐</b></i></tg-emoji> Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 2920,
-    "views_raw": "2.92K",
+    "views": 2930,
+    "views_raw": "2.93K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -749,7 +679,7 @@
     "type": "photo"
   },
   {
-    "index": 10,
+    "index": 9,
     "post_url": "https://t.me/devefun/4780",
     "post_id": "devefun/4780",
     "date": "2026-02-28T06:49:01+00:00",
@@ -841,7 +771,7 @@
     "type": "text"
   },
   {
-    "index": 11,
+    "index": 10,
     "post_url": "https://t.me/devefun/4779",
     "post_id": "devefun/4779",
     "date": "2026-02-27T08:07:06+00:00",
@@ -853,8 +783,8 @@
     "text": "آموزش ساده چند شرتکات برای برنامه نویسی سریعتر 🙄\n\n@devefun 💀",
     "text_html": "آموزش ساده چند شرتکات برای برنامه نویسی سریعتر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9984.png')\"><b>🙄</b></i><br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9280.png')\"><b>💀</b></i>",
     "is_edited": false,
-    "views": 3150,
-    "views_raw": "3.15K",
+    "views": 3160,
+    "views_raw": "3.16K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -931,7 +861,7 @@
     "type": "text"
   },
   {
-    "index": 12,
+    "index": 11,
     "post_url": "https://t.me/devefun/4778",
     "post_id": "devefun/4778",
     "date": "2026-02-25T16:46:54+00:00",
@@ -1028,7 +958,7 @@
     "type": "album"
   },
   {
-    "index": 13,
+    "index": 12,
     "post_url": "https://t.me/devefun/4777",
     "post_id": "devefun/4777",
     "date": "2026-02-25T11:13:12+00:00",
@@ -1120,7 +1050,7 @@
     "type": "text"
   },
   {
-    "index": 14,
+    "index": 13,
     "post_url": "https://t.me/devefun/4776",
     "post_id": "devefun/4776",
     "date": "2026-02-24T19:54:33+00:00",
@@ -1207,7 +1137,7 @@
     "type": "album"
   },
   {
-    "index": 15,
+    "index": 14,
     "post_url": "https://t.me/devefun/4774",
     "post_id": "devefun/4774",
     "date": "2026-02-24T07:05:05+00:00",
@@ -1296,7 +1226,7 @@
     "type": "text"
   },
   {
-    "index": 16,
+    "index": 15,
     "post_url": "https://t.me/devefun/4773",
     "post_id": "devefun/4773",
     "date": "2026-02-22T17:59:10+00:00",
@@ -1385,7 +1315,7 @@
     "type": "album"
   },
   {
-    "index": 17,
+    "index": 16,
     "post_url": "https://t.me/devefun/4772",
     "post_id": "devefun/4772",
     "date": "2026-02-21T17:40:56+00:00",
@@ -1475,7 +1405,7 @@
     "type": "album"
   },
   {
-    "index": 18,
+    "index": 17,
     "post_url": "https://t.me/devefun/4771",
     "post_id": "devefun/4771",
     "date": "2026-02-21T13:30:51+00:00",
@@ -1564,7 +1494,7 @@
     "type": "text"
   },
   {
-    "index": 19,
+    "index": 18,
     "post_url": "https://t.me/devefun/4770",
     "post_id": "devefun/4770",
     "date": "2026-02-20T16:00:18+00:00",
@@ -1651,7 +1581,7 @@
     "type": "album"
   },
   {
-    "index": 20,
+    "index": 19,
     "post_url": "https://t.me/devefun/4769",
     "post_id": "devefun/4769",
     "date": "2026-02-20T11:34:08+00:00",
