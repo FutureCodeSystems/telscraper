@@ -1,6 +1,505 @@
 [
   {
     "index": 1,
+    "post_url": "https://t.me/supernova_plus/55196",
+    "post_id": "supernova_plus/55196",
+    "date": "2026-07-07T23:48:41+00:00",
+    "date_unix": 1783468121,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "Саратов .. ужас что творится",
+    "text_html": "Саратов .. ужас что творится",
+    "is_edited": false,
+    "views": 3950,
+    "views_raw": "3.95K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "mixed",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "supernova_plus/55196",
+          "url": "https://cdn4.telesco.pe/file/rb4P7tly4cHrAL9y0zebCaOOsRKiNBnEkrD5ArflNE66csjkHkJRXTp2KY-LX9l-zf8iisnDXmQrtTGtl7NUQ9JDVovWeHsklqzlk_Zu7PSXYQfan5Fj9gU9Pq3OGLFGcrubEVVvHnVDuFQ0wiwal3jeWJbB8ernxeWhRo552TdUCBBX61hgR0nsaLyaikB_0K8QvPUqGd7Y4xurJ0UHq7Ho-S0otJxDySIrJst2fX0D17mBDI-B0y38ScMnXO5iAzFN2YtsGpn3P8d2P_zHohK2wSzRKaglDCNoTgngNU-Mxz3LD0b3jMRdN8t_JSiv32bHlPyVFvQZyHM5zTkVWA.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/rb4P7tly4cHrAL9y0zebCaOOsRKiNBnEkrD5ArflNE66csjkHkJRXTp2KY-LX9l-zf8iisnDXmQrtTGtl7NUQ9JDVovWeHsklqzlk_Zu7PSXYQfan5Fj9gU9Pq3OGLFGcrubEVVvHnVDuFQ0wiwal3jeWJbB8ernxeWhRo552TdUCBBX61hgR0nsaLyaikB_0K8QvPUqGd7Y4xurJ0UHq7Ho-S0otJxDySIrJst2fX0D17mBDI-B0y38ScMnXO5iAzFN2YtsGpn3P8d2P_zHohK2wSzRKaglDCNoTgngNU-Mxz3LD0b3jMRdN8t_JSiv32bHlPyVFvQZyHM5zTkVWA.jpg",
+          "thumbnail": null,
+          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55196_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55196_0.jpg",
+          "size_bytes": 13366
+        },
+        {
+          "type": "photo",
+          "post_id": "supernova_plus/55196",
+          "url": "https://cdn4.telesco.pe/file/Fwfw1hl_tV3IDu1JaTwJCUou8UgmB_SqiDo-5zxa3LnMsC_ltid2NFzb2oD_auJWZNRReRchX36osc1MtUVVdv3Ex9DIJ7U2O2AJyYN7Rb9UIkytN7KegdAlnKsNvBIhkxNlrQZ2CBGK4wTFTbmTHKc5U1o2QjgcNRT-XYGkT6ywa1S2oSyvnjvGNuK65-epPPppmrWRTiriEtpeGBAQuN9HVmwvKgzblaTnrj64R74kUK8OUquTQl8zKyjfQZ4wAvThP7H7sF9LLpSUI3p45GfxTzZ8PRvg2NDeyzjABbPDPX2Ihp-S84TvjEGQKUsqhvhfh8po7JZHbJS7uVJE0g",
+          "full_url": "https://cdn4.telesco.pe/file/Fwfw1hl_tV3IDu1JaTwJCUou8UgmB_SqiDo-5zxa3LnMsC_ltid2NFzb2oD_auJWZNRReRchX36osc1MtUVVdv3Ex9DIJ7U2O2AJyYN7Rb9UIkytN7KegdAlnKsNvBIhkxNlrQZ2CBGK4wTFTbmTHKc5U1o2QjgcNRT-XYGkT6ywa1S2oSyvnjvGNuK65-epPPppmrWRTiriEtpeGBAQuN9HVmwvKgzblaTnrj64R74kUK8OUquTQl8zKyjfQZ4wAvThP7H7sF9LLpSUI3p45GfxTzZ8PRvg2NDeyzjABbPDPX2Ihp-S84TvjEGQKUsqhvhfh8po7JZHbJS7uVJE0g",
+          "thumbnail": null,
+          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55196_1.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55196_1.jpg",
+          "size_bytes": 9501
+        },
+        {
+          "type": "video",
+          "post_id": "supernova_plus/55196",
+          "url": "https://cdn4.telesco.pe/file/e9db2b056f.mp4?token=hlBZYdVv1JeICeAIpg_Wg6Tc-3o-jPZFwBbfdqNA0Fq517CNzrEV5jQKD5fFjgEKAqUq-LWUKYs1dlNB7YKYplOQnl7hsSFzrsXg9vQnGN7PRY74vf8SAMlGek4bbXHb5XH9sWhGSGLC-tfKf2ZKm2-vE6CSX1ZGRuOn5Juz6CFHvyX2h_1FAMFIryKtHEfXS4C4wmG4h717k2rOPyb-q2AiqYxUbFjTOHhgHxJg6vjXrF9Q0rwxc8GsOSoCd-DddHHA8gzZyvD0NnyTwaKTtT5rQk--OEMhov9q364gICitO5zZti3zKvrSLkxd3j4GFALZID1hkyXmT5fHWGNiBQ",
+          "full_url": "https://cdn4.telesco.pe/file/e9db2b056f.mp4?token=hlBZYdVv1JeICeAIpg_Wg6Tc-3o-jPZFwBbfdqNA0Fq517CNzrEV5jQKD5fFjgEKAqUq-LWUKYs1dlNB7YKYplOQnl7hsSFzrsXg9vQnGN7PRY74vf8SAMlGek4bbXHb5XH9sWhGSGLC-tfKf2ZKm2-vE6CSX1ZGRuOn5Juz6CFHvyX2h_1FAMFIryKtHEfXS4C4wmG4h717k2rOPyb-q2AiqYxUbFjTOHhgHxJg6vjXrF9Q0rwxc8GsOSoCd-DddHHA8gzZyvD0NnyTwaKTtT5rQk--OEMhov9q364gICitO5zZti3zKvrSLkxd3j4GFALZID1hkyXmT5fHWGNiBQ",
+          "thumbnail": null,
+          "local_path": "channels/supernova_plus/media/video/supernova_plus_55196_2.mp4",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/video/supernova_plus_55196_2.mp4",
+          "size_bytes": 6356919
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "🥰",
+      "👍",
+      "😁",
+      "🔥",
+      "🤣",
+      "👎"
+    ],
+    "reactions": [],
+    "type": "text"
+  },
+  {
+    "index": 2,
+    "post_url": "https://t.me/supernova_plus/55194",
+    "post_id": "supernova_plus/55194",
+    "date": "2026-07-07T23:47:02+00:00",
+    "date_unix": 1783468022,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "Саратов .. горит НПЗ Крекинг",
+    "text_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">Саратов .. горит НПЗ Крекинг",
+    "is_edited": false,
+    "views": 4590,
+    "views_raw": "4.59K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "mixed",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "supernova_plus/55194",
+          "url": "https://cdn4.telesco.pe/file/rb4P7tly4cHrAL9y0zebCaOOsRKiNBnEkrD5ArflNE66csjkHkJRXTp2KY-LX9l-zf8iisnDXmQrtTGtl7NUQ9JDVovWeHsklqzlk_Zu7PSXYQfan5Fj9gU9Pq3OGLFGcrubEVVvHnVDuFQ0wiwal3jeWJbB8ernxeWhRo552TdUCBBX61hgR0nsaLyaikB_0K8QvPUqGd7Y4xurJ0UHq7Ho-S0otJxDySIrJst2fX0D17mBDI-B0y38ScMnXO5iAzFN2YtsGpn3P8d2P_zHohK2wSzRKaglDCNoTgngNU-Mxz3LD0b3jMRdN8t_JSiv32bHlPyVFvQZyHM5zTkVWA.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/rb4P7tly4cHrAL9y0zebCaOOsRKiNBnEkrD5ArflNE66csjkHkJRXTp2KY-LX9l-zf8iisnDXmQrtTGtl7NUQ9JDVovWeHsklqzlk_Zu7PSXYQfan5Fj9gU9Pq3OGLFGcrubEVVvHnVDuFQ0wiwal3jeWJbB8ernxeWhRo552TdUCBBX61hgR0nsaLyaikB_0K8QvPUqGd7Y4xurJ0UHq7Ho-S0otJxDySIrJst2fX0D17mBDI-B0y38ScMnXO5iAzFN2YtsGpn3P8d2P_zHohK2wSzRKaglDCNoTgngNU-Mxz3LD0b3jMRdN8t_JSiv32bHlPyVFvQZyHM5zTkVWA.jpg",
+          "thumbnail": null,
+          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55194_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55194_0.jpg",
+          "size_bytes": 13366
+        },
+        {
+          "type": "photo",
+          "post_id": "supernova_plus/55194",
+          "url": "https://cdn4.telesco.pe/file/dZb8UIlaxRQ7iHd6J7b98F2iiQoO3Np42LbcWMJReD4pFT7yziDzI1WoPJoqi5CaLcOJYQcci7Si31KtPbObGhzEbAiI1q8dYf-IPq9we32Ny7ZIJzLEZnJ6xdf-9Sqm1sf6L7hrYStbeeGok24idhGFBZEF9oq0FyhbJiCBAogZVUMwMO--00FeQz6H66p2s2pY8V9h3ahezTwI3bkO1OmBVa0gqXwrzc9itkUsN4oH5quZ3Qak4RzSLc_Jqn9y5vNbVwsXdaeSf2mPHvzjwZ7cVD8x1qU1lolspQFzHbIIbXuFJLnj0hLDVaO5FVH7ySS77WXrvNwY_aHMtkoCYg",
+          "full_url": "https://cdn4.telesco.pe/file/dZb8UIlaxRQ7iHd6J7b98F2iiQoO3Np42LbcWMJReD4pFT7yziDzI1WoPJoqi5CaLcOJYQcci7Si31KtPbObGhzEbAiI1q8dYf-IPq9we32Ny7ZIJzLEZnJ6xdf-9Sqm1sf6L7hrYStbeeGok24idhGFBZEF9oq0FyhbJiCBAogZVUMwMO--00FeQz6H66p2s2pY8V9h3ahezTwI3bkO1OmBVa0gqXwrzc9itkUsN4oH5quZ3Qak4RzSLc_Jqn9y5vNbVwsXdaeSf2mPHvzjwZ7cVD8x1qU1lolspQFzHbIIbXuFJLnj0hLDVaO5FVH7ySS77WXrvNwY_aHMtkoCYg",
+          "thumbnail": null,
+          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55194_1.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55194_1.jpg",
+          "size_bytes": 9673
+        },
+        {
+          "type": "video",
+          "post_id": "supernova_plus/55194",
+          "url": "https://cdn4.telesco.pe/file/2e31892171.mp4?token=O4uVt_yUl566ddoKytXevRKFbEcz0URv4-Z9QHGY_ypPOmmriDyzjVSlzI8bduMhLaAVfubzFY0zNyJ9ffpXA5spZz_5R3SN5m-RdEZQt2x-AC84P3aujj-15IeQoOzfrbxWS03jgxpR3LIBYpFh1rs811HK4aOG6dfeH8Fd8Vi1OGycgDwi2z21fGPSdu5rOcPlxU9JTG9zyOByrsfWoqwwSYT6eJXeK-6Uhjbw8S2lCKvFrT4ZSWaO5Peq0TqR2ack1tv89vaeL3n2dHnJ5P_oUeArEd96pQbMY885L2TyqirpDeG3Le9KU4QxPXq1VpgvZHKAUPAiDgoEDfnnwg",
+          "full_url": "https://cdn4.telesco.pe/file/2e31892171.mp4?token=O4uVt_yUl566ddoKytXevRKFbEcz0URv4-Z9QHGY_ypPOmmriDyzjVSlzI8bduMhLaAVfubzFY0zNyJ9ffpXA5spZz_5R3SN5m-RdEZQt2x-AC84P3aujj-15IeQoOzfrbxWS03jgxpR3LIBYpFh1rs811HK4aOG6dfeH8Fd8Vi1OGycgDwi2z21fGPSdu5rOcPlxU9JTG9zyOByrsfWoqwwSYT6eJXeK-6Uhjbw8S2lCKvFrT4ZSWaO5Peq0TqR2ack1tv89vaeL3n2dHnJ5P_oUeArEd96pQbMY885L2TyqirpDeG3Le9KU4QxPXq1VpgvZHKAUPAiDgoEDfnnwg",
+          "thumbnail": null,
+          "local_path": "channels/supernova_plus/media/video/supernova_plus_55194_2.mp4",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/video/supernova_plus_55194_2.mp4",
+          "size_bytes": 5385345
+        },
+        {
+          "type": "photo",
+          "post_id": "supernova_plus/55194",
+          "url": "https://cdn4.telesco.pe/file/nJMaPjj-JgLc2bBW2T3u5IJh_sDj-Hae08daDVBRvPx0hYQk4OQAh_1PejsVDDeejJ4kSYLsqXF8aleAnRkwimlW9mEO1XpI7nbkl-YfBOei_7yDnoNmSAmZ0F6uuvyLVFtJM0mhpG-m46ug3Qg-XfXRpPkK1_T424pTpsydnrayX18mm6CNvTFBtkV5-9ZYmXvObJNK6Y6Uy9Vhd_NGQzBwSfmvwCmTFjDR9MJUivHwRR9uStjczP3Qa2iUSkUEPYeaxhrX_sckqvgx4sUylW3KMcAnalOguVjiH-VXuOutwYQvy4lXk0-35VVHc25Umra1O08AeoiaiVvMrcEn0A.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/nJMaPjj-JgLc2bBW2T3u5IJh_sDj-Hae08daDVBRvPx0hYQk4OQAh_1PejsVDDeejJ4kSYLsqXF8aleAnRkwimlW9mEO1XpI7nbkl-YfBOei_7yDnoNmSAmZ0F6uuvyLVFtJM0mhpG-m46ug3Qg-XfXRpPkK1_T424pTpsydnrayX18mm6CNvTFBtkV5-9ZYmXvObJNK6Y6Uy9Vhd_NGQzBwSfmvwCmTFjDR9MJUivHwRR9uStjczP3Qa2iUSkUEPYeaxhrX_sckqvgx4sUylW3KMcAnalOguVjiH-VXuOutwYQvy4lXk0-35VVHc25Umra1O08AeoiaiVvMrcEn0A.jpg",
+          "thumbnail": null,
+          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55194_3.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55194_3.jpg",
+          "size_bytes": 129079
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "🔥",
+      "🥰",
+      "🤣",
+      "👏",
+      "🤔",
+      "👎"
+    ],
+    "reactions": [],
+    "type": "text"
+  },
+  {
+    "index": 3,
+    "post_url": "https://t.me/supernova_plus/55192",
+    "post_id": "supernova_plus/55192",
+    "date": "2026-07-07T23:35:49+00:00",
+    "date_unix": 1783467349,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "Саратов .. сообщается об атаке на НПЗ",
+    "text_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">Саратов .. сообщается об атаке на НПЗ",
+    "is_edited": false,
+    "views": 7540,
+    "views_raw": "7.54K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "mixed",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "supernova_plus/55192",
+          "url": "https://cdn4.telesco.pe/file/rb4P7tly4cHrAL9y0zebCaOOsRKiNBnEkrD5ArflNE66csjkHkJRXTp2KY-LX9l-zf8iisnDXmQrtTGtl7NUQ9JDVovWeHsklqzlk_Zu7PSXYQfan5Fj9gU9Pq3OGLFGcrubEVVvHnVDuFQ0wiwal3jeWJbB8ernxeWhRo552TdUCBBX61hgR0nsaLyaikB_0K8QvPUqGd7Y4xurJ0UHq7Ho-S0otJxDySIrJst2fX0D17mBDI-B0y38ScMnXO5iAzFN2YtsGpn3P8d2P_zHohK2wSzRKaglDCNoTgngNU-Mxz3LD0b3jMRdN8t_JSiv32bHlPyVFvQZyHM5zTkVWA.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/rb4P7tly4cHrAL9y0zebCaOOsRKiNBnEkrD5ArflNE66csjkHkJRXTp2KY-LX9l-zf8iisnDXmQrtTGtl7NUQ9JDVovWeHsklqzlk_Zu7PSXYQfan5Fj9gU9Pq3OGLFGcrubEVVvHnVDuFQ0wiwal3jeWJbB8ernxeWhRo552TdUCBBX61hgR0nsaLyaikB_0K8QvPUqGd7Y4xurJ0UHq7Ho-S0otJxDySIrJst2fX0D17mBDI-B0y38ScMnXO5iAzFN2YtsGpn3P8d2P_zHohK2wSzRKaglDCNoTgngNU-Mxz3LD0b3jMRdN8t_JSiv32bHlPyVFvQZyHM5zTkVWA.jpg",
+          "thumbnail": null,
+          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55192_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55192_0.jpg",
+          "size_bytes": 13366
+        },
+        {
+          "type": "photo",
+          "post_id": "supernova_plus/55192",
+          "url": "https://cdn4.telesco.pe/file/HA-u9-krhbbCvczTyotS1a1iErO3YGSCAx2oHMXjYyT7lv1EDiIpmpw871e2Unk_BiC4RedS64pG0csbMO5aPLDDtJV2sJKk_7MFp8JVbqI26ma_ZXzWQ8WpQDrb0fX_wD3hTMgOHDY5BAYDf0nQ0u-2um1iVQbWfGWbZh3Fcxqu2TjNrZPkZqGUSKdPEUCdPkKdiWJIChNLnUFcWhOQz3qROVgJ28Wxzq0RCGVfxh_gP4jfSLLcTHpzmePgofUx9BwtYVTVRWMvlbqSh_Xg-Id-97WgECshLjYtrnE0xbdi6wr6m3aYSSCEtSJC8h4c-DjU8qpHdMPfuMFs3AkgUQ",
+          "full_url": "https://cdn4.telesco.pe/file/HA-u9-krhbbCvczTyotS1a1iErO3YGSCAx2oHMXjYyT7lv1EDiIpmpw871e2Unk_BiC4RedS64pG0csbMO5aPLDDtJV2sJKk_7MFp8JVbqI26ma_ZXzWQ8WpQDrb0fX_wD3hTMgOHDY5BAYDf0nQ0u-2um1iVQbWfGWbZh3Fcxqu2TjNrZPkZqGUSKdPEUCdPkKdiWJIChNLnUFcWhOQz3qROVgJ28Wxzq0RCGVfxh_gP4jfSLLcTHpzmePgofUx9BwtYVTVRWMvlbqSh_Xg-Id-97WgECshLjYtrnE0xbdi6wr6m3aYSSCEtSJC8h4c-DjU8qpHdMPfuMFs3AkgUQ",
+          "thumbnail": null,
+          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55192_1.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55192_1.jpg",
+          "size_bytes": 10032
+        },
+        {
+          "type": "video",
+          "post_id": "supernova_plus/55192",
+          "url": "https://cdn4.telesco.pe/file/2a9bed567f.mp4?token=RlSTlj7d0uZyHu_Mtx3f8ahvmmviujYi6bh-wRzW8oCe7fgwHIzGeMcssfCsxdx7iPsCNOt3xmkzytFpnEL4bsdWosYhRUSM7gcA50NrWPdsbP3QaJhS5V9RtvWWO_p8uk1hIMyEzBCH5Y7XqDTaG_qd-Ul83kyWaLauFqDQnTQCas_JrBCQ39X2gSj3mgrkxDxukNrbMO9mtQN127Fj1DVGXNgfZ7bR1gn3NlVpZNHXgz7qT4eXX0HFKaC_St6ypOinrCetQIuFetHPcFGkWYX5ddtteJ4v6KTNCHgbl7FEQjchXmKOc5ARqvE7A1qvoixgDYV_CH0tUnl4yL9PHw",
+          "full_url": "https://cdn4.telesco.pe/file/2a9bed567f.mp4?token=RlSTlj7d0uZyHu_Mtx3f8ahvmmviujYi6bh-wRzW8oCe7fgwHIzGeMcssfCsxdx7iPsCNOt3xmkzytFpnEL4bsdWosYhRUSM7gcA50NrWPdsbP3QaJhS5V9RtvWWO_p8uk1hIMyEzBCH5Y7XqDTaG_qd-Ul83kyWaLauFqDQnTQCas_JrBCQ39X2gSj3mgrkxDxukNrbMO9mtQN127Fj1DVGXNgfZ7bR1gn3NlVpZNHXgz7qT4eXX0HFKaC_St6ypOinrCetQIuFetHPcFGkWYX5ddtteJ4v6KTNCHgbl7FEQjchXmKOc5ARqvE7A1qvoixgDYV_CH0tUnl4yL9PHw",
+          "thumbnail": null,
+          "local_path": "channels/supernova_plus/media/video/supernova_plus_55192_2.mp4",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/video/supernova_plus_55192_2.mp4",
+          "size_bytes": 5268612
+        },
+        {
+          "type": "photo",
+          "post_id": "supernova_plus/55192",
+          "url": "https://cdn4.telesco.pe/file/YpLqSLdfoKLVP8XhkY8hbpz7WYcKCnPwaw81hh1I-CUOW21wxQPsDYArehlyRDZyODox7nWo175tYaM5UmvaNWgwdIurb8edx_me8hqPG1jU8e1H6r5xjqfek4h4MhViMdvxH9-4xR5rv57i4XJ-5MvcE3bFAD71ZCom5WrxaGBsE2Myn65hvRcq-vFebEf1qzQ2bePBPD6k8H2SI2Msy8L5-ddZqGDNbcAQNOtboQaX3l34U6WupvgLp-OKayuwkAp50oxMu6HzMEdeD0Gfmb4LUjx81OeZv0-I1EUKQV7D8tJR4BoBfKOn3gcFAstbEQq8OHL5X1BkAmgcLt4xuw",
+          "full_url": "https://cdn4.telesco.pe/file/YpLqSLdfoKLVP8XhkY8hbpz7WYcKCnPwaw81hh1I-CUOW21wxQPsDYArehlyRDZyODox7nWo175tYaM5UmvaNWgwdIurb8edx_me8hqPG1jU8e1H6r5xjqfek4h4MhViMdvxH9-4xR5rv57i4XJ-5MvcE3bFAD71ZCom5WrxaGBsE2Myn65hvRcq-vFebEf1qzQ2bePBPD6k8H2SI2Msy8L5-ddZqGDNbcAQNOtboQaX3l34U6WupvgLp-OKayuwkAp50oxMu6HzMEdeD0Gfmb4LUjx81OeZv0-I1EUKQV7D8tJR4BoBfKOn3gcFAstbEQq8OHL5X1BkAmgcLt4xuw",
+          "thumbnail": null,
+          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55192_3.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55192_3.jpg",
+          "size_bytes": 9201
+        },
+        {
+          "type": "video",
+          "post_id": "supernova_plus/55192",
+          "url": "https://cdn4.telesco.pe/file/39b7e40f03.mp4?token=Kfw2zOm9_wk9NCCfWRuLSkMP8AxVBwHJVHLzGE5I4PuVuqyDFQ7wbRg8_qgr_KDzNnOlX9SfG9ooEqY9Voi0gKXzGF_2SFlLVtJTcux5YRMlzgiphoyvMzZyWSBnP1KxbD4nfZiUOCjCv1eE0Btk9eSu89o1B9dEDft4C2m8UhWw58BDzXx2xKmVygiGI6ie5EVkae1c9H-7AgzcalX1QqmYnwaNKjwbXGaKNyQxX_sHs5AyuYEmpTqPI_nyldtvc376JaEutD_kTUu2KzzZlCu5M7_dptLXYNPwncwpbIxNRrKD5R6k5YyLf1mn60RBQRATBwd4V-FmyzYUkU_RRw",
+          "full_url": "https://cdn4.telesco.pe/file/39b7e40f03.mp4?token=Kfw2zOm9_wk9NCCfWRuLSkMP8AxVBwHJVHLzGE5I4PuVuqyDFQ7wbRg8_qgr_KDzNnOlX9SfG9ooEqY9Voi0gKXzGF_2SFlLVtJTcux5YRMlzgiphoyvMzZyWSBnP1KxbD4nfZiUOCjCv1eE0Btk9eSu89o1B9dEDft4C2m8UhWw58BDzXx2xKmVygiGI6ie5EVkae1c9H-7AgzcalX1QqmYnwaNKjwbXGaKNyQxX_sHs5AyuYEmpTqPI_nyldtvc376JaEutD_kTUu2KzzZlCu5M7_dptLXYNPwncwpbIxNRrKD5R6k5YyLf1mn60RBQRATBwd4V-FmyzYUkU_RRw",
+          "thumbnail": null,
+          "local_path": "channels/supernova_plus/media/video/supernova_plus_55192_4.mp4",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/video/supernova_plus_55192_4.mp4",
+          "size_bytes": 2612361
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "🔥",
+      "👍",
+      "😢",
+      "👎",
+      "🤡",
+      "🥰",
+      "🌭",
+      "😨"
+    ],
+    "reactions": [],
+    "type": "text"
+  },
+  {
+    "index": 4,
+    "post_url": "https://t.me/supernova_plus/55190",
+    "post_id": "supernova_plus/55190",
+    "date": "2026-07-07T22:11:22+00:00",
+    "date_unix": 1783462282,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "Борисоглебск .. атакована нефтебаза .. район аэродрома",
+    "text_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">Борисоглебск .. атакована нефтебаза .. район аэродрома",
+    "is_edited": false,
+    "views": 23800,
+    "views_raw": "23.8K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "album",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "supernova_plus/55190",
+          "url": "https://cdn4.telesco.pe/file/rb4P7tly4cHrAL9y0zebCaOOsRKiNBnEkrD5ArflNE66csjkHkJRXTp2KY-LX9l-zf8iisnDXmQrtTGtl7NUQ9JDVovWeHsklqzlk_Zu7PSXYQfan5Fj9gU9Pq3OGLFGcrubEVVvHnVDuFQ0wiwal3jeWJbB8ernxeWhRo552TdUCBBX61hgR0nsaLyaikB_0K8QvPUqGd7Y4xurJ0UHq7Ho-S0otJxDySIrJst2fX0D17mBDI-B0y38ScMnXO5iAzFN2YtsGpn3P8d2P_zHohK2wSzRKaglDCNoTgngNU-Mxz3LD0b3jMRdN8t_JSiv32bHlPyVFvQZyHM5zTkVWA.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/rb4P7tly4cHrAL9y0zebCaOOsRKiNBnEkrD5ArflNE66csjkHkJRXTp2KY-LX9l-zf8iisnDXmQrtTGtl7NUQ9JDVovWeHsklqzlk_Zu7PSXYQfan5Fj9gU9Pq3OGLFGcrubEVVvHnVDuFQ0wiwal3jeWJbB8ernxeWhRo552TdUCBBX61hgR0nsaLyaikB_0K8QvPUqGd7Y4xurJ0UHq7Ho-S0otJxDySIrJst2fX0D17mBDI-B0y38ScMnXO5iAzFN2YtsGpn3P8d2P_zHohK2wSzRKaglDCNoTgngNU-Mxz3LD0b3jMRdN8t_JSiv32bHlPyVFvQZyHM5zTkVWA.jpg",
+          "thumbnail": null,
+          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55190_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55190_0.jpg",
+          "size_bytes": 13366
+        },
+        {
+          "type": "photo",
+          "post_id": "supernova_plus/55190",
+          "url": "https://cdn4.telesco.pe/file/X9lZzsHEDKlyF9Nl1LNs_ziMoylJpExj9iHLylmnFas7k7U95LXogiDOd4CrL4Jjd_IZxIl5_TtTFV59MyhABQTiz9dBlHB9ZGYVuaK_7Qcjacasl1mEJ28jW_vktE6mwK5pk252COxQgaeUkSWHTzMgHyL8vv548zc_0w9To_2xV5FjZIma7Xrd4iXcFyXbdEer1dAj-8Lp9J7zsJOD5zX6yzdSEKBAJ6-YSAY9qfOvPLVu64amhfamqNkiKnGjP66kNAY0e0ZloxN8dWGqgh35ubtH7lIvql0TwO0fGCCgw3pKWedDjWKFIwPhvTn7U4Gm3HhuDiG7tXUAyT6FYw.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/X9lZzsHEDKlyF9Nl1LNs_ziMoylJpExj9iHLylmnFas7k7U95LXogiDOd4CrL4Jjd_IZxIl5_TtTFV59MyhABQTiz9dBlHB9ZGYVuaK_7Qcjacasl1mEJ28jW_vktE6mwK5pk252COxQgaeUkSWHTzMgHyL8vv548zc_0w9To_2xV5FjZIma7Xrd4iXcFyXbdEer1dAj-8Lp9J7zsJOD5zX6yzdSEKBAJ6-YSAY9qfOvPLVu64amhfamqNkiKnGjP66kNAY0e0ZloxN8dWGqgh35ubtH7lIvql0TwO0fGCCgw3pKWedDjWKFIwPhvTn7U4Gm3HhuDiG7tXUAyT6FYw.jpg",
+          "thumbnail": null,
+          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55190_1.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55190_1.jpg",
+          "size_bytes": 98014
+        },
+        {
+          "type": "photo",
+          "post_id": "supernova_plus/55190",
+          "url": "https://cdn4.telesco.pe/file/dRtE3XL35r9_8bJy5W-BCBrJWwQ05h2puJg6ya2izB0dtH0v4UIqGXRsnLF7PhH2Ic1h6_GUEFOVr2bOsi2eTtJpHdzxbKG7DneGBC2gPJYL0IAIMzjH2WV3nd0j88OWXGUNE8XEN7-phOLFaW4p-_m4nhOx-w_2Ziamn31IgV5UZc0hNicNSw_uycSFd012Nq7w0aWoX9z8HHBv-D7M0L4jSPLFSjc9duj-WkRljyjYWphdjuu_n6-CscrAS-PI6mTKLcGKRL7ogx4AzxEaAA99uWGMsE99cTvUWN8_Q-tMF9XdoaVo4pS-eMUcD5NXituwIHtnhlr6Jcypr0utMA.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/dRtE3XL35r9_8bJy5W-BCBrJWwQ05h2puJg6ya2izB0dtH0v4UIqGXRsnLF7PhH2Ic1h6_GUEFOVr2bOsi2eTtJpHdzxbKG7DneGBC2gPJYL0IAIMzjH2WV3nd0j88OWXGUNE8XEN7-phOLFaW4p-_m4nhOx-w_2Ziamn31IgV5UZc0hNicNSw_uycSFd012Nq7w0aWoX9z8HHBv-D7M0L4jSPLFSjc9duj-WkRljyjYWphdjuu_n6-CscrAS-PI6mTKLcGKRL7ogx4AzxEaAA99uWGMsE99cTvUWN8_Q-tMF9XdoaVo4pS-eMUcD5NXituwIHtnhlr6Jcypr0utMA.jpg",
+          "thumbnail": null,
+          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55190_2.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55190_2.jpg",
+          "size_bytes": 37794
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "🔥",
+      "🤩",
+      "🤬",
+      "👎",
+      "🥰",
+      "👏",
+      "😁",
+      "🤣",
+      "👻"
+    ],
+    "reactions": [],
+    "type": "album"
+  },
+  {
+    "index": 5,
+    "post_url": "https://t.me/supernova_plus/55188",
+    "post_id": "supernova_plus/55188",
+    "date": "2026-07-07T20:31:41+00:00",
+    "date_unix": 1783456301,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "обстановка на ЮБК.. брошенные машины на заправках.. магазины на генераторах.. только наличка.. связи нет..",
+    "text_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">обстановка на ЮБК.. брошенные машины на заправках.. магазины на генераторах.. только наличка.. связи нет..",
+    "is_edited": false,
+    "views": 43300,
+    "views_raw": "43.3K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "mixed",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "supernova_plus/55188",
+          "url": "https://cdn4.telesco.pe/file/rb4P7tly4cHrAL9y0zebCaOOsRKiNBnEkrD5ArflNE66csjkHkJRXTp2KY-LX9l-zf8iisnDXmQrtTGtl7NUQ9JDVovWeHsklqzlk_Zu7PSXYQfan5Fj9gU9Pq3OGLFGcrubEVVvHnVDuFQ0wiwal3jeWJbB8ernxeWhRo552TdUCBBX61hgR0nsaLyaikB_0K8QvPUqGd7Y4xurJ0UHq7Ho-S0otJxDySIrJst2fX0D17mBDI-B0y38ScMnXO5iAzFN2YtsGpn3P8d2P_zHohK2wSzRKaglDCNoTgngNU-Mxz3LD0b3jMRdN8t_JSiv32bHlPyVFvQZyHM5zTkVWA.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/rb4P7tly4cHrAL9y0zebCaOOsRKiNBnEkrD5ArflNE66csjkHkJRXTp2KY-LX9l-zf8iisnDXmQrtTGtl7NUQ9JDVovWeHsklqzlk_Zu7PSXYQfan5Fj9gU9Pq3OGLFGcrubEVVvHnVDuFQ0wiwal3jeWJbB8ernxeWhRo552TdUCBBX61hgR0nsaLyaikB_0K8QvPUqGd7Y4xurJ0UHq7Ho-S0otJxDySIrJst2fX0D17mBDI-B0y38ScMnXO5iAzFN2YtsGpn3P8d2P_zHohK2wSzRKaglDCNoTgngNU-Mxz3LD0b3jMRdN8t_JSiv32bHlPyVFvQZyHM5zTkVWA.jpg",
+          "thumbnail": null,
+          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55188_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55188_0.jpg",
+          "size_bytes": 13366
+        },
+        {
+          "type": "photo",
+          "post_id": "supernova_plus/55188",
+          "url": "https://cdn4.telesco.pe/file/YpFeJdcSj2i6dCzuMucDvPHA5X2-rQKOoIwjvWkQXtOC9CpCpIuVlMSaK9J1g9nkZYXxLeCZQJepOMuACsqP_9lbTvKUIHlSrZnxmH7L2GEkuWG_ZVENBDRhAmAhVmSYG1jQcDUt21YA6mT1A5KYahyvK8JxDifY3jlZmKtunlWKYLPgGlNAklQt_1Bbw2YyMKwdpFpeFDt87LVmSluVYogo_mxbfkZXIjemEbFdRV3z6HDvF60xXabig_WFt73GmX8BsnpATQ7qfz6NlQsY1jjSJLc03iKMFp60Zi3p-9kY2GjWyyF0llbBGBdEylk2GL2shmmpnt7RZ4cGyG8yPg",
+          "full_url": "https://cdn4.telesco.pe/file/YpFeJdcSj2i6dCzuMucDvPHA5X2-rQKOoIwjvWkQXtOC9CpCpIuVlMSaK9J1g9nkZYXxLeCZQJepOMuACsqP_9lbTvKUIHlSrZnxmH7L2GEkuWG_ZVENBDRhAmAhVmSYG1jQcDUt21YA6mT1A5KYahyvK8JxDifY3jlZmKtunlWKYLPgGlNAklQt_1Bbw2YyMKwdpFpeFDt87LVmSluVYogo_mxbfkZXIjemEbFdRV3z6HDvF60xXabig_WFt73GmX8BsnpATQ7qfz6NlQsY1jjSJLc03iKMFp60Zi3p-9kY2GjWyyF0llbBGBdEylk2GL2shmmpnt7RZ4cGyG8yPg",
+          "thumbnail": null,
+          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55188_1.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55188_1.jpg",
+          "size_bytes": 15766
+        },
+        {
+          "type": "photo",
+          "post_id": "supernova_plus/55188",
+          "url": "https://cdn4.telesco.pe/file/sT4VcsPWsm7c8YKbQDylhD4WO-GG8ZFM9FNdniGTx0ykqcXXAug9K-jqgCDsG0-_cU-OZgSodsglgOi7BL3W0Yr_UotNLKHaCxUDmGmG2u2CjEI08VWq632F6p_r09ikW1jRuI77C2SXnikOQ523YILXdURis8a1SUskmx1Yxvw3NKBFbyOFW8MDSmIR7AjfYgHoY78h14n0pGYX2RuRjDAjB-wGUiyNqj2GMTSDAu7VR2DgxFmkWh4OIxMaM8G8WFY3dP_HMykoIjYi6YV_LbnJPLxLrhOxoXxr8QYGd8pfcleAGQrnWbjVvpzud0w8snPokB40WfsE68RSxFWO8w",
+          "full_url": "https://cdn4.telesco.pe/file/sT4VcsPWsm7c8YKbQDylhD4WO-GG8ZFM9FNdniGTx0ykqcXXAug9K-jqgCDsG0-_cU-OZgSodsglgOi7BL3W0Yr_UotNLKHaCxUDmGmG2u2CjEI08VWq632F6p_r09ikW1jRuI77C2SXnikOQ523YILXdURis8a1SUskmx1Yxvw3NKBFbyOFW8MDSmIR7AjfYgHoY78h14n0pGYX2RuRjDAjB-wGUiyNqj2GMTSDAu7VR2DgxFmkWh4OIxMaM8G8WFY3dP_HMykoIjYi6YV_LbnJPLxLrhOxoXxr8QYGd8pfcleAGQrnWbjVvpzud0w8snPokB40WfsE68RSxFWO8w",
+          "thumbnail": null,
+          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55188_2.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55188_2.jpg",
+          "size_bytes": 18715
+        },
+        {
+          "type": "video",
+          "post_id": "supernova_plus/55188",
+          "url": "https://cdn4.telesco.pe/file/86a6139328.mp4?token=Ntc59mnYHQj6O8FY7MUH59dmNxELpx0wIbhbfEZqRUiVNa8hwdfi_5TuMpgGa7pQCJGbGoKTQfNjv9nDfY_pUGv9ezsJEEvqZJvvnqzMs8OMEKgTqB7AjMdTOC5tokjg0gSpLjNm8jO3jnGsdR3Z2pJu04VtR8l5TsnGqIKN5iPsb5YWgdrz-2bD20IpRyknuEXwSpZglMj76RWmqakCMbbS6SQkNG-k29ieVXa2QyBbSqwEWggTHT0k2d0e3sKXxPSL7ulJ6C_ifHr9-eanSZ2PRJ6wXL1yS6PR4aA34trg9_v6nNQOGzXOXYJXclQSpCIsKeVun02i4s3WJYVuaJFIryksNek4HMW6iYEbKVJnxJc4IlEHXYyifkMUMsbYAUUrnqJ8PY1bTH8m_ruT77-79_uRk-GHBKf4E1Vh2UgQPIUX92E-bQ1IZ5bZSAgE5Ekh8m8m_0QrcVdmlmrWc7wUgcy9lkXKQpCGCyT4PC7R5ckL5hfUpYXdt0HbpOTe869I_cTPsb6Sc_R8266GJE4DfAuT9Q-8YJNDutzoEqOoh-Ila32a7OhXILjy8rNCzXXCohZNCu7t5jMNqd9cE32n2Tccb5ZEOnL7fCSrNH8RBQMomdypf9elLt0WiGYJIF3Vftxo7K98xy187ICfyhS-ivSCAlEacZOc-3L-rKw",
+          "full_url": "https://cdn4.telesco.pe/file/86a6139328.mp4?token=Ntc59mnYHQj6O8FY7MUH59dmNxELpx0wIbhbfEZqRUiVNa8hwdfi_5TuMpgGa7pQCJGbGoKTQfNjv9nDfY_pUGv9ezsJEEvqZJvvnqzMs8OMEKgTqB7AjMdTOC5tokjg0gSpLjNm8jO3jnGsdR3Z2pJu04VtR8l5TsnGqIKN5iPsb5YWgdrz-2bD20IpRyknuEXwSpZglMj76RWmqakCMbbS6SQkNG-k29ieVXa2QyBbSqwEWggTHT0k2d0e3sKXxPSL7ulJ6C_ifHr9-eanSZ2PRJ6wXL1yS6PR4aA34trg9_v6nNQOGzXOXYJXclQSpCIsKeVun02i4s3WJYVuaJFIryksNek4HMW6iYEbKVJnxJc4IlEHXYyifkMUMsbYAUUrnqJ8PY1bTH8m_ruT77-79_uRk-GHBKf4E1Vh2UgQPIUX92E-bQ1IZ5bZSAgE5Ekh8m8m_0QrcVdmlmrWc7wUgcy9lkXKQpCGCyT4PC7R5ckL5hfUpYXdt0HbpOTe869I_cTPsb6Sc_R8266GJE4DfAuT9Q-8YJNDutzoEqOoh-Ila32a7OhXILjy8rNCzXXCohZNCu7t5jMNqd9cE32n2Tccb5ZEOnL7fCSrNH8RBQMomdypf9elLt0WiGYJIF3Vftxo7K98xy187ICfyhS-ivSCAlEacZOc-3L-rKw",
+          "thumbnail": null,
+          "local_path": "channels/supernova_plus/media/video/supernova_plus_55188_3.mp4",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/video/supernova_plus_55188_3.mp4",
+          "size_bytes": 14063675
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "🔥",
+      "👍",
+      "😁",
+      "🎉",
+      "👎",
+      "⚡",
+      "🤡",
+      "😱",
+      "🤩",
+      "🙊"
+    ],
+    "reactions": [],
+    "type": "text"
+  },
+  {
+    "index": 6,
     "post_url": "https://t.me/supernova_plus/55187",
     "post_id": "supernova_plus/55187",
     "date": "2026-07-07T20:15:31+00:00",
@@ -12,8 +511,8 @@
     "text": "компрессорная станция «Краснодарская» .. Орешник итоги  ..",
     "text_html": "компрессорная станция «Краснодарская» .. Орешник итоги  ..",
     "is_edited": false,
-    "views": 15100,
-    "views_raw": "15.1K",
+    "views": 45700,
+    "views_raw": "45.7K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -80,11 +579,11 @@
     "links": [],
     "emoji": [
       "🔥",
+      "👍",
       "⚡",
       "🤩",
-      "👍",
-      "🥰",
       "🤡",
+      "🥰",
       "😁",
       "👎",
       "🤣",
@@ -94,7 +593,7 @@
     "type": "text"
   },
   {
-    "index": 2,
+    "index": 7,
     "post_url": "https://t.me/supernova_plus/55186",
     "post_id": "supernova_plus/55186",
     "date": "2026-07-07T18:49:58+00:00",
@@ -103,11 +602,11 @@
     "edit_date_unix": null,
     "author": null,
     "author_url": null,
-    "text": "Три події сьогоднішнього дня.\n\n1. Печерський районний суд Києва в особі судді Вовка заборонив «Слідству.Інфо» публікувати розслідування про 143 об&#39;єкти нерухомості, які нібито належать брату директора ДБР Олександру Сухачову.\n\n2. Проти мене запроваджено санкції на 10 років рішенням РНБО по команді президента України Володимира Зеленського та окремо вимагається заблокувати доступ українцям до моїх інформаційних ресурсів, на яких я критикую владу та вказую на факти корупції. Подання на санкції зробила СБУ, яка атакувала з тими самими наративами НАБУ та хоче видати Росії розробника НРК Аслана Хакімова. Дивний збіг обставин?\n\n3. ДБР прийшли з обшуками до співзасновника «Бабеля» Олексія Бабенка після розслідування про полк «Скеля», а після цього почалась брудна інформкампанії в мережі проти нього.\n\nВсе це має ознаки системного тиску влади на  розслідувальну журналістику, політичних опонентів та викривачів. Це спланована атака на свободу слова та тестування в Україні тих методів, які давно випробувани на Росії і завдяки яким була знищени опозиція та свобода слова в РФ. Тож можна зробити висновок, що влада почала тестувати наше суспільство на те, як воно реагуватиме, якщо обмежувати свободу слова, атакувати лідерів суспільної думки та . Тепер ми бачимо, як Зеленський намагається використовувати цю російську практику в Україні. Зеленський грає в Путіна на мінімалках. \n\nЧи допоможе це утримати Зеленському владу? Маю великий сумнів. Але можу сказати одне, попереду буде нова спроба тиску на всіх, хто не мовчить. Їм запропонують або бути, як Лачен - обслуговувати владу, критикувати по вказівці та жити без отримання повістки, без тиску з боку влади, але з охороною СБУ, або отримати заборони на публікації, санкції та інше переслідування. Кожен буде робити свій вибір. Я свій давно зробив. І Вова зробив. \n\nДо речі,  Володимир Зеленський, так вам вже відомо, хто такий Вова для якого будують дім в Династії поряд з Андрієм, Міндічем та Чернишовим?",
-    "text_html": "Три події сьогоднішнього дня.<br/><br/>1. Печерський районний суд Києва в особі судді Вовка заборонив «Слідству.Інфо» публікувати розслідування про 143 об&#39;єкти нерухомості, які нібито належать брату директора ДБР Олександру Сухачову.<br/><br/>2. Проти мене запроваджено санкції на 10 років рішенням РНБО по команді президента України Володимира Зеленського та окремо вимагається заблокувати доступ українцям до моїх інформаційних ресурсів, на яких я критикую владу та вказую на факти корупції. Подання на санкції зробила СБУ, яка атакувала з тими самими наративами НАБУ та хоче видати Росії розробника НРК Аслана Хакімова. Дивний збіг обставин?<br/><br/>3. ДБР прийшли з обшуками до співзасновника «Бабеля» Олексія Бабенка після розслідування про полк «Скеля», а після цього почалась брудна інформкампанії в мережі проти нього.<br/><br/>Все це має ознаки системного тиску влади на  розслідувальну журналістику, політичних опонентів та викривачів. Це спланована атака на свободу слова та тестування в Україні тих методів, які давно випробувани на Росії і завдяки яким була знищени опозиція та свобода слова в РФ. Тож можна зробити висновок, що влада почала тестувати наше суспільство на те, як воно реагуватиме, якщо обмежувати свободу слова, атакувати лідерів суспільної думки та . Тепер ми бачимо, як Зеленський намагається використовувати цю російську практику в Україні. Зеленський грає в Путіна на мінімалках. <br/><br/>Чи допоможе це утримати Зеленському владу? Маю великий сумнів. Але можу сказати одне, попереду буде нова спроба тиску на всіх, хто не мовчить. Їм запропонують або бути, як Лачен - обслуговувати владу, критикувати по вказівці та жити без отримання повістки, без тиску з боку влади, але з охороною СБУ, або отримати заборони на публікації, санкції та інше переслідування. Кожен буде робити свій вибір. Я свій давно зробив. І Вова зробив. <br/><br/>До речі,  Володимир Зеленський, так вам вже відомо, хто такий Вова для якого будують дім в Династії поряд з Андрієм, Міндічем та Чернишовим?",
+    "text": "Три події сьогоднішнього дня.\n\n1. Печерський районний суд К��єва в особі судді Вовка заборонив «Слідству.Інфо» публікувати розслідування про 143 об&#39;єкти нерухомості, які нібито належать брату директора ДБР Олександру Сухачову.\n\n2. Проти мене запроваджено санкції на 10 років рішенням РНБО по команді президента України Володимира Зеленського та окремо вимагається заблокувати доступ українцям до моїх інформаційних ресурсів, на яких я критикую владу та вказую на факти корупції. Подання на санкції зробила СБУ, яка атакувала з тими самими наративами НАБУ та хоче видати Росії розробника НРК Аслана Хакімова. Дивний збіг обставин?\n\n3. ДБР прийшли з обшуками до співзасновника «Бабеля» Олексія Бабенка після розслідування про полк «Скеля», а після цього почалась брудна інформкампанії в мережі проти нього.\n\nВсе це має ознаки системного тиску влади на  розслідувальну журналістику, політичних опонентів та викривачів. Це спланована атака на свободу слова та тестування в Україні тих методів, які давно випробувани на Росії і завдяки яким була знищени опозиція та свобода слова в РФ. Тож можна зробити висновок, що влада почала тестувати наше суспільство на те, як воно реагуватиме, якщо обмежувати свободу слова, атакувати лідерів суспільної думки та . Тепер ми бачимо, як Зеленський намагається використовувати цю російську практику в Україні. Зеленський грає в Путіна на мінімалках. \n\nЧи допоможе це утримати Зеленському владу? Маю великий сумнів. Але можу сказати одне, попереду буде нова спроба тиску на всіх, хто не мовчить. Їм запропонують або бути, як Лачен - обслуговувати владу, критикувати по вказівці та жити без отримання повістки, без тиску з боку влади, але з охороною СБУ, або отримати заборони на публікації, санкції та інше переслідування. Кожен буде робити свій вибір. Я свій давно зробив. І Вова зробив. \n\nДо речі,  Володимир Зеленський, так вам вже відомо, хто такий Вова для якого будують дім в Династії поряд з Андрієм, Міндічем та Чернишовим?",
+    "text_html": "Три події сьогоднішнього дня.<br/><br/>1. Печерський районний суд К��єва в особі судді Вовка заборонив «Слідству.Інфо» публікувати розслідування про 143 об&#39;єкти нерухомості, які нібито належать брату директора ДБР Олександру Сухачову.<br/><br/>2. Проти мене запроваджено санкції на 10 років рішенням РНБО по команді президента України Володимира Зеленського та окремо вимагається заблокувати доступ українцям до моїх інформаційних ресурсів, на яких я критикую владу та вказую на факти корупції. Подання на санкції зробила СБУ, яка атакувала з тими самими наративами НАБУ та хоче видати Росії розробника НРК Аслана Хакімова. Дивний збіг обставин?<br/><br/>3. ДБР прийшли з обшуками до співзасновника «Бабеля» Олексія Бабенка після розслідування про полк «Скеля», а після цього почалась брудна інформкампанії в мережі проти нього.<br/><br/>Все це має ознаки системного тиску влади на  розслідувальну журналістику, політичних опонентів та викривачів. Це спланована атака на свободу слова та тестування в Україні тих методів, які давно випробувани на Росії і завдяки яким була знищени опозиція та свобода слова в РФ. Тож можна зробити висновок, що влада почала тестувати наше суспільство на те, як воно реагуватиме, якщо обмежувати свободу слова, атакувати лідерів суспільної думки та . Тепер ми бачимо, як Зеленський намагається використовувати цю російську практику в Україні. Зеленський грає в Путіна на мінімалках. <br/><br/>Чи допоможе це утримати Зеленському владу? Маю великий сумнів. Але можу сказати одне, попереду буде нова спроба тиску на всіх, хто не мовчить. Їм запропонують або бути, як Лачен - обслуговувати владу, критикувати по вказівці та жити без отримання повістки, без тиску з боку влади, але з охороною СБУ, або отримати заборони на публікації, санкції та інше переслідування. Кожен буде робити свій вибір. Я свій давно зробив. І Вова зробив. <br/><br/>До речі,  Володимир Зеленський, так вам вже відомо, хто такий Вова для якого будують дім в Династії поряд з Андрієм, Міндічем та Чернишовим?",
     "is_edited": false,
-    "views": 37000,
-    "views_raw": "37K",
+    "views": 56100,
+    "views_raw": "56.1K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -170,16 +669,16 @@
       "🤬",
       "💯",
       "💩",
+      "🤣",
       "😱",
       "😢",
-      "🤣",
       "😡"
     ],
     "reactions": [],
     "type": "album"
   },
   {
-    "index": 3,
+    "index": 8,
     "post_url": "https://t.me/supernova_plus/55185",
     "post_id": "supernova_plus/55185",
     "date": "2026-07-07T18:16:37+00:00",
@@ -191,8 +690,8 @@
     "text": "Краснодарский край .. сбита ракета .. Орешник",
     "text_html": "Краснодарский край .. сбита ракета .. Орешник",
     "is_edited": false,
-    "views": 49700,
-    "views_raw": "49.7K",
+    "views": 65800,
+    "views_raw": "65.8K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -272,9 +771,9 @@
       "👍",
       "🤣",
       "👏",
+      "🤡",
       "🤩",
       "🥰",
-      "🤡",
       "😭",
       "😎",
       "‍"
@@ -283,7 +782,7 @@
     "type": "text"
   },
   {
-    "index": 4,
+    "index": 9,
     "post_url": "https://t.me/supernova_plus/55181",
     "post_id": "supernova_plus/55181",
     "date": "2026-07-07T17:21:43+00:00",
@@ -295,8 +794,8 @@
     "text": "Краснодарский край .. сбита ракета .. Орешник",
     "text_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">Краснодарский край .. сбита ракета .. Орешник",
     "is_edited": false,
-    "views": 54700,
-    "views_raw": "54.7K",
+    "views": 66700,
+    "views_raw": "66.7K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -397,7 +896,7 @@
     "type": "album"
   },
   {
-    "index": 5,
+    "index": 10,
     "post_url": "https://t.me/supernova_plus/55179",
     "post_id": "supernova_plus/55179",
     "date": "2026-07-07T16:22:13+00:00",
@@ -409,8 +908,8 @@
     "text": "Питер .. это какой-то позор",
     "text_html": "Питер .. это какой-то позор",
     "is_edited": false,
-    "views": 60100,
-    "views_raw": "60.1K",
+    "views": 71100,
+    "views_raw": "71.1K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -434,9 +933,9 @@
           "url": "https://cdn4.telesco.pe/file/rb4P7tly4cHrAL9y0zebCaOOsRKiNBnEkrD5ArflNE66csjkHkJRXTp2KY-LX9l-zf8iisnDXmQrtTGtl7NUQ9JDVovWeHsklqzlk_Zu7PSXYQfan5Fj9gU9Pq3OGLFGcrubEVVvHnVDuFQ0wiwal3jeWJbB8ernxeWhRo552TdUCBBX61hgR0nsaLyaikB_0K8QvPUqGd7Y4xurJ0UHq7Ho-S0otJxDySIrJst2fX0D17mBDI-B0y38ScMnXO5iAzFN2YtsGpn3P8d2P_zHohK2wSzRKaglDCNoTgngNU-Mxz3LD0b3jMRdN8t_JSiv32bHlPyVFvQZyHM5zTkVWA.jpg",
           "full_url": "https://cdn4.telesco.pe/file/rb4P7tly4cHrAL9y0zebCaOOsRKiNBnEkrD5ArflNE66csjkHkJRXTp2KY-LX9l-zf8iisnDXmQrtTGtl7NUQ9JDVovWeHsklqzlk_Zu7PSXYQfan5Fj9gU9Pq3OGLFGcrubEVVvHnVDuFQ0wiwal3jeWJbB8ernxeWhRo552TdUCBBX61hgR0nsaLyaikB_0K8QvPUqGd7Y4xurJ0UHq7Ho-S0otJxDySIrJst2fX0D17mBDI-B0y38ScMnXO5iAzFN2YtsGpn3P8d2P_zHohK2wSzRKaglDCNoTgngNU-Mxz3LD0b3jMRdN8t_JSiv32bHlPyVFvQZyHM5zTkVWA.jpg",
           "thumbnail": null,
-          "local_path": null,
-          "remote_url": "https://cdn4.telesco.pe/file/rb4P7tly4cHrAL9y0zebCaOOsRKiNBnEkrD5ArflNE66csjkHkJRXTp2KY-LX9l-zf8iisnDXmQrtTGtl7NUQ9JDVovWeHsklqzlk_Zu7PSXYQfan5Fj9gU9Pq3OGLFGcrubEVVvHnVDuFQ0wiwal3jeWJbB8ernxeWhRo552TdUCBBX61hgR0nsaLyaikB_0K8QvPUqGd7Y4xurJ0UHq7Ho-S0otJxDySIrJst2fX0D17mBDI-B0y38ScMnXO5iAzFN2YtsGpn3P8d2P_zHohK2wSzRKaglDCNoTgngNU-Mxz3LD0b3jMRdN8t_JSiv32bHlPyVFvQZyHM5zTkVWA.jpg",
-          "error": "Not media"
+          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55179_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55179_0.jpg",
+          "size_bytes": 13366
         },
         {
           "type": "photo",
@@ -499,554 +998,5 @@
     ],
     "reactions": [],
     "type": "album"
-  },
-  {
-    "index": 6,
-    "post_url": "https://t.me/supernova_plus/55176",
-    "post_id": "supernova_plus/55176",
-    "date": "2026-07-07T15:55:09+00:00",
-    "date_unix": 1783439709,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "Танкеры в Азовском море прикуренные Венграми ..",
-    "text_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">Танкеры в Азовском море прикуренные Венграми ..",
-    "is_edited": false,
-    "views": 62800,
-    "views_raw": "62.8K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "mixed",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "supernova_plus/55176",
-          "url": "https://cdn4.telesco.pe/file/rb4P7tly4cHrAL9y0zebCaOOsRKiNBnEkrD5ArflNE66csjkHkJRXTp2KY-LX9l-zf8iisnDXmQrtTGtl7NUQ9JDVovWeHsklqzlk_Zu7PSXYQfan5Fj9gU9Pq3OGLFGcrubEVVvHnVDuFQ0wiwal3jeWJbB8ernxeWhRo552TdUCBBX61hgR0nsaLyaikB_0K8QvPUqGd7Y4xurJ0UHq7Ho-S0otJxDySIrJst2fX0D17mBDI-B0y38ScMnXO5iAzFN2YtsGpn3P8d2P_zHohK2wSzRKaglDCNoTgngNU-Mxz3LD0b3jMRdN8t_JSiv32bHlPyVFvQZyHM5zTkVWA.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/rb4P7tly4cHrAL9y0zebCaOOsRKiNBnEkrD5ArflNE66csjkHkJRXTp2KY-LX9l-zf8iisnDXmQrtTGtl7NUQ9JDVovWeHsklqzlk_Zu7PSXYQfan5Fj9gU9Pq3OGLFGcrubEVVvHnVDuFQ0wiwal3jeWJbB8ernxeWhRo552TdUCBBX61hgR0nsaLyaikB_0K8QvPUqGd7Y4xurJ0UHq7Ho-S0otJxDySIrJst2fX0D17mBDI-B0y38ScMnXO5iAzFN2YtsGpn3P8d2P_zHohK2wSzRKaglDCNoTgngNU-Mxz3LD0b3jMRdN8t_JSiv32bHlPyVFvQZyHM5zTkVWA.jpg",
-          "thumbnail": null,
-          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55176_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55176_0.jpg",
-          "size_bytes": 13366
-        },
-        {
-          "type": "photo",
-          "post_id": "supernova_plus/55176",
-          "url": "https://cdn4.telesco.pe/file/W6CJaWjfCAKjtv53uX_Hmp-DFv9T83D9NMCkHSFItTOOO4txQunKqJkkLWrJ3AIIDfQI_dNTUW5RJJMJ_QQ_7cTvbF0WQjhBIlRsYC5zoKlr1OPTfU5__Q9iy9AjV9fCQW3ruR_PR7DZYPXTzCp9d60-cGcbY8dyhshLQkYgX7Ezrc_ogRwPyRNR4F_qdxUBXETXOXNZgGm1IYtGNf7LElvqaG0uJEWt8_rnDFvHcF-RveonHZ8Vfs8tw14q2e2-ZV7tkcgT5cXvn-D-b-zhOvoFoFAw3J7KWZi3UoWNoVl_A9BiOSsPVv6FteJ-47lvY_B5UImu2QhIbvmhp69eFA",
-          "full_url": "https://cdn4.telesco.pe/file/W6CJaWjfCAKjtv53uX_Hmp-DFv9T83D9NMCkHSFItTOOO4txQunKqJkkLWrJ3AIIDfQI_dNTUW5RJJMJ_QQ_7cTvbF0WQjhBIlRsYC5zoKlr1OPTfU5__Q9iy9AjV9fCQW3ruR_PR7DZYPXTzCp9d60-cGcbY8dyhshLQkYgX7Ezrc_ogRwPyRNR4F_qdxUBXETXOXNZgGm1IYtGNf7LElvqaG0uJEWt8_rnDFvHcF-RveonHZ8Vfs8tw14q2e2-ZV7tkcgT5cXvn-D-b-zhOvoFoFAw3J7KWZi3UoWNoVl_A9BiOSsPVv6FteJ-47lvY_B5UImu2QhIbvmhp69eFA",
-          "thumbnail": null,
-          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55176_1.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55176_1.jpg",
-          "size_bytes": 5243
-        },
-        {
-          "type": "photo",
-          "post_id": "supernova_plus/55176",
-          "url": "https://cdn4.telesco.pe/file/bQGAajqqB_RbsGDc8xTt_6yio4uwAx7Y6o_PDliJmWdKYzl2QVF9v1zxxcusgal4UQXUMzMhHoOfJgqg36lZNwyhecvigI4jcWh8CYMJmwufeucZqatDpoEt9w-W_3lIEWZFBJXIaJfsV_4rdUruFwVQxeJ-PzZD-0AAo-GTbtuA03ONzxmhUzc4iwvM6JStLEywddVp56F_dvyzNA6gyUFhsU8D6SpiFilP63P7i8a5fUBEEWeZ-JQJTteDyEOsbsOSm67fNYBl-P2zZGQxdIDEJ2C8qQ7UI6jha2cBiLGkz1FvjgmP4WVPyg4RwskztS0B_f7MQ6hx8ok5oilvog",
-          "full_url": "https://cdn4.telesco.pe/file/bQGAajqqB_RbsGDc8xTt_6yio4uwAx7Y6o_PDliJmWdKYzl2QVF9v1zxxcusgal4UQXUMzMhHoOfJgqg36lZNwyhecvigI4jcWh8CYMJmwufeucZqatDpoEt9w-W_3lIEWZFBJXIaJfsV_4rdUruFwVQxeJ-PzZD-0AAo-GTbtuA03ONzxmhUzc4iwvM6JStLEywddVp56F_dvyzNA6gyUFhsU8D6SpiFilP63P7i8a5fUBEEWeZ-JQJTteDyEOsbsOSm67fNYBl-P2zZGQxdIDEJ2C8qQ7UI6jha2cBiLGkz1FvjgmP4WVPyg4RwskztS0B_f7MQ6hx8ok5oilvog",
-          "thumbnail": null,
-          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55176_2.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55176_2.jpg",
-          "size_bytes": 7257
-        },
-        {
-          "type": "video",
-          "post_id": "supernova_plus/55176",
-          "url": "https://cdn4.telesco.pe/file/f91702c21e.mp4?token=ST02Yb77u1GmSan72NOMYhJU2Hpf8Kxee7JDmIiCb3Zwf19hsOXxG3gboyviOC9fOsZ0zmfrpFmXAT_2qNjIsAxY-_knth4-6E-zgM1TtxjFVFlfiytOw8EBfCmM04buBsxhYxrUAxNPmTV0vo9SLMciqwLCvUj8wXxkIX19YJocgQR3BfubT-HKjHWVXTlRC4ndqF9-V3aEvqGpUpfqnA-9UAGowpQ2nFbRnulnTptgYjazDyxu2qrDIya7SCvzoz9WDL7bELnaWbodqwMie7tINuufZnEhfqQ27DI6-t0qd-qY5ZUqxgnFy81ZP9WEg6-Y4TnOmG-sRfz5Qk4ESw",
-          "full_url": "https://cdn4.telesco.pe/file/f91702c21e.mp4?token=ST02Yb77u1GmSan72NOMYhJU2Hpf8Kxee7JDmIiCb3Zwf19hsOXxG3gboyviOC9fOsZ0zmfrpFmXAT_2qNjIsAxY-_knth4-6E-zgM1TtxjFVFlfiytOw8EBfCmM04buBsxhYxrUAxNPmTV0vo9SLMciqwLCvUj8wXxkIX19YJocgQR3BfubT-HKjHWVXTlRC4ndqF9-V3aEvqGpUpfqnA-9UAGowpQ2nFbRnulnTptgYjazDyxu2qrDIya7SCvzoz9WDL7bELnaWbodqwMie7tINuufZnEhfqQ27DI6-t0qd-qY5ZUqxgnFy81ZP9WEg6-Y4TnOmG-sRfz5Qk4ESw",
-          "thumbnail": null,
-          "local_path": "channels/supernova_plus/media/video/supernova_plus_55176_3.mp4",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/video/supernova_plus_55176_3.mp4",
-          "size_bytes": 5888589
-        },
-        {
-          "type": "photo",
-          "post_id": "supernova_plus/55176",
-          "url": "https://cdn4.telesco.pe/file/a87XK5XjhPJIFT0CAGlD_6BCw_0zMgsKmvb9kJMOwErPbtz_igujLmtlvdA7wpTxFMADLI-Ed8mRen805Jma5Jv9_MbdfBpN-O-VJYZkl9h-Eyijg26YWFhXQrAOT57sQ0Vue4OAv6OiSAraWmf8iI70kdXoZbZNnpeVIoIpllXPDfdm3P_K05dI-IhAzNiyxkaGSXWazB_Jj5SVJUH0uVmo4b8WXc7H3BEGwYt8aQvrF9xV2KRPjcEsUfJDkBqsw7jgbkkDuzIMI0U79K3wostxPIQfnXal_zsU8wKpCkbqqL2o3jbggYLpYdcWhKW4CDUmI4KwvS0Ye5wTWWHLHQ",
-          "full_url": "https://cdn4.telesco.pe/file/a87XK5XjhPJIFT0CAGlD_6BCw_0zMgsKmvb9kJMOwErPbtz_igujLmtlvdA7wpTxFMADLI-Ed8mRen805Jma5Jv9_MbdfBpN-O-VJYZkl9h-Eyijg26YWFhXQrAOT57sQ0Vue4OAv6OiSAraWmf8iI70kdXoZbZNnpeVIoIpllXPDfdm3P_K05dI-IhAzNiyxkaGSXWazB_Jj5SVJUH0uVmo4b8WXc7H3BEGwYt8aQvrF9xV2KRPjcEsUfJDkBqsw7jgbkkDuzIMI0U79K3wostxPIQfnXal_zsU8wKpCkbqqL2o3jbggYLpYdcWhKW4CDUmI4KwvS0Ye5wTWWHLHQ",
-          "thumbnail": null,
-          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55176_4.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55176_4.jpg",
-          "size_bytes": 7104
-        },
-        {
-          "type": "video",
-          "post_id": "supernova_plus/55176",
-          "url": "https://cdn4.telesco.pe/file/ad85703279.mp4?token=A7DJv-GV2TTW5lKTb_-ZtWjZjc46vjh1Cc0nU3VdCJqTLlFlCQTq0BBPL9QwIkYnJOvmpdg9yOGFqYC7Q0ubI9ChNBOn8hgFnvLt_s2h2MJ0FXhHhPWsWiq_GWIMP45eDMQbQyqYmfiVYBUbZsJT89eWEc4Os-5PfbCFRAdeCN1gYDjETAkfWPQ72c_4XKiYAds9LdTv7g4Hjgeh6LigpeA_Hporv2zcr8AM33ld-RlWKYoN9SMvMq1uOZT7i6aXo2j49Od4mY8Vh8Yqym9R4Aa61HxFiiFoSA1pmrA5fYC_M3hPfnPnl6aVsxPZMu7uXcDRfZugZXzhopJDf7u4WA5I7LVYLec92yvv2yHHfL4w55X9corNaQybTXSe7QL8KJfKmSN4xU_ePSaONei6bYICYvDh141315V5xyA8YEx_50qwF16ijQOdd-Bw5NREO5gcIvRj9L3PIm_7QO1mNG7wG8o7pURVdfRn2-G9VTu5xBv4Y4tYDai6jQi86D2N436aripq5CWMoMM6savaueOWl7PrwL-JP5J4Bd2LWpQBRjwhnKkadCTjIypdUvT68-W-Ti_xVbzyy6RblLcO70uHG522cddyZOg8-wb9XkcsgR_XjcsV9jeE_41EarSH2_It1jsm8sTSu0Fp_c9UUqSTJmWv0_xQ-7yQa4dsPbw",
-          "full_url": "https://cdn4.telesco.pe/file/ad85703279.mp4?token=A7DJv-GV2TTW5lKTb_-ZtWjZjc46vjh1Cc0nU3VdCJqTLlFlCQTq0BBPL9QwIkYnJOvmpdg9yOGFqYC7Q0ubI9ChNBOn8hgFnvLt_s2h2MJ0FXhHhPWsWiq_GWIMP45eDMQbQyqYmfiVYBUbZsJT89eWEc4Os-5PfbCFRAdeCN1gYDjETAkfWPQ72c_4XKiYAds9LdTv7g4Hjgeh6LigpeA_Hporv2zcr8AM33ld-RlWKYoN9SMvMq1uOZT7i6aXo2j49Od4mY8Vh8Yqym9R4Aa61HxFiiFoSA1pmrA5fYC_M3hPfnPnl6aVsxPZMu7uXcDRfZugZXzhopJDf7u4WA5I7LVYLec92yvv2yHHfL4w55X9corNaQybTXSe7QL8KJfKmSN4xU_ePSaONei6bYICYvDh141315V5xyA8YEx_50qwF16ijQOdd-Bw5NREO5gcIvRj9L3PIm_7QO1mNG7wG8o7pURVdfRn2-G9VTu5xBv4Y4tYDai6jQi86D2N436aripq5CWMoMM6savaueOWl7PrwL-JP5J4Bd2LWpQBRjwhnKkadCTjIypdUvT68-W-Ti_xVbzyy6RblLcO70uHG522cddyZOg8-wb9XkcsgR_XjcsV9jeE_41EarSH2_It1jsm8sTSu0Fp_c9UUqSTJmWv0_xQ-7yQa4dsPbw",
-          "thumbnail": null,
-          "local_path": "channels/supernova_plus/media/video/supernova_plus_55176_5.mp4",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/video/supernova_plus_55176_5.mp4",
-          "size_bytes": 10492432
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [],
-    "links": [],
-    "emoji": [
-      "🔥",
-      "🤣",
-      "👍",
-      "🥰",
-      "🤬",
-      "‍",
-      "👎",
-      "😁",
-      "😍",
-      "🤡"
-    ],
-    "reactions": [],
-    "type": "text"
-  },
-  {
-    "index": 7,
-    "post_url": "https://t.me/supernova_plus/55172",
-    "post_id": "supernova_plus/55172",
-    "date": "2026-07-07T13:42:32+00:00",
-    "date_unix": 1783431752,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "качество топлива на россии стремительно ухудшается.. запись на техсервис все больше.. ситуация просто коллапс..",
-    "text_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">качество топлива на россии стремительно ухудшается.. запись на техсервис все больше.. ситуация просто коллапс..",
-    "is_edited": false,
-    "views": 72000,
-    "views_raw": "72K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "mixed",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "supernova_plus/55172",
-          "url": "https://cdn4.telesco.pe/file/rb4P7tly4cHrAL9y0zebCaOOsRKiNBnEkrD5ArflNE66csjkHkJRXTp2KY-LX9l-zf8iisnDXmQrtTGtl7NUQ9JDVovWeHsklqzlk_Zu7PSXYQfan5Fj9gU9Pq3OGLFGcrubEVVvHnVDuFQ0wiwal3jeWJbB8ernxeWhRo552TdUCBBX61hgR0nsaLyaikB_0K8QvPUqGd7Y4xurJ0UHq7Ho-S0otJxDySIrJst2fX0D17mBDI-B0y38ScMnXO5iAzFN2YtsGpn3P8d2P_zHohK2wSzRKaglDCNoTgngNU-Mxz3LD0b3jMRdN8t_JSiv32bHlPyVFvQZyHM5zTkVWA.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/rb4P7tly4cHrAL9y0zebCaOOsRKiNBnEkrD5ArflNE66csjkHkJRXTp2KY-LX9l-zf8iisnDXmQrtTGtl7NUQ9JDVovWeHsklqzlk_Zu7PSXYQfan5Fj9gU9Pq3OGLFGcrubEVVvHnVDuFQ0wiwal3jeWJbB8ernxeWhRo552TdUCBBX61hgR0nsaLyaikB_0K8QvPUqGd7Y4xurJ0UHq7Ho-S0otJxDySIrJst2fX0D17mBDI-B0y38ScMnXO5iAzFN2YtsGpn3P8d2P_zHohK2wSzRKaglDCNoTgngNU-Mxz3LD0b3jMRdN8t_JSiv32bHlPyVFvQZyHM5zTkVWA.jpg",
-          "thumbnail": null,
-          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55172_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55172_0.jpg",
-          "size_bytes": 13366
-        },
-        {
-          "type": "photo",
-          "post_id": "supernova_plus/55172",
-          "url": "https://cdn4.telesco.pe/file/Ut-kCksvcLhW7QcVTEJvWV6gKapgtjBGOKh2n8YeXfGjRNIpnOrQKDL319JVp_j5QeijN1vqrQIKH17KAcEyq_W2tbgxKRqyOWnWOv3ZTauTSa2lu2OYMPoZht5ouCXPzVB-yX2p8GR9FIT3yHZka8KJUEZoLbo7SJ55r5m69J_SEoBKvgKRDP7wryVkquaiwRP7_LGA8ADwy0SXEoZQpC2bzxbx9tfluxucasA3up_2JvyfPe1W48Xymaom-FXUa0GXKbrYjLZCY340J9sxYU9UdZLHM-b5kSUnKrUhPCVZFx3s45SZhvX18-oAI3oxU849QdeOhmrPPtSRhLYdXQ",
-          "full_url": "https://cdn4.telesco.pe/file/Ut-kCksvcLhW7QcVTEJvWV6gKapgtjBGOKh2n8YeXfGjRNIpnOrQKDL319JVp_j5QeijN1vqrQIKH17KAcEyq_W2tbgxKRqyOWnWOv3ZTauTSa2lu2OYMPoZht5ouCXPzVB-yX2p8GR9FIT3yHZka8KJUEZoLbo7SJ55r5m69J_SEoBKvgKRDP7wryVkquaiwRP7_LGA8ADwy0SXEoZQpC2bzxbx9tfluxucasA3up_2JvyfPe1W48Xymaom-FXUa0GXKbrYjLZCY340J9sxYU9UdZLHM-b5kSUnKrUhPCVZFx3s45SZhvX18-oAI3oxU849QdeOhmrPPtSRhLYdXQ",
-          "thumbnail": null,
-          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55172_1.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55172_1.jpg",
-          "size_bytes": 12392
-        },
-        {
-          "type": "video",
-          "post_id": "supernova_plus/55172",
-          "url": "https://cdn4.telesco.pe/file/935405beac.mp4?token=c6NwMA-bAaETFimKQHhgk80XnL-4A0Zgyu9FwzHXKRoh2InUhA1uwMeWtl_zBgyJRRI1ZmsDTglBh1xengFhoTAN9l3lGlX1_B9RJBr8NoQ1DbrWfLdtznA5PR9tALUepbUnYyGhuPdf8jU0ar374HH9uDXh4YBjl0714dV9Fs5Usmh-Bs2Ira7pGkWTx-A_ExIgCOzzr_zVR7zQw-3XJawW9f_UocdZmemmiAYQflk8htkHrpAVcAbzZcNcrv6Gdqa1qrjNwrmaM5tTzmJljvVunMnjL_qrzubh6Mw64hi1Skn6hmr3qdW7d0-8BGYBaAhWavSQlkLoQ632WDdgIzzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0",
-          "full_url": "https://cdn4.telesco.pe/file/935405beac.mp4?token=c6NwMA-bAaETFimKQHhgk80XnL-4A0Zgyu9FwzHXKRoh2InUhA1uwMeWtl_zBgyJRRI1ZmsDTglBh1xengFhoTAN9l3lGlX1_B9RJBr8NoQ1DbrWfLdtznA5PR9tALUepbUnYyGhuPdf8jU0ar374HH9uDXh4YBjl0714dV9Fs5Usmh-Bs2Ira7pGkWTx-A_ExIgCOzzr_zVR7zQw-3XJawW9f_UocdZmemmiAYQflk8htkHrpAVcAbzZcNcrv6Gdqa1qrjNwrmaM5tTzmJljvVunMnjL_qrzubh6Mw64hi1Skn6hmr3qdW7d0-8BGYBaAhWavSQlkLoQ632WDdgIzzoLYYGMqknLXWitR9ENcuYlvuH2_duRcW1gSNrDutwJRiNb4oohoOr2QiJZhWoYyGpijaw_6z9cGAq5qraeb67jIHbQJRGf3qFSIx1nXYKlYBH2IGEFbmyeDQT784STQ5YPI-eEt4U2NpNTzs5qqOhyJVQlX8AwFaoOXyE8JMF1U5N6F2kgYRk9lSL-fG7i4rS94h3rQJ8XKuOf9GXGF6tJT-wZRWgCS1AQJnzDxJQ0sz9GR52DM9Ho7mOsVJxsH0JrprSkZ-jLGCuNWz4izHcr0djjMAgjRxHVogYUkwXcmv5R27x7EdgEMGthHOr_gJwSqXM3BRMKCcD7HrBjy0",
-          "thumbnail": null,
-          "local_path": "channels/supernova_plus/media/video/supernova_plus_55172_2.mp4",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/video/supernova_plus_55172_2.mp4",
-          "size_bytes": 9010089
-        },
-        {
-          "type": "photo",
-          "post_id": "supernova_plus/55172",
-          "url": "https://cdn4.telesco.pe/file/u6XiaNnS1dSEuu4BYm-OiEcuEQT1Yw_uIJCSl0xbGL7IJAFLTAszrpzyv3RtNfwjW6I6DxLOTYztCbHD-jQkxMMeh5EmsrMuAq_VWBmWL8_cHCbqGeAHeUcXMZLf5O_X-Psm7QmAr6RW78Cw23rpt3BXrixmWYYPRkbnleEU6Yfg2Y4Viap3y1zYOY1TuvPOzx9hVxX0VPSgfJI7FcFx_ulAWxB-dlcJQRyt6JYG_qMIN_W_VRL0xlcmeQ1F0rkX4H4g2Tz9gr9XNHlczntIAgDLPAUT6k92Xl9vVL1OAISR6-ZaOaPTNH_RsRvZcnF6azoKJW0zMXjaTMphu69R2g",
-          "full_url": "https://cdn4.telesco.pe/file/u6XiaNnS1dSEuu4BYm-OiEcuEQT1Yw_uIJCSl0xbGL7IJAFLTAszrpzyv3RtNfwjW6I6DxLOTYztCbHD-jQkxMMeh5EmsrMuAq_VWBmWL8_cHCbqGeAHeUcXMZLf5O_X-Psm7QmAr6RW78Cw23rpt3BXrixmWYYPRkbnleEU6Yfg2Y4Viap3y1zYOY1TuvPOzx9hVxX0VPSgfJI7FcFx_ulAWxB-dlcJQRyt6JYG_qMIN_W_VRL0xlcmeQ1F0rkX4H4g2Tz9gr9XNHlczntIAgDLPAUT6k92Xl9vVL1OAISR6-ZaOaPTNH_RsRvZcnF6azoKJW0zMXjaTMphu69R2g",
-          "thumbnail": null,
-          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55172_3.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55172_3.jpg",
-          "size_bytes": 12162
-        },
-        {
-          "type": "video",
-          "post_id": "supernova_plus/55172",
-          "url": "https://cdn4.telesco.pe/file/423ac1d7d1.mp4?token=TUcz7dFTCK_ZULK46yoWPRk58nMW5hCaBXWsq8agYMQ7sKTJlUjf83rRlfmWcCj1mqRTvSyQwGGRUePOSK7B5nhq6Uu1A0vvUhQnJum-esK8AibxxK9PlJh5fhg-QO_ODnCDPgAwp7uMlXstZXsdrtkbUGs6SdzmV08gBb7mTdc8BYvXre9o_ZyGc2iQjPoJ4HmjNYQL3mxAwHoieU3uOl34dDuPbDgV9yJWx7oQGZFA5DAYIYCgfIEBdwcHKR6gIvy2t3tLJpuWB3aQqU4Ao4xV8JYnrnSF2ESy9B-a3Y_VSQRothvtRJJL2V_SPHZXY2EiJw-ffLgp4DLgqnC8mg",
-          "full_url": "https://cdn4.telesco.pe/file/423ac1d7d1.mp4?token=TUcz7dFTCK_ZULK46yoWPRk58nMW5hCaBXWsq8agYMQ7sKTJlUjf83rRlfmWcCj1mqRTvSyQwGGRUePOSK7B5nhq6Uu1A0vvUhQnJum-esK8AibxxK9PlJh5fhg-QO_ODnCDPgAwp7uMlXstZXsdrtkbUGs6SdzmV08gBb7mTdc8BYvXre9o_ZyGc2iQjPoJ4HmjNYQL3mxAwHoieU3uOl34dDuPbDgV9yJWx7oQGZFA5DAYIYCgfIEBdwcHKR6gIvy2t3tLJpuWB3aQqU4Ao4xV8JYnrnSF2ESy9B-a3Y_VSQRothvtRJJL2V_SPHZXY2EiJw-ffLgp4DLgqnC8mg",
-          "thumbnail": null,
-          "local_path": "channels/supernova_plus/media/video/supernova_plus_55172_4.mp4",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/video/supernova_plus_55172_4.mp4",
-          "size_bytes": 4207610
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [],
-    "links": [],
-    "emoji": [
-      "🤣",
-      "🔥",
-      "👍",
-      "🤡",
-      "🤮",
-      "😁",
-      "👏",
-      "🤬",
-      "🤷",
-      "‍",
-      "🌚"
-    ],
-    "reactions": [],
-    "type": "text"
-  },
-  {
-    "index": 8,
-    "post_url": "https://t.me/supernova_plus/55170",
-    "post_id": "supernova_plus/55170",
-    "date": "2026-07-07T11:05:42+00:00",
-    "date_unix": 1783422342,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "Москва .. пво.. подготовка..",
-    "text_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">Москва .. пво.. подготовка..",
-    "is_edited": false,
-    "views": 78600,
-    "views_raw": "78.6K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "mixed",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "supernova_plus/55170",
-          "url": "https://cdn4.telesco.pe/file/rb4P7tly4cHrAL9y0zebCaOOsRKiNBnEkrD5ArflNE66csjkHkJRXTp2KY-LX9l-zf8iisnDXmQrtTGtl7NUQ9JDVovWeHsklqzlk_Zu7PSXYQfan5Fj9gU9Pq3OGLFGcrubEVVvHnVDuFQ0wiwal3jeWJbB8ernxeWhRo552TdUCBBX61hgR0nsaLyaikB_0K8QvPUqGd7Y4xurJ0UHq7Ho-S0otJxDySIrJst2fX0D17mBDI-B0y38ScMnXO5iAzFN2YtsGpn3P8d2P_zHohK2wSzRKaglDCNoTgngNU-Mxz3LD0b3jMRdN8t_JSiv32bHlPyVFvQZyHM5zTkVWA.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/rb4P7tly4cHrAL9y0zebCaOOsRKiNBnEkrD5ArflNE66csjkHkJRXTp2KY-LX9l-zf8iisnDXmQrtTGtl7NUQ9JDVovWeHsklqzlk_Zu7PSXYQfan5Fj9gU9Pq3OGLFGcrubEVVvHnVDuFQ0wiwal3jeWJbB8ernxeWhRo552TdUCBBX61hgR0nsaLyaikB_0K8QvPUqGd7Y4xurJ0UHq7Ho-S0otJxDySIrJst2fX0D17mBDI-B0y38ScMnXO5iAzFN2YtsGpn3P8d2P_zHohK2wSzRKaglDCNoTgngNU-Mxz3LD0b3jMRdN8t_JSiv32bHlPyVFvQZyHM5zTkVWA.jpg",
-          "thumbnail": null,
-          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55170_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55170_0.jpg",
-          "size_bytes": 13366
-        },
-        {
-          "type": "photo",
-          "post_id": "supernova_plus/55170",
-          "url": "https://cdn4.telesco.pe/file/U5W2q5ZuFPnHwFuNvp4dfWic2zlaWFQoOOIDUMTbLudiBvyAUnhmmDEhIqTXqd0FoDgZgTo32DWSkTYMwHwvyjwF5RFcbzEID8HkBAtYbxsFzYeJcevrWRCE7dHIoupcZpeI_S3LQxURim95ec9f6kTEK4lg2kYj8tmsH4ZklYLoDWB7icZHDrbsIdyJrxmbnZLqEFGAyMw2puMEdfriRdHMDxqrpi7OtSmXZhw67E9n5lnJAsemkJPZ2FWvecu5YH2EcbfXuYpQ3_jDK83ggtyQRDVYN8Uvn26xfnIL2EW-D47Cr2bb-tbmP-2v5ON20LXsv4v3eFgCefkqf35XJA",
-          "full_url": "https://cdn4.telesco.pe/file/U5W2q5ZuFPnHwFuNvp4dfWic2zlaWFQoOOIDUMTbLudiBvyAUnhmmDEhIqTXqd0FoDgZgTo32DWSkTYMwHwvyjwF5RFcbzEID8HkBAtYbxsFzYeJcevrWRCE7dHIoupcZpeI_S3LQxURim95ec9f6kTEK4lg2kYj8tmsH4ZklYLoDWB7icZHDrbsIdyJrxmbnZLqEFGAyMw2puMEdfriRdHMDxqrpi7OtSmXZhw67E9n5lnJAsemkJPZ2FWvecu5YH2EcbfXuYpQ3_jDK83ggtyQRDVYN8Uvn26xfnIL2EW-D47Cr2bb-tbmP-2v5ON20LXsv4v3eFgCefkqf35XJA",
-          "thumbnail": null,
-          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55170_1.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55170_1.jpg",
-          "size_bytes": 8817
-        },
-        {
-          "type": "video",
-          "post_id": "supernova_plus/55170",
-          "url": "https://cdn4.telesco.pe/file/a01a87ea7f.mp4?token=EgWfucS-keDAx6-bHJiorSdJEERtE0NvH8UvR-flY3lg6sYHJWxHWDe9dop7qpYtmid4qljKS5K0P4ebNZCUPLz5EmELbD1HrstZHdO4735VX-VqVOiOoHqEX0yUYSHXfWKymG6dnQmkS5huFkqxdBdsdWIyt1mzYIrotee6c2kTdzCxob43mWE-ft54OGTyW_uY1CEHpKZ-bixu6yS00ykjGQI7rQvwBXEyrNc9v9XEjNXggWh4yJoeEITfzos9PDTUnJzfOr2FK7wB6qcp5wzh6MQ9_-AaGcOl3MXXEuBH6pK-WexNl343-7XwcgAAAQHquyqIOZNCsjJRHj9B0g",
-          "full_url": "https://cdn4.telesco.pe/file/a01a87ea7f.mp4?token=EgWfucS-keDAx6-bHJiorSdJEERtE0NvH8UvR-flY3lg6sYHJWxHWDe9dop7qpYtmid4qljKS5K0P4ebNZCUPLz5EmELbD1HrstZHdO4735VX-VqVOiOoHqEX0yUYSHXfWKymG6dnQmkS5huFkqxdBdsdWIyt1mzYIrotee6c2kTdzCxob43mWE-ft54OGTyW_uY1CEHpKZ-bixu6yS00ykjGQI7rQvwBXEyrNc9v9XEjNXggWh4yJoeEITfzos9PDTUnJzfOr2FK7wB6qcp5wzh6MQ9_-AaGcOl3MXXEuBH6pK-WexNl343-7XwcgAAAQHquyqIOZNCsjJRHj9B0g",
-          "thumbnail": null,
-          "local_path": "channels/supernova_plus/media/video/supernova_plus_55170_2.mp4",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/video/supernova_plus_55170_2.mp4",
-          "size_bytes": 7467822
-        },
-        {
-          "type": "photo",
-          "post_id": "supernova_plus/55170",
-          "url": "https://cdn4.telesco.pe/file/NETakkAxPnwjeMCoKzTRTof02YYZlIUV00BKTV44ND1aYsS2etJziE6uHVVyPACLi0fgrozblZRYHi1wKlSjG-_XHLRjOwJREqKaJSUlb-Phrod9A3dIr5A_N_cADlkt5RRJbWpXU7sYn0v2tirsw96-tjik6nT8ZnYDL3nzNknd6WWcUhqCKj1K-UXjpY0FKXtFZ52pNxdGrogT3f0ZOHoHurx_3gZCQdimHZkxcrJB_IRkXBEw-K5Qe5Js8c81A4ND9vTifDrMLx-1jMN2dje6QV-kGitdKcr2ekpKgnUi5VJWAHIKKlis6GJ18cjOw3Iobo92fzG8SHNAyljpUg.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/NETakkAxPnwjeMCoKzTRTof02YYZlIUV00BKTV44ND1aYsS2etJziE6uHVVyPACLi0fgrozblZRYHi1wKlSjG-_XHLRjOwJREqKaJSUlb-Phrod9A3dIr5A_N_cADlkt5RRJbWpXU7sYn0v2tirsw96-tjik6nT8ZnYDL3nzNknd6WWcUhqCKj1K-UXjpY0FKXtFZ52pNxdGrogT3f0ZOHoHurx_3gZCQdimHZkxcrJB_IRkXBEw-K5Qe5Js8c81A4ND9vTifDrMLx-1jMN2dje6QV-kGitdKcr2ekpKgnUi5VJWAHIKKlis6GJ18cjOw3Iobo92fzG8SHNAyljpUg.jpg",
-          "thumbnail": null,
-          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55170_3.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55170_3.jpg",
-          "size_bytes": 57471
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [],
-    "links": [],
-    "emoji": [
-      "😁",
-      "👍",
-      "🔥",
-      "🤣",
-      "👻",
-      "🤡",
-      "🤮",
-      "👎",
-      "🥴"
-    ],
-    "reactions": [],
-    "type": "text"
-  },
-  {
-    "index": 9,
-    "post_url": "https://t.me/supernova_plus/55168",
-    "post_id": "supernova_plus/55168",
-    "date": "2026-07-07T11:02:01+00:00",
-    "date_unix": 1783422121,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "Москва .. пво.. подготовка..",
-    "text_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">Москва .. пво.. подготовка..",
-    "is_edited": false,
-    "views": 75200,
-    "views_raw": "75.2K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "supernova_plus/55168",
-          "url": "https://cdn4.telesco.pe/file/rb4P7tly4cHrAL9y0zebCaOOsRKiNBnEkrD5ArflNE66csjkHkJRXTp2KY-LX9l-zf8iisnDXmQrtTGtl7NUQ9JDVovWeHsklqzlk_Zu7PSXYQfan5Fj9gU9Pq3OGLFGcrubEVVvHnVDuFQ0wiwal3jeWJbB8ernxeWhRo552TdUCBBX61hgR0nsaLyaikB_0K8QvPUqGd7Y4xurJ0UHq7Ho-S0otJxDySIrJst2fX0D17mBDI-B0y38ScMnXO5iAzFN2YtsGpn3P8d2P_zHohK2wSzRKaglDCNoTgngNU-Mxz3LD0b3jMRdN8t_JSiv32bHlPyVFvQZyHM5zTkVWA.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/rb4P7tly4cHrAL9y0zebCaOOsRKiNBnEkrD5ArflNE66csjkHkJRXTp2KY-LX9l-zf8iisnDXmQrtTGtl7NUQ9JDVovWeHsklqzlk_Zu7PSXYQfan5Fj9gU9Pq3OGLFGcrubEVVvHnVDuFQ0wiwal3jeWJbB8ernxeWhRo552TdUCBBX61hgR0nsaLyaikB_0K8QvPUqGd7Y4xurJ0UHq7Ho-S0otJxDySIrJst2fX0D17mBDI-B0y38ScMnXO5iAzFN2YtsGpn3P8d2P_zHohK2wSzRKaglDCNoTgngNU-Mxz3LD0b3jMRdN8t_JSiv32bHlPyVFvQZyHM5zTkVWA.jpg",
-          "thumbnail": null,
-          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55168_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55168_0.jpg",
-          "size_bytes": 13366
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [],
-    "links": [],
-    "emoji": [
-      "😁",
-      "👀",
-      "🤡",
-      "🤮",
-      "🔥",
-      "🤣",
-      "👍",
-      "👎",
-      "👻"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 10,
-    "post_url": "https://t.me/supernova_plus/55165",
-    "post_id": "supernova_plus/55165",
-    "date": "2026-07-07T10:04:07+00:00",
-    "date_unix": 1783418647,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "в Омске жизнь продолжается.. варианты ажиотажа.. пешком до лучших времен..",
-    "text_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\">в Омске жизнь продолжается.. варианты ажиотажа.. пешком до лучших времен..",
-    "is_edited": false,
-    "views": 75900,
-    "views_raw": "75.9K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "mixed",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "supernova_plus/55165",
-          "url": "https://cdn4.telesco.pe/file/rb4P7tly4cHrAL9y0zebCaOOsRKiNBnEkrD5ArflNE66csjkHkJRXTp2KY-LX9l-zf8iisnDXmQrtTGtl7NUQ9JDVovWeHsklqzlk_Zu7PSXYQfan5Fj9gU9Pq3OGLFGcrubEVVvHnVDuFQ0wiwal3jeWJbB8ernxeWhRo552TdUCBBX61hgR0nsaLyaikB_0K8QvPUqGd7Y4xurJ0UHq7Ho-S0otJxDySIrJst2fX0D17mBDI-B0y38ScMnXO5iAzFN2YtsGpn3P8d2P_zHohK2wSzRKaglDCNoTgngNU-Mxz3LD0b3jMRdN8t_JSiv32bHlPyVFvQZyHM5zTkVWA.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/rb4P7tly4cHrAL9y0zebCaOOsRKiNBnEkrD5ArflNE66csjkHkJRXTp2KY-LX9l-zf8iisnDXmQrtTGtl7NUQ9JDVovWeHsklqzlk_Zu7PSXYQfan5Fj9gU9Pq3OGLFGcrubEVVvHnVDuFQ0wiwal3jeWJbB8ernxeWhRo552TdUCBBX61hgR0nsaLyaikB_0K8QvPUqGd7Y4xurJ0UHq7Ho-S0otJxDySIrJst2fX0D17mBDI-B0y38ScMnXO5iAzFN2YtsGpn3P8d2P_zHohK2wSzRKaglDCNoTgngNU-Mxz3LD0b3jMRdN8t_JSiv32bHlPyVFvQZyHM5zTkVWA.jpg",
-          "thumbnail": null,
-          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55165_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55165_0.jpg",
-          "size_bytes": 13366
-        },
-        {
-          "type": "photo",
-          "post_id": "supernova_plus/55165",
-          "url": "https://cdn4.telesco.pe/file/IDhJCnELBjECB4vFpRnofVbGlEE3uBjHCIo6ZT9hrRfjx4sqqZRZWN7Ntw__aedkaHcy9dX-QRbpkbfZhCmg1r4_Z-DFqwPjsNaXjc1h58wwSZgQk61XLCJ6dPAXPglnFrlM_FqvuUDwbGoSggtzNLPACT7jBznF3RHUtb-bbgEHLb_ewZ5PI45AP9mBNXQk67sJnLwmBeHCJe20Mym3dUOwR3jQmj6oHROSMKB0xesKaOpIGIHn0vGqi6wdx3G9m7afpgGt6dg5YLP1hVtHCSo0l_mRJsWJddGQNSApfvBldDKp_s3s_Gou7346XBATDJsQtMSMPn-2Kw5ieyVY8A",
-          "full_url": "https://cdn4.telesco.pe/file/IDhJCnELBjECB4vFpRnofVbGlEE3uBjHCIo6ZT9hrRfjx4sqqZRZWN7Ntw__aedkaHcy9dX-QRbpkbfZhCmg1r4_Z-DFqwPjsNaXjc1h58wwSZgQk61XLCJ6dPAXPglnFrlM_FqvuUDwbGoSggtzNLPACT7jBznF3RHUtb-bbgEHLb_ewZ5PI45AP9mBNXQk67sJnLwmBeHCJe20Mym3dUOwR3jQmj6oHROSMKB0xesKaOpIGIHn0vGqi6wdx3G9m7afpgGt6dg5YLP1hVtHCSo0l_mRJsWJddGQNSApfvBldDKp_s3s_Gou7346XBATDJsQtMSMPn-2Kw5ieyVY8A",
-          "thumbnail": null,
-          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55165_1.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55165_1.jpg",
-          "size_bytes": 13077
-        },
-        {
-          "type": "video",
-          "post_id": "supernova_plus/55165",
-          "url": "https://cdn4.telesco.pe/file/375c85517e.mp4?token=DfoLEaZcEsyPvq4K7eJsk98EJTZ0BbyGNdmya0RXhzKBjHHuAfsrLl4wAnLcPYrFrPKZjqlc7GfJmIWsV-Ccxv-dzSfMeNVy4EZOuohHcnfgWndsUs-xaVajd-daAc4bUx94l6IXGxF88-_igB7iCEXbINoEVp7WSsIq6sDCFWUADVuLKV-vS1kFrRMz4WOhH9AWtKGDk6k6wY-nE4f-19rwaXcsVDfXnDE3QQ8eOdxponlt3mZaMasmzFgudfndT3i1-urPffddGXqxU4FUrbO2eUr_oas154J216yL4Lp0q8HqL09ewdpqNGqjbOE8rwx6tEe2eARAoSbTOvCQRQ",
-          "full_url": "https://cdn4.telesco.pe/file/375c85517e.mp4?token=DfoLEaZcEsyPvq4K7eJsk98EJTZ0BbyGNdmya0RXhzKBjHHuAfsrLl4wAnLcPYrFrPKZjqlc7GfJmIWsV-Ccxv-dzSfMeNVy4EZOuohHcnfgWndsUs-xaVajd-daAc4bUx94l6IXGxF88-_igB7iCEXbINoEVp7WSsIq6sDCFWUADVuLKV-vS1kFrRMz4WOhH9AWtKGDk6k6wY-nE4f-19rwaXcsVDfXnDE3QQ8eOdxponlt3mZaMasmzFgudfndT3i1-urPffddGXqxU4FUrbO2eUr_oas154J216yL4Lp0q8HqL09ewdpqNGqjbOE8rwx6tEe2eARAoSbTOvCQRQ",
-          "thumbnail": null,
-          "local_path": "channels/supernova_plus/media/video/supernova_plus_55165_2.mp4",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/video/supernova_plus_55165_2.mp4",
-          "size_bytes": 6142450
-        },
-        {
-          "type": "photo",
-          "post_id": "supernova_plus/55165",
-          "url": "https://cdn4.telesco.pe/file/E6ZGZ_5XpSNmOr3EvBXZE0cxZB84Hb24o2aRSGyKI8mi9KvhJ_-FI5NNCiV4JrHatJP9q1oi-GNyfpM6rjKB4f4cU5dxe_NP1lSREQqlrlYKSqOSzx1qVMSCoT9Yres30CYb5kmBdMEhMKORclGQQRj6fUMvzcLnxU-xfdbLqsO8vbPAy9sWhyLm7eqoLxtgwkIVmFMcTxQrAckPDU-grOrve1bmsXHK3h3F3WtT35r70_DCOHt9O6Re67JezAAUU2sBM-zxn4DGkYAJjciRBxBJ44N10YZ6Rj19cS1DPTy05errFCarZR_wyORjy9ZLDYvdzdMjUXSEf6CcUP3xxg",
-          "full_url": "https://cdn4.telesco.pe/file/E6ZGZ_5XpSNmOr3EvBXZE0cxZB84Hb24o2aRSGyKI8mi9KvhJ_-FI5NNCiV4JrHatJP9q1oi-GNyfpM6rjKB4f4cU5dxe_NP1lSREQqlrlYKSqOSzx1qVMSCoT9Yres30CYb5kmBdMEhMKORclGQQRj6fUMvzcLnxU-xfdbLqsO8vbPAy9sWhyLm7eqoLxtgwkIVmFMcTxQrAckPDU-grOrve1bmsXHK3h3F3WtT35r70_DCOHt9O6Re67JezAAUU2sBM-zxn4DGkYAJjciRBxBJ44N10YZ6Rj19cS1DPTy05errFCarZR_wyORjy9ZLDYvdzdMjUXSEf6CcUP3xxg",
-          "thumbnail": null,
-          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55165_3.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55165_3.jpg",
-          "size_bytes": 10278
-        },
-        {
-          "type": "video",
-          "post_id": "supernova_plus/55165",
-          "url": "https://cdn4.telesco.pe/file/50082651e6.mp4?token=REcjuyfM1GUaYOYoAyJW1hbsBFoYQ7vipptZg2WeVak88vlhBlLfUaylAmKWoTD0xeQU-FkoAs6ZCJqO5XWN34RqWvgWxuhapSH6pfYz3zX-8xSVveuxp8_z6QsisOplFX4MlaFYAZppooPnkTxJPVKFwJAyuqpxQy-Dcv5C7h36Ill7g2h2qmXquS2ZV4MhqYd6lZJ_CEIb4uA6tG5FTxk-V8Wu2AljZ0kpE5uvl-88jjjskZCWpUyfpMdHQ3iRoMQT2rnSvuP_BjRlCSzb4Gtrd_qG_4X3sE4jwkqygZUGSboIhXuyHnRyAoy_UlCQrrXYbxA-OVEmNVgoZd1iEXQYyFAdplMqFf4Ci3h_SrBZW3bIM2QQqPTFdc2RaGyTeGi3ieEK4plqWJIL8ovTfigwkQYTp1xygv1n6CzhIXqWkyf3RhtsXD1yAMfwzuWfRvVyAC8MlP1YRqY6DfuJnL-OGE8EirrNGEKePBeXl6DJi_cx14PJeqrxSciDXz0csRD0_lKs9gD7OzGeCApPr34T5AwE8LOLzuUHbLRBU0KbHLL3pB5gBmdnoe6C_RB0198U5KrUVJVNWQiXhVf741WemjTs9qnxVx2-Jl2jgAKzYBnX51fBUS7PSGQvlwS0xmVrRKqBxhanmS_xz3IYETlcTiE-89DzRTdCwkJSpSg",
-          "full_url": "https://cdn4.telesco.pe/file/50082651e6.mp4?token=REcjuyfM1GUaYOYoAyJW1hbsBFoYQ7vipptZg2WeVak88vlhBlLfUaylAmKWoTD0xeQU-FkoAs6ZCJqO5XWN34RqWvgWxuhapSH6pfYz3zX-8xSVveuxp8_z6QsisOplFX4MlaFYAZppooPnkTxJPVKFwJAyuqpxQy-Dcv5C7h36Ill7g2h2qmXquS2ZV4MhqYd6lZJ_CEIb4uA6tG5FTxk-V8Wu2AljZ0kpE5uvl-88jjjskZCWpUyfpMdHQ3iRoMQT2rnSvuP_BjRlCSzb4Gtrd_qG_4X3sE4jwkqygZUGSboIhXuyHnRyAoy_UlCQrrXYbxA-OVEmNVgoZd1iEXQYyFAdplMqFf4Ci3h_SrBZW3bIM2QQqPTFdc2RaGyTeGi3ieEK4plqWJIL8ovTfigwkQYTp1xygv1n6CzhIXqWkyf3RhtsXD1yAMfwzuWfRvVyAC8MlP1YRqY6DfuJnL-OGE8EirrNGEKePBeXl6DJi_cx14PJeqrxSciDXz0csRD0_lKs9gD7OzGeCApPr34T5AwE8LOLzuUHbLRBU0KbHLL3pB5gBmdnoe6C_RB0198U5KrUVJVNWQiXhVf741WemjTs9qnxVx2-Jl2jgAKzYBnX51fBUS7PSGQvlwS0xmVrRKqBxhanmS_xz3IYETlcTiE-89DzRTdCwkJSpSg",
-          "thumbnail": null,
-          "local_path": "channels/supernova_plus/media/video/supernova_plus_55165_4.mp4",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/video/supernova_plus_55165_4.mp4",
-          "size_bytes": 14798562
-        },
-        {
-          "type": "photo",
-          "post_id": "supernova_plus/55165",
-          "url": "https://cdn4.telesco.pe/file/pf7marnjilO4r-5rop9plt3yYPEo8hv8B7iDmLJqSsd8FX-hKKNpE8GGuJBkRNvl1AkgOWO_MqleGM6X5e3B_kOfrkjrOX_cMkpUBUyszCKUXpttFeTVYTlGaT6sens3zYqp7U0HA93goj_PReGuPykepVhWs9NmDSZ6WRWCin2mZtH27v3KgYE4JGZtfnySEmKw56x0FaF6p2wx2NUwoHTYEFI_WrkLiznl7FkG--JEabRpv1VNAJdKdYZyBawe_16w7gG76beDZ84lq3ToHdDJzJ2OK1DJxd6VrNhFS_DJKy9EbUjxdeccQTEk3XfiLLTRgavXYSBfGuJYj5MBPg",
-          "full_url": "https://cdn4.telesco.pe/file/pf7marnjilO4r-5rop9plt3yYPEo8hv8B7iDmLJqSsd8FX-hKKNpE8GGuJBkRNvl1AkgOWO_MqleGM6X5e3B_kOfrkjrOX_cMkpUBUyszCKUXpttFeTVYTlGaT6sens3zYqp7U0HA93goj_PReGuPykepVhWs9NmDSZ6WRWCin2mZtH27v3KgYE4JGZtfnySEmKw56x0FaF6p2wx2NUwoHTYEFI_WrkLiznl7FkG--JEabRpv1VNAJdKdYZyBawe_16w7gG76beDZ84lq3ToHdDJzJ2OK1DJxd6VrNhFS_DJKy9EbUjxdeccQTEk3XfiLLTRgavXYSBfGuJYj5MBPg",
-          "thumbnail": null,
-          "local_path": "channels/supernova_plus/media/photo/supernova_plus_55165_5.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/photo/supernova_plus_55165_5.jpg",
-          "size_bytes": 20347
-        },
-        {
-          "type": "video",
-          "post_id": "supernova_plus/55165",
-          "url": "https://cdn4.telesco.pe/file/85b7319b5d.mp4?token=rt4Vxyq9ILqIoFjou0xrGDW4ql130tRC-rP37kgD9tQHgB0JviZPiyGjCQwQdlYKZLQoU9qlghaz7wJU9AcbD-bAWDP6SyeiTMbQ4ln7WniT9geUoUeQo1DoUnazgTCy9wDuXUMbgbhUML44eNV1KFX5t8u0EmphH6ZJi4TAvAbIx_cl_pigMyvolO1lI3BCTftHv77W-3ipsDmn4l4i5diG4_nz6uKYA6Qjfn5FN7iFRewlxBxX8CAMxYgA8PnUOP1rYSlD-PInvTwAXQTKIZzE6mk_h-f0JXSDTEaAP_NpLW4RJWGKCiD72CW4ITbkdsg6N38SLSPyares0s5lFlaK7Dg85erh8fKRC3qV3fpKTvQ5Le2hE9H_XyN_oipTaYoSse8uDkYdbm0M7Bhq7zFKM0hibNC_d9zv1o2Xbtm_d63ZnkL8X2MQGt9aoE6iijc71xdw7ZniwXEd-DQsKUQzyPn68veGcsjD1lIWCfHjDqI9-qoFjCNyORFG92r4pxZBatgK15L2Vk28El-YLmcA4ESu3L3tccxZZZ2ZUvTeBcSf7yVxMc5goPJhEmuBWSl8urYAm4WqOxcuDlLI-uqVHbh1LJaA7c7aAPznV9LlrjnFC80JzlsXe7MMbQf2yyafo3z4WncIw2-U5hTSX4Nq-TNWH0JA2OYqlziv-dU",
-          "full_url": "https://cdn4.telesco.pe/file/85b7319b5d.mp4?token=rt4Vxyq9ILqIoFjou0xrGDW4ql130tRC-rP37kgD9tQHgB0JviZPiyGjCQwQdlYKZLQoU9qlghaz7wJU9AcbD-bAWDP6SyeiTMbQ4ln7WniT9geUoUeQo1DoUnazgTCy9wDuXUMbgbhUML44eNV1KFX5t8u0EmphH6ZJi4TAvAbIx_cl_pigMyvolO1lI3BCTftHv77W-3ipsDmn4l4i5diG4_nz6uKYA6Qjfn5FN7iFRewlxBxX8CAMxYgA8PnUOP1rYSlD-PInvTwAXQTKIZzE6mk_h-f0JXSDTEaAP_NpLW4RJWGKCiD72CW4ITbkdsg6N38SLSPyares0s5lFlaK7Dg85erh8fKRC3qV3fpKTvQ5Le2hE9H_XyN_oipTaYoSse8uDkYdbm0M7Bhq7zFKM0hibNC_d9zv1o2Xbtm_d63ZnkL8X2MQGt9aoE6iijc71xdw7ZniwXEd-DQsKUQzyPn68veGcsjD1lIWCfHjDqI9-qoFjCNyORFG92r4pxZBatgK15L2Vk28El-YLmcA4ESu3L3tccxZZZ2ZUvTeBcSf7yVxMc5goPJhEmuBWSl8urYAm4WqOxcuDlLI-uqVHbh1LJaA7c7aAPznV9LlrjnFC80JzlsXe7MMbQf2yyafo3z4WncIw2-U5hTSX4Nq-TNWH0JA2OYqlziv-dU",
-          "thumbnail": null,
-          "local_path": "channels/supernova_plus/media/video/supernova_plus_55165_6.mp4",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/supernova_plus/media/video/supernova_plus_55165_6.mp4",
-          "size_bytes": 11244558
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [],
-    "links": [],
-    "emoji": [
-      "🔥",
-      "😁",
-      "🤣",
-      "👍",
-      "🥰",
-      "💊",
-      "🤮",
-      "🤬",
-      "‍",
-      "😭"
-    ],
-    "reactions": [],
-    "type": "text"
   }
 ]
