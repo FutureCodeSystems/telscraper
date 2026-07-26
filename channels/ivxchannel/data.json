@@ -1,6 +1,589 @@
 [
   {
     "index": 1,
+    "post_url": "https://t.me/IVXChannel/26830",
+    "post_id": "IVXChannel/26830",
+    "date": "2026-07-26T21:44:17+00:00",
+    "date_unix": 1785102257,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": null,
+    "text_html": null,
+    "is_edited": false,
+    "views": 1650,
+    "views_raw": "1.65K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "mixed",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "IVXChannel/26830",
+          "url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26830_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26830_0.jpg",
+          "size_bytes": 7235
+        },
+        {
+          "type": "photo",
+          "post_id": "IVXChannel/26830",
+          "url": "https://cdn4.telesco.pe/file/KdHADRJrAbTsv-Nh38kU42TfYVwLp5a1jDDRYYvlFtZ4SnBzdmLWAP4E0USIDLdtdHgjtsXVerCpgxHTpc6URWrvNvEi5oXEnkIGmRt-ddfgiuvFwcCbGPHF8_yPpaF7JwCg7VhQvDn1SYE9egtCeZtqS9rX0EYgE2NwiOstiDUEVTPdDGFpCJuJX82fnLbLYaNtms-zlDY7Puk23KFKOOedqHXm5OYP8TkWKPLExgkBVvvH1-N4CutcnUM5oWn9sM9GG2PEQeI2ZPOPPmjdKaE1pr2lv-rZfg9YfbBQKAQIHw2BpxeltBcYe0m1xyzow3Vl7OCqEkERLrLcn4kZMA",
+          "full_url": "https://cdn4.telesco.pe/file/KdHADRJrAbTsv-Nh38kU42TfYVwLp5a1jDDRYYvlFtZ4SnBzdmLWAP4E0USIDLdtdHgjtsXVerCpgxHTpc6URWrvNvEi5oXEnkIGmRt-ddfgiuvFwcCbGPHF8_yPpaF7JwCg7VhQvDn1SYE9egtCeZtqS9rX0EYgE2NwiOstiDUEVTPdDGFpCJuJX82fnLbLYaNtms-zlDY7Puk23KFKOOedqHXm5OYP8TkWKPLExgkBVvvH1-N4CutcnUM5oWn9sM9GG2PEQeI2ZPOPPmjdKaE1pr2lv-rZfg9YfbBQKAQIHw2BpxeltBcYe0m1xyzow3Vl7OCqEkERLrLcn4kZMA",
+          "thumbnail": null,
+          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26830_1.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26830_1.jpg",
+          "size_bytes": 13825
+        },
+        {
+          "type": "video",
+          "post_id": "IVXChannel/26830",
+          "url": "https://cdn4.telesco.pe/file/17a63606e8.mp4?token=H-jdFllgvBItkx-J0w-U1LAE0fPXFoJ2Hs9JO-B5H0fD3HcKzX8nXoI5R2F7f1H2jNhBCR855sIxlqcgVk6P01ObVKzUXzi6F-eQ7MR3_PpNQB0PdfLlhS5cx07udLbmRACZJUXEhdI0dWKRVdiWlna4V33XNzU-OL8v5m8XZlehOcHxVClUGfOxV9qo1T6jCSv78zhUt1bEuOGmkFkavQbwEy3267I7WTAMM9KXfcYBtByGk0wRxsVv3co6mHxnP4T42V1vb6yRq3aN2LrEw03ScBrVb7z0poKn_cM2YJSGQ9HGJjFgj6P9enp6j13zp-wN4iqLPSpbym3OLb8fwA",
+          "full_url": "https://cdn4.telesco.pe/file/17a63606e8.mp4?token=H-jdFllgvBItkx-J0w-U1LAE0fPXFoJ2Hs9JO-B5H0fD3HcKzX8nXoI5R2F7f1H2jNhBCR855sIxlqcgVk6P01ObVKzUXzi6F-eQ7MR3_PpNQB0PdfLlhS5cx07udLbmRACZJUXEhdI0dWKRVdiWlna4V33XNzU-OL8v5m8XZlehOcHxVClUGfOxV9qo1T6jCSv78zhUt1bEuOGmkFkavQbwEy3267I7WTAMM9KXfcYBtByGk0wRxsVv3co6mHxnP4T42V1vb6yRq3aN2LrEw03ScBrVb7z0poKn_cM2YJSGQ9HGJjFgj6P9enp6j13zp-wN4iqLPSpbym3OLb8fwA",
+          "thumbnail": null,
+          "local_path": "channels/ivxchannel/media/video/IVXChannel_26830_2.mp4",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/video/IVXChannel_26830_2.mp4",
+          "size_bytes": 2530068
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "🤣",
+      "👍",
+      "🔥"
+    ],
+    "reactions": [],
+    "type": "media_only"
+  },
+  {
+    "index": 2,
+    "post_url": "https://t.me/IVXChannel/26829",
+    "post_id": "IVXChannel/26829",
+    "date": "2026-07-26T21:08:01+00:00",
+    "date_unix": 1785100081,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "خوب بودن ذاتیه که تظاهرش به هرکس نمیاد.",
+    "text_html": "<b>خوب بودن ذاتیه که تظاهرش به هرکس نمیاد.</b>",
+    "is_edited": false,
+    "views": 1900,
+    "views_raw": "1.9K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "IVXChannel/26829",
+          "url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26829_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26829_0.jpg",
+          "size_bytes": 7235
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "🔥"
+    ],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 3,
+    "post_url": "https://t.me/IVXChannel/26828",
+    "post_id": "IVXChannel/26828",
+    "date": "2026-07-26T21:06:11+00:00",
+    "date_unix": 1785099971,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "بوبولم درد میکنه",
+    "text_html": "بوبولم درد میکنه",
+    "is_edited": false,
+    "views": 2090,
+    "views_raw": "2.09K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "IVXChannel/26828",
+          "url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26828_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26828_0.jpg",
+          "size_bytes": 7235
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "🤣",
+      "👍",
+      "💔",
+      "‍",
+      "🔥"
+    ],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 4,
+    "post_url": "https://t.me/IVXChannel/26827",
+    "post_id": "IVXChannel/26827",
+    "date": "2026-07-26T21:05:01+00:00",
+    "date_unix": 1785099901,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "فری استایل جدید سیا تو چنل تلگرامش‌\n#Cia \n\n@IVXChannel",
+    "text_html": "فری استایل جدید سیا تو چنل تلگرامش‌<br/><a href=\"?q=%23Cia\">#Cia</a> <br/><br/><a href=\"https://t.me/IVXChannel\" target=\"_blank\">@IVXChannel</a>",
+    "is_edited": false,
+    "views": 2100,
+    "views_raw": "2.1K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "album",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "IVXChannel/26827",
+          "url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26827_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26827_0.jpg",
+          "size_bytes": 7235
+        },
+        {
+          "type": "photo",
+          "post_id": "IVXChannel/26827",
+          "url": "https://cdn4.telesco.pe/file/C23mqUKHT4is2lhHSMDbyTcU2WY-iv4M-0dXKyU5lxwqG2zkyG6d8BqYCoIhNkwEpdssZt__InVIA9-WPeqZWw3DVPQpS4CEirr-f4L8ZMhcoN4a9FaOSRIC0hTr8K1_RwN8YOFuPPJTUhBdzOSPwWiKiPN26O-bmLM9qktvjjAY9-XWXNTta_FgebHXSmS-alKyjERBiwBo8S-GU5Dy9M5QKI8BI1XeXFjy7gMMvjMZ2K-JQIuq6M1UAIFEF9ypEyEzNRg736lPzaB4qfFFZ5IaV8q0LLQ-1zFhESFMp_6II3sTMZef98qeG_WDA_0_3QrlXUUSbWwsYISSw1ZAxw",
+          "full_url": "https://cdn4.telesco.pe/file/C23mqUKHT4is2lhHSMDbyTcU2WY-iv4M-0dXKyU5lxwqG2zkyG6d8BqYCoIhNkwEpdssZt__InVIA9-WPeqZWw3DVPQpS4CEirr-f4L8ZMhcoN4a9FaOSRIC0hTr8K1_RwN8YOFuPPJTUhBdzOSPwWiKiPN26O-bmLM9qktvjjAY9-XWXNTta_FgebHXSmS-alKyjERBiwBo8S-GU5Dy9M5QKI8BI1XeXFjy7gMMvjMZ2K-JQIuq6M1UAIFEF9ypEyEzNRg736lPzaB4qfFFZ5IaV8q0LLQ-1zFhESFMp_6II3sTMZef98qeG_WDA_0_3QrlXUUSbWwsYISSw1ZAxw",
+          "thumbnail": null,
+          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26827_1.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26827_1.jpg",
+          "size_bytes": 7031
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec",
+      "Cia"
+    ],
+    "mentions": [
+      "IVXChannel"
+    ],
+    "links": [],
+    "emoji": [
+      "🤣"
+    ],
+    "reactions": [],
+    "type": "album"
+  },
+  {
+    "index": 5,
+    "post_url": "https://t.me/IVXChannel/26826",
+    "post_id": "IVXChannel/26826",
+    "date": "2026-07-26T20:52:27+00:00",
+    "date_unix": 1785099147,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "اینترنت آزاد ، حق همه‌ی ماست 🌟\nt.me/JynMarket 🌐",
+    "text_html": "اینترنت آزاد ، حق همه‌ی ماست <tg-emoji emoji-id=\"5863759750755262574\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C9F.png')\"><b>🌟</b></i></tg-emoji><br/><a href=\"http://t.me/JynMarket\" target=\"_blank\" rel=\"noopener\">t.me/JynMarket</a> <tg-emoji emoji-id=\"5863813364832017957\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')\"><b>🌐</b></i></tg-emoji>",
+    "is_edited": false,
+    "views": 1990,
+    "views_raw": "1.99K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "IVXChannel/26826",
+          "url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26826_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26826_0.jpg",
+          "size_bytes": 7235
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [
+      "JynMarket"
+    ],
+    "links": [],
+    "emoji": [
+      "🔥",
+      "🌟",
+      "🌐",
+      "🖕"
+    ],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 6,
+    "post_url": "https://t.me/IVXChannel/26825",
+    "post_id": "IVXChannel/26825",
+    "date": "2026-07-26T20:44:42+00:00",
+    "date_unix": 1785098682,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "واقعا ناراحتم کاش حداقل یه پلنی برای این تاریخ داشتم\n\n@ivxchannel",
+    "text_html": "واقعا ناراحتم کاش حداقل یه پلنی برای این تاریخ داشتم<br/><br/><a href=\"https://t.me/ivxchannel\" target=\"_blank\">@ivxchannel</a>",
+    "is_edited": false,
+    "views": 2180,
+    "views_raw": "2.18K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "IVXChannel/26825",
+          "url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26825_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26825_0.jpg",
+          "size_bytes": 7235
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [
+      "ivxchannel"
+    ],
+    "links": [],
+    "emoji": [
+      "👍",
+      "💔",
+      "🖕"
+    ],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 7,
+    "post_url": "https://t.me/IVXChannel/26824",
+    "post_id": "IVXChannel/26824",
+    "date": "2026-07-26T19:53:58+00:00",
+    "date_unix": 1785095638,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "ترامپ کصخل کرده\nوسط اخبار مذاکرات نوشته حمله به خارک \n\n@ivxchannel ✔️",
+    "text_html": "<b>ترامپ کصخل کرده<br/>وسط اخبار مذاکرات نوشته حمله به خارک </b><br/><br/><a href=\"https://t.me/ivxchannel\" target=\"_blank\">@ivxchannel</a> <tg-emoji emoji-id=\"6255963511252322252\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C94.png')\"><b>✔️</b></i></tg-emoji>",
+    "is_edited": false,
+    "views": 2990,
+    "views_raw": "2.99K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "album",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "IVXChannel/26824",
+          "url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26824_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26824_0.jpg",
+          "size_bytes": 7235
+        },
+        {
+          "type": "photo",
+          "post_id": "IVXChannel/26824",
+          "url": "https://cdn4.telesco.pe/file/oX1h_yOooitsB57MhsIOyrp006Ny5DFvoGCbl2j64dSeanpdOGSS_bhbbHAdLeQBhvlh1-N10D3lYr6_FaGU-yX4SfIeY8lHtcrWjBpxUbw9V4974cSCfCbnsEZXi8pc-8TXNqdpom4FwSdOVUAxBUJ5vtUEOI8mnfaDz8yRLCz2ElmdDopAtmLJLT5YgFQqnrkQa-3bZOE8QlwZLLT7P2sGiAmIZsZcXZ-e58-TWQ17s97fIEt1N6BLptT_ernkEkFoxK-Ksfc62S1f913UTqF3aNOsUL3YkS1yFt7orVWohf0TGuNRsq-onVg38raYChNILdkzLGhDXRVQzkSQwg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/oX1h_yOooitsB57MhsIOyrp006Ny5DFvoGCbl2j64dSeanpdOGSS_bhbbHAdLeQBhvlh1-N10D3lYr6_FaGU-yX4SfIeY8lHtcrWjBpxUbw9V4974cSCfCbnsEZXi8pc-8TXNqdpom4FwSdOVUAxBUJ5vtUEOI8mnfaDz8yRLCz2ElmdDopAtmLJLT5YgFQqnrkQa-3bZOE8QlwZLLT7P2sGiAmIZsZcXZ-e58-TWQ17s97fIEt1N6BLptT_ernkEkFoxK-Ksfc62S1f913UTqF3aNOsUL3YkS1yFt7orVWohf0TGuNRsq-onVg38raYChNILdkzLGhDXRVQzkSQwg.jpg",
+          "thumbnail": null,
+          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26824_1.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26824_1.jpg",
+          "size_bytes": 92293
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [
+      "ivxchannel"
+    ],
+    "links": [],
+    "emoji": [
+      "️",
+      "🤣",
+      "🖕",
+      "‍",
+      "🔥",
+      "😐"
+    ],
+    "reactions": [],
+    "type": "album"
+  },
+  {
+    "index": 8,
+    "post_url": "https://t.me/IVXChannel/26823",
+    "post_id": "IVXChannel/26823",
+    "date": "2026-07-26T19:34:31+00:00",
+    "date_unix": 1785094471,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "بزودی یوتوب برنامه داریم ، حتی نمیتونید فکرشو کنید چقدر عجیبه",
+    "text_html": "بزودی یوتوب برنامه داریم ، حتی نمیتونید فکرشو کنید چقدر عجیبه",
+    "is_edited": false,
+    "views": 2580,
+    "views_raw": "2.58K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "IVXChannel/26823",
+          "url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26823_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26823_0.jpg",
+          "size_bytes": 7235
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 9,
     "post_url": "https://t.me/IVXChannel/26822",
     "post_id": "IVXChannel/26822",
     "date": "2026-07-26T19:28:45+00:00",
@@ -12,8 +595,8 @@
     "text": "نت شما هم در تخمی ترین وضعیته و هیچیو نمیاره؟\n\n@IVXChannel",
     "text_html": "نت شما هم در تخمی ترین وضعیته و هیچیو نمیاره؟<br/><br/><a href=\"https://t.me/IVXChannel\" target=\"_blank\">@IVXChannel</a>",
     "is_edited": false,
-    "views": 799,
-    "views_raw": "799",
+    "views": 2670,
+    "views_raw": "2.67K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -69,7 +652,7 @@
     "type": "photo"
   },
   {
-    "index": 2,
+    "index": 10,
     "post_url": "https://t.me/IVXChannel/26821",
     "post_id": "IVXChannel/26821",
     "date": "2026-07-26T19:02:14+00:00",
@@ -81,8 +664,8 @@
     "text": "اینترنت آزاد ، حق همه‌ی ماست 🌟\nt.me/JynMarket 🌐",
     "text_html": "اینترنت آزاد ، حق همه‌ی ماست <tg-emoji emoji-id=\"5863759750755262574\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C9F.png')\"><b>🌟</b></i></tg-emoji><br/><a href=\"http://t.me/JynMarket\" target=\"_blank\" rel=\"noopener\">t.me/JynMarket</a> <tg-emoji emoji-id=\"5863813364832017957\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')\"><b>🌐</b></i></tg-emoji>",
     "is_edited": false,
-    "views": 1050,
-    "views_raw": "1.05K",
+    "views": 2680,
+    "views_raw": "2.68K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -138,7 +721,7 @@
     "type": "photo"
   },
   {
-    "index": 3,
+    "index": 11,
     "post_url": "https://t.me/IVXChannel/26820",
     "post_id": "IVXChannel/26820",
     "date": "2026-07-26T18:55:27+00:00",
@@ -150,8 +733,8 @@
     "text": "احتمالا چیفپی اخر هفته ترک میده\n#Chifpi\n\n@IVXChannel",
     "text_html": "احتمالا چیفپی اخر هفته ترک میده<br/><a href=\"?q=%23Chifpi\">#Chifpi</a><br/><br/><a href=\"https://t.me/IVXChannel\" target=\"_blank\">@IVXChannel</a>",
     "is_edited": false,
-    "views": 1260,
-    "views_raw": "1.26K",
+    "views": 2790,
+    "views_raw": "2.79K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -217,7 +800,7 @@
     "type": "album"
   },
   {
-    "index": 4,
+    "index": 12,
     "post_url": "https://t.me/IVXChannel/26819",
     "post_id": "IVXChannel/26819",
     "date": "2026-07-26T18:52:37+00:00",
@@ -229,8 +812,8 @@
     "text": "فردا هر کاری میخوایید بکنید بکنید وارد رابطه شید\nازدواج کنید\nکات کنید\nزایمان کنید \nهر کاری کنید باکلاسه 05/05/05\n\n@IVXChannel",
     "text_html": "فردا هر کاری میخوایید بکنید بکنید وارد رابطه شید<br/>ازدواج کنید<br/>کات کنید<br/>زایمان کنید <br/>هر کاری کنید باکلاسه 05/05/05<br/><br/><a href=\"https://t.me/IVXChannel\" target=\"_blank\">@IVXChannel</a>",
     "is_edited": false,
-    "views": 1380,
-    "views_raw": "1.38K",
+    "views": 2500,
+    "views_raw": "2.5K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -285,7 +868,7 @@
     "type": "photo"
   },
   {
-    "index": 5,
+    "index": 13,
     "post_url": "https://t.me/IVXChannel/26818",
     "post_id": "IVXChannel/26818",
     "date": "2026-07-26T18:03:01+00:00",
@@ -297,8 +880,8 @@
     "text": "پشت صحنه ی موزیک ویدیوی آدرویت و سیا که تو آینده میاد\n#Pouriya_Adroit & #Cia\n\n@IVXChannel",
     "text_html": "پشت صحنه ی موزیک ویدیوی آدرویت و سیا که تو آینده میاد<br/><a href=\"?q=%23Pouriya_Adroit\">#Pouriya_Adroit</a> &amp; <a href=\"?q=%23Cia\">#Cia</a><br/><br/><a href=\"https://t.me/IVXChannel\" target=\"_blank\">@IVXChannel</a>",
     "is_edited": false,
-    "views": 1700,
-    "views_raw": "1.7K",
+    "views": 2650,
+    "views_raw": "2.65K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -372,7 +955,7 @@
     "type": "text"
   },
   {
-    "index": 6,
+    "index": 14,
     "post_url": "https://t.me/IVXChannel/26817",
     "post_id": "IVXChannel/26817",
     "date": "2026-07-26T17:43:31+00:00",
@@ -384,8 +967,8 @@
     "text": "حزب‌الله لبنان هم 12 خط پیام به خامنه ای داده که خودمم نخوندمش",
     "text_html": "حزب‌الله لبنان هم 12 خط پیام به خامنه ای داده که خودمم نخوندمش",
     "is_edited": false,
-    "views": 2020,
-    "views_raw": "2.02K",
+    "views": 2830,
+    "views_raw": "2.83K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -437,7 +1020,7 @@
     "type": "photo"
   },
   {
-    "index": 7,
+    "index": 15,
     "post_url": "https://t.me/IVXChannel/26816",
     "post_id": "IVXChannel/26816",
     "date": "2026-07-26T17:41:02+00:00",
@@ -449,8 +1032,8 @@
     "text": "بارون توی پاکستان ۹۷ کشته و ۲۹۷ مصدوم داشته😂\n\n@IVXChannel",
     "text_html": "<b>بارون توی پاکستان ۹۷ کشته و ۲۹۷ مصدوم داشته</b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><br/><br/><a href=\"https://t.me/IVXChannel\" target=\"_blank\">@IVXChannel</a>",
     "is_edited": false,
-    "views": 2060,
-    "views_raw": "2.06K",
+    "views": 2830,
+    "views_raw": "2.83K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -507,7 +1090,7 @@
     "type": "photo"
   },
   {
-    "index": 8,
+    "index": 16,
     "post_url": "https://t.me/IVXChannel/26815",
     "post_id": "IVXChannel/26815",
     "date": "2026-07-26T17:16:59+00:00",
@@ -519,8 +1102,8 @@
     "text": "اینترنت آزاد ، حق همه‌ی ماست 🌟\nt.me/JynMarket 🌐",
     "text_html": "اینترنت آزاد ، حق همه‌ی ماست <tg-emoji emoji-id=\"5863759750755262574\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C9F.png')\"><b>🌟</b></i></tg-emoji><br/><a href=\"http://t.me/JynMarket\" target=\"_blank\" rel=\"noopener\">t.me/JynMarket</a> <tg-emoji emoji-id=\"5863813364832017957\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')\"><b>🌐</b></i></tg-emoji>",
     "is_edited": false,
-    "views": 2080,
-    "views_raw": "2.08K",
+    "views": 2810,
+    "views_raw": "2.81K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -576,7 +1159,7 @@
     "type": "photo"
   },
   {
-    "index": 9,
+    "index": 17,
     "post_url": "https://t.me/IVXChannel/26814",
     "post_id": "IVXChannel/26814",
     "date": "2026-07-26T16:47:07+00:00",
@@ -588,8 +1171,8 @@
     "text": "حالا چیکار کنیم:))))))))\n\n@IVXChannel",
     "text_html": "حالا چیکار کنیم:))))))))<br/><br/><a href=\"https://t.me/IVXChannel\" target=\"_blank\">@IVXChannel</a>",
     "is_edited": false,
-    "views": 2320,
-    "views_raw": "2.32K",
+    "views": 2950,
+    "views_raw": "2.95K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -655,7 +1238,7 @@
     "type": "album"
   },
   {
-    "index": 10,
+    "index": 18,
     "post_url": "https://t.me/IVXChannel/26812",
     "post_id": "IVXChannel/26812",
     "date": "2026-07-26T16:37:18+00:00",
@@ -667,8 +1250,8 @@
     "text": "سیستم آموزشی مارکت کیلر ☄️\nیکبار برای همیشه صفر تا صد ترید رو  رایگان یاد بگیر دلاری پول در بیار ریالی خرج کن😉\n\nاطلاعات بیشتر چنل تیگنال👇\n@Tignal",
     "text_html": "<b>سیستم آموزشی مارکت کیلر </b><b><tg-emoji emoji-id=\"5224607267797606837\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29884.png')\"><b>☄️</b></i></tg-emoji></b><b><br/>یکبار برای همیشه صفر تا صد ترید رو  رایگان یاد بگیر دلاری پول در بیار ریالی خرج کن</b><b><tg-emoji emoji-id=\"5415601079016497686\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9889.png')\"><b>😉</b></i></tg-emoji></b><b><br/><br/>اطلاعات بیشتر چنل تیگنال</b><b><tg-emoji emoji-id=\"4956652581846778699\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9187.png')\"><b>👇</b></i></tg-emoji></b><br/><a href=\"https://t.me/Tignal\" target=\"_blank\">@Tignal</a>",
     "is_edited": false,
-    "views": 2270,
-    "views_raw": "2.27K",
+    "views": 2780,
+    "views_raw": "2.78K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -729,7 +1312,7 @@
     "type": "photo"
   },
   {
-    "index": 11,
+    "index": 19,
     "post_url": "https://t.me/IVXChannel/26811",
     "post_id": "IVXChannel/26811",
     "date": "2026-07-26T16:37:12+00:00",
@@ -741,8 +1324,8 @@
     "text": "وکیل پژمان جمشیدی:\n\n‼️ موکلم از اتهام تجاوز به عنف به طور کامل تبرئه شد \n\n تنها حکم باقی‌مانده برای پژمان جمشیدی، محکومیت به ۹۰ ضربه شلاق تعزیری است که این حکم نیز در نوبت اجرا قرار دارد\n\n@IVXChannel",
     "text_html": "<b>وکیل پژمان جمشیدی:<br/><br/></b><b><tg-emoji emoji-id=\"5440660757194744323\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i></tg-emoji></b><b> موکلم از اتهام تجاوز به عنف به طور کامل تبرئه شد <br/><br/> تنها حکم باقی‌مانده برای پژمان جمشیدی، محکومیت به ۹۰ ضربه شلاق تعزیری است که این حکم نیز در نوبت اجرا قرار دارد</b><br/><br/><a href=\"https://t.me/IVXChannel\" target=\"_blank\">@IVXChannel</a>",
     "is_edited": false,
-    "views": 2350,
-    "views_raw": "2.35K",
+    "views": 2900,
+    "views_raw": "2.9K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -798,609 +1381,5 @@
     ],
     "reactions": [],
     "type": "photo"
-  },
-  {
-    "index": 12,
-    "post_url": "https://t.me/IVXChannel/26810",
-    "post_id": "IVXChannel/26810",
-    "date": "2026-07-26T15:58:45+00:00",
-    "date_unix": 1785081525,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "عراقچی:\n\nزلنسکی به یک کشتی تجاری ایرانی حمله کرده و یک ملوان را کشته است. این اقدامی است که به‌وضوح منشور سازمان ملل را نقض می‌کند و به تحریک اسرائیل انجام شده تا اروپا را به جنگ آن بکشاند.\n\n《در تماس‌هایی با کایا کالاس، مسئول عالی سیاست خارجی اتحادیه اروپا، و سرگئی لاوروف، وزیر امور خارجه روسیه، تأکید کردم که اقدام این فرصت طلبِ مستقر در کی‌یف نمی‌تواند بی‌پاسخ بماند.》\n\n@IVXChannel",
-    "text_html": "<b>عراقچی:<br/><br/>زلنسکی به یک کشتی تجاری ایرانی حمله کرده و یک ملوان را کشته است. این اقدامی است که به‌وضوح منشور سازمان ملل را نقض می‌کند و به تحریک اسرائیل انجام شده تا اروپا را به جنگ آن بکشاند.<br/><br/>《در تماس‌هایی با کایا کالاس، مسئول عالی سیاست خارجی اتحادیه اروپا، و سرگئی لاوروف، وزیر امور خارجه روسیه، تأکید کردم که اقدام این فرصت طلبِ مستقر در کی‌یف نمی‌تواند بی‌پاسخ بماند.</b>》<br/><br/><a href=\"https://t.me/IVXChannel\" target=\"_blank\">@IVXChannel</a>",
-    "is_edited": false,
-    "views": 2510,
-    "views_raw": "2.51K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "IVXChannel/26810",
-          "url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26810_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26810_0.jpg",
-          "size_bytes": 7235
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [
-      "IVXChannel"
-    ],
-    "links": [],
-    "emoji": [
-      "‍",
-      "🔥",
-      "🤣",
-      "🖕"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 13,
-    "post_url": "https://t.me/IVXChannel/26809",
-    "post_id": "IVXChannel/26809",
-    "date": "2026-07-26T15:15:46+00:00",
-    "date_unix": 1785078946,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "فکر کن این عکس رو ببینی باز تابستون فن باشی\n\n@IVXChannel",
-    "text_html": "فکر کن این عکس رو ببینی باز تابستون فن باشی<br/><br/><a href=\"https://t.me/IVXChannel\" target=\"_blank\">@IVXChannel</a>",
-    "is_edited": false,
-    "views": 2680,
-    "views_raw": "2.68K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "album",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "IVXChannel/26809",
-          "url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26809_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26809_0.jpg",
-          "size_bytes": 7235
-        },
-        {
-          "type": "photo",
-          "post_id": "IVXChannel/26809",
-          "url": "https://cdn4.telesco.pe/file/nBPuqoA4Tq9CAUgB7ocBRqEDJAcYPmEYYKYESgFrIv13jrgIqI8TvKSxAX5vUwbqxaoONrIoagi412V4uyK5CIe68NgoIY1ODzhKC__quASoaef88dpWNJhjHSJG03DdQgZ0U9hZRcXRLNpdVAw70oCVF3enKIoE1vATQn475KIcElT3ymroOoDG60wZh2feSIGFTIAa9c2X0NQFBhRJWPXQNzA5k7Ta715wpM4jvhjOWk_wAh_6USRa95IE0HFVHxS7lDm10W52vS-kGa9o6Klbjy2Odfkk70K1D2kC-CpE-yPoPa4xAzX3R-j2N72molCN2UpDijlwODXzoevoCQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/nBPuqoA4Tq9CAUgB7ocBRqEDJAcYPmEYYKYESgFrIv13jrgIqI8TvKSxAX5vUwbqxaoONrIoagi412V4uyK5CIe68NgoIY1ODzhKC__quASoaef88dpWNJhjHSJG03DdQgZ0U9hZRcXRLNpdVAw70oCVF3enKIoE1vATQn475KIcElT3ymroOoDG60wZh2feSIGFTIAa9c2X0NQFBhRJWPXQNzA5k7Ta715wpM4jvhjOWk_wAh_6USRa95IE0HFVHxS7lDm10W52vS-kGa9o6Klbjy2Odfkk70K1D2kC-CpE-yPoPa4xAzX3R-j2N72molCN2UpDijlwODXzoevoCQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26809_1.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26809_1.jpg",
-          "size_bytes": 47645
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [
-      "IVXChannel"
-    ],
-    "links": [],
-    "emoji": [
-      "👍",
-      "‍",
-      "🔥",
-      "🤣",
-      "🖕",
-      "💔"
-    ],
-    "reactions": [],
-    "type": "album"
-  },
-  {
-    "index": 14,
-    "post_url": "https://t.me/IVXChannel/26808",
-    "post_id": "IVXChannel/26808",
-    "date": "2026-07-26T14:47:43+00:00",
-    "date_unix": 1785077263,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "‼️العربیه:\n\nایران به پاکستان گفته خبری از یک مسیر جدید در تنگه هرمز نیست\n@ivxchannel ✔️",
-    "text_html": "<tg-emoji emoji-id=\"5440660757194744323\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i></tg-emoji><b>العربیه:<br/><br/>ایران به پاکستان گفته خبری از یک مسیر جدید در تنگه هرمز نیست</b><br/><a href=\"https://t.me/ivxchannel\" target=\"_blank\">@ivxchannel</a> <tg-emoji emoji-id=\"6255963511252322252\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C94.png')\"><b>✔️</b></i></tg-emoji>",
-    "is_edited": false,
-    "views": 2620,
-    "views_raw": "2.62K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "IVXChannel/26808",
-          "url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26808_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26808_0.jpg",
-          "size_bytes": 7235
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [
-      "ivxchannel"
-    ],
-    "links": [],
-    "emoji": [
-      "️",
-      "🤣",
-      "‍",
-      "🔥",
-      "🖕"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 15,
-    "post_url": "https://t.me/IVXChannel/26807",
-    "post_id": "IVXChannel/26807",
-    "date": "2026-07-26T14:36:26+00:00",
-    "date_unix": 1785076586,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "🚨نتانیاهو در مصاحبه ای با فاکس نیوز:\n\nجنگ و درگیری با ایران زمانی به پایان میرسد که رژیم ایران کاملا تضعیف شود &#33;",
-    "text_html": "<tg-emoji emoji-id=\"5947235249061631414\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i></tg-emoji><b>نتانیاهو در مصاحبه ای با فاکس نیوز:<br/><br/>جنگ و درگیری با ایران زمانی به پایان میرسد که رژیم ایران کاملا تضعیف شود </b>&#33;",
-    "is_edited": false,
-    "views": 2780,
-    "views_raw": "2.78K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "IVXChannel/26807",
-          "url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26807_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26807_0.jpg",
-          "size_bytes": 7235
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec",
-      "33"
-    ],
-    "mentions": [],
-    "links": [],
-    "emoji": [
-      "🚨",
-      "🔥",
-      "🖕",
-      "‍"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 16,
-    "post_url": "https://t.me/IVXChannel/26806",
-    "post_id": "IVXChannel/26806",
-    "date": "2026-07-26T14:32:39+00:00",
-    "date_unix": 1785076359,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "ترک جدید فریانگ بنام SOS متتشر شد\n\n📱Soundcloud\n📱Instagram\n\n@IVXChannel",
-    "text_html": "<b>ترک جدید فریانگ بنام SOS متتشر شد</b><br/><br/><tg-emoji emoji-id=\"5345844509412444249\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')\"><b>📱</b></i></tg-emoji><a href=\"https://on.soundcloud.com/X9XNl0q63oa2Wbqh2A\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Soundcloud</a><br/><tg-emoji emoji-id=\"5319160079465857105\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')\"><b>📱</b></i></tg-emoji><a href=\"https://www.instagram.com/reel/DbOn9ZzIKSC/?igsh=OXJheHF3Ym9idWFo\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Instagram</a><br/><br/><a href=\"https://t.me/IVXChannel\" target=\"_blank\">@IVXChannel</a>",
-    "is_edited": false,
-    "views": 2910,
-    "views_raw": "2.91K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "album",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "IVXChannel/26806",
-          "url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26806_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26806_0.jpg",
-          "size_bytes": 7235
-        },
-        {
-          "type": "photo",
-          "post_id": "IVXChannel/26806",
-          "url": "https://cdn4.telesco.pe/file/W8QIq07Wx0F17NOIbcLF8dVtZYM5oD1MN1AJvj4ur56R5ETb4qxCFltOxVypYAnlRnfWuFhhLTG1k9Cwd3cAwtWTE7Fz0beAFHWgldq2NuJvsH-wn9gSHpH0e0nxjLVVTC4Fywa-1qGEfS3EI2vpWotIstsFFo_kDk9OazcrAWh4gvngj0Rb2PU54OFhNZBce89HagSN1a8jexbVC6WiI0iv__cTa0mwvJ7TzB6-WRW6Gsjc5Yw9NmFPmTGGgFVNG1cc6aah9W6VCf3IAyTDlXQpvqxNI4ym_3-UjEBsDUyaghKVsMTCrmQdRTi8562iQJn6VND3ADuP6uivoiMd_w.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/W8QIq07Wx0F17NOIbcLF8dVtZYM5oD1MN1AJvj4ur56R5ETb4qxCFltOxVypYAnlRnfWuFhhLTG1k9Cwd3cAwtWTE7Fz0beAFHWgldq2NuJvsH-wn9gSHpH0e0nxjLVVTC4Fywa-1qGEfS3EI2vpWotIstsFFo_kDk9OazcrAWh4gvngj0Rb2PU54OFhNZBce89HagSN1a8jexbVC6WiI0iv__cTa0mwvJ7TzB6-WRW6Gsjc5Yw9NmFPmTGGgFVNG1cc6aah9W6VCf3IAyTDlXQpvqxNI4ym_3-UjEBsDUyaghKVsMTCrmQdRTi8562iQJn6VND3ADuP6uivoiMd_w.jpg",
-          "thumbnail": null,
-          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26806_1.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26806_1.jpg",
-          "size_bytes": 46594
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [
-      "IVXChannel"
-    ],
-    "links": [
-      "https://on.soundcloud.com/X9XNl0q63oa2Wbqh2A",
-      "https://www.instagram.com/reel/DbOn9ZzIKSC/?igsh=OXJheHF3Ym9idWFo"
-    ],
-    "emoji": [
-      "📱",
-      "‍",
-      "🔥",
-      "👍",
-      "🖕"
-    ],
-    "reactions": [],
-    "type": "album"
-  },
-  {
-    "index": 17,
-    "post_url": "https://t.me/IVXChannel/26805",
-    "post_id": "IVXChannel/26805",
-    "date": "2026-07-26T13:28:34+00:00",
-    "date_unix": 1785072514,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "Taghsire Mane - Tiem x ShayanYo\n\nPublish Management : @Mhsenivx",
-    "text_html": "<a href=\"https://on.soundcloud.com/01UEl76tNv0OutX0Ho\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><b>Taghsire Mane</b></a> <b>- Tiem </b>x <b>ShayanYo</b><br/><br/><b>Publish Management : </b><a href=\"https://t.me/Mhsenivx\" target=\"_blank\"><b>@Mhsenivx</b></a>",
-    "is_edited": false,
-    "views": 2520,
-    "views_raw": "2.52K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "album",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "IVXChannel/26805",
-          "url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26805_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26805_0.jpg",
-          "size_bytes": 7235
-        },
-        {
-          "type": "photo",
-          "post_id": "IVXChannel/26805",
-          "url": "https://cdn4.telesco.pe/file/bwzAGTqCrXZ-vPWdhBUkjQjuBbMCTKmBGLybJQiMkZKoY9BJeNi-XKnk_RZXMY72j3XZUlHWzt9QjBKjBVabc19YTWv7yqLwlpPM5YJxj58tEMboJ6So8JkfrR5sXSV_hL5lAmI3r_bvZ9cexHbtIODZOyyKe0FmvBqp8zhnCRynwFjFRiUa5Kyq6eVkF9sIOVBa5DXmK5x5Kvdbu5paykRmcXPtLVPFMX-owex8xMhJ7Tg7EKSRgLL2yexLW1CD9SiWFbulwAZD3sTmHLIeqwB16fdGHybc_bqcrR7LblzwaIQXIUrQQQ7NNl5ZvrLwu9RNE_6B0uiw7YQB-T6x1w.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/bwzAGTqCrXZ-vPWdhBUkjQjuBbMCTKmBGLybJQiMkZKoY9BJeNi-XKnk_RZXMY72j3XZUlHWzt9QjBKjBVabc19YTWv7yqLwlpPM5YJxj58tEMboJ6So8JkfrR5sXSV_hL5lAmI3r_bvZ9cexHbtIODZOyyKe0FmvBqp8zhnCRynwFjFRiUa5Kyq6eVkF9sIOVBa5DXmK5x5Kvdbu5paykRmcXPtLVPFMX-owex8xMhJ7Tg7EKSRgLL2yexLW1CD9SiWFbulwAZD3sTmHLIeqwB16fdGHybc_bqcrR7LblzwaIQXIUrQQQ7NNl5ZvrLwu9RNE_6B0uiw7YQB-T6x1w.jpg",
-          "thumbnail": null,
-          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26805_1.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26805_1.jpg",
-          "size_bytes": 24678
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [
-      "Mhsenivx"
-    ],
-    "links": [
-      "https://on.soundcloud.com/01UEl76tNv0OutX0Ho"
-    ],
-    "emoji": [],
-    "reactions": [],
-    "type": "album"
-  },
-  {
-    "index": 18,
-    "post_url": "https://t.me/IVXChannel/26804",
-    "post_id": "IVXChannel/26804",
-    "date": "2026-07-26T11:56:45+00:00",
-    "date_unix": 1785067005,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "💢دفاع پرس(خبرگزاری داخلی):\n انفجار نفتکش متخلف در تنگه هرمز با مین دریایی\n@ivxchannel ✔️",
-    "text_html": "<tg-emoji emoji-id=\"5870810583816740786\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A2.png')\"><b>💢</b></i></tg-emoji><b>دفاع پرس(خبرگزاری داخلی):<br/> انفجار نفتکش متخلف در تنگه هرمز با مین دریایی</b><br/><a href=\"https://t.me/ivxchannel\" target=\"_blank\">@ivxchannel</a> <tg-emoji emoji-id=\"6255963511252322252\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C94.png')\"><b>✔️</b></i></tg-emoji>",
-    "is_edited": false,
-    "views": 2950,
-    "views_raw": "2.95K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "IVXChannel/26804",
-          "url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26804_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26804_0.jpg",
-          "size_bytes": 7235
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [
-      "ivxchannel"
-    ],
-    "links": [],
-    "emoji": [
-      "💢",
-      "️",
-      "🖕",
-      "‍",
-      "🔥",
-      "😐"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 19,
-    "post_url": "https://t.me/IVXChannel/26803",
-    "post_id": "IVXChannel/26803",
-    "date": "2026-07-26T11:10:44+00:00",
-    "date_unix": 1785064244,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "استوری جدید ایمان صفا بازیگر\n\n@ivxchannel",
-    "text_html": "استوری جدید ایمان صفا بازیگر<br/><br/><a href=\"https://t.me/ivxchannel\" target=\"_blank\">@ivxchannel</a>",
-    "is_edited": false,
-    "views": 3490,
-    "views_raw": "3.49K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "album",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "IVXChannel/26803",
-          "url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/JIkN9fQ0A9mcjpUX5M5OiSW1nLlaoKcUTpFW9ZOxZhbsDXRr9CGQwPw_H75CrCUPDoOWfnhgoUdqcg3zOcReeQCVaYcL1GhRDrbsTPUEl-MDW0nPDb2UGinOzTxz18RE9HkjaHpe4ITHGcmSBu2DbXHU7Z6_7cjseac1FgAwtDA91GVFnO-AGMnkTPqiIpXxHmStyIf01_HKTZtUqRJdBXJjtFhna0JolWtroVyfXImX9gC0q3soGqYtDw8vXi64miOOYRID3dNC18l516IuWdJGU8dCE08wWnzdzNvVaDmT8ylzAvCSj3tAkbU13Ra9yERLlAhB8BiaR3AF7kOmUQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26803_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26803_0.jpg",
-          "size_bytes": 7235
-        },
-        {
-          "type": "photo",
-          "post_id": "IVXChannel/26803",
-          "url": "https://cdn4.telesco.pe/file/ZN6cpt13BRzbHF2r5WFBdVxQSiJKBbs1-p_GFGa_beD24V82xOWcJLDHOurewiVUrAgsiJA2XpvD6cojtVYpLG-z6OpomnTLszhgSwOCnmnYYYwnuIiUOFtd7xclWS4PLRpJODyXQyIX8Ey3sse3DIsm-fmS967jv-FckfbumIqKXBColIXdG7BcQ5mpkI_5TO46MRIcWUhJG1qnYV30LRQxq5GgcxI7ZTP0FzEKJZCVaElryS1q4HpBD3svnnXESeLI455yWACI2d6uvhMAmMLr1jsaosFN2d5sVIdLl92uG-y0FnPkqqzoRSViFBY8JcZf9f9px9RMjbMHCwyjSQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/ZN6cpt13BRzbHF2r5WFBdVxQSiJKBbs1-p_GFGa_beD24V82xOWcJLDHOurewiVUrAgsiJA2XpvD6cojtVYpLG-z6OpomnTLszhgSwOCnmnYYYwnuIiUOFtd7xclWS4PLRpJODyXQyIX8Ey3sse3DIsm-fmS967jv-FckfbumIqKXBColIXdG7BcQ5mpkI_5TO46MRIcWUhJG1qnYV30LRQxq5GgcxI7ZTP0FzEKJZCVaElryS1q4HpBD3svnnXESeLI455yWACI2d6uvhMAmMLr1jsaosFN2d5sVIdLl92uG-y0FnPkqqzoRSViFBY8JcZf9f9px9RMjbMHCwyjSQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26803_1.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26803_1.jpg",
-          "size_bytes": 38266
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [
-      "ivxchannel"
-    ],
-    "links": [],
-    "emoji": [
-      "‍",
-      "🔥",
-      "🖕"
-    ],
-    "reactions": [],
-    "type": "album"
   }
 ]
