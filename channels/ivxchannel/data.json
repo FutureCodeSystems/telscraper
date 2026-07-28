@@ -1,6 +1,77 @@
 [
   {
     "index": 1,
+    "post_url": "https://t.me/IVXChannel/26903",
+    "post_id": "IVXChannel/26903",
+    "date": "2026-07-28T01:59:04+00:00",
+    "date_unix": 1785203944,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "خبرگزاری فارس: هر سه نفر اعدام شدند  @ivxchannel",
+    "text_html": "خبرگزاری فارس: هر سه نفر اعدام شدند  @ivxchannel",
+    "is_edited": false,
+    "views": 2780,
+    "views_raw": "2.78K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "IVXChannel/26903",
+          "url": "https://cdn4.telesco.pe/file/fpB1G6o8guw6V5myA49B2TQiCrsLdTQZxFVGwP1Kv9WFVHgWanFruv3JX9LSJxfaZJH6Pn89OSNT0l20nTJk9rfPYGC1HSUMkynjRQUUreu_kx8z58ujWZyl5HjOD4zK5ZHSgxWT_SeS-fIPVCGr8inTLTQDxDm_jKCGpqaHJY0cqa5QFFA-9V3gLvkbZ80rklzC4kB3SAxQN2d_ZLLIFHfJ4KunGWqc5x3p9E1D1ullrtppZyP5s-JlR3ojwgRB5K6ILMvBEdcA7cBi6mHiZHzNyDXj5fJ1z7XnwnKvfIr7_bXYUoo4mPyISAYm90PEtG3LPEr4pQQ00oz8bUO6qA.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/fpB1G6o8guw6V5myA49B2TQiCrsLdTQZxFVGwP1Kv9WFVHgWanFruv3JX9LSJxfaZJH6Pn89OSNT0l20nTJk9rfPYGC1HSUMkynjRQUUreu_kx8z58ujWZyl5HjOD4zK5ZHSgxWT_SeS-fIPVCGr8inTLTQDxDm_jKCGpqaHJY0cqa5QFFA-9V3gLvkbZ80rklzC4kB3SAxQN2d_ZLLIFHfJ4KunGWqc5x3p9E1D1ullrtppZyP5s-JlR3ojwgRB5K6ILMvBEdcA7cBi6mHiZHzNyDXj5fJ1z7XnwnKvfIr7_bXYUoo4mPyISAYm90PEtG3LPEr4pQQ00oz8bUO6qA.jpg",
+          "thumbnail": null,
+          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26903_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26903_0.jpg",
+          "size_bytes": 7235
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [
+      "ivxchannel"
+    ],
+    "links": [],
+    "emoji": [
+      "💔",
+      "😐",
+      "👍",
+      "🤣",
+      "🖕"
+    ],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 2,
     "post_url": "https://t.me/IVXChannel/26902",
     "post_id": "IVXChannel/26902",
     "date": "2026-07-28T01:54:06+00:00",
@@ -12,8 +83,8 @@
     "text": "🖤💔",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96A4.png')\"><b>🖤</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9294.png')\"><b>💔</b></i>",
     "is_edited": false,
-    "views": 2060,
-    "views_raw": "2.06K",
+    "views": 3110,
+    "views_raw": "3.11K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -71,13 +142,14 @@
     "emoji": [
       "🖤",
       "💔",
-      "😐"
+      "😐",
+      "🖕"
     ],
     "reactions": [],
     "type": "album"
   },
   {
-    "index": 2,
+    "index": 3,
     "post_url": "https://t.me/IVXChannel/26901",
     "post_id": "IVXChannel/26901",
     "date": "2026-07-28T01:45:46+00:00",
@@ -89,8 +161,8 @@
     "text": "خبرگزاری فارس:\nهر سه نفر اعدام شدند\n\n@ivxchannel",
     "text_html": "خبرگزاری فارس:<br/><b>هر سه نفر</b> <b>اعدام شدند</b><br/><br/><a href=\"https://t.me/ivxchannel\" target=\"_blank\"><b>@ivxchannel</b></a>",
     "is_edited": false,
-    "views": 2260,
-    "views_raw": "2.26K",
+    "views": 3290,
+    "views_raw": "3.29K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -140,13 +212,14 @@
     "emoji": [
       "💔",
       "👍",
-      "😐"
+      "😐",
+      "🖕"
     ],
     "reactions": [],
     "type": "photo"
   },
   {
-    "index": 3,
+    "index": 4,
     "post_url": "https://t.me/IVXChannel/26900",
     "post_id": "IVXChannel/26900",
     "date": "2026-07-28T01:42:12+00:00",
@@ -158,8 +231,8 @@
     "text": "ویدیویی تحت عنوان صدای الله اکبر گفتن از میدان علیخانی منتشر شده و گفته میشه گویا اعدام انجام شده.  ولی هیچ چیزی هنوز مشخص نیست  @ivxchannel",
     "text_html": "ویدیویی تحت عنوان صدای الله اکبر گفتن از میدان علیخانی منتشر شده و گفته میشه گویا اعدام انجام شده.  ولی هیچ چیزی هنوز مشخص نیست  @ivxchannel",
     "is_edited": false,
-    "views": 2220,
-    "views_raw": "2.22K",
+    "views": 3130,
+    "views_raw": "3.13K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -221,7 +294,7 @@
     "type": "album"
   },
   {
-    "index": 4,
+    "index": 5,
     "post_url": "https://t.me/IVXChannel/26899",
     "post_id": "IVXChannel/26899",
     "date": "2026-07-28T01:37:00+00:00",
@@ -233,8 +306,8 @@
     "text": "ویدیویی تحت عنوان صدای الله اکبر گفتن از میدان علیخانی منتشر شده و گفته میشه گویا اعدام انجام شده.\n\nولی هیچ چیزی هنوز مشخص نیست\n\n@ivxchannel",
     "text_html": "ویدیویی تحت عنوان صدای الله اکبر گفتن از میدان علیخانی منتشر شده و گفته میشه گویا اعدام انجام شده.<br/><br/>ولی هیچ چیزی هنوز مشخص نیست<br/><br/><a href=\"https://t.me/ivxchannel\" target=\"_blank\">@ivxchannel</a>",
     "is_edited": false,
-    "views": 2400,
-    "views_raw": "2.4K",
+    "views": 3300,
+    "views_raw": "3.3K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -304,13 +377,14 @@
     "emoji": [
       "💔",
       "‍",
-      "🔥"
+      "🔥",
+      "🖕"
     ],
     "reactions": [],
     "type": "text"
   },
   {
-    "index": 5,
+    "index": 6,
     "post_url": "https://t.me/IVXChannel/26898",
     "post_id": "IVXChannel/26898",
     "date": "2026-07-28T01:31:22+00:00",
@@ -322,8 +396,8 @@
     "text": "از بعضی رسانه ها واقعا پشمام میریزه تا کی میخوایید فیک نیوز پخش کنید برای دو تا ممبر و ویو و ری اکشن بیشتر الان موقعش نیست لطفا رسانه ی درستی باشید و اخبار زرد رو حداقل توی این موقعیت پخش نکنید",
     "text_html": "از بعضی رسانه ها واقعا پشمام میریزه تا کی میخوایید فیک نیوز پخش کنید برای دو تا ممبر و ویو و ری اکشن بیشتر الان موقعش نیست لطفا رسانه ی درستی باشید و اخبار زرد رو حداقل توی این موقعیت پخش نکنید",
     "is_edited": false,
-    "views": 2300,
-    "views_raw": "2.3K",
+    "views": 3060,
+    "views_raw": "3.06K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -380,13 +454,14 @@
     "links": [],
     "emoji": [
       "💔",
-      "👍"
+      "👍",
+      "🖕"
     ],
     "reactions": [],
     "type": "album"
   },
   {
-    "index": 6,
+    "index": 7,
     "post_url": "https://t.me/IVXChannel/26897",
     "post_id": "IVXChannel/26897",
     "date": "2026-07-28T01:27:50+00:00",
@@ -398,8 +473,8 @@
     "text": "از بعضی رسانه ها واقعا پشمام میریزه\nتا کی میخوایید فیک نیوز پخش کنید برای دو تا ممبر و ویو و ری اکشن بیشتر\nالان موقعش نیست\nلطفا رسانه ی درستی باشید و اخبار زرد رو حداقل توی این موقعیت پخش نکنید",
     "text_html": "از بعضی رسانه ها واقعا پشمام میریزه<br/>تا کی میخوایید فیک نیوز پخش کنید برای دو تا ممبر و ویو و ری اکشن بیشتر<br/>الان موقعش نیست<br/>لطفا رسانه ی درستی باشید و اخبار زرد رو حداقل توی این موقعیت پخش نکنید",
     "is_edited": false,
-    "views": 2600,
-    "views_raw": "2.6K",
+    "views": 3370,
+    "views_raw": "3.37K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -461,7 +536,7 @@
     "type": "album"
   },
   {
-    "index": 7,
+    "index": 8,
     "post_url": "https://t.me/IVXChannel/26896",
     "post_id": "IVXChannel/26896",
     "date": "2026-07-28T01:02:36+00:00",
@@ -473,8 +548,8 @@
     "text": "اگه حکم اجرا نشده باشه و ساعت از ۵ و نیم بگذره هم در هر صورت اجرا میشه فقط در صورتی اجرا نمیشه که مورد عفو قرار بگیره",
     "text_html": "اگه حکم اجرا نشده باشه و ساعت از ۵ و نیم بگذره هم در هر صورت اجرا میشه فقط در صورتی اجرا نمیشه که مورد عفو قرار بگیره",
     "is_edited": false,
-    "views": 3060,
-    "views_raw": "3.06K",
+    "views": 3720,
+    "views_raw": "3.72K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -527,7 +602,7 @@
     "type": "photo"
   },
   {
-    "index": 8,
+    "index": 9,
     "post_url": "https://t.me/IVXChannel/26895",
     "post_id": "IVXChannel/26895",
     "date": "2026-07-28T00:49:58+00:00",
@@ -539,8 +614,8 @@
     "text": "تکلیف اجرای حکم معلوم نیست ولی دارن مردم رو متفرق میکنن از محل و نیرو های ویژه ی نوپو هم وارد عمل شدن",
     "text_html": "تکلیف اجرای حکم معلوم نیست ولی دارن مردم رو متفرق میکنن از محل و نیرو های ویژه ی نوپو هم وارد عمل شدن",
     "is_edited": false,
-    "views": 2970,
-    "views_raw": "2.97K",
+    "views": 3580,
+    "views_raw": "3.58K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -593,7 +668,7 @@
     "type": "photo"
   },
   {
-    "index": 9,
+    "index": 10,
     "post_url": "https://t.me/IVXChannel/26894",
     "post_id": "IVXChannel/26894",
     "date": "2026-07-28T00:43:33+00:00",
@@ -605,8 +680,8 @@
     "text": "هنوز هیچ خبر قطعی و دقیقی نیومده یه سریا میگن حکم انجام شده یه سریا میگن درگیری پیش اومده و مانع اجرا شدن",
     "text_html": "هنوز هیچ خبر قطعی و دقیقی نیومده یه سریا میگن حکم انجام شده یه سریا میگن درگیری پیش اومده و مانع اجرا شدن",
     "is_edited": false,
-    "views": 3030,
-    "views_raw": "3.03K",
+    "views": 3620,
+    "views_raw": "3.62K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -658,7 +733,7 @@
     "type": "photo"
   },
   {
-    "index": 10,
+    "index": 11,
     "post_url": "https://t.me/IVXChannel/26893",
     "post_id": "IVXChannel/26893",
     "date": "2026-07-28T00:39:47+00:00",
@@ -670,8 +745,8 @@
     "text": "طبق برخی گزارشات غیررسمی تو محل برگزاری حکم اعدام درگیری پیش اومده و گویا مردم نذاشتن حکم اعدام اجرا بشه.",
     "text_html": "طبق برخی گزارشات غیررسمی تو محل برگزاری حکم اعدام درگیری پیش اومده و گویا مردم نذاشتن حکم اعدام اجرا بشه.",
     "is_edited": false,
-    "views": 3280,
-    "views_raw": "3.28K",
+    "views": 3880,
+    "views_raw": "3.88K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -725,7 +800,7 @@
     "type": "photo"
   },
   {
-    "index": 11,
+    "index": 12,
     "post_url": "https://t.me/IVXChannel/26892",
     "post_id": "IVXChannel/26892",
     "date": "2026-07-28T00:38:31+00:00",
@@ -737,8 +812,8 @@
     "text": "امیر ایزد تو چنل تلگرامش‌\n\n@ivxchannel ✔️",
     "text_html": "امیر ایزد تو چنل تلگرامش‌<br/><br/><a href=\"https://t.me/ivxchannel\" target=\"_blank\">@ivxchannel</a> <tg-emoji emoji-id=\"6255963511252322252\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C94.png')\"><b>✔️</b></i></tg-emoji>",
     "is_edited": false,
-    "views": 3120,
-    "views_raw": "3.12K",
+    "views": 3680,
+    "views_raw": "3.68K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -794,7 +869,7 @@
     "type": "photo"
   },
   {
-    "index": 12,
+    "index": 13,
     "post_url": "https://t.me/IVXChannel/26891",
     "post_id": "IVXChannel/26891",
     "date": "2026-07-28T00:36:31+00:00",
@@ -806,8 +881,8 @@
     "text": null,
     "text_html": null,
     "is_edited": false,
-    "views": 2830,
-    "views_raw": "2.83K",
+    "views": 3390,
+    "views_raw": "3.39K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -871,7 +946,7 @@
     "type": "album"
   },
   {
-    "index": 13,
+    "index": 14,
     "post_url": "https://t.me/IVXChannel/26890",
     "post_id": "IVXChannel/26890",
     "date": "2026-07-28T00:32:16+00:00",
@@ -883,8 +958,8 @@
     "text": null,
     "text_html": null,
     "is_edited": false,
-    "views": 2990,
-    "views_raw": "2.99K",
+    "views": 3490,
+    "views_raw": "3.49K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -939,7 +1014,7 @@
     "type": "photo"
   },
   {
-    "index": 14,
+    "index": 15,
     "post_url": "https://t.me/IVXChannel/26889",
     "post_id": "IVXChannel/26889",
     "date": "2026-07-28T00:32:05+00:00",
@@ -951,8 +1026,8 @@
     "text": "ایران تسلیت🖤",
     "text_html": "ایران تسلیت<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96A4.png')\"><b>🖤</b></i>",
     "is_edited": false,
-    "views": 3050,
-    "views_raw": "3.05K",
+    "views": 3550,
+    "views_raw": "3.55K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1005,7 +1080,7 @@
     "type": "photo"
   },
   {
-    "index": 15,
+    "index": 16,
     "post_url": "https://t.me/IVXChannel/26888",
     "post_id": "IVXChannel/26888",
     "date": "2026-07-28T00:23:28+00:00",
@@ -1017,8 +1092,8 @@
     "text": "متاسفانه حکم اجرا شده",
     "text_html": "متاسفانه حکم اجرا شده",
     "is_edited": false,
-    "views": 3290,
-    "views_raw": "3.29K",
+    "views": 3820,
+    "views_raw": "3.82K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1070,7 +1145,7 @@
     "type": "photo"
   },
   {
-    "index": 16,
+    "index": 17,
     "post_url": "https://t.me/IVXChannel/26887",
     "post_id": "IVXChannel/26887",
     "date": "2026-07-28T00:19:17+00:00",
@@ -1082,8 +1157,8 @@
     "text": "اصفهان اینترنت قطع نیست فیک نیوز نسازید",
     "text_html": "اصفهان اینترنت قطع نیست فیک نیوز نسازید",
     "is_edited": false,
-    "views": 3440,
-    "views_raw": "3.44K",
+    "views": 3910,
+    "views_raw": "3.91K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1137,7 +1212,7 @@
     "type": "photo"
   },
   {
-    "index": 17,
+    "index": 18,
     "post_url": "https://t.me/IVXChannel/26886",
     "post_id": "IVXChannel/26886",
     "date": "2026-07-28T00:12:11+00:00",
@@ -1149,8 +1224,8 @@
     "text": "اذان صبح به افق اصفهان",
     "text_html": "اذان صبح به افق اصفهان",
     "is_edited": false,
-    "views": 3650,
-    "views_raw": "3.65K",
+    "views": 4130,
+    "views_raw": "4.13K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1205,7 +1280,7 @@
     "type": "photo"
   },
   {
-    "index": 18,
+    "index": 19,
     "post_url": "https://t.me/IVXChannel/26885",
     "post_id": "IVXChannel/26885",
     "date": "2026-07-28T00:06:50+00:00",
@@ -1217,8 +1292,8 @@
     "text": "من ضد اجتماعی نیستم شما میخواید کص شر بگید من حوصله ندارم",
     "text_html": "من ضد اجتماعی نیستم شما میخواید کص شر بگید من حوصله ندارم",
     "is_edited": false,
-    "views": 3280,
-    "views_raw": "3.28K",
+    "views": 3740,
+    "views_raw": "3.74K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1270,86 +1345,5 @@
     ],
     "reactions": [],
     "type": "photo"
-  },
-  {
-    "index": 19,
-    "post_url": "https://t.me/IVXChannel/26884",
-    "post_id": "IVXChannel/26884",
-    "date": "2026-07-27T23:56:49+00:00",
-    "date_unix": 1785196609,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "انگار همه چیزو برای اعدامشون اماده کردن\nچه استرسیه\n\n@ivxchannel ✔️",
-    "text_html": "انگار همه چیزو برای اعدامشون اماده کردن<br/>چه استرسیه<br/><br/><a href=\"https://t.me/ivxchannel\" target=\"_blank\">@ivxchannel</a> <tg-emoji emoji-id=\"6255963511252322252\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C94.png')\"><b>✔️</b></i></tg-emoji>",
-    "is_edited": false,
-    "views": 3710,
-    "views_raw": "3.71K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "album",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "IVXChannel/26884",
-          "url": "https://cdn4.telesco.pe/file/fpB1G6o8guw6V5myA49B2TQiCrsLdTQZxFVGwP1Kv9WFVHgWanFruv3JX9LSJxfaZJH6Pn89OSNT0l20nTJk9rfPYGC1HSUMkynjRQUUreu_kx8z58ujWZyl5HjOD4zK5ZHSgxWT_SeS-fIPVCGr8inTLTQDxDm_jKCGpqaHJY0cqa5QFFA-9V3gLvkbZ80rklzC4kB3SAxQN2d_ZLLIFHfJ4KunGWqc5x3p9E1D1ullrtppZyP5s-JlR3ojwgRB5K6ILMvBEdcA7cBi6mHiZHzNyDXj5fJ1z7XnwnKvfIr7_bXYUoo4mPyISAYm90PEtG3LPEr4pQQ00oz8bUO6qA.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/fpB1G6o8guw6V5myA49B2TQiCrsLdTQZxFVGwP1Kv9WFVHgWanFruv3JX9LSJxfaZJH6Pn89OSNT0l20nTJk9rfPYGC1HSUMkynjRQUUreu_kx8z58ujWZyl5HjOD4zK5ZHSgxWT_SeS-fIPVCGr8inTLTQDxDm_jKCGpqaHJY0cqa5QFFA-9V3gLvkbZ80rklzC4kB3SAxQN2d_ZLLIFHfJ4KunGWqc5x3p9E1D1ullrtppZyP5s-JlR3ojwgRB5K6ILMvBEdcA7cBi6mHiZHzNyDXj5fJ1z7XnwnKvfIr7_bXYUoo4mPyISAYm90PEtG3LPEr4pQQ00oz8bUO6qA.jpg",
-          "thumbnail": null,
-          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26884_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26884_0.jpg",
-          "size_bytes": 7235
-        },
-        {
-          "type": "photo",
-          "post_id": "IVXChannel/26884",
-          "url": "https://cdn4.telesco.pe/file/TAzeXjA5Q_Hmqvvmuoc31-YYCzRRRx42o1YCTlCF7D_sARmQI99pY3JYknmK9QIs4m3UGKzEehb743TNHALwT8ivOVItIowla42Xo_BDEf_4L4t5Xw7F39l6DyAXVq6-XT34UuI0WcVCDqUqzGuVXkIYV8bujOo3FKOJBduiAswTkZa1VFroYGKEcBIk44Nz5pUKV4tlm9ZQnDlcLMCuFgwLJvaqkq7LbmMQSHzbcKvXSkVcp_ETV5uZn22jYVoat-BMt_op4VjF4fdGnzS93IgxF2t77owUdS7HB-j49-ppBm3gwjzGnn5vmCjv9yAQQie9-dWCA7UQDFB5ulc_ug.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TAzeXjA5Q_Hmqvvmuoc31-YYCzRRRx42o1YCTlCF7D_sARmQI99pY3JYknmK9QIs4m3UGKzEehb743TNHALwT8ivOVItIowla42Xo_BDEf_4L4t5Xw7F39l6DyAXVq6-XT34UuI0WcVCDqUqzGuVXkIYV8bujOo3FKOJBduiAswTkZa1VFroYGKEcBIk44Nz5pUKV4tlm9ZQnDlcLMCuFgwLJvaqkq7LbmMQSHzbcKvXSkVcp_ETV5uZn22jYVoat-BMt_op4VjF4fdGnzS93IgxF2t77owUdS7HB-j49-ppBm3gwjzGnn5vmCjv9yAQQie9-dWCA7UQDFB5ulc_ug.jpg",
-          "thumbnail": null,
-          "local_path": "channels/ivxchannel/media/photo/IVXChannel_26884_1.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/ivxchannel/media/photo/IVXChannel_26884_1.jpg",
-          "size_bytes": 57644
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [
-      "ivxchannel"
-    ],
-    "links": [],
-    "emoji": [
-      "️",
-      "💔",
-      "🤣",
-      "‍",
-      "🔥"
-    ],
-    "reactions": [],
-    "type": "album"
   }
 ]
