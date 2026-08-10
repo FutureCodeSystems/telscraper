@@ -1,6 +1,98 @@
 [
   {
     "index": 1,
+    "post_url": "https://t.me/raptimeorgg/71505",
+    "post_id": "raptimeorgg/71505",
+    "date": "2026-08-10T13:45:33+00:00",
+    "date_unix": 1786369533,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": null,
+    "text_html": null,
+    "is_edited": false,
+    "views": 1410,
+    "views_raw": "1.41K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "mixed",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "raptimeorgg/71505",
+          "url": "https://cdn4.telesco.pe/file/aifqt0ftkfolEZBop5q-M-Pqe6f4_EF8nfNENIBY6pBediS7dWPtRppV-I17LMohc90wSyolpZ3YZGLGXwSRycYvkNEzkgNzzMbUn2Rp8g2zDHiJ7OI3ZLrwlhcsE7WeYXmqMIVl1VDm9GWKA_adllUJ4dqnP9QmgmHT7ZzISs1N8gTVxCTY0ZR6kaLCJ3ZPIa_zhwFAG3Q5zcZSBXZIvJL0hPcV3zsY3Sy3KIAM3UF3RBpxhYorxn1qk6_Ogpogw8DNkdNcW5T85RsMXqbu2Jt0GUVMA1HSL-4p2tGG7BMznT-V_JkHORxGYcdm6YwGcJkI114krA5GjrDt6oStcw.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/aifqt0ftkfolEZBop5q-M-Pqe6f4_EF8nfNENIBY6pBediS7dWPtRppV-I17LMohc90wSyolpZ3YZGLGXwSRycYvkNEzkgNzzMbUn2Rp8g2zDHiJ7OI3ZLrwlhcsE7WeYXmqMIVl1VDm9GWKA_adllUJ4dqnP9QmgmHT7ZzISs1N8gTVxCTY0ZR6kaLCJ3ZPIa_zhwFAG3Q5zcZSBXZIvJL0hPcV3zsY3Sy3KIAM3UF3RBpxhYorxn1qk6_Ogpogw8DNkdNcW5T85RsMXqbu2Jt0GUVMA1HSL-4p2tGG7BMznT-V_JkHORxGYcdm6YwGcJkI114krA5GjrDt6oStcw.jpg",
+          "thumbnail": null,
+          "local_path": "channels/raptimeorgg/media/photo/raptimeorgg_71505_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/raptimeorgg/media/photo/raptimeorgg_71505_0.jpg",
+          "size_bytes": 10451
+        },
+        {
+          "type": "photo",
+          "post_id": "raptimeorgg/71505",
+          "url": "https://cdn1.telesco.pe/file/MLY8JxYBpiuv4_9CHpK4p4koBtQgj_oy_OJm_oE10kyh_apwd3SJixKhJ69Nlmh40JJTReNDCQ8rqiqpz1fCNKWl-1xhB4LtGYGdL9BD9v9aIlldvQMQvmIcMTaR06oir_iexvwQCj4YNDPCr3qczkGWj1dBqoL3H33gxB3MWafT_sYPeLqHcpx9gFuslP75NNRBfqGXSji7nGE7EB2fTjEES-_CS60euCJ8YCTfYXGT2Udb7WOXwwsrR3xV8RFKlX4KVTWORkYyVe-aGZ9IqjR4rEI_sChZBXpZ-Qp0_rSb7UVTktW6PYhj69VAdfyQatoQopkBycM4XHr6jOdB5Q",
+          "full_url": "https://cdn1.telesco.pe/file/MLY8JxYBpiuv4_9CHpK4p4koBtQgj_oy_OJm_oE10kyh_apwd3SJixKhJ69Nlmh40JJTReNDCQ8rqiqpz1fCNKWl-1xhB4LtGYGdL9BD9v9aIlldvQMQvmIcMTaR06oir_iexvwQCj4YNDPCr3qczkGWj1dBqoL3H33gxB3MWafT_sYPeLqHcpx9gFuslP75NNRBfqGXSji7nGE7EB2fTjEES-_CS60euCJ8YCTfYXGT2Udb7WOXwwsrR3xV8RFKlX4KVTWORkYyVe-aGZ9IqjR4rEI_sChZBXpZ-Qp0_rSb7UVTktW6PYhj69VAdfyQatoQopkBycM4XHr6jOdB5Q",
+          "thumbnail": null,
+          "local_path": "channels/raptimeorgg/media/photo/raptimeorgg_71505_1.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/raptimeorgg/media/photo/raptimeorgg_71505_1.jpg",
+          "size_bytes": 17862
+        },
+        {
+          "type": "video",
+          "post_id": "raptimeorgg/71505",
+          "url": "https://cdn1.telesco.pe/file/20450c403b.mp4?token=oRZyKf4E1WGggQasYg3zSHrKjqIBT2OLV0-rqmXfez-FksVh3JXW1kjIJM-msvD99AZf2znHnXDDGO9GBpzY1DcdVl-7QPE5g3taIETw4AdCPywSGwxSVk6e0_z2lN8v0PYSET05txN19Y0BSqEmCJSlL3vGV9EotHJvIQlnLAFMf-HAuL5LxFVmjCxWETGFocvHQT0sCEVp1d5BedizZfoaS9Dm_nyX3yhyRjYa3MvIKNdlf4QOyZZOVk5p94rAOFnwOALiCO7BYBGg66xw5K9wFLikHRMTzKPUpsKZz8jrBpI2HwIAuM_l28XEhIf6W71L7vWEDlmIF9Vez8yKSA",
+          "full_url": "https://cdn1.telesco.pe/file/20450c403b.mp4?token=oRZyKf4E1WGggQasYg3zSHrKjqIBT2OLV0-rqmXfez-FksVh3JXW1kjIJM-msvD99AZf2znHnXDDGO9GBpzY1DcdVl-7QPE5g3taIETw4AdCPywSGwxSVk6e0_z2lN8v0PYSET05txN19Y0BSqEmCJSlL3vGV9EotHJvIQlnLAFMf-HAuL5LxFVmjCxWETGFocvHQT0sCEVp1d5BedizZfoaS9Dm_nyX3yhyRjYa3MvIKNdlf4QOyZZOVk5p94rAOFnwOALiCO7BYBGg66xw5K9wFLikHRMTzKPUpsKZz8jrBpI2HwIAuM_l28XEhIf6W71L7vWEDlmIF9Vez8yKSA",
+          "thumbnail": null,
+          "local_path": "channels/raptimeorgg/media/video/raptimeorgg_71505_2.mp4",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/raptimeorgg/media/video/raptimeorgg_71505_2.mp4",
+          "size_bytes": 2956392
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "🦋",
+      "🖕",
+      "🔥",
+      "💩",
+      "👏",
+      "👍",
+      "🤮",
+      "🐳"
+    ],
+    "reactions": [],
+    "type": "media_only"
+  },
+  {
+    "index": 2,
     "post_url": "https://t.me/raptimeorgg/71503",
     "post_id": "raptimeorgg/71503",
     "date": "2026-08-10T13:08:28+00:00",
@@ -12,8 +104,8 @@
     "text": "علی جان دلم برات کبابه😂😂😂\n\n\n\n#AYDA \n@raptimeorgg",
     "text_html": "علی جان دلم برات کبابه<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><br/><br/><br/><br/><a href=\"?q=%23AYDA\">#AYDA</a> <br/><a href=\"https://t.me/raptimeorgg\" target=\"_blank\">@raptimeorgg</a>",
     "is_edited": false,
-    "views": 1480,
-    "views_raw": "1.48K",
+    "views": 1910,
+    "views_raw": "1.91K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -80,7 +172,7 @@
     "type": "album"
   },
   {
-    "index": 2,
+    "index": 3,
     "post_url": "https://t.me/raptimeorgg/71502",
     "post_id": "raptimeorgg/71502",
     "date": "2026-08-10T09:09:30+00:00",
@@ -92,8 +184,8 @@
     "text": "دکی داری چیکار میکنی دکیییی😂😂😂😂",
     "text_html": "دکی داری چیکار میکنی دکیییی<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i>",
     "is_edited": false,
-    "views": 2580,
-    "views_raw": "2.58K",
+    "views": 2810,
+    "views_raw": "2.81K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -156,7 +248,7 @@
     "type": "album"
   },
   {
-    "index": 3,
+    "index": 4,
     "post_url": "https://t.me/raptimeorgg/71501",
     "post_id": "raptimeorgg/71501",
     "date": "2026-08-10T08:51:49+00:00",
@@ -168,8 +260,8 @@
     "text": "زهرا مادرتو گاییدم زهرااااااااااااا",
     "text_html": "زهرا مادرتو گاییدم زهرااااااااااااا",
     "is_edited": false,
-    "views": 2860,
-    "views_raw": "2.86K",
+    "views": 3070,
+    "views_raw": "3.07K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -234,7 +326,7 @@
     "type": "album"
   },
   {
-    "index": 4,
+    "index": 5,
     "post_url": "https://t.me/raptimeorgg/71498",
     "post_id": "raptimeorgg/71498",
     "date": "2026-08-10T07:55:52+00:00",
@@ -246,8 +338,8 @@
     "text": "امروز August 10 روز جهانی تنبلا و گشاداست؛  اینو بفرست برای گشادی که میشناسی😂    #AYDA  @raptimeorgg",
     "text_html": "امروز August 10 روز جهانی تنبلا و گشاداست؛  اینو بفرست برای گشادی که میشناسی<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i>    #AYDA  @raptimeorgg",
     "is_edited": false,
-    "views": 2890,
-    "views_raw": "2.89K",
+    "views": 3060,
+    "views_raw": "3.06K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -318,7 +410,7 @@
     "type": "album"
   },
   {
-    "index": 5,
+    "index": 6,
     "post_url": "https://t.me/raptimeorgg/71497",
     "post_id": "raptimeorgg/71497",
     "date": "2026-08-10T07:41:19+00:00",
@@ -330,8 +422,8 @@
     "text": "امروز August 10 روز جهانی تنبلا و گشاداست؛ \nاینو بفرست برای گشادی که میشناسی😂\n\n\n\n#AYDA \n@raptimeorgg",
     "text_html": "امروز August 10 روز جهانی تنبلا و گشاداست؛ <br/>اینو بفرست برای گشادی که میشناسی<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><br/><br/><br/><br/><a href=\"?q=%23AYDA\">#AYDA</a> <br/><a href=\"https://t.me/raptimeorgg\" target=\"_blank\">@raptimeorgg</a>",
     "is_edited": false,
-    "views": 3060,
-    "views_raw": "3.06K",
+    "views": 3230,
+    "views_raw": "3.23K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -406,7 +498,7 @@
     "type": "album"
   },
   {
-    "index": 6,
+    "index": 7,
     "post_url": "https://t.me/raptimeorgg/71496",
     "post_id": "raptimeorgg/71496",
     "date": "2026-08-10T06:35:28+00:00",
@@ -418,8 +510,8 @@
     "text": "خاله نسیم بهتون صبح بخیر میگه پاشینننن",
     "text_html": "خاله نسیم بهتون صبح بخیر میگه پاشینننن",
     "is_edited": false,
-    "views": 3070,
-    "views_raw": "3.07K",
+    "views": 3210,
+    "views_raw": "3.21K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -485,7 +577,7 @@
     "type": "album"
   },
   {
-    "index": 7,
+    "index": 8,
     "post_url": "https://t.me/raptimeorgg/71494",
     "post_id": "raptimeorgg/71494",
     "date": "2026-08-09T21:40:36+00:00",
@@ -497,8 +589,8 @@
     "text": "فوووووریییی همین الان ایران یه کشتی زد‼️‼️\n\n#Venom \n@raptimeorgg",
     "text_html": "فوووووریییی همین الان ایران یه کشتی زد<tg-emoji emoji-id=\"5440660757194744323\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i></tg-emoji><tg-emoji emoji-id=\"5440660757194744323\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i></tg-emoji><br/><br/><a href=\"?q=%23Venom\">#Venom</a> <br/><a href=\"https://t.me/raptimeorgg\" target=\"_blank\">@raptimeorgg</a>",
     "is_edited": false,
-    "views": 3920,
-    "views_raw": "3.92K",
+    "views": 4010,
+    "views_raw": "4.01K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -577,7 +669,7 @@
     "type": "text"
   },
   {
-    "index": 8,
+    "index": 9,
     "post_url": "https://t.me/raptimeorgg/71493",
     "post_id": "raptimeorgg/71493",
     "date": "2026-08-09T19:15:48+00:00",
@@ -589,8 +681,8 @@
     "text": "ریورز که از سفت و سخت ترین فمنیستا بود و خودشو لزبین اعلام کرده بود ، الان با یه پسر پولدار ازدواج کرده 🫪\n\n\n#AYDA \n@raptimeorgg",
     "text_html": "ریورز که از سفت و سخت ترین فمنیستا بود و خودشو لزبین اعلام کرده بود ، الان با یه پسر پولدار ازدواج کرده <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FABAA.png')\"><b>🫪</b></i><br/><br/><br/><a href=\"?q=%23AYDA\">#AYDA</a> <br/><a href=\"https://t.me/raptimeorgg\" target=\"_blank\">@raptimeorgg</a>",
     "is_edited": false,
-    "views": 3950,
-    "views_raw": "3.95K",
+    "views": 4010,
+    "views_raw": "4.01K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -666,7 +758,7 @@
     "type": "album"
   },
   {
-    "index": 9,
+    "index": 10,
     "post_url": "https://t.me/raptimeorgg/71492",
     "post_id": "raptimeorgg/71492",
     "date": "2026-08-09T18:05:58+00:00",
@@ -678,8 +770,8 @@
     "text": "ترک جدید Youni بنام Azadi Beri منتشر شد\n\n📱Youtube",
     "text_html": "<b>ترک جدید Youni بنام Azadi Beri منتشر شد<br/></b><br/><tg-emoji emoji-id=\"5334681713316479679\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')\"><b>📱</b></i></tg-emoji><a href=\"https://youtu.be/fEVPy0H3KE0?si=-MFRsCo34n8N58FW\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Youtube</a>",
     "is_edited": false,
-    "views": 3720,
-    "views_raw": "3.72K",
+    "views": 3770,
+    "views_raw": "3.77K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -710,8 +802,8 @@
         {
           "type": "photo",
           "post_id": "raptimeorgg/71492",
-          "url": "https://cdn4.telesco.pe/file/Q3hmyIUaUEeGDFCMr-tYEKkvkdyAK71kclYHwcskOCsIowA39jYEFJZpZlLhg0_30ndqdkr-h9vnns64hQeBHgGVnJuobBTXrjlTwHN9xyeB2KOq8W5UH1hlLpsnr7GZLT-SB1W_nVCa1MioU07bzIMy8qGnK5IAVx8arvWDaRbHbIGZafziAKoqG-xCtKOiuOaNnEX6wX1azCh5LGzkf5royeVuhZ23uAKCq9yhZ9S2PZCKjwJnrWXhX6Dd8l3ugMPwOrVEjsVJQzH-_c5oCw9NO9E99qooeubCaDv5Jl3FQZEy3hDPx45FhqML-Csvf3jUG4-BRUBFixvDC6StJQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/Q3hmyIUaUEeGDFCMr-tYEKkvkdyAK71kclYHwcskOCsIowA39jYEFJZpZlLhg0_30ndqdkr-h9vnns64hQeBHgGVnJuobBTXrjlTwHN9xyeB2KOq8W5UH1hlLpsnr7GZLT-SB1W_nVCa1MioU07bzIMy8qGnK5IAVx8arvWDaRbHbIGZafziAKoqG-xCtKOiuOaNnEX6wX1azCh5LGzkf5royeVuhZ23uAKCq9yhZ9S2PZCKjwJnrWXhX6Dd8l3ugMPwOrVEjsVJQzH-_c5oCw9NO9E99qooeubCaDv5Jl3FQZEy3hDPx45FhqML-Csvf3jUG4-BRUBFixvDC6StJQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/aBnpoZyAArYmjwQmqklujyUGKogHYTT7Uckb6XmEArmj6Un4a1dn0mXjt_GeSxREIA_rOog43lQ7jA79F6cmWYxqRcalCHkgz2h6ZDN1oMOns5P0LqX14BEb0qw6ZaV0OhGT4wxCLct-PpufJkebcz3dW0Iu0VI6HTW8-vSTxf1EHNhEFrUNgFRzRTUQqy2s48-ea6jAL_n3htxzUaNyo1T7IiBPT1N4jl37ti2m2h0lvs7xud2r09ztXcroZ8kqIj-bFAECzghjoyQ_HKII1lezzD4_j92jmlRNWlFeNBpwSZNiS97Ow-X2l0sBoF4SX4z5MDpT74WXMJi1qt5tsg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/aBnpoZyAArYmjwQmqklujyUGKogHYTT7Uckb6XmEArmj6Un4a1dn0mXjt_GeSxREIA_rOog43lQ7jA79F6cmWYxqRcalCHkgz2h6ZDN1oMOns5P0LqX14BEb0qw6ZaV0OhGT4wxCLct-PpufJkebcz3dW0Iu0VI6HTW8-vSTxf1EHNhEFrUNgFRzRTUQqy2s48-ea6jAL_n3htxzUaNyo1T7IiBPT1N4jl37ti2m2h0lvs7xud2r09ztXcroZ8kqIj-bFAECzghjoyQ_HKII1lezzD4_j92jmlRNWlFeNBpwSZNiS97Ow-X2l0sBoF4SX4z5MDpT74WXMJi1qt5tsg.jpg",
           "thumbnail": null,
           "local_path": "channels/raptimeorgg/media/photo/raptimeorgg_71492_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/raptimeorgg/media/photo/raptimeorgg_71492_1.jpg",
@@ -746,7 +838,7 @@
     "type": "album"
   },
   {
-    "index": 10,
+    "index": 11,
     "post_url": "https://t.me/raptimeorgg/71491",
     "post_id": "raptimeorgg/71491",
     "date": "2026-08-09T17:51:42+00:00",
@@ -758,8 +850,8 @@
     "text": "با طوفان بد شی اتفاقی نمیفته\nفقط ننت گاییده میشه.\n\n#mmd\n@raptimeorgg",
     "text_html": "با طوفان بد شی اتفاقی نمیفته<br/>فقط ننت گاییده میشه.<br/><br/><a href=\"?q=%23mmd\">#mmd</a><br/><a href=\"https://t.me/raptimeorgg\" target=\"_blank\">@raptimeorgg</a>",
     "is_edited": false,
-    "views": 3690,
-    "views_raw": "3.69K",
+    "views": 3740,
+    "views_raw": "3.74K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -817,7 +909,7 @@
     "type": "photo"
   },
   {
-    "index": 11,
+    "index": 12,
     "post_url": "https://t.me/raptimeorgg/71489",
     "post_id": "raptimeorgg/71489",
     "date": "2026-08-09T16:17:21+00:00",
@@ -829,8 +921,8 @@
     "text": "پشماممممم دختره بخاطر دریک حلقه ی ازدواجشو در میاره پرت میکنه وسط صحنه😂😂😂\n\n\n#AYDA \n@raptimeorgg",
     "text_html": "پشماممممم دختره بخاطر دریک حلقه ی ازدواجشو در میاره پرت میکنه وسط صحنه<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><br/><br/><br/><a href=\"?q=%23AYDA\">#AYDA</a> <br/><a href=\"https://t.me/raptimeorgg\" target=\"_blank\">@raptimeorgg</a>",
     "is_edited": false,
-    "views": 3980,
-    "views_raw": "3.98K",
+    "views": 4020,
+    "views_raw": "4.02K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -861,8 +953,8 @@
         {
           "type": "photo",
           "post_id": "raptimeorgg/71489",
-          "url": "https://cdn4.telesco.pe/file/g-QX3E2rC1J7i_KLeTEzjs91O8FdXSd8U9n_hbgFOnI2ULOyZOpo3MVIr-lXLl30tELsp9kq6joh6kcMvF9e7pwmTVtF5e4CY-FgF5rzcWLVrmGrph5TdY-kkeY6_6DxnUarMaxdjRDDDee9Y37oC8PVACKs-E6U5XUGvTZSriYj8-bdnlvpQR3qwt2DZgF2wZDXlsvQvf4bravungc740wTD4Bg_k5ec-_7vnOdh59mTqdUETnBRNMwv1kz9i9kfBrYODJCB1QAUVDgO0l9zxG_EWDDPstVbwmK98578lobtbFzMRuo0mffoga0RS-MJRoqhjzH2QHJJ71ULwuhIA",
-          "full_url": "https://cdn4.telesco.pe/file/g-QX3E2rC1J7i_KLeTEzjs91O8FdXSd8U9n_hbgFOnI2ULOyZOpo3MVIr-lXLl30tELsp9kq6joh6kcMvF9e7pwmTVtF5e4CY-FgF5rzcWLVrmGrph5TdY-kkeY6_6DxnUarMaxdjRDDDee9Y37oC8PVACKs-E6U5XUGvTZSriYj8-bdnlvpQR3qwt2DZgF2wZDXlsvQvf4bravungc740wTD4Bg_k5ec-_7vnOdh59mTqdUETnBRNMwv1kz9i9kfBrYODJCB1QAUVDgO0l9zxG_EWDDPstVbwmK98578lobtbFzMRuo0mffoga0RS-MJRoqhjzH2QHJJ71ULwuhIA",
+          "url": "https://cdn4.telesco.pe/file/RMVbOzU5jDoXl_L0nuxflAL_pjQsttlHU_MhNA1WRifmjcU0f6EDYA4CTD41RIHwwemBXDGLWEXCZcmBzZsLEqZlZJc_quv8GlRaHQa0xtWNtbtgw-THdMMicjf90nPdalQkp2EeoafR-k6wNaZvcWJsFom2_LWimKiCuBQgulBPfGGRoSzDJixCDFH4dHS7TM2zw0IQuOGqZuA2Pf_MVqiCWMCkAYLqhEB1PbpNtMAI-4nzFdVuF0OPDruh9UMsSwQoz8Vz0kkiY5nZiNw7dqbieCpsHhPn3-e_0Atp7UTAKASmAhLG3mH-ufY3z6uN6j_NUrYqYr7jKlwIzwvfpQ",
+          "full_url": "https://cdn4.telesco.pe/file/RMVbOzU5jDoXl_L0nuxflAL_pjQsttlHU_MhNA1WRifmjcU0f6EDYA4CTD41RIHwwemBXDGLWEXCZcmBzZsLEqZlZJc_quv8GlRaHQa0xtWNtbtgw-THdMMicjf90nPdalQkp2EeoafR-k6wNaZvcWJsFom2_LWimKiCuBQgulBPfGGRoSzDJixCDFH4dHS7TM2zw0IQuOGqZuA2Pf_MVqiCWMCkAYLqhEB1PbpNtMAI-4nzFdVuF0OPDruh9UMsSwQoz8Vz0kkiY5nZiNw7dqbieCpsHhPn3-e_0Atp7UTAKASmAhLG3mH-ufY3z6uN6j_NUrYqYr7jKlwIzwvfpQ",
           "thumbnail": null,
           "local_path": "channels/raptimeorgg/media/photo/raptimeorgg_71489_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/raptimeorgg/media/photo/raptimeorgg_71489_1.jpg",
@@ -871,8 +963,8 @@
         {
           "type": "video",
           "post_id": "raptimeorgg/71489",
-          "url": "https://cdn4.telesco.pe/file/1b87552235.mp4?token=stxYvAyYTZzF7gZxU_VoMtpMDTHMHoHmm5kHfwme1uLOoTUcSQkiae3tSqCXniZ2M0lUJ2dq4O3nFZ07KZ3lNOJY5u2GUc1T8OzOzXaKl4vstD3nqYkDluN4eVmrLvsLJaGjxlrUJDgMPrsohqpLPFNvovjnHIgguPTXrET7fGWqwk2p93bf-XRkp-Ck5iblWgloyYI-moXozLIPk_6Bh3QRRz8EwJ1RzUet_tke5Bk098YQ0eebb5QnIe-cQTG0bikZDRaZi7E8KXyLGZtWAGG6phxlN39TGQodgh5IWRKRzD4muusIzxvuXgOb5WZRQkETqS4_8juFzOo5cuLDOw",
-          "full_url": "https://cdn4.telesco.pe/file/1b87552235.mp4?token=stxYvAyYTZzF7gZxU_VoMtpMDTHMHoHmm5kHfwme1uLOoTUcSQkiae3tSqCXniZ2M0lUJ2dq4O3nFZ07KZ3lNOJY5u2GUc1T8OzOzXaKl4vstD3nqYkDluN4eVmrLvsLJaGjxlrUJDgMPrsohqpLPFNvovjnHIgguPTXrET7fGWqwk2p93bf-XRkp-Ck5iblWgloyYI-moXozLIPk_6Bh3QRRz8EwJ1RzUet_tke5Bk098YQ0eebb5QnIe-cQTG0bikZDRaZi7E8KXyLGZtWAGG6phxlN39TGQodgh5IWRKRzD4muusIzxvuXgOb5WZRQkETqS4_8juFzOo5cuLDOw",
+          "url": "https://cdn4.telesco.pe/file/1b87552235.mp4?token=vdJpOB9bT-3l1dN8S_6Wawm3oEZrhkPDU9fTBlQYrY1hWFk6tsUj7rs_Q7MiREuulEt2xKf9J5Apc8rYlMEUCgZvdMMgLe6cKaFIbmv7elkfilCsKJWfRsFFK11ZJNA1DhIZ8C1qggcC0xMaw84WV6t4L7uoYayiYVR9YVfjR7aSaPIDLxHkKMGblDwl_fiW6PXxGjMKtFxTO4EYTZqq05Zka4QIL4E4EVkEfDaG81tq8JG0CqgYnZ-sZRPAVOh3mzD8PQtvJv2dq6pHDWhcJSFfiYYxJDhEdK9yM1fD4QzKPhbIiGsM5NGnH7jNYIA4dNvU4zU3-74WVoSK43op5w",
+          "full_url": "https://cdn4.telesco.pe/file/1b87552235.mp4?token=vdJpOB9bT-3l1dN8S_6Wawm3oEZrhkPDU9fTBlQYrY1hWFk6tsUj7rs_Q7MiREuulEt2xKf9J5Apc8rYlMEUCgZvdMMgLe6cKaFIbmv7elkfilCsKJWfRsFFK11ZJNA1DhIZ8C1qggcC0xMaw84WV6t4L7uoYayiYVR9YVfjR7aSaPIDLxHkKMGblDwl_fiW6PXxGjMKtFxTO4EYTZqq05Zka4QIL4E4EVkEfDaG81tq8JG0CqgYnZ-sZRPAVOh3mzD8PQtvJv2dq6pHDWhcJSFfiYYxJDhEdK9yM1fD4QzKPhbIiGsM5NGnH7jNYIA4dNvU4zU3-74WVoSK43op5w",
           "thumbnail": null,
           "local_path": "channels/raptimeorgg/media/video/raptimeorgg_71489_2.mp4",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/raptimeorgg/media/video/raptimeorgg_71489_2.mp4",
@@ -910,7 +1002,7 @@
     "type": "text"
   },
   {
-    "index": 12,
+    "index": 13,
     "post_url": "https://t.me/raptimeorgg/71488",
     "post_id": "raptimeorgg/71488",
     "date": "2026-08-09T15:45:28+00:00",
@@ -922,8 +1014,8 @@
     "text": "واقعا برای شوهرت متاسفم که انقد زود قضاوت میکنه.\nفقط یه سوال،در حال چی؟💀\n\n#Amir \n@raptimeorgg",
     "text_html": "واقعا برای شوهرت متاسفم که انقد زود قضاوت میکنه.<br/>فقط یه سوال،در حال چی؟<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9280.png')\"><b>💀</b></i><br/><br/><a href=\"?q=%23Amir\">#Amir</a> <br/><a href=\"https://t.me/raptimeorgg\" target=\"_blank\">@raptimeorgg</a>",
     "is_edited": false,
-    "views": 3910,
-    "views_raw": "3.91K",
+    "views": 3960,
+    "views_raw": "3.96K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -992,7 +1084,7 @@
     "type": "album"
   },
   {
-    "index": 13,
+    "index": 14,
     "post_url": "https://t.me/raptimeorgg/71485",
     "post_id": "raptimeorgg/71485",
     "date": "2026-08-09T12:13:02+00:00",
@@ -1004,8 +1096,8 @@
     "text": "قدرت ممه از اون چیزی که فکر می‌کنید بیشتره.\n\n دریک، از بزرگترین خواننده‌های دنیا، با 140 میلیون فالور و ثروت 250 میلیون دلاری. \nوقتی ممه‌های بزرگ یه دخترو دید، نتونست تحمل کنه و براش هاپ هاپ کرد.\n#Venom\n@raptimeorgg",
     "text_html": "<b>قدرت ممه از اون چیزی که فکر می‌کنید بیشتره.</b><br/><br/> دریک، از بزرگترین خواننده‌های دنیا، با 140 میلیون فالور و ثروت 250 میلیون دلاری. <br/><blockquote>وقتی ممه‌های بزرگ یه دخترو دید، نتونست تحمل کنه و براش هاپ هاپ کرد.</blockquote><br/><a href=\"?q=%23Venom\">#Venom</a><br/><a href=\"https://t.me/raptimeorgg\" target=\"_blank\">@raptimeorgg</a>",
     "is_edited": false,
-    "views": 4270,
-    "views_raw": "4.27K",
+    "views": 4310,
+    "views_raw": "4.31K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1081,7 +1173,7 @@
     "type": "text"
   },
   {
-    "index": 14,
+    "index": 15,
     "post_url": "https://t.me/raptimeorgg/71482",
     "post_id": "raptimeorgg/71482",
     "date": "2026-08-09T11:08:57+00:00",
@@ -1093,8 +1185,8 @@
     "text": "این چیه حاجی 😂😂😂\nویناک مناطق صعب‌العبوره؟\n\n#AYDA \n@raptimeorgg",
     "text_html": "این چیه حاجی <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><br/>ویناک مناطق صعب‌العبوره؟<br/><br/><a href=\"?q=%23AYDA\">#AYDA</a> <br/><a href=\"https://t.me/raptimeorgg\" target=\"_blank\">@raptimeorgg</a>",
     "is_edited": false,
-    "views": 3990,
-    "views_raw": "3.99K",
+    "views": 4030,
+    "views_raw": "4.03K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1162,7 +1254,7 @@
     "type": "album"
   },
   {
-    "index": 15,
+    "index": 16,
     "post_url": "https://t.me/raptimeorgg/71480",
     "post_id": "raptimeorgg/71480",
     "date": "2026-08-09T10:42:53+00:00",
@@ -1174,8 +1266,8 @@
     "text": "کو ویو میلیاردی؟💔\n\n#Venom\n@raptimeorgg",
     "text_html": "کو ویو میلیاردی؟<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9294.png')\"><b>💔</b></i><br/><br/><a href=\"?q=%23Venom\">#Venom</a><br/><a href=\"https://t.me/raptimeorgg\" target=\"_blank\">@raptimeorgg</a>",
     "is_edited": false,
-    "views": 3870,
-    "views_raw": "3.87K",
+    "views": 3900,
+    "views_raw": "3.9K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1243,7 +1335,7 @@
     "type": "album"
   },
   {
-    "index": 16,
+    "index": 17,
     "post_url": "https://t.me/raptimeorgg/71478",
     "post_id": "raptimeorgg/71478",
     "date": "2026-08-09T08:25:08+00:00",
@@ -1255,8 +1347,8 @@
     "text": "چیزی برای گفتن نمیمونه... 🫪 ، نظر شما چیه؟ \n\n\n#AYDA \n@raptimeorgg",
     "text_html": "چیزی برای گفتن نمیمونه... <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FABAA.png')\"><b>🫪</b></i> ، نظر شما چیه؟ <br/><br/><br/><a href=\"?q=%23AYDA\">#AYDA</a> <br/><a href=\"https://t.me/raptimeorgg\" target=\"_blank\">@raptimeorgg</a>",
     "is_edited": false,
-    "views": 4270,
-    "views_raw": "4.27K",
+    "views": 4310,
+    "views_raw": "4.31K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1329,7 +1421,7 @@
     "type": "album"
   },
   {
-    "index": 17,
+    "index": 18,
     "post_url": "https://t.me/raptimeorgg/71477",
     "post_id": "raptimeorgg/71477",
     "date": "2026-08-09T07:35:43+00:00",
@@ -1341,8 +1433,8 @@
     "text": "بکن ننه شیما کاتوزیان رو مشاهده میکنید",
     "text_html": "بکن ننه شیما کاتوزیان رو مشاهده میکنید",
     "is_edited": false,
-    "views": 4150,
-    "views_raw": "4.15K",
+    "views": 4180,
+    "views_raw": "4.18K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1405,7 +1497,7 @@
     "type": "album"
   },
   {
-    "index": 18,
+    "index": 19,
     "post_url": "https://t.me/raptimeorgg/71476",
     "post_id": "raptimeorgg/71476",
     "date": "2026-08-09T06:52:31+00:00",
@@ -1417,8 +1509,8 @@
     "text": "صبح بخیر یزیدا پاشید",
     "text_html": "صبح بخیر یزیدا پاشید",
     "is_edited": false,
-    "views": 4110,
-    "views_raw": "4.11K",
+    "views": 4130,
+    "views_raw": "4.13K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1468,74 +1560,6 @@
       "🔥",
       "👍",
       "🤣"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 19,
-    "post_url": "https://t.me/raptimeorgg/71474",
-    "post_id": "raptimeorgg/71474",
-    "date": "2026-08-08T20:51:08+00:00",
-    "date_unix": 1786222268,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "تاریخ رپفارسی ثابت کرده صرفا ترک سیاسی دادن دلیل بر با شرف بودن فرد نیست، شرف تو خط فکری،رفتار و عقاید کاملا آشکار میشه(حتی اگه نقشتو مثل فدایی و مهدیار انقدر قشنگ و دقیق بازی کنی)",
-    "text_html": "تاریخ رپفارسی ثابت کرده صرفا ترک سیاسی دادن دلیل بر با شرف بودن فرد نیست، شرف تو خط فکری،رفتار و عقاید کاملا آشکار میشه(حتی اگه نقشتو مثل فدایی و مهدیار انقدر قشنگ و دقیق بازی کنی)",
-    "is_edited": false,
-    "views": 4590,
-    "views_raw": "4.59K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "raptimeorgg/71474",
-          "url": "https://cdn4.telesco.pe/file/aifqt0ftkfolEZBop5q-M-Pqe6f4_EF8nfNENIBY6pBediS7dWPtRppV-I17LMohc90wSyolpZ3YZGLGXwSRycYvkNEzkgNzzMbUn2Rp8g2zDHiJ7OI3ZLrwlhcsE7WeYXmqMIVl1VDm9GWKA_adllUJ4dqnP9QmgmHT7ZzISs1N8gTVxCTY0ZR6kaLCJ3ZPIa_zhwFAG3Q5zcZSBXZIvJL0hPcV3zsY3Sy3KIAM3UF3RBpxhYorxn1qk6_Ogpogw8DNkdNcW5T85RsMXqbu2Jt0GUVMA1HSL-4p2tGG7BMznT-V_JkHORxGYcdm6YwGcJkI114krA5GjrDt6oStcw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/aifqt0ftkfolEZBop5q-M-Pqe6f4_EF8nfNENIBY6pBediS7dWPtRppV-I17LMohc90wSyolpZ3YZGLGXwSRycYvkNEzkgNzzMbUn2Rp8g2zDHiJ7OI3ZLrwlhcsE7WeYXmqMIVl1VDm9GWKA_adllUJ4dqnP9QmgmHT7ZzISs1N8gTVxCTY0ZR6kaLCJ3ZPIa_zhwFAG3Q5zcZSBXZIvJL0hPcV3zsY3Sy3KIAM3UF3RBpxhYorxn1qk6_Ogpogw8DNkdNcW5T85RsMXqbu2Jt0GUVMA1HSL-4p2tGG7BMznT-V_JkHORxGYcdm6YwGcJkI114krA5GjrDt6oStcw.jpg",
-          "thumbnail": null,
-          "local_path": "channels/raptimeorgg/media/photo/raptimeorgg_71474_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/raptimeorgg/media/photo/raptimeorgg_71474_0.jpg",
-          "size_bytes": 10451
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [],
-    "links": [],
-    "emoji": [
-      "👍",
-      "👎",
-      "⚡",
-      "🖕"
     ],
     "reactions": [],
     "type": "photo"
