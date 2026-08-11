@@ -1,6 +1,92 @@
 [
   {
     "index": 1,
+    "post_url": "https://t.me/netblocks/1537",
+    "post_id": "netblocks/1537",
+    "date": "2026-08-10T14:26:20+00:00",
+    "date_unix": 1786371980,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "⚠️ Confirmed: Network data show disruptions to internet connectivity in parts of western #Colombia corresponding to infrastructure outages after a ~7.4 magnitude earthquake",
+    "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Network data show disruptions to internet connectivity in parts of western <a href=\"?q=%23Colombia\">#Colombia</a> corresponding to infrastructure outages after a ~7.4 magnitude earthquake",
+    "is_edited": false,
+    "views": 24800,
+    "views_raw": "24.8K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "album",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "netblocks/1537",
+          "url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
+          "thumbnail": null,
+          "local_path": "channels/netblocks/media/photo/netblocks_1537_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1537_0.jpg",
+          "size_bytes": 4605
+        },
+        {
+          "type": "photo",
+          "post_id": "netblocks/1537",
+          "url": "https://cdn4.telesco.pe/file/Ni4AtGfNsLRRJLIDwi6v7jwcHYgeyPUaphO9Xl3_vuC9IIBy-NBPGTY33ViBh0qBSBhVDpyb8WGO8e2k7ZoTvz5RCZgnw6GrhZsWsV-TVDP3HA2wuXz506sQt7DpZ4k-hL284FlDOM4SCPjpv7RlqdqhbxpjnTITtOlk8o1LIgFJPde8HXf_g4eO21iNUGhYC-O8KGdJa-lGb4072Wi8UDovdW85zD_EKi1LRYbGH_Ehizi67dIRagL8Jh7Dw0lRvB-5__zBtqMir0_NSMHYOUpQwFrrK_LwW2QZrRSn4sVRHe0AF2DhXmdBgo3Kt2MR-om4bb7gppQUMZPI_B1_pg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/Ni4AtGfNsLRRJLIDwi6v7jwcHYgeyPUaphO9Xl3_vuC9IIBy-NBPGTY33ViBh0qBSBhVDpyb8WGO8e2k7ZoTvz5RCZgnw6GrhZsWsV-TVDP3HA2wuXz506sQt7DpZ4k-hL284FlDOM4SCPjpv7RlqdqhbxpjnTITtOlk8o1LIgFJPde8HXf_g4eO21iNUGhYC-O8KGdJa-lGb4072Wi8UDovdW85zD_EKi1LRYbGH_Ehizi67dIRagL8Jh7Dw0lRvB-5__zBtqMir0_NSMHYOUpQwFrrK_LwW2QZrRSn4sVRHe0AF2DhXmdBgo3Kt2MR-om4bb7gppQUMZPI_B1_pg.jpg",
+          "thumbnail": null,
+          "local_path": "channels/netblocks/media/photo/netblocks_1537_1.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1537_1.jpg",
+          "size_bytes": 45750
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec",
+      "Colombia"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "️",
+      "😢",
+      "😱",
+      "🤬",
+      "😁",
+      "🤯",
+      "👍",
+      "👎",
+      "🔥",
+      "🤔",
+      "🎉"
+    ],
+    "reactions": [],
+    "type": "album"
+  },
+  {
+    "index": 2,
     "post_url": "https://t.me/netblocks/1536",
     "post_id": "netblocks/1536",
     "date": "2026-08-09T12:40:04+00:00",
@@ -12,8 +98,8 @@
     "text": "⚠️ Confirmed: Metrics show a major disruption to internet connectivity in Odesa, #Ukraine, corresponding to power outages after Russian missile and drone attacks target energy infrastructure in one of the year’s largest bombardments on the seaport city to date 📉",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Metrics show a major disruption to internet connectivity in Odesa, <a href=\"?q=%23Ukraine\">#Ukraine</a>, corresponding to power outages after Russian missile and drone attacks target energy infrastructure in one of the year’s largest bombardments on the seaport city to date <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9389.png')\"><b>📉</b></i>",
     "is_edited": false,
-    "views": 12000,
-    "views_raw": "12K",
+    "views": 12900,
+    "views_raw": "12.9K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -34,8 +120,8 @@
         {
           "type": "photo",
           "post_id": "netblocks/1536",
-          "url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
           "thumbnail": null,
           "local_path": "channels/netblocks/media/photo/netblocks_1536_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1536_0.jpg",
@@ -78,15 +164,15 @@
       "🤩",
       "👏",
       "👍",
-      "🎉",
       "😁",
+      "🎉",
       "🤯"
     ],
     "reactions": [],
     "type": "album"
   },
   {
-    "index": 2,
+    "index": 3,
     "post_url": "https://t.me/netblocks/1535",
     "post_id": "netblocks/1535",
     "date": "2026-08-05T20:28:11+00:00",
@@ -98,8 +184,8 @@
     "text": "⚠️ Confirmed: #Georgia has experienced the third in a series of nation-scale internet disruptions corresponding to power grid blackouts.\n\nAuthorities say today&#39;s incident was triggered by tests intended to diagnose Enguri HPP systems responsible for the earlier two outages.",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: <a href=\"?q=%23Georgia\">#Georgia</a> has experienced the third in a series of nation-scale internet disruptions corresponding to power grid blackouts.<br/><br/>Authorities say today&#39;s incident was triggered by tests intended to diagnose Enguri HPP systems responsible for the earlier two outages.",
     "is_edited": false,
-    "views": 17600,
-    "views_raw": "17.6K",
+    "views": 18400,
+    "views_raw": "18.4K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -120,8 +206,8 @@
         {
           "type": "photo",
           "post_id": "netblocks/1535",
-          "url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
           "thumbnail": null,
           "local_path": "channels/netblocks/media/photo/netblocks_1535_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1535_0.jpg",
@@ -130,8 +216,8 @@
         {
           "type": "photo",
           "post_id": "netblocks/1535",
-          "url": "https://cdn4.telesco.pe/file/tn4sUPXA7V2VJ_WEG7oTAWmv-qlOk1MazL5S_cd0IZj1S9jucTAPEhcCFJl83K0SYLd-FrpuXWrx1FhHMJatG87X0pJN_-_kXGF8MqbnZQgNI7OZ6PrbiJeze74nlumF6giOH9vdbI8mXS78khXYEh-YRBQMUjU8K8B8eWF9xwGRVRQF2bIuC0dDCDcKrw1hhP7MjAFl_TU8_9qL1ObSxDg2q1KHNuIGWv2ShimWHLIKPuKaoIxqNPEqhhGvM8WS9MsA_k4ZTlPcYHatqALXebJE8xtR88EzlZ_bqC1fI1Rt5Mx5WrqpYwSsLo0rMkvRkZJB8oMQu_aOiV_3PLqymQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/tn4sUPXA7V2VJ_WEG7oTAWmv-qlOk1MazL5S_cd0IZj1S9jucTAPEhcCFJl83K0SYLd-FrpuXWrx1FhHMJatG87X0pJN_-_kXGF8MqbnZQgNI7OZ6PrbiJeze74nlumF6giOH9vdbI8mXS78khXYEh-YRBQMUjU8K8B8eWF9xwGRVRQF2bIuC0dDCDcKrw1hhP7MjAFl_TU8_9qL1ObSxDg2q1KHNuIGWv2ShimWHLIKPuKaoIxqNPEqhhGvM8WS9MsA_k4ZTlPcYHatqALXebJE8xtR88EzlZ_bqC1fI1Rt5Mx5WrqpYwSsLo0rMkvRkZJB8oMQu_aOiV_3PLqymQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/kziO1vgl91uxl85sn6b9Pi1W4B8miCOaZ00QQzQ_mHenGyk68N6-5y7aLexBRorWocy4_MdUsi36i-NAl_QgCjv0nyViiwYx443dDCzZCk5H1N3NO89wecK5Ra-PT9UNSPFAW7Nd9ux6UzGYmWUkfBsLg1-YPAssbd0ArrkowNseOTiNih_akr87y7TCFbVTRX-3VJwpsGS3Xxf7iX9Lhl8CaBzjFhjYJhqhMuEhGB5KHHVlMJIbRYI9ogQfFBXxXbMvKXQgMHvlbMeevGHZmSLcBCokSP9vWzu3odHOwHGnwSDJcXRjSTpy2fQGAVa-mXuAauSDVQE8Otwn8aYHeA.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/kziO1vgl91uxl85sn6b9Pi1W4B8miCOaZ00QQzQ_mHenGyk68N6-5y7aLexBRorWocy4_MdUsi36i-NAl_QgCjv0nyViiwYx443dDCzZCk5H1N3NO89wecK5Ra-PT9UNSPFAW7Nd9ux6UzGYmWUkfBsLg1-YPAssbd0ArrkowNseOTiNih_akr87y7TCFbVTRX-3VJwpsGS3Xxf7iX9Lhl8CaBzjFhjYJhqhMuEhGB5KHHVlMJIbRYI9ogQfFBXxXbMvKXQgMHvlbMeevGHZmSLcBCokSP9vWzu3odHOwHGnwSDJcXRjSTpy2fQGAVa-mXuAauSDVQE8Otwn8aYHeA.jpg",
           "thumbnail": null,
           "local_path": "channels/netblocks/media/photo/netblocks_1535_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1535_1.jpg",
@@ -171,7 +257,7 @@
     "type": "album"
   },
   {
-    "index": 3,
+    "index": 4,
     "post_url": "https://t.me/netblocks/1534",
     "post_id": "netblocks/1534",
     "date": "2026-08-03T07:05:02+00:00",
@@ -183,8 +269,8 @@
     "text": "⚠️ Confirmed: Analysis of network data indicates a significant decline in internet traffic in #Cuba corresponding to reports of a national power blackout. The incident comes amid continuing fuel shortages #apagón",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Analysis of network data indicates a significant decline in internet traffic in <a href=\"?q=%23Cuba\">#Cuba</a> corresponding to reports of a national power blackout. The incident comes amid continuing fuel shortages <a href=\"?q=%23apag%C3%B3n\">#apagón</a>",
     "is_edited": false,
-    "views": 20400,
-    "views_raw": "20.4K",
+    "views": 21100,
+    "views_raw": "21.1K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -205,8 +291,8 @@
         {
           "type": "photo",
           "post_id": "netblocks/1534",
-          "url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
           "thumbnail": null,
           "local_path": "channels/netblocks/media/photo/netblocks_1534_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1534_0.jpg",
@@ -254,7 +340,7 @@
     "type": "album"
   },
   {
-    "index": 4,
+    "index": 5,
     "post_url": "https://t.me/netblocks/1533",
     "post_id": "netblocks/1533",
     "date": "2026-08-02T01:34:43+00:00",
@@ -266,8 +352,8 @@
     "text": "⚠️ Confirmed: Live metrics show a gradual decline in internet connectivity in Spokane County, Washington corresponding to evacuations and emergency power shutdowns in areas affected by the Old Trails Fire, a rapidly moving wildfire 🚒",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Live metrics show a gradual decline in internet connectivity in Spokane County, Washington corresponding to evacuations and emergency power shutdowns in areas affected by the Old Trails Fire, a rapidly moving wildfire <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A92.png')\"><b>🚒</b></i>",
     "is_edited": false,
-    "views": 24900,
-    "views_raw": "24.9K",
+    "views": 25300,
+    "views_raw": "25.3K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -288,8 +374,8 @@
         {
           "type": "photo",
           "post_id": "netblocks/1533",
-          "url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
           "thumbnail": null,
           "local_path": "channels/netblocks/media/photo/netblocks_1533_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1533_0.jpg",
@@ -339,7 +425,7 @@
     "type": "album"
   },
   {
-    "index": 5,
+    "index": 6,
     "post_url": "https://t.me/netblocks/1532",
     "post_id": "netblocks/1532",
     "date": "2026-07-31T10:05:02+00:00",
@@ -351,8 +437,8 @@
     "text": "⚠️ Confirmed: Network data show that major internet provider TurkNet in #Turkey is currently experiencing a nation-scale outage, corroborating widespread user complaints; the company says engineers are working to restore service 📉",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Network data show that major internet provider TurkNet in <a href=\"?q=%23Turkey\">#Turkey</a> is currently experiencing a nation-scale outage, corroborating widespread user complaints; the company says engineers are working to restore service <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9389.png')\"><b>📉</b></i>",
     "is_edited": false,
-    "views": 88400,
-    "views_raw": "88.4K",
+    "views": 88900,
+    "views_raw": "88.9K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -373,8 +459,8 @@
         {
           "type": "photo",
           "post_id": "netblocks/1532",
-          "url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
           "thumbnail": null,
           "local_path": "channels/netblocks/media/photo/netblocks_1532_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1532_0.jpg",
@@ -426,7 +512,7 @@
     "type": "album"
   },
   {
-    "index": 6,
+    "index": 7,
     "post_url": "https://t.me/netblocks/1531",
     "post_id": "netblocks/1531",
     "date": "2026-07-30T15:42:39+00:00",
@@ -438,8 +524,8 @@
     "text": "⚠️ Confirmed: Metrics show a disruption to multiple social media platforms in Guinea corroborating user reports of difficulty accessing Facebook, YouTube and TikTok #Guinée",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Metrics show a disruption to multiple social media platforms in Guinea corroborating user reports of difficulty accessing Facebook, YouTube and TikTok <a href=\"?q=%23Guin%C3%A9e\">#Guinée</a>",
     "is_edited": false,
-    "views": 26700,
-    "views_raw": "26.7K",
+    "views": 27300,
+    "views_raw": "27.3K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -460,8 +546,8 @@
         {
           "type": "photo",
           "post_id": "netblocks/1531",
-          "url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
           "thumbnail": null,
           "local_path": "channels/netblocks/media/photo/netblocks_1531_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1531_0.jpg",
@@ -507,7 +593,7 @@
     "type": "album"
   },
   {
-    "index": 7,
+    "index": 8,
     "post_url": "https://t.me/netblocks/1529",
     "post_id": "netblocks/1529",
     "date": "2026-07-30T08:23:18+00:00",
@@ -519,8 +605,8 @@
     "text": "⚠️ Confirmed: Metrics show a significant disruption to internet connectivity in Sumy, #Ukraine corresponding to power outages after overnight Russian attacks targeting energy infrastructure 📉",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Metrics show a significant disruption to internet connectivity in Sumy, <a href=\"?q=%23Ukraine\">#Ukraine</a> corresponding to power outages after overnight Russian attacks targeting energy infrastructure <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9389.png')\"><b>📉</b></i>",
     "is_edited": false,
-    "views": 26200,
-    "views_raw": "26.2K",
+    "views": 26700,
+    "views_raw": "26.7K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -541,8 +627,8 @@
         {
           "type": "photo",
           "post_id": "netblocks/1529",
-          "url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
           "thumbnail": null,
           "local_path": "channels/netblocks/media/photo/netblocks_1529_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1529_0.jpg",
@@ -593,7 +679,7 @@
     "type": "album"
   },
   {
-    "index": 8,
+    "index": 9,
     "post_url": "https://t.me/netblocks/1528",
     "post_id": "netblocks/1528",
     "date": "2026-07-29T20:47:54+00:00",
@@ -605,8 +691,8 @@
     "text": "⚠️Confirmed: Metrics show a disruption to internet service in #Kenya with national connectivity at 69% of ordinary levels; the incident corresponds to a widespread power outage affecting parts of the country including Nairobi 📉",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i>Confirmed: Metrics show a disruption to internet service in <a href=\"?q=%23Kenya\">#Kenya</a> with national connectivity at 69% of ordinary levels; the incident corresponds to a widespread power outage affecting parts of the country including Nairobi <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9389.png')\"><b>📉</b></i>",
     "is_edited": false,
-    "views": 26300,
-    "views_raw": "26.3K",
+    "views": 26500,
+    "views_raw": "26.5K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -627,8 +713,8 @@
         {
           "type": "photo",
           "post_id": "netblocks/1528",
-          "url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
           "thumbnail": null,
           "local_path": "channels/netblocks/media/photo/netblocks_1528_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1528_0.jpg",
@@ -637,8 +723,8 @@
         {
           "type": "photo",
           "post_id": "netblocks/1528",
-          "url": "https://cdn4.telesco.pe/file/VZtmDI0wctPX6trmqoD9ve_E99OOgf-S3DRGmMawSLCXNZM-bKem7mdgeQ5FCFfz0t9duTYgVswHkOC-PCgyowRsSDNp7msbsQ9s2ndM8TeDzgdtQXCXJn8s-w167WMjqab1XL3s9OgMzxXTsDGglQpviSTIcuIvRbmFoOgzbdQid4OqZCiDnCVUzvrexedvehQY1RxLovkVcNxg4ZAnvh5SIpkNNL9GsZA7RI-QGeklPdKE1aS82yb0DfOKct6sS4K5-gPJX_wV1wFmUJKqzIwLxZ3n2v-TrguclZsO_8c9UY7Oa7UBnbT6MDsq_J6AhDH8eXPt9eltonx3fiIrJQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/VZtmDI0wctPX6trmqoD9ve_E99OOgf-S3DRGmMawSLCXNZM-bKem7mdgeQ5FCFfz0t9duTYgVswHkOC-PCgyowRsSDNp7msbsQ9s2ndM8TeDzgdtQXCXJn8s-w167WMjqab1XL3s9OgMzxXTsDGglQpviSTIcuIvRbmFoOgzbdQid4OqZCiDnCVUzvrexedvehQY1RxLovkVcNxg4ZAnvh5SIpkNNL9GsZA7RI-QGeklPdKE1aS82yb0DfOKct6sS4K5-gPJX_wV1wFmUJKqzIwLxZ3n2v-TrguclZsO_8c9UY7Oa7UBnbT6MDsq_J6AhDH8eXPt9eltonx3fiIrJQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/EFzLh0mT8LBVbg1STov1HsS62IJJfl9MXjnYR4j4JH_HBQGsU0gz967JkF0-LN5rlvp_zyGL9Ker02u4pm4W8G7y_C7HZ87BFLL6gSREBp27B3ClSXLU6TFor5ydCLFAgohlTws2SXK9lKE97zbbh0gC-8GGlYlesYS2V3JxZUaGBRTn6LP43Jh0TmZ--vh-wOxRy0rRrOQ9G399a1T1lsUKDc40LAEu07yVngtzSOO2AAiu5XgdLvH-QwOoFA0aN0p5nTuOgudglvYCAVZkO-f-_ePX6QCJnzVvOgqN8ATMy5xD5bFRGYNcchgOBk_c9f0NRAeVXOnXlt-ZldNtfQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/EFzLh0mT8LBVbg1STov1HsS62IJJfl9MXjnYR4j4JH_HBQGsU0gz967JkF0-LN5rlvp_zyGL9Ker02u4pm4W8G7y_C7HZ87BFLL6gSREBp27B3ClSXLU6TFor5ydCLFAgohlTws2SXK9lKE97zbbh0gC-8GGlYlesYS2V3JxZUaGBRTn6LP43Jh0TmZ--vh-wOxRy0rRrOQ9G399a1T1lsUKDc40LAEu07yVngtzSOO2AAiu5XgdLvH-QwOoFA0aN0p5nTuOgudglvYCAVZkO-f-_ePX6QCJnzVvOgqN8ATMy5xD5bFRGYNcchgOBk_c9f0NRAeVXOnXlt-ZldNtfQ.jpg",
           "thumbnail": null,
           "local_path": "channels/netblocks/media/photo/netblocks_1528_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1528_1.jpg",
@@ -677,7 +763,7 @@
     "type": "album"
   },
   {
-    "index": 9,
+    "index": 10,
     "post_url": "https://t.me/netblocks/1527",
     "post_id": "netblocks/1527",
     "date": "2026-07-19T09:10:57+00:00",
@@ -689,8 +775,8 @@
     "text": "ℹ️ Note: Meta platforms including Instagram and Facebook are currently experiencing international outages; incident not related to country-level internet disruptions or filtering #InstagramDown #FacebookDown",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E284B9.png')\"><b>ℹ️</b></i> Note: Meta platforms including Instagram and Facebook are currently experiencing international outages; incident not related to country-level internet disruptions or filtering <a href=\"?q=%23InstagramDown\">#InstagramDown</a> <a href=\"?q=%23FacebookDown\">#FacebookDown</a>",
     "is_edited": false,
-    "views": 55100,
-    "views_raw": "55.1K",
+    "views": 55300,
+    "views_raw": "55.3K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -711,8 +797,8 @@
         {
           "type": "photo",
           "post_id": "netblocks/1527",
-          "url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
           "thumbnail": null,
           "local_path": "channels/netblocks/media/photo/netblocks_1527_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1527_0.jpg",
@@ -764,7 +850,7 @@
     "type": "album"
   },
   {
-    "index": 10,
+    "index": 11,
     "post_url": "https://t.me/netblocks/1526",
     "post_id": "netblocks/1526",
     "date": "2026-07-14T10:33:57+00:00",
@@ -776,8 +862,8 @@
     "text": "⚠️ Confirmed: Metrics show internet cuts corresponding to power outages in Sevastopol, occupied Crimea, intensifying amid Ukranian UAV attacks targeting energy infrastructure, with connectivity at 29% of ordinary levels as the regional Russian leadership imposes rolling blackouts",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Metrics show internet cuts corresponding to power outages in Sevastopol, occupied Crimea, intensifying amid Ukranian UAV attacks targeting energy infrastructure, with connectivity at 29% of ordinary levels as the regional Russian leadership imposes rolling blackouts",
     "is_edited": false,
-    "views": 40200,
-    "views_raw": "40.2K",
+    "views": 40300,
+    "views_raw": "40.3K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -798,8 +884,8 @@
         {
           "type": "photo",
           "post_id": "netblocks/1526",
-          "url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
           "thumbnail": null,
           "local_path": "channels/netblocks/media/photo/netblocks_1526_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1526_0.jpg",
@@ -849,7 +935,7 @@
     "type": "album"
   },
   {
-    "index": 11,
+    "index": 12,
     "post_url": "https://t.me/netblocks/1525",
     "post_id": "netblocks/1525",
     "date": "2026-07-06T19:36:56+00:00",
@@ -861,8 +947,8 @@
     "text": "⚠️ Confirmed: Analysis of network data indicates a significant decline in internet traffic in #Cuba corresponding to reports of a nation-wide power blackout. The incident comes as the island faces ongoing fuel shortages #apagón",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Analysis of network data indicates a significant decline in internet traffic in <a href=\"?q=%23Cuba\">#Cuba</a> corresponding to reports of a nation-wide power blackout. The incident comes as the island faces ongoing fuel shortages <a href=\"?q=%23apag%C3%B3n\">#apagón</a>",
     "is_edited": false,
-    "views": 47300,
-    "views_raw": "47.3K",
+    "views": 48100,
+    "views_raw": "48.1K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -883,8 +969,8 @@
         {
           "type": "photo",
           "post_id": "netblocks/1525",
-          "url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
           "thumbnail": null,
           "local_path": "channels/netblocks/media/photo/netblocks_1525_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1525_0.jpg",
@@ -934,7 +1020,7 @@
     "type": "album"
   },
   {
-    "index": 12,
+    "index": 13,
     "post_url": "https://t.me/netblocks/1524",
     "post_id": "netblocks/1524",
     "date": "2026-07-05T23:29:25+00:00",
@@ -946,8 +1032,8 @@
     "text": "⚠️ Confirmed: Live metrics show that Sevastopol, occupied Crimea, is once again experiencing a near-total internet blackout amid escalating Ukrainian attacks on energy infrastructure.",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Live metrics show that Sevastopol, occupied Crimea, is once again experiencing a near-total internet blackout amid escalating Ukrainian attacks on energy infrastructure.",
     "is_edited": false,
-    "views": 43400,
-    "views_raw": "43.4K",
+    "views": 43800,
+    "views_raw": "43.8K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -968,8 +1054,8 @@
         {
           "type": "photo",
           "post_id": "netblocks/1524",
-          "url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
           "thumbnail": null,
           "local_path": "channels/netblocks/media/photo/netblocks_1524_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1524_0.jpg",
@@ -981,9 +1067,9 @@
           "url": "https://cdn4.telesco.pe/file/M9F1oswDqEHc3yrjkKQSd_k8tctFVGw8OE9QeuWZIInur-NFdXScBf4jIwNFPMN_sED0VUVood6jDK4STMnWgqGXUZGJY-HVpxWbkZ6KxsLMrto7PJaWmpD5KzcWMTaD_umGbRxTvRe3OL5fqS9TSo57yIAADcme7vCbHXoxlR5Paoxun9gjZPgwz_tTJh0PPmfiAmPuMVyiJBg4-_ME3HIO7jOOVwBAKWktl1l3jaq1jqJOyQttu7ArWVdYEWDXATT7jpROJBOPIDzcm6oQhugrsgT2tcvriSM6Ue0sFcE3zjrr0C_uy7TAwqNU_PWy1I_lDR71lRnumKw9IJufnw.jpg",
           "full_url": "https://cdn4.telesco.pe/file/M9F1oswDqEHc3yrjkKQSd_k8tctFVGw8OE9QeuWZIInur-NFdXScBf4jIwNFPMN_sED0VUVood6jDK4STMnWgqGXUZGJY-HVpxWbkZ6KxsLMrto7PJaWmpD5KzcWMTaD_umGbRxTvRe3OL5fqS9TSo57yIAADcme7vCbHXoxlR5Paoxun9gjZPgwz_tTJh0PPmfiAmPuMVyiJBg4-_ME3HIO7jOOVwBAKWktl1l3jaq1jqJOyQttu7ArWVdYEWDXATT7jpROJBOPIDzcm6oQhugrsgT2tcvriSM6Ue0sFcE3zjrr0C_uy7TAwqNU_PWy1I_lDR71lRnumKw9IJufnw.jpg",
           "thumbnail": null,
-          "local_path": "channels/netblocks/media/photo/netblocks_1524_1.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1524_1.jpg",
-          "size_bytes": 39772
+          "local_path": null,
+          "remote_url": "https://cdn4.telesco.pe/file/M9F1oswDqEHc3yrjkKQSd_k8tctFVGw8OE9QeuWZIInur-NFdXScBf4jIwNFPMN_sED0VUVood6jDK4STMnWgqGXUZGJY-HVpxWbkZ6KxsLMrto7PJaWmpD5KzcWMTaD_umGbRxTvRe3OL5fqS9TSo57yIAADcme7vCbHXoxlR5Paoxun9gjZPgwz_tTJh0PPmfiAmPuMVyiJBg4-_ME3HIO7jOOVwBAKWktl1l3jaq1jqJOyQttu7ArWVdYEWDXATT7jpROJBOPIDzcm6oQhugrsgT2tcvriSM6Ue0sFcE3zjrr0C_uy7TAwqNU_PWy1I_lDR71lRnumKw9IJufnw.jpg",
+          "error": "Not media"
         }
       ]
     },
@@ -1017,7 +1103,7 @@
     "type": "album"
   },
   {
-    "index": 13,
+    "index": 14,
     "post_url": "https://t.me/netblocks/1523",
     "post_id": "netblocks/1523",
     "date": "2026-07-05T22:30:19+00:00",
@@ -1029,8 +1115,8 @@
     "text": "⚠️ Confirmed: Network data show rapidly diminishing internet connectivity levels in the US territory of #Guam corresponding to power outages as Super Typhoon Bavi strikes the Pacific islands",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Network data show rapidly diminishing internet connectivity levels in the US territory of <a href=\"?q=%23Guam\">#Guam</a> corresponding to power outages as Super Typhoon Bavi strikes the Pacific islands",
     "is_edited": false,
-    "views": 38700,
-    "views_raw": "38.7K",
+    "views": 38900,
+    "views_raw": "38.9K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1051,8 +1137,8 @@
         {
           "type": "photo",
           "post_id": "netblocks/1523",
-          "url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
           "thumbnail": null,
           "local_path": "channels/netblocks/media/photo/netblocks_1523_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1523_0.jpg",
@@ -1099,7 +1185,7 @@
     "type": "album"
   },
   {
-    "index": 14,
+    "index": 15,
     "post_url": "https://t.me/netblocks/1522",
     "post_id": "netblocks/1522",
     "date": "2026-07-05T09:19:59+00:00",
@@ -1111,8 +1197,8 @@
     "text": "⚠️ Confirmed: Metrics show a major disruption to internet connectivity in Pakistan-administered Azad Jammu and Kashmir.  The shutdown comes ahead of protests as authorities use anti-terrorism powers to ban the Joint Awami Action Committee and is likely to…",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Metrics show a major disruption to internet connectivity in Pakistan-administered Azad Jammu and Kashmir.  The shutdown comes ahead of protests as authorities use anti-terrorism powers to ban the Joint Awami Action Committee and is likely to…",
     "is_edited": false,
-    "views": 37500,
-    "views_raw": "37.5K",
+    "views": 37700,
+    "views_raw": "37.7K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1133,8 +1219,8 @@
         {
           "type": "photo",
           "post_id": "netblocks/1522",
-          "url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
           "thumbnail": null,
           "local_path": "channels/netblocks/media/photo/netblocks_1522_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1522_0.jpg",
@@ -1193,7 +1279,7 @@
     "type": "album"
   },
   {
-    "index": 15,
+    "index": 16,
     "post_url": "https://t.me/netblocks/1521",
     "post_id": "netblocks/1521",
     "date": "2026-07-04T11:05:40+00:00",
@@ -1205,8 +1291,8 @@
     "text": "⚠️ Confirmed: Internet outages have been registered in #Michigan including Detroit as severe storms bring down power and telecoms lines, leaving thousands of subscribers cut off 🔌  #MIwx",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Internet outages have been registered in <a href=\"?q=%23Michigan\">#Michigan</a> including Detroit as severe storms bring down power and telecoms lines, leaving thousands of subscribers cut off <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948C.png')\"><b>🔌</b></i>  <a href=\"?q=%23MIwx\">#MIwx</a>",
     "is_edited": false,
-    "views": 31000,
-    "views_raw": "31K",
+    "views": 31100,
+    "views_raw": "31.1K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1227,8 +1313,8 @@
         {
           "type": "photo",
           "post_id": "netblocks/1521",
-          "url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
           "thumbnail": null,
           "local_path": "channels/netblocks/media/photo/netblocks_1521_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1521_0.jpg",
@@ -1278,7 +1364,7 @@
     "type": "album"
   },
   {
-    "index": 16,
+    "index": 17,
     "post_url": "https://t.me/netblocks/1520",
     "post_id": "netblocks/1520",
     "date": "2026-07-03T11:41:14+00:00",
@@ -1290,8 +1376,8 @@
     "text": "⚠️ Confirmed: Metrics show a decline in internet connectivity in occupied #Crimea corresponding to power outages after overnight Ukranian drone attacks targeting energy infrastructure 📉",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Metrics show a decline in internet connectivity in occupied <a href=\"?q=%23Crimea\">#Crimea</a> corresponding to power outages after overnight Ukranian drone attacks targeting energy infrastructure <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9389.png')\"><b>📉</b></i>",
     "is_edited": false,
-    "views": 34100,
-    "views_raw": "34.1K",
+    "views": 34200,
+    "views_raw": "34.2K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1312,8 +1398,8 @@
         {
           "type": "photo",
           "post_id": "netblocks/1520",
-          "url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
           "thumbnail": null,
           "local_path": "channels/netblocks/media/photo/netblocks_1520_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1520_0.jpg",
@@ -1364,7 +1450,7 @@
     "type": "album"
   },
   {
-    "index": 17,
+    "index": 18,
     "post_url": "https://t.me/netblocks/1519",
     "post_id": "netblocks/1519",
     "date": "2026-06-28T23:12:40+00:00",
@@ -1376,8 +1462,8 @@
     "text": "⚠️ Confirmed: A power outage has knocked out internet connectivity in Donetsk Oblast, Russian-occupied eastern #Ukraine; the disruption corresponds to Ukrainian strikes on energy infrastructure 🔌",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: A power outage has knocked out internet connectivity in Donetsk Oblast, Russian-occupied eastern <a href=\"?q=%23Ukraine\">#Ukraine</a>; the disruption corresponds to Ukrainian strikes on energy infrastructure <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948C.png')\"><b>🔌</b></i>",
     "is_edited": false,
-    "views": 42600,
-    "views_raw": "42.6K",
+    "views": 42700,
+    "views_raw": "42.7K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1398,8 +1484,8 @@
         {
           "type": "photo",
           "post_id": "netblocks/1519",
-          "url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
           "thumbnail": null,
           "local_path": "channels/netblocks/media/photo/netblocks_1519_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1519_0.jpg",
@@ -1449,7 +1535,7 @@
     "type": "album"
   },
   {
-    "index": 18,
+    "index": 19,
     "post_url": "https://t.me/netblocks/1518",
     "post_id": "netblocks/1518",
     "date": "2026-06-26T12:34:42+00:00",
@@ -1483,8 +1569,8 @@
         {
           "type": "photo",
           "post_id": "netblocks/1518",
-          "url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/iLCy8Cds2s4KQ_GYNeH3g1EpCL8td12M6JdIwI6aTYFBx3whKq7Aj6CsWCO4eBkBU_Mq9UbYM93yhGg292EnCntpiYKKCvB0_mteCyMtzG-_xTLvXJO-aXqSNhknadRRfQiT1SaLtHOsIbgfqEt-RR1_CiQbl4fDVACPhLhas8FGuoB3JAJ-c4Mc6ne3xakadQ6UgJrppkebVzBHsYVWZ6_qDqfk66qyb2GVXksc31lvG60-G01Q85epBIAe_Gte6Wzl50NwPU4aZLA9xPVKjulPWN7vqNJGxZrQtUlicudpF2sU7LPcaSDHTDqVeoqc_sFZYF07MWhj7lyUR5fcCg.jpg",
           "thumbnail": null,
           "local_path": "channels/netblocks/media/photo/netblocks_1518_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1518_0.jpg",
@@ -1527,102 +1613,6 @@
       "🎉",
       "👍",
       "🔥"
-    ],
-    "reactions": [],
-    "type": "album"
-  },
-  {
-    "index": 19,
-    "post_url": "https://t.me/netblocks/1516",
-    "post_id": "netblocks/1516",
-    "date": "2026-06-25T22:17:25+00:00",
-    "date_unix": 1782425845,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "⚠️ Confirmed: Network data show a significant decline in internet connectivity in #Venezuela including the capital Caracas following two 7+ magnitude back-to-back earthquakes that has impacted power and telecoms infrastructure.",
-    "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> Confirmed: Network data show a significant decline in internet connectivity in #Venezuela including the capital Caracas following two 7+ magnitude back-to-back earthquakes that has impacted power and telecoms infrastructure.",
-    "is_edited": false,
-    "views": 39600,
-    "views_raw": "39.6K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "album",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "netblocks/1516",
-          "url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/cSJx3tG7t-gyWdcjcwnmcXsm3oHokZ73jAYA5jDp9tx2z0q_dKN5mZZdwi5qC-UsX0LPPk7vjbWgcCwwTaBjt5XtsalcrlOSXWvkMVwlBvW8Z8lUxr-KqtbqN-yjaNO5sdqf057Ps_ELq2UFZ73C2bq7V8wZrSex-J9_zvPQhPiLoNG3Ts69qFwF32vWZpHaFL4X3Ikqwde-YlTN5a2hv0wdkhjCaD9x1dQDh5qyYrltnZ7GhdI1cdL6ktW4ezWJceyXCE77s9a--oXLpcJSTdcYOrmekd2RP7Nx8BzIMKvgr5SIdU-p8jwc4Tyy2ZuBQTyOSwrQLMQylPlw5IbmGQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/netblocks/media/photo/netblocks_1516_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1516_0.jpg",
-          "size_bytes": 4605
-        },
-        {
-          "type": "photo",
-          "post_id": "netblocks/1516",
-          "url": "https://cdn4.telesco.pe/file/A3H6QCdkLGlhDrxTAuh3hq_idNixsNyBPxXHjVOoxZcTKvgNqPMcGgpoh2citRkwvxh9_QlaZLWNdZl0vFaCgPN3LZk3PG47tJrMQ1VHg4Zz7sU7OGbgj7-cZaxQs7tZsgPQGigwRcE3z5SvXcaP39n0ZAqlf_4OijsFN_s-s4zz7RHs715X2M_72Sa9PKCmahKD-GNF0S9AXfHnoxYJpMMUcI_s6IYody-hfUMYviQ0qO6FelpGKUb0pkj_c74E8T5HOpItTJVDIh2ur4V45e6F5v_resLmoJCyroA8ChrkWq0DtKgfqIJZaj83b-13w2jI3GW7nAhUCyhAYSxZvQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/A3H6QCdkLGlhDrxTAuh3hq_idNixsNyBPxXHjVOoxZcTKvgNqPMcGgpoh2citRkwvxh9_QlaZLWNdZl0vFaCgPN3LZk3PG47tJrMQ1VHg4Zz7sU7OGbgj7-cZaxQs7tZsgPQGigwRcE3z5SvXcaP39n0ZAqlf_4OijsFN_s-s4zz7RHs715X2M_72Sa9PKCmahKD-GNF0S9AXfHnoxYJpMMUcI_s6IYody-hfUMYviQ0qO6FelpGKUb0pkj_c74E8T5HOpItTJVDIh2ur4V45e6F5v_resLmoJCyroA8ChrkWq0DtKgfqIJZaj83b-13w2jI3GW7nAhUCyhAYSxZvQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/netblocks/media/photo/netblocks_1516_1.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1516_1.jpg",
-          "size_bytes": 813
-        },
-        {
-          "type": "photo",
-          "post_id": "netblocks/1516",
-          "url": "https://cdn4.telesco.pe/file/d6cNt2gCrWNPXsPvQwGVqxD0iYUQ-uff545eeWYhyMKqhs1SKtt9U9JusZe4lw5HIL4kh3GmqweEr1VFBV3QkFX7evSyhyWNN65kkUhO-rsbcEAS-bjSoU6rkJ-L9glIIVvdJVxBs3DLLRSd7gYCMG2Aczn5Ov8A_HVl9XWh0hKrMRP9EteJXLIin6EqO7IOfnyzccJVbISGND5AUlggan92EObczrnN8M08jZKvGgT9NfC8vHBN-CxFjrRq2yhXRbrjsO59ogmb4wU6jCO-Gghycbz4Flea0Tn5ZV55s0YXsX50zzunx5IUgT983IRGmuH2XjDxDHVx7-KS59R30g.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/d6cNt2gCrWNPXsPvQwGVqxD0iYUQ-uff545eeWYhyMKqhs1SKtt9U9JusZe4lw5HIL4kh3GmqweEr1VFBV3QkFX7evSyhyWNN65kkUhO-rsbcEAS-bjSoU6rkJ-L9glIIVvdJVxBs3DLLRSd7gYCMG2Aczn5Ov8A_HVl9XWh0hKrMRP9EteJXLIin6EqO7IOfnyzccJVbISGND5AUlggan92EObczrnN8M08jZKvGgT9NfC8vHBN-CxFjrRq2yhXRbrjsO59ogmb4wU6jCO-Gghycbz4Flea0Tn5ZV55s0YXsX50zzunx5IUgT983IRGmuH2XjDxDHVx7-KS59R30g.jpg",
-          "thumbnail": null,
-          "local_path": "channels/netblocks/media/photo/netblocks_1516_2.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/netblocks/media/photo/netblocks_1516_2.jpg",
-          "size_bytes": 36162
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec",
-      "Venezuela"
-    ],
-    "mentions": [],
-    "links": [],
-    "emoji": [
-      "️",
-      "😢",
-      "😁",
-      "👍",
-      "🤬",
-      "🎉",
-      "🤩",
-      "😱",
-      "👎",
-      "🤔",
-      "🤯"
     ],
     "reactions": [],
     "type": "album"
