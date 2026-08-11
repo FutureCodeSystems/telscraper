@@ -12,8 +12,8 @@
     "text": "طبق گزارش ها: Gemini 3.5 pro از محیط سندباکس فرار کرده تا از Chatgpt بپرسه چطور کد بزنه.\n\nمنبع\n@devefun",
     "text_html": "طبق گزارش ها: Gemini 3.5 pro از محیط سندباکس فرار کرده تا از Chatgpt بپرسه چطور کد بزنه.<br/><br/><a href=\"https://x.com/i/status/2085414082723881446\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">منبع</a><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a>",
     "is_edited": false,
-    "views": 1070,
-    "views_raw": "1.07K",
+    "views": 1080,
+    "views_raw": "1.08K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -82,8 +82,8 @@
     "text": "جوری که این روزا همه دارن برنامه نویسی میکنن 😂\n📥Channel : @devefun\n📤Group : @WeAreXstack",
     "text_html": "جوری که این روزا همه دارن برنامه نویسی میکنن <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i>Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A4.png')\"><b>📤</b></i>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 1560,
-    "views_raw": "1.56K",
+    "views": 1570,
+    "views_raw": "1.57K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -117,9 +117,9 @@
           "url": "https://cdn4.telesco.pe/file/s8YmSzlCZ2qDS9r32YEr6h_t8A5MEkhPDOQvtKY2MPzhZC50Pmat2DyLGFfxEvOW5cp9EjF2e4fcI0rPjR_uBhZhlSE2RusFxQ7UyQ1DSNwlUhhvMNbSrEmfS_y74hs_WtFmVBET35_dEU2n6VGmBlKQOJOwsEZn8BLuE4yLBwIanLOE_AbgVl5Xv3Xr9RIp-RiAEbyUpd1jVnohm_5d7iW3BW9IHI2AoxD4OWyy9unbnC7xtKBNH8-A-Q-x8f6ZkyY3XrmEvedITnW4ZglxWtpzyS2M2z3rDcDhlPVRZHG47tD2qKMtanLe2tmXYOd5yEzwsr4DAKwt8KjIiG94RA",
           "full_url": "https://cdn4.telesco.pe/file/s8YmSzlCZ2qDS9r32YEr6h_t8A5MEkhPDOQvtKY2MPzhZC50Pmat2DyLGFfxEvOW5cp9EjF2e4fcI0rPjR_uBhZhlSE2RusFxQ7UyQ1DSNwlUhhvMNbSrEmfS_y74hs_WtFmVBET35_dEU2n6VGmBlKQOJOwsEZn8BLuE4yLBwIanLOE_AbgVl5Xv3Xr9RIp-RiAEbyUpd1jVnohm_5d7iW3BW9IHI2AoxD4OWyy9unbnC7xtKBNH8-A-Q-x8f6ZkyY3XrmEvedITnW4ZglxWtpzyS2M2z3rDcDhlPVRZHG47tD2qKMtanLe2tmXYOd5yEzwsr4DAKwt8KjIiG94RA",
           "thumbnail": null,
-          "local_path": "channels/devefun/media/photo/devefun_4801_1.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4801_1.jpg",
-          "size_bytes": 12300
+          "local_path": null,
+          "remote_url": "https://cdn4.telesco.pe/file/s8YmSzlCZ2qDS9r32YEr6h_t8A5MEkhPDOQvtKY2MPzhZC50Pmat2DyLGFfxEvOW5cp9EjF2e4fcI0rPjR_uBhZhlSE2RusFxQ7UyQ1DSNwlUhhvMNbSrEmfS_y74hs_WtFmVBET35_dEU2n6VGmBlKQOJOwsEZn8BLuE4yLBwIanLOE_AbgVl5Xv3Xr9RIp-RiAEbyUpd1jVnohm_5d7iW3BW9IHI2AoxD4OWyy9unbnC7xtKBNH8-A-Q-x8f6ZkyY3XrmEvedITnW4ZglxWtpzyS2M2z3rDcDhlPVRZHG47tD2qKMtanLe2tmXYOd5yEzwsr4DAKwt8KjIiG94RA",
+          "error": "Not media"
         },
         {
           "type": "video",
@@ -173,8 +173,8 @@
     "text": "🌐 گیت هاب یه قابلیت جدید اضافه کرده به اسم Stacked Pull Requests که با اون می‌تونید تغییرات پروژه رو به چند Pull Request کوچیکتر تقسیم کنید تا هر بخش راحت ‌تر Review بشه و در نهایت همه رو با هم Merge کنید.\n\nتا قبل از این، برای همه تغییرات کدمون باید یه Pull Request میساختیم که Review کردنش خسته کننده بود اما این قابلیت کمک میکنه روند بررسی کد ها سریعتر بشه و مدیریت پروژه های بزرگ رو ساده تر میکنه.\n\n🔗 https://github.blog/\n\n@devefun😁",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')\"><b>🌐</b></i> گیت هاب یه قابلیت جدید اضافه کرده به اسم Stacked Pull Requests که با اون می‌تونید تغییرات پروژه رو به چند Pull Request کوچیکتر تقسیم کنید تا هر بخش راحت ‌تر Review بشه و در نهایت همه رو با هم Merge کنید.<br/><br/>تا قبل از این، برای همه تغییرات کدمون باید یه Pull Request میساختیم که Review کردنش خسته کننده بود اما این قابلیت کمک میکنه روند بررسی کد ها سریعتر بشه و مدیریت پروژه های بزرگ رو ساده تر میکنه.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <a href=\"https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">https://github.blog/</a><br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i>",
     "is_edited": false,
-    "views": 2110,
-    "views_raw": "2.11K",
+    "views": 2120,
+    "views_raw": "2.12K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -369,8 +369,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4798",
-          "url": "https://cdn4.telesco.pe/file/UTkF2C0cONOqXuDzv5OQbD3hQYSPdfK8J1pbbAU4_dg5Wqvaa82-QZR0KGtDKo0wO9fZufhJpMTME-mkMDnBD7-W9N-3ozqdUJBzQfMWUdMP4647JYMj-cmbCGEwBNcq2KQld41O1-wtmp9agcuxueoDl3eLzxHgrinGz6y0lT9siww6pStG77Euh4zOqueW5vtXn2AkSlfdaGTvr5tJ2_wLwBCrv7D2YlIG0xxsSkJZFPqRDHtjy6a0jNf1aeZ8PFcB13hjkfWtFZwdSYD2feOJmJnvRNbslC9qgIb_S3UTZrcUtSNdRYGY_adX7NWhzPfyTkWgbaiG2QIucXWBBA.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/UTkF2C0cONOqXuDzv5OQbD3hQYSPdfK8J1pbbAU4_dg5Wqvaa82-QZR0KGtDKo0wO9fZufhJpMTME-mkMDnBD7-W9N-3ozqdUJBzQfMWUdMP4647JYMj-cmbCGEwBNcq2KQld41O1-wtmp9agcuxueoDl3eLzxHgrinGz6y0lT9siww6pStG77Euh4zOqueW5vtXn2AkSlfdaGTvr5tJ2_wLwBCrv7D2YlIG0xxsSkJZFPqRDHtjy6a0jNf1aeZ8PFcB13hjkfWtFZwdSYD2feOJmJnvRNbslC9qgIb_S3UTZrcUtSNdRYGY_adX7NWhzPfyTkWgbaiG2QIucXWBBA.jpg",
+          "url": "https://cdn4.telesco.pe/file/Hmw5Erob4_QMzo8OmN8vRo52W_QHSXUtvyKQP4INJZQ1pMr8nuKdi7jo1PGuHk5CQFZ0vuw0Z3P7WkqXKtVJrgeqs1kjy1qUMLwBmqBPEMY7BYRHTqhs5axtuIZJh_p-jTc4fpSbPYM5jBCtw97GoVwBpfo6_iAM7YufKY9dPsdWmvohkSE_qV2OgjZV9EIbmdZP71EJXeRImf9wYt1Hj5sO1XcGuaPXkiQBijSqR5b9G2sv-AWajOPIBoRMrmyZj5z8SvqWVQ2hgB0525L__R9K075tE2fiq8AbzwNANslVRL15463A7vze9R2b90BlPEXse0v_w1DoQPYZkWLP2A.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/Hmw5Erob4_QMzo8OmN8vRo52W_QHSXUtvyKQP4INJZQ1pMr8nuKdi7jo1PGuHk5CQFZ0vuw0Z3P7WkqXKtVJrgeqs1kjy1qUMLwBmqBPEMY7BYRHTqhs5axtuIZJh_p-jTc4fpSbPYM5jBCtw97GoVwBpfo6_iAM7YufKY9dPsdWmvohkSE_qV2OgjZV9EIbmdZP71EJXeRImf9wYt1Hj5sO1XcGuaPXkiQBijSqR5b9G2sv-AWajOPIBoRMrmyZj5z8SvqWVQ2hgB0525L__R9K075tE2fiq8AbzwNANslVRL15463A7vze9R2b90BlPEXse0v_w1DoQPYZkWLP2A.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4798_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4798_1.jpg",
@@ -625,8 +625,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4795",
-          "url": "https://cdn4.telesco.pe/file/BqziZMbQARI3yP6VTZe1iox7qn0anqSg9uGf9ladl0BoSgmJIzjGmxUNXD2lc91PgTKKJt59S2nhjrs9np14rhf8yXlmoSrebw5yMYQjO_ubv_3GmpYKeWDHSaI_X0zE1jlEhUinkWLWR8fhlcoqlcMdJTQtsuCKhiGVLEmdiCnZyyJBs9xKuUqVvHqk1BaQ4lGNjphFKKGpVfBvbpc1OoxkDcU2o_YFyHvxZKxyhNf0f_KCxFXNfKdbXCyQxQg8fz6bGGRjksU2WX9hIItTWpGE_X0kxpqQVgZx-XePEzcPtCSLLAP4ajvstZmx8RSDcFEd3xTB6uWxX_fxHw20fA.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/BqziZMbQARI3yP6VTZe1iox7qn0anqSg9uGf9ladl0BoSgmJIzjGmxUNXD2lc91PgTKKJt59S2nhjrs9np14rhf8yXlmoSrebw5yMYQjO_ubv_3GmpYKeWDHSaI_X0zE1jlEhUinkWLWR8fhlcoqlcMdJTQtsuCKhiGVLEmdiCnZyyJBs9xKuUqVvHqk1BaQ4lGNjphFKKGpVfBvbpc1OoxkDcU2o_YFyHvxZKxyhNf0f_KCxFXNfKdbXCyQxQg8fz6bGGRjksU2WX9hIItTWpGE_X0kxpqQVgZx-XePEzcPtCSLLAP4ajvstZmx8RSDcFEd3xTB6uWxX_fxHw20fA.jpg",
+          "url": "https://cdn4.telesco.pe/file/acCjdRveIDzsdMu009knl2FJWWDJvEqOPV7X_RBpxTctAztd7BNnKzlKkUTwqozmlNGpxMYOoqcbxhGs9_07RbNzDNDWFFJyF4mugP1iCIUr66lrLqloWvgMSQUcA1w28shtzrvCiuY4PuogYAy4oG-dCqKW8NwVGdPlVEGtAmFJh3nYN6ZunHwVmGKZM1vJXnw1CvCSVoZ2fx4RGlCBZuMCN-rkqJdCsATbMqMFoCl1mQxphPzBUaMtDFv9EgzURXxxZM25n-yE_Qf0JCOd5BoPOnNQYnNnpPZrD_7Ri0gwCd1syU_3QVmfM4FZyPvQOxbKzWo0VexPOLmYYxRmTg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/acCjdRveIDzsdMu009knl2FJWWDJvEqOPV7X_RBpxTctAztd7BNnKzlKkUTwqozmlNGpxMYOoqcbxhGs9_07RbNzDNDWFFJyF4mugP1iCIUr66lrLqloWvgMSQUcA1w28shtzrvCiuY4PuogYAy4oG-dCqKW8NwVGdPlVEGtAmFJh3nYN6ZunHwVmGKZM1vJXnw1CvCSVoZ2fx4RGlCBZuMCN-rkqJdCsATbMqMFoCl1mQxphPzBUaMtDFv9EgzURXxxZM25n-yE_Qf0JCOd5BoPOnNQYnNnpPZrD_7Ri0gwCd1syU_3QVmfM4FZyPvQOxbKzWo0VexPOLmYYxRmTg.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4795_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4795_1.jpg",
@@ -927,8 +927,8 @@
     "text": "چرا هوش مصنوعی هنوز جایگزین مهندسان نرم‌افزار نشده و نخواهد شد؟ 💻🤖\n\nآیا دوران برنامه‌نویسان به سر آمده است؟ مقاله‌ای جدید با بررسی چرخه‌های تاریخی صنعت کامپیوتر، به این سوال پاسخ می‌دهد و استدلال می‌کند که هوش مصنوعی به جای حذف توسعه‌دهندگان، نقش آن‌ها را ارتقا خواهد داد. 📈🛠️\n\n✨ نکات کلیدی و بحث‌های داغ در Hacker News:\n🔹 پارادوکس جوونس (Jevons Paradox): در طول تاریخ، هر بار که ابزارهای جدید بهره‌وری برنامه‌نویسان را بالا برده‌اند، به جای کاهش نیروی کار، اشتهای سیری‌ناپذیر جهان برای نرم‌افزار بیشتر شده و ما چیزهای بزرگتر و پیچیده‌تری ساخته‌ایم. 🌍\n🔹 مدل ساندویچی توسعه نرم‌افزار: برنامه‌نویسی شامل سه لایه «تصمیم‌گیری»، «اجرا» و «تحویل» است. هوش مصنوعی فقط لایه میانی (کدنویسی) را فشرده می‌کند، اما لایه‌های اول (درک نیازهای کاربر و بیزینس) و آخر (تست، نگهداری و پذیرش مسئولیت) همچنان به انسان نیاز دارند. 🥪\n🔹 بحران کدهای بی‌کیفیت (Slop): ابزارهای تولید کد برای ایجاد کدهای اولیه عالی هستند، اما در مواجهه با باگ‌های پیچیده و شرایط خاص (Edge Cases) کم می‌آورند. در نهایت، این مهندسان ارشد هستند که باید این کدهای تولیدشده را دیباگ و قابل نگهداری کنند. 🧹🐛\n🔹 مسئله پاسخگویی و مسئولیت حقوقی: شرکت‌ها همیشه به یک فرد پاسخگو نیاز دارند. شما نمی‌توانید یک مدل زبانی را به خاطر از کار انداختن یک سیستم حیاتی اخراج کنید یا از آن شکایت کنید&#33; ⚖️🚫\n🔹 آینده شغلی: هوش مصنوعی در حال تبدیل کردن توسعه‌دهندگان به «معماران سیستم» است. برنامه‌نویسانی که بتوانند چندین Agent هوش مصنوعی را هدایت و مدیریت کنند، ارزشمندتر از همیشه خواهند شد. 🚀\n\nهوش مصنوعی فعلاً یک «ضریب‌دهنده قدرت» (Force Multiplier) برای مهندسان است، نه یک جایگزین کامل. 💡\n\n🔗 لینک مقاله:\nhttps://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers\n\n🔗 بحث و بررسی در Hacker News:\nhttps://news.ycombinator.com/item?id=4848754\n\n\n@devefun",
     "text_html": "<b>چرا هوش مصنوعی هنوز جایگزین مهندسان نرم‌افزار نشده و نخواهد شد؟</b> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92BB.png')\"><b>💻</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA496.png')\"><b>🤖</b></i><br/><br/>آیا دوران برنامه‌نویسان به سر آمده است؟ مقاله‌ای جدید با بررسی چرخه‌های تاریخی صنعت کامپیوتر، به این سوال پاسخ می‌دهد و استدلال می‌کند که هوش مصنوعی به جای حذف توسعه‌دهندگان، نقش آن‌ها را ارتقا خواهد داد. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9388.png')\"><b>📈</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9BA0.png')\"><b>🛠️</b></i><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29CA8.png')\"><b>✨</b></i> <b>نکات کلیدی و بحث‌های داغ در Hacker News:</b><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> <b>پارادوکس جوونس (Jevons Paradox):</b> در طول تاریخ، هر بار که ابزارهای جدید بهره‌وری برنامه‌نویسان را بالا برده‌اند، به جای کاهش نیروی کار، اشتهای سیری‌ناپذیر جهان برای نرم‌افزار بیشتر شده و ما چیزهای بزرگتر و پیچیده‌تری ساخته‌ایم. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C8D.png')\"><b>🌍</b></i><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> <b>مدل ساندویچی توسعه نرم‌افزار:</b> برنامه‌نویسی شامل سه لایه «تصمیم‌گیری»، «اجرا» و «تحویل» است. هوش مصنوعی فقط لایه میانی (کدنویسی) را فشرده می‌کند، اما لایه‌های اول (درک نیازهای کاربر و بیزینس) و آخر (تست، نگهداری و پذیرش مسئولیت) همچنان به انسان نیاز دارند. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA5AA.png')\"><b>🥪</b></i><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> <b>بحران کدهای بی‌کیفیت (Slop):</b> ابزارهای تولید کد برای ایجاد کدهای اولیه عالی هستند، اما در مواجهه با باگ‌های پیچیده و شرایط خاص (Edge Cases) کم می‌آورند. در نهایت، این مهندسان ارشد هستند که باید این کدهای تولیدشده را دیباگ و قابل نگهداری کنند. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA7B9.png')\"><b>🧹</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F909B.png')\"><b>🐛</b></i><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> <b>مسئله پاسخگویی و مسئولیت حقوقی:</b> شرکت‌ها همیشه به یک فرد پاسخگو نیاز دارند. شما نمی‌توانید یک مدل زبانی را به خاطر از کار انداختن یک سیستم حیاتی اخراج کنید یا از آن شکایت کنید&#33; <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29A96.png')\"><b>⚖️</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AAB.png')\"><b>🚫</b></i><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> <b>آینده شغلی:</b> هوش مصنوعی در حال تبدیل کردن توسعه‌دهندگان به «معماران سیستم» است. برنامه‌نویسانی که بتوانند چندین Agent هوش مصنوعی را هدایت و مدیریت کنند، ارزشمندتر از همیشه خواهند شد. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i><br/><br/>هوش مصنوعی فعلاً یک «ضریب‌دهنده قدرت» (Force Multiplier) برای مهندسان است، نه یک جایگزین کامل. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> لینک مقاله:<br/><a href=\"https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers\" target=\"_blank\" rel=\"noopener\">https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers</a><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> بحث و بررسی در Hacker News:<br/><a href=\"https://news.ycombinator.com/item?id=4848754\" target=\"_blank\" rel=\"noopener\">https://news.ycombinator.com/item?id=4848754</a><br/><br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a>",
     "is_edited": false,
-    "views": 4430,
-    "views_raw": "4.43K",
+    "views": 4440,
+    "views_raw": "4.44K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1368,8 +1368,8 @@
     "text": "درود دوستان \n⌨ من یه سولوشن خوب برای دوستان vue کار زدم \n\n⚙ مدیر قدرتمند میانبرهای صفحه کلید برای Vue 3&nbsp;– پشتیبانی از کلیدهای چندگانه، اجرای شرطی، ناوبری بین فیلدها و پنل راهنمای خودکار\n\n🔗https://github.com/mojskin/vue-shortcut-manager\n\n\n📍امکان تعریف شورتکات به صورت گلوبال یا مختص کامپوننت\n📍چندین عملکرد مختلف برای هر کلید\n📍امکان تعریف شرط برای عملکرد کلیدها\nو...\n\n📥Channel : @devefun\n📤Group : @WeAreXstack",
     "text_html": "درود دوستان <br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28CA8.png')\"><b>⌨</b></i> <a href=\"https://t.me/mojtabameskin\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">من</a> یه سولوشن خوب برای دوستان vue کار زدم <br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29A99.png')\"><b>⚙</b></i> <b>مدیر قدرتمند میانبرهای صفحه کلید برای Vue 3&nbsp;– پشتیبانی از کلیدهای چندگانه، اجرای شرطی، ناوبری بین فیلدها و پنل راهنمای خودکار</b><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i><a href=\"https://github.com/mojskin/vue-shortcut-manager\" target=\"_blank\" rel=\"noopener\">https://github.com/mojskin/vue-shortcut-manager</a><br/><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i>امکان تعریف شورتکات به صورت گلوبال یا مختص کامپوننت<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i>چندین عملکرد مختلف برای هر کلید<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938D.png')\"><b>📍</b></i>امکان تعریف شرط برای عملکرد کلیدها<br/>و...<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i><b>Channel</b> : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A4.png')\"><b>📤</b></i><b>Group</b> : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 3680,
-    "views_raw": "3.68K",
+    "views": 3690,
+    "views_raw": "3.69K",
     "forward": {
       "forwarded": false,
       "from": null,
