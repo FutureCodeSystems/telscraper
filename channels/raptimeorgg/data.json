@@ -1,6 +1,96 @@
 [
   {
     "index": 1,
+    "post_url": "https://t.me/raptimeorgg/71714",
+    "post_id": "raptimeorgg/71714",
+    "date": "2026-08-21T08:51:52+00:00",
+    "date_unix": 1787302312,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": null,
+    "text_html": null,
+    "is_edited": false,
+    "views": 1250,
+    "views_raw": "1.25K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "mixed",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "raptimeorgg/71714",
+          "url": "https://cdn4.telesco.pe/file/ZSg_Jo3HaI1Pc1z7nLJlMAjsJ3xEe_VrXF-D6dpti6w7QzanhDsvz1VHNa0Z_RDlCic96EeBhUYYB0hwUNrM8iEFXgEdtb2Kwpczlhw3vkfy1I-GzmsClAKfBmn4vVRNTAWhftHP4RGU9RynqxY293iseXUTgK0mpCZN8N8HS04yi8fKFAFTOEm31jLQ1iOa8uLh9lVFSc3jRgiVf1MfhCrtF93OWTB1Dy5c3U0hnZUEPBtEhGtV3sJba2-qjV_HnHu51sQ0PZuRxog_ieewW7RFEsTxY6cwOjicd2nVsKFR3sCi5cEVrx-FmMVUK0TiT-d80vyfe0nO64Wzfyw1RQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/ZSg_Jo3HaI1Pc1z7nLJlMAjsJ3xEe_VrXF-D6dpti6w7QzanhDsvz1VHNa0Z_RDlCic96EeBhUYYB0hwUNrM8iEFXgEdtb2Kwpczlhw3vkfy1I-GzmsClAKfBmn4vVRNTAWhftHP4RGU9RynqxY293iseXUTgK0mpCZN8N8HS04yi8fKFAFTOEm31jLQ1iOa8uLh9lVFSc3jRgiVf1MfhCrtF93OWTB1Dy5c3U0hnZUEPBtEhGtV3sJba2-qjV_HnHu51sQ0PZuRxog_ieewW7RFEsTxY6cwOjicd2nVsKFR3sCi5cEVrx-FmMVUK0TiT-d80vyfe0nO64Wzfyw1RQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/raptimeorgg/media/photo/raptimeorgg_71714_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/raptimeorgg/media/photo/raptimeorgg_71714_0.jpg",
+          "size_bytes": 10451
+        },
+        {
+          "type": "photo",
+          "post_id": "raptimeorgg/71714",
+          "url": "https://cdn1.telesco.pe/file/r_NWwXhcq7swTCW2PiEEkJ2XBjKY5y-d0XPfEZl3uqgWf-Do1IUdnHZ73MuoHTByfj6fY7Fe7OuyWrXSty0rMLokf9ziDNfRr2DaNKNyYAGiLwmE9prBn3PXW-Elr_DjPQ-jfMdXKZJPbhHSh38FlnoA1q_R4jpP1eZ6BBAFdji3Kn3RJnpKjbp2jHiy8dEE4ou6znlLnFyn6EyjHA7wJ9rdpCExlm7LEfo3arsIYnKd7hT3adz4gdppA1JQuwOuPsq8-uVBYAvpWzdKUTc_N2_Qtu9rwQ82M0xj7vyufNosTHFwi17h0kEIwSosAtxkqZ-4o2y1dFMDgyrRW4hvYA",
+          "full_url": "https://cdn1.telesco.pe/file/r_NWwXhcq7swTCW2PiEEkJ2XBjKY5y-d0XPfEZl3uqgWf-Do1IUdnHZ73MuoHTByfj6fY7Fe7OuyWrXSty0rMLokf9ziDNfRr2DaNKNyYAGiLwmE9prBn3PXW-Elr_DjPQ-jfMdXKZJPbhHSh38FlnoA1q_R4jpP1eZ6BBAFdji3Kn3RJnpKjbp2jHiy8dEE4ou6znlLnFyn6EyjHA7wJ9rdpCExlm7LEfo3arsIYnKd7hT3adz4gdppA1JQuwOuPsq8-uVBYAvpWzdKUTc_N2_Qtu9rwQ82M0xj7vyufNosTHFwi17h0kEIwSosAtxkqZ-4o2y1dFMDgyrRW4hvYA",
+          "thumbnail": null,
+          "local_path": "channels/raptimeorgg/media/photo/raptimeorgg_71714_1.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/raptimeorgg/media/photo/raptimeorgg_71714_1.jpg",
+          "size_bytes": 18100
+        },
+        {
+          "type": "video",
+          "post_id": "raptimeorgg/71714",
+          "url": "https://cdn1.telesco.pe/file/99d2a62bc3.mp4?token=g_Cs1OAelvxd2ai-kHzM3FRRhJJESFly0LzFtXeZX15uk37KhasaqPteUEyRuVVYZCaqUxOzdP9bSHf7Gb60ly9HlFxKO7akPQca5988RwU0-2Ur0HnecDgnVHPKoq-OAMxIYem8toSXZNdz6wbNXylsydQxwL0OgvNScffseTnle3-kuNTnBgDbcb1lVy_ht4s3DCiucs4glUZ5gMqT5FM0z-hAH3THkOx2coCHiIPfWKeZBGhWyUrDMuJmQmCNDs6lXb63M0j1IwHgUWET0SthIy9lr2RfK9oO5D0ozhY_ZLe7PFHwbwvA-PfrSz0ygTw7tQWksXCMhArOvSSrKw",
+          "full_url": "https://cdn1.telesco.pe/file/99d2a62bc3.mp4?token=g_Cs1OAelvxd2ai-kHzM3FRRhJJESFly0LzFtXeZX15uk37KhasaqPteUEyRuVVYZCaqUxOzdP9bSHf7Gb60ly9HlFxKO7akPQca5988RwU0-2Ur0HnecDgnVHPKoq-OAMxIYem8toSXZNdz6wbNXylsydQxwL0OgvNScffseTnle3-kuNTnBgDbcb1lVy_ht4s3DCiucs4glUZ5gMqT5FM0z-hAH3THkOx2coCHiIPfWKeZBGhWyUrDMuJmQmCNDs6lXb63M0j1IwHgUWET0SthIy9lr2RfK9oO5D0ozhY_ZLe7PFHwbwvA-PfrSz0ygTw7tQWksXCMhArOvSSrKw",
+          "thumbnail": null,
+          "local_path": "channels/raptimeorgg/media/video/raptimeorgg_71714_2.mp4",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/raptimeorgg/media/video/raptimeorgg_71714_2.mp4",
+          "size_bytes": 1802002
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "🦋",
+      "😐",
+      "🤮",
+      "😈",
+      "🍌",
+      "🤷"
+    ],
+    "reactions": [],
+    "type": "media_only"
+  },
+  {
+    "index": 2,
     "post_url": "https://t.me/raptimeorgg/71712",
     "post_id": "raptimeorgg/71712",
     "date": "2026-08-21T07:34:55+00:00",
@@ -12,8 +102,8 @@
     "text": "شاعر فوتبال برگشت تو زمیننننن...\n\nرونالدینیو امروز اومده ایتالیا، برای امضا قرارداد با باشگاه راونا، تو دسته سوم همین کشور\nسلطان گفته میخواد آخرین گل کریرشو بزنه ...\n\n#mmd\n@raptimeorgg",
     "text_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><b>شاعر فوتبال برگشت تو زمیننننن...</b><br/><br/>رونالدینیو امروز اومده ایتالیا، برای امضا قرارداد با باشگاه راونا، تو دسته سوم همین کشور<br/>سلطان گفته میخواد آخرین گل کریرشو بزنه ...<br/><br/><a href=\"?q=%23mmd\">#mmd</a><br/><a href=\"https://t.me/raptimeorgg\" target=\"_blank\">@raptimeorgg</a>",
     "is_edited": false,
-    "views": 793,
-    "views_raw": "793",
+    "views": 1610,
+    "views_raw": "1.61K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -82,13 +172,15 @@
     ],
     "links": [],
     "emoji": [
-      "👍"
+      "👍",
+      "‍",
+      "🔥"
     ],
     "reactions": [],
     "type": "album"
   },
   {
-    "index": 2,
+    "index": 3,
     "post_url": "https://t.me/raptimeorgg/71711",
     "post_id": "raptimeorgg/71711",
     "date": "2026-08-21T06:24:50+00:00",
@@ -100,8 +192,8 @@
     "text": "پاشید کصکشا لنگ ظهرهههه",
     "text_html": "پاشید کصکشا لنگ ظهرهههه",
     "is_edited": false,
-    "views": 1060,
-    "views_raw": "1.06K",
+    "views": 1760,
+    "views_raw": "1.76K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -154,7 +246,7 @@
     "type": "photo"
   },
   {
-    "index": 3,
+    "index": 4,
     "post_url": "https://t.me/raptimeorgg/71710",
     "post_id": "raptimeorgg/71710",
     "date": "2026-08-20T19:40:06+00:00",
@@ -166,8 +258,8 @@
     "text": "رقابت این دوتا از دربی تهران جذاب تره. 😂😂\n\n#Venom\n@raptimeorgg",
     "text_html": "رقابت این دوتا از دربی تهران جذاب تره. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><br/><br/><a href=\"?q=%23Venom\">#Venom</a><br/><a href=\"https://t.me/raptimeorgg\" target=\"_blank\">@raptimeorgg</a>",
     "is_edited": false,
-    "views": 2090,
-    "views_raw": "2.09K",
+    "views": 2480,
+    "views_raw": "2.48K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -201,9 +293,9 @@
           "url": "https://cdn4.telesco.pe/file/PevQubA0cT4WkFlh2pXF-58Ha_WpI_UzooneQ376KleER2Iin0NZjd34GTj4ZeSc2RuvC8fC8wLPsXXYPN-who4PmoWxVQrsxtGCeZgSlbMgSsjlyjM9Xq2yalBONL9scL7R8GVFMhkVKXCNrXlm9mZ_Y9ZNOxyTM2-PJl1SrWoweh3c1GwPCyrL93ydeu6n1tts7mtw9OwnGLKFMpdWP9nQhmgo3pEe30SmY5iAlAuGGV9ArtvFhuuNqL1lUGtCZOBy8Wv9n21fBTopZNTTpi2KFwTfoflsKQ-AcLdgpH934101U_Xmv_gcvD39dRMv0P6Ls7uunIn8fzKsJxUmSg.jpg",
           "full_url": "https://cdn4.telesco.pe/file/PevQubA0cT4WkFlh2pXF-58Ha_WpI_UzooneQ376KleER2Iin0NZjd34GTj4ZeSc2RuvC8fC8wLPsXXYPN-who4PmoWxVQrsxtGCeZgSlbMgSsjlyjM9Xq2yalBONL9scL7R8GVFMhkVKXCNrXlm9mZ_Y9ZNOxyTM2-PJl1SrWoweh3c1GwPCyrL93ydeu6n1tts7mtw9OwnGLKFMpdWP9nQhmgo3pEe30SmY5iAlAuGGV9ArtvFhuuNqL1lUGtCZOBy8Wv9n21fBTopZNTTpi2KFwTfoflsKQ-AcLdgpH934101U_Xmv_gcvD39dRMv0P6Ls7uunIn8fzKsJxUmSg.jpg",
           "thumbnail": null,
-          "local_path": null,
-          "remote_url": "https://cdn4.telesco.pe/file/PevQubA0cT4WkFlh2pXF-58Ha_WpI_UzooneQ376KleER2Iin0NZjd34GTj4ZeSc2RuvC8fC8wLPsXXYPN-who4PmoWxVQrsxtGCeZgSlbMgSsjlyjM9Xq2yalBONL9scL7R8GVFMhkVKXCNrXlm9mZ_Y9ZNOxyTM2-PJl1SrWoweh3c1GwPCyrL93ydeu6n1tts7mtw9OwnGLKFMpdWP9nQhmgo3pEe30SmY5iAlAuGGV9ArtvFhuuNqL1lUGtCZOBy8Wv9n21fBTopZNTTpi2KFwTfoflsKQ-AcLdgpH934101U_Xmv_gcvD39dRMv0P6Ls7uunIn8fzKsJxUmSg.jpg",
-          "error": "Not media"
+          "local_path": "channels/raptimeorgg/media/photo/raptimeorgg_71710_1.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/raptimeorgg/media/photo/raptimeorgg_71710_1.jpg",
+          "size_bytes": 76091
         }
       ]
     },
@@ -234,7 +326,7 @@
     "type": "album"
   },
   {
-    "index": 4,
+    "index": 5,
     "post_url": "https://t.me/raptimeorgg/71709",
     "post_id": "raptimeorgg/71709",
     "date": "2026-08-20T19:25:53+00:00",
@@ -246,8 +338,8 @@
     "text": "دریک داش آبرو رپرا چی پس؟\n\n#Venom\n@raptimeorgg",
     "text_html": "دریک داش آبرو رپرا چی پس؟<br/><br/><a href=\"?q=%23Venom\">#Venom</a><br/><a href=\"https://t.me/raptimeorgg\" target=\"_blank\">@raptimeorgg</a>",
     "is_edited": false,
-    "views": 2290,
-    "views_raw": "2.29K",
+    "views": 2610,
+    "views_raw": "2.61K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -314,7 +406,7 @@
     "type": "album"
   },
   {
-    "index": 5,
+    "index": 6,
     "post_url": "https://t.me/raptimeorgg/71708",
     "post_id": "raptimeorgg/71708",
     "date": "2026-08-20T17:36:47+00:00",
@@ -326,8 +418,8 @@
     "text": "عمو جانی با یه دختر باکره ازدواج کردددو",
     "text_html": "عمو جانی با یه دختر باکره ازدواج کردددو",
     "is_edited": false,
-    "views": 2610,
-    "views_raw": "2.61K",
+    "views": 2840,
+    "views_raw": "2.84K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -380,7 +472,7 @@
     "type": "photo"
   },
   {
-    "index": 6,
+    "index": 7,
     "post_url": "https://t.me/raptimeorgg/71707",
     "post_id": "raptimeorgg/71707",
     "date": "2026-08-20T16:44:10+00:00",
@@ -392,8 +484,8 @@
     "text": "ترک جدید فدایی(هوش مصنوعی) بنام Tignal Shah منتشر شد 📱Instagram 📱Soundcloud 📱Youtube  #mmd  @raptimeorgg",
     "text_html": "ترک جدید فدایی(هوش مصنوعی) بنام Tignal Shah منتشر شد <tg-emoji emoji-id=\"5319160079465857105\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')\"><b>📱</b></i></tg-emoji>Instagram <tg-emoji emoji-id=\"5345844509412444249\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')\"><b>📱</b></i></tg-emoji>Soundcloud <tg-emoji emoji-id=\"5334681713316479679\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')\"><b>📱</b></i></tg-emoji>Youtube  #mmd  @raptimeorgg",
     "is_edited": false,
-    "views": 2640,
-    "views_raw": "2.64K",
+    "views": 2860,
+    "views_raw": "2.86K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -463,7 +555,7 @@
     "type": "album"
   },
   {
-    "index": 7,
+    "index": 8,
     "post_url": "https://t.me/raptimeorgg/71706",
     "post_id": "raptimeorgg/71706",
     "date": "2026-08-20T16:43:32+00:00",
@@ -475,8 +567,8 @@
     "text": "ترک جدید فدایی(هوش مصنوعی) بنام Tignal Shah منتشر شد\n📱Instagram\n📱Soundcloud\n📱Youtube\n\n#mmd \n@raptimeorgg",
     "text_html": "<b>ترک جدید فدایی(هوش مصنوعی) بنام Tignal Shah منتشر شد</b><br/><tg-emoji emoji-id=\"5319160079465857105\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')\"><b>📱</b></i></tg-emoji><a href=\"https://www.instagram.com/reel/DcRJA_1sTF3/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Instagram</a><br/><tg-emoji emoji-id=\"5345844509412444249\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')\"><b>📱</b></i></tg-emoji><a href=\"https://soundcloud.com/tignal/tignal-shah\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Soundcloud</a><br/><tg-emoji emoji-id=\"5334681713316479679\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')\"><b>📱</b></i></tg-emoji><a href=\"https://www.youtube.com/watch?v=j7H416u2sv4\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Youtube</a><br/><br/><a href=\"?q=%23mmd\">#mmd</a> <br/><a href=\"https://t.me/raptimeorgg\" target=\"_blank\">@raptimeorgg</a>",
     "is_edited": false,
-    "views": 2610,
-    "views_raw": "2.61K",
+    "views": 2850,
+    "views_raw": "2.85K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -551,7 +643,7 @@
     "type": "album"
   },
   {
-    "index": 8,
+    "index": 9,
     "post_url": "https://t.me/raptimeorgg/71705",
     "post_id": "raptimeorgg/71705",
     "date": "2026-08-20T16:34:50+00:00",
@@ -563,8 +655,8 @@
     "text": "متاسفانه این دوتا دختر موتور سوار بعد از تصادف با تریلی به کما رفتن&#33;\n\n#mmd\n@raptimeorgg",
     "text_html": "<b>متاسفانه این دوتا دختر موتور سوار بعد از تصادف با تریلی به کما رفتن&#33;</b><br/><br/><a href=\"?q=%23mmd\">#mmd</a><br/><a href=\"https://t.me/raptimeorgg\" target=\"_blank\">@raptimeorgg</a>",
     "is_edited": false,
-    "views": 2670,
-    "views_raw": "2.67K",
+    "views": 2860,
+    "views_raw": "2.86K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -641,7 +733,7 @@
     "type": "text"
   },
   {
-    "index": 9,
+    "index": 10,
     "post_url": "https://t.me/raptimeorgg/71704",
     "post_id": "raptimeorgg/71704",
     "date": "2026-08-20T13:31:16+00:00",
@@ -653,8 +745,8 @@
     "text": "خارک.صه رو صورتت یه ک.یر اضافه داری جا دماغ \nکیر تو ناموس عرب ملخ خورت ک.صکشه زن زنا زاده \nهمونطور که خزر تا ابد مال ایران اون خلیجم تا ابد فارس خواهد بود و میمونه",
     "text_html": "خارک.صه رو صورتت یه ک.یر اضافه داری جا دماغ <br/>کیر تو ناموس عرب ملخ خورت ک.صکشه زن زنا زاده <br/>همونطور که خزر تا ابد مال ایران اون خلیجم تا ابد فارس خواهد بود و میمونه",
     "is_edited": false,
-    "views": 2660,
-    "views_raw": "2.66K",
+    "views": 2810,
+    "views_raw": "2.81K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -719,7 +811,7 @@
     "type": "album"
   },
   {
-    "index": 10,
+    "index": 11,
     "post_url": "https://t.me/raptimeorgg/71703",
     "post_id": "raptimeorgg/71703",
     "date": "2026-08-20T10:15:40+00:00",
@@ -731,8 +823,8 @@
     "text": "ممد اینو بنداز چنل\nآقا من حوزه کنکورم تبریز قراملک بود\nیه پسررر حاجی عجب چیزی بودا سفید سفید رو صورتش یدونه مو هم نداشت یعنی ببین جای صدتا دخترو میاد منی که به پسر گرایش ندارم رو اون قفلی زده بودم اوووف یعنی\n\nآقا نشستیم این شروع کرد به خارش کردن نمیدونم به ما نگاه می‌کرد انگشتشو میبرد تا حلقش ساک میزد آقا ما از شانسمون ۴ تا رفیق کتابخونه یجا افتاده بودیم ریییید توی تمرکز ما یعنی ببین وسط کنکور کم مونده بود بیاد کیرمونو ساک بزنه ریدددد توی تمرکز ما علاوه بر اینکه خودش خالی داد برا ما هم باعث شد برینیم\n\nبعد موقع در اومدن دیدیم آقا دوست پسرش اومده دنبالش بغلش کرد و بوسش کرد نمیدونم اونجا هم از دستمون پرید\n\nاینو خواستم بنویسم اگه اینو میبینی کص عمت داداش ریدی به ما پشت بمونی سال بعد ببینمت تو حوزه کنکور میکنمت کصکش😐",
     "text_html": "ممد اینو بنداز چنل<br/>آقا من حوزه کنکورم تبریز قراملک بود<br/>یه پسررر حاجی عجب چیزی بودا سفید سفید رو صورتش یدونه مو هم نداشت یعنی ببین جای صدتا دخترو میاد منی که به پسر گرایش ندارم رو اون قفلی زده بودم اوووف یعنی<br/><br/>آقا نشستیم این شروع کرد به خارش کردن نمیدونم به ما نگاه می‌کرد انگشتشو میبرد تا حلقش ساک میزد آقا ما از شانسمون ۴ تا رفیق کتابخونه یجا افتاده بودیم ریییید توی تمرکز ما یعنی ببین وسط کنکور کم مونده بود بیاد کیرمونو ساک بزنه ریدددد توی تمرکز ما علاوه بر اینکه خودش خالی داد برا ما هم باعث شد برینیم<br/><br/>بعد موقع در اومدن دیدیم آقا دوست پسرش اومده دنبالش بغلش کرد و بوسش کرد نمیدونم اونجا هم از دستمون پرید<br/><br/>اینو خواستم بنویسم اگه اینو میبینی کص عمت داداش ریدی به ما پشت بمونی سال بعد ببینمت تو حوزه کنکور میکنمت کصکش<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9890.png')\"><b>😐</b></i>",
     "is_edited": false,
-    "views": 3200,
-    "views_raw": "3.2K",
+    "views": 3320,
+    "views_raw": "3.32K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -787,7 +879,7 @@
     "type": "photo"
   },
   {
-    "index": 11,
+    "index": 12,
     "post_url": "https://t.me/raptimeorgg/71701",
     "post_id": "raptimeorgg/71701",
     "date": "2026-08-20T09:49:52+00:00",
@@ -799,8 +891,8 @@
     "text": "از قیافه این داداشمون معلومه به کنکوریای امروز چی گذشته.\n\n#Venom\n@raptimeorgg",
     "text_html": "از قیافه این داداشمون معلومه به کنکوریای امروز چی گذشته.<br/><br/><a href=\"?q=%23Venom\">#Venom</a><br/><a href=\"https://t.me/raptimeorgg\" target=\"_blank\">@raptimeorgg</a>",
     "is_edited": false,
-    "views": 3280,
-    "views_raw": "3.28K",
+    "views": 3430,
+    "views_raw": "3.43K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -831,8 +923,8 @@
         {
           "type": "photo",
           "post_id": "raptimeorgg/71701",
-          "url": "https://cdn4.telesco.pe/file/TBs788GlbowKMxiegNiNfO04W202aKxk-rRoX3kgl2_MDP0RRYvT4DjLUpyrrcG1jHv_RbegsllR3bSoEEmRJmvDVSto8piiD4wZG4UBDubxEiB8d2VMXVmpw9VwVTJilFYKfsYM9dZzmwsQdYw83C5SLWxjPxWoVhqGR9SvLua51T4OOq8RZq5ithzf7lOdDhk3keVF3k9I5myT1b1GfhgnusFs82OVCYLLFZPoINeN5-z5TKbcrF24xwZwheTmqRe57Chfb-vpMH06KcouMev26v7jszgMmsQj0oP3rG2Gm4vv7I8NDp_Rhg449-B908dcpWG56xvDVTT5Dx1hqQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TBs788GlbowKMxiegNiNfO04W202aKxk-rRoX3kgl2_MDP0RRYvT4DjLUpyrrcG1jHv_RbegsllR3bSoEEmRJmvDVSto8piiD4wZG4UBDubxEiB8d2VMXVmpw9VwVTJilFYKfsYM9dZzmwsQdYw83C5SLWxjPxWoVhqGR9SvLua51T4OOq8RZq5ithzf7lOdDhk3keVF3k9I5myT1b1GfhgnusFs82OVCYLLFZPoINeN5-z5TKbcrF24xwZwheTmqRe57Chfb-vpMH06KcouMev26v7jszgMmsQj0oP3rG2Gm4vv7I8NDp_Rhg449-B908dcpWG56xvDVTT5Dx1hqQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/GM4w5kVcQk0hMT_ueYypg02MHw9JfpzlykJidqGEeXhEwsv7RrFEL3v0TOzPqTtmgcfQv57V4AKZHMBBWOV5LXS2L1zsp0dWBQD6DfnDfNJKUXIlOMYACB_-MeIU7oNkBawQj90IM5B01xv8YnHL_XQcoPAOCRORWvAEI2mySmG3zCKlt7hu1yitia7IUV-bMOegKhbNZ1EXM3y8artK3RHjJFwAouZDyuyAsrxJyldK8pmAt5NpV_ceM4dtg-rycjZn12aSP7j45GBvt9-k0VpxdSe_BvYLC5KRb6434OSdF-eSUFcPtLcin_vPvACtg01ArV15xJTQ39UuIkB1wA.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/GM4w5kVcQk0hMT_ueYypg02MHw9JfpzlykJidqGEeXhEwsv7RrFEL3v0TOzPqTtmgcfQv57V4AKZHMBBWOV5LXS2L1zsp0dWBQD6DfnDfNJKUXIlOMYACB_-MeIU7oNkBawQj90IM5B01xv8YnHL_XQcoPAOCRORWvAEI2mySmG3zCKlt7hu1yitia7IUV-bMOegKhbNZ1EXM3y8artK3RHjJFwAouZDyuyAsrxJyldK8pmAt5NpV_ceM4dtg-rycjZn12aSP7j45GBvt9-k0VpxdSe_BvYLC5KRb6434OSdF-eSUFcPtLcin_vPvACtg01ArV15xJTQ39UuIkB1wA.jpg",
           "thumbnail": null,
           "local_path": "channels/raptimeorgg/media/photo/raptimeorgg_71701_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/raptimeorgg/media/photo/raptimeorgg_71701_1.jpg",
@@ -866,7 +958,7 @@
     "type": "album"
   },
   {
-    "index": 12,
+    "index": 13,
     "post_url": "https://t.me/raptimeorgg/71700",
     "post_id": "raptimeorgg/71700",
     "date": "2026-08-20T09:05:26+00:00",
@@ -878,8 +970,8 @@
     "text": "راست میگن کنکور اینقدر اسون بوده که همه یک سال دیگ پشتش موندن؟",
     "text_html": "راست میگن کنکور اینقدر اسون بوده که همه یک سال دیگ پشتش موندن؟",
     "is_edited": false,
-    "views": 3090,
-    "views_raw": "3.09K",
+    "views": 3200,
+    "views_raw": "3.2K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -933,7 +1025,7 @@
     "type": "photo"
   },
   {
-    "index": 13,
+    "index": 14,
     "post_url": "https://t.me/raptimeorgg/71698",
     "post_id": "raptimeorgg/71698",
     "date": "2026-08-20T06:48:54+00:00",
@@ -945,8 +1037,8 @@
     "text": "کنکور چیشد ؟&#33;",
     "text_html": "کنکور چیشد ؟&#33;",
     "is_edited": false,
-    "views": 3210,
-    "views_raw": "3.21K",
+    "views": 3300,
+    "views_raw": "3.3K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1004,7 +1096,7 @@
     "type": "photo"
   },
   {
-    "index": 14,
+    "index": 15,
     "post_url": "https://t.me/raptimeorgg/71696",
     "post_id": "raptimeorgg/71696",
     "date": "2026-08-19T23:28:17+00:00",
@@ -1016,8 +1108,8 @@
     "text": "ترامپ زنجنده: از امروز سنگین ترین عملیات اقتصادی تاریخ علیه ایران شروع میشه.\n\nبگا رفتیم؟\n\n#Venom\n@raptimeorgg",
     "text_html": "ترامپ زنجنده: از امروز سنگین ترین عملیات اقتصادی تاریخ علیه ایران شروع میشه.<br/><br/><blockquote>بگا رفتیم؟</blockquote><br/><br/><a href=\"?q=%23Venom\">#Venom</a><br/><a href=\"https://t.me/raptimeorgg\" target=\"_blank\">@raptimeorgg</a>",
     "is_edited": false,
-    "views": 3850,
-    "views_raw": "3.85K",
+    "views": 3960,
+    "views_raw": "3.96K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1086,7 +1178,7 @@
     "type": "album"
   },
   {
-    "index": 15,
+    "index": 16,
     "post_url": "https://t.me/raptimeorgg/71694",
     "post_id": "raptimeorgg/71694",
     "date": "2026-08-19T20:05:44+00:00",
@@ -1098,8 +1190,8 @@
     "text": "فردا همگی کنکور رو خوب میدین دیگه ؟",
     "text_html": "فردا همگی کنکور رو خوب میدین دیگه ؟",
     "is_edited": false,
-    "views": 3710,
-    "views_raw": "3.71K",
+    "views": 3800,
+    "views_raw": "3.8K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1156,7 +1248,7 @@
     "type": "photo"
   },
   {
-    "index": 16,
+    "index": 17,
     "post_url": "https://t.me/raptimeorgg/71693",
     "post_id": "raptimeorgg/71693",
     "date": "2026-08-19T19:26:42+00:00",
@@ -1168,8 +1260,8 @@
     "text": "فردا همگی کنکور رو خوب میدین دیگه ؟",
     "text_html": "فردا همگی کنکور رو خوب میدین دیگه ؟",
     "is_edited": false,
-    "views": 3730,
-    "views_raw": "3.73K",
+    "views": 3790,
+    "views_raw": "3.79K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1225,7 +1317,7 @@
     "type": "photo"
   },
   {
-    "index": 17,
+    "index": 18,
     "post_url": "https://t.me/raptimeorgg/71692",
     "post_id": "raptimeorgg/71692",
     "date": "2026-08-19T18:01:49+00:00",
@@ -1237,8 +1329,8 @@
     "text": "این پرسپولیسه یا بایرن مونیخ؟",
     "text_html": "این پرسپولیسه یا بایرن مونیخ؟",
     "is_edited": false,
-    "views": 3860,
-    "views_raw": "3.86K",
+    "views": 3920,
+    "views_raw": "3.92K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1287,77 +1379,6 @@
       "🔥",
       "🤣",
       "🖕"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 18,
-    "post_url": "https://t.me/raptimeorgg/71690",
-    "post_id": "raptimeorgg/71690",
-    "date": "2026-08-19T16:11:04+00:00",
-    "date_unix": 1787155864,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "دودول سلطنتی، ترند این روزها.\n\nدر یونان باستان دودول کوچیک، نماد شجاعت و عقلانیت بوده&#33;\nاگه به مجسمه‌های اون دوره دقت کنین، قهرمانان، خدایان و ورزشکاران، همگی با آلت تناسلی کوچیک به نمایش کشیده میشدن&#33;\nدر عوض آلت تناسلی بزرگ، نماد قشر پایین، حماقت و توحش بوده&#33;\nاین ادعا کاملا درسته و پسرایی که آلت تناسلی کوچیکی دارن، سلطنتی هستن و اجداد اونا قهرمان و از بزرگان بودن&#33;",
-    "text_html": "دودول سلطنتی، ترند این روزها.<br/><br/>در یونان باستان دودول کوچیک، نماد شجاعت و عقلانیت بوده&#33;<br/>اگه به مجسمه‌های اون دوره دقت کنین، قهرمانان، خدایان و ورزشکاران، همگی با آلت تناسلی کوچیک به نمایش کشیده میشدن&#33;<br/>در عوض آلت تناسلی بزرگ، نماد قشر پایین، حماقت و توحش بوده&#33;<br/>این ادعا کاملا درسته و پسرایی که آلت تناسلی کوچیکی دارن، سلطنتی هستن و اجداد اونا قهرمان و از بزرگان بودن&#33;",
-    "is_edited": false,
-    "views": 3980,
-    "views_raw": "3.98K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "raptimeorgg/71690",
-          "url": "https://cdn4.telesco.pe/file/ZSg_Jo3HaI1Pc1z7nLJlMAjsJ3xEe_VrXF-D6dpti6w7QzanhDsvz1VHNa0Z_RDlCic96EeBhUYYB0hwUNrM8iEFXgEdtb2Kwpczlhw3vkfy1I-GzmsClAKfBmn4vVRNTAWhftHP4RGU9RynqxY293iseXUTgK0mpCZN8N8HS04yi8fKFAFTOEm31jLQ1iOa8uLh9lVFSc3jRgiVf1MfhCrtF93OWTB1Dy5c3U0hnZUEPBtEhGtV3sJba2-qjV_HnHu51sQ0PZuRxog_ieewW7RFEsTxY6cwOjicd2nVsKFR3sCi5cEVrx-FmMVUK0TiT-d80vyfe0nO64Wzfyw1RQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/ZSg_Jo3HaI1Pc1z7nLJlMAjsJ3xEe_VrXF-D6dpti6w7QzanhDsvz1VHNa0Z_RDlCic96EeBhUYYB0hwUNrM8iEFXgEdtb2Kwpczlhw3vkfy1I-GzmsClAKfBmn4vVRNTAWhftHP4RGU9RynqxY293iseXUTgK0mpCZN8N8HS04yi8fKFAFTOEm31jLQ1iOa8uLh9lVFSc3jRgiVf1MfhCrtF93OWTB1Dy5c3U0hnZUEPBtEhGtV3sJba2-qjV_HnHu51sQ0PZuRxog_ieewW7RFEsTxY6cwOjicd2nVsKFR3sCi5cEVrx-FmMVUK0TiT-d80vyfe0nO64Wzfyw1RQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/raptimeorgg/media/photo/raptimeorgg_71690_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/raptimeorgg/media/photo/raptimeorgg_71690_0.jpg",
-          "size_bytes": 10451
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec",
-      "33"
-    ],
-    "mentions": [],
-    "links": [],
-    "emoji": [
-      "🥷",
-      "🏿",
-      "🤣",
-      "🖕",
-      "👍",
-      "💘"
     ],
     "reactions": [],
     "type": "photo"
