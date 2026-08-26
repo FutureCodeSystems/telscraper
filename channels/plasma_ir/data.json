@@ -1,6 +1,1054 @@
 [
   {
     "index": 1,
+    "post_url": "https://t.me/plasma_ir/194657",
+    "post_id": "plasma_ir/194657",
+    "date": "2026-08-26T13:52:48+00:00",
+    "date_unix": 1787752368,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": null,
+    "text_html": null,
+    "is_edited": false,
+    "views": 2310,
+    "views_raw": "2.31K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "mixed",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/194657",
+          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194657_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194657_0.jpg",
+          "size_bytes": 4488
+        },
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/194657",
+          "url": "https://cdn4.telesco.pe/file/iwiBl3HmedKIvzxnM4s3TqhrKcyDFR8tvLmUZ7_LWaf2NNStdRbfA0uHJzbjCYNeHAeMLljcd8cndJC5A9JLNzflJNSrWh9QZUiqHEVIAdUY2lDetd5tp_gCQalPCRMnlRYoqCAAU5QSD2nYz0kp3acXP8yJ8CwTQTOuuPrkHglbzHy0IuHUhf-duWaGw6N_N4IsDSwYQL6vfT6Ht8TKgF8Hv9GSEZ92T0fWP2G9SkqZhokvSIs0iSQClvn-MB2guAE3SbAuqOVRQ0O2oycyX-F6rHXuHCuEFMYDJY8R5TvrE8ij0nHlTwlukbA3DGLxQr7qeyL237ZA11mL8jpF7Q",
+          "full_url": "https://cdn4.telesco.pe/file/iwiBl3HmedKIvzxnM4s3TqhrKcyDFR8tvLmUZ7_LWaf2NNStdRbfA0uHJzbjCYNeHAeMLljcd8cndJC5A9JLNzflJNSrWh9QZUiqHEVIAdUY2lDetd5tp_gCQalPCRMnlRYoqCAAU5QSD2nYz0kp3acXP8yJ8CwTQTOuuPrkHglbzHy0IuHUhf-duWaGw6N_N4IsDSwYQL6vfT6Ht8TKgF8Hv9GSEZ92T0fWP2G9SkqZhokvSIs0iSQClvn-MB2guAE3SbAuqOVRQ0O2oycyX-F6rHXuHCuEFMYDJY8R5TvrE8ij0nHlTwlukbA3DGLxQr7qeyL237ZA11mL8jpF7Q",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194657_1.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194657_1.jpg",
+          "size_bytes": 10717
+        },
+        {
+          "type": "video",
+          "post_id": "plasma_ir/194657",
+          "url": "https://cdn4.telesco.pe/file/21715835df.mp4?token=uH9icTFZ36eEekQn8cVVM5yuD4A873_VdHtotQ4NQmVzGhdvXqyz0qP5Wl0PFR6m0qUV43R15voeU7r9RIetBJXCT_Bxn2PDXcfwlZfVXvOP7o3BKN0DJDWpbrgzTNHWqwdikMAoyoiB9s6LJ73P5LVIC4saVFoaxyQZxGaq42BQh4JAQjsC3gxdOrRnPb4Tyia8iIZUf8C_VjDAkcIFYO-85wZJzM3UwSR1bHY1Y3FPCq9QYxnIec2O2QrBVvOVovZAIyPb5hbNRRL0GL9Jkux41CwO4baSVq2FC2G_O7iBRN7F_b76F-QgnpVZzzGymwt85V0PIoHtAhB1lxG7nA",
+          "full_url": "https://cdn4.telesco.pe/file/21715835df.mp4?token=uH9icTFZ36eEekQn8cVVM5yuD4A873_VdHtotQ4NQmVzGhdvXqyz0qP5Wl0PFR6m0qUV43R15voeU7r9RIetBJXCT_Bxn2PDXcfwlZfVXvOP7o3BKN0DJDWpbrgzTNHWqwdikMAoyoiB9s6LJ73P5LVIC4saVFoaxyQZxGaq42BQh4JAQjsC3gxdOrRnPb4Tyia8iIZUf8C_VjDAkcIFYO-85wZJzM3UwSR1bHY1Y3FPCq9QYxnIec2O2QrBVvOVovZAIyPb5hbNRRL0GL9Jkux41CwO4baSVq2FC2G_O7iBRN7F_b76F-QgnpVZzzGymwt85V0PIoHtAhB1lxG7nA",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/video/plasma_ir_194657_2.mp4",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/video/plasma_ir_194657_2.mp4",
+          "size_bytes": 157282
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "🤣"
+    ],
+    "reactions": [],
+    "type": "media_only"
+  },
+  {
+    "index": 2,
+    "post_url": "https://t.me/plasma_ir/194656",
+    "post_id": "plasma_ir/194656",
+    "date": "2026-08-26T13:29:19+00:00",
+    "date_unix": 1787750959,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "فول ترین کار دنیا اینه بری دلت اکانت کنی  📬@plasma_ir | پلاسما",
+    "text_html": "فول ترین کار دنیا اینه بری دلت اکانت کنی  <tg-emoji emoji-id=\"5445163772706582819\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93AC.png')\"><b>📬</b></i></tg-emoji>@plasma_ir | پلاسما",
+    "is_edited": false,
+    "views": 2880,
+    "views_raw": "2.88K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "album",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/194656",
+          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194656_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194656_0.jpg",
+          "size_bytes": 4488
+        },
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/194656",
+          "url": "https://cdn4.telesco.pe/file/Ix_H-7-ceSuHC3HJ77KqNTpX25aXyLrnTkSciK2SPcl7Nxd8qUrhW0eVDv-Ux3CTyb03JV13Mr-HvfkfVr58jPQEpp0E6_kjWBsVGx2VQo8LMZGGPCBr9F7og4R2_GxDNjUFK3FxyZEGVnb5i_w6x95l8aqc7N30HKqAuBRnrSEHAsKQfvsKbawaLHTgpHj9r-1-MGqw1OSbg-LVagd5FTzSRxfb1LS5FQREs8KyFCncB2VYAVayG3X_5jqVONX05MW2ixRvhxXCtZTqS0tt1DHkf0H-tkIlL1QoX6cxs9k6PhUTDs97QPmCDDm0LieO2KOzxEk-eWg240qpft_VOA.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/Ix_H-7-ceSuHC3HJ77KqNTpX25aXyLrnTkSciK2SPcl7Nxd8qUrhW0eVDv-Ux3CTyb03JV13Mr-HvfkfVr58jPQEpp0E6_kjWBsVGx2VQo8LMZGGPCBr9F7og4R2_GxDNjUFK3FxyZEGVnb5i_w6x95l8aqc7N30HKqAuBRnrSEHAsKQfvsKbawaLHTgpHj9r-1-MGqw1OSbg-LVagd5FTzSRxfb1LS5FQREs8KyFCncB2VYAVayG3X_5jqVONX05MW2ixRvhxXCtZTqS0tt1DHkf0H-tkIlL1QoX6cxs9k6PhUTDs97QPmCDDm0LieO2KOzxEk-eWg240qpft_VOA.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194656_1.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194656_1.jpg",
+          "size_bytes": 1051
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [
+      "plasma_ir"
+    ],
+    "links": [],
+    "emoji": [
+      "📬",
+      "😭"
+    ],
+    "reactions": [],
+    "type": "album"
+  },
+  {
+    "index": 3,
+    "post_url": "https://t.me/plasma_ir/194655",
+    "post_id": "plasma_ir/194655",
+    "date": "2026-08-26T13:28:22+00:00",
+    "date_unix": 1787750902,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "فول ترین کار دنیا اینه بری دلت اکانت کنی  📬@plasma_ir | پلاسما",
+    "text_html": "فول ترین کار دنیا اینه بری دلت اکانت کنی  <tg-emoji emoji-id=\"5445163772706582819\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93AC.png')\"><b>📬</b></i></tg-emoji>@plasma_ir | پلاسما",
+    "is_edited": false,
+    "views": 2910,
+    "views_raw": "2.91K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "album",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/194655",
+          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194655_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194655_0.jpg",
+          "size_bytes": 4488
+        },
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/194655",
+          "url": "https://cdn4.telesco.pe/file/JY0bVwa2GTkTrfWOULZ0f1VquEnw3CwF6tpB5f8NpR3PpJKKal3zhF4utQepTj3Z0Gs1RsCK58M19AYQEiR0LHVdcs5VDxLf4HNYXTAxqEb0X0XhhvishTHYPh8N7D5NZ6YL4bWyPi1QkJV_pobBaTIoFHtP0PfV5LoTdT8KJaB0oZqOfs_q6Bnudb2pvO7mGHFi7ddd2DPoyQNjMplzXivOPasCDitOlOdnD0vrcliMaMlj9Qw0jXXrX_ecmQRFWISjskYYeUg2A8nsGmBDhNaAtK0qars_wtfIjGnLR-zcuXdLfAbN307og7iSFJmevKZAYYxBlqV_xwCAx1883A.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/JY0bVwa2GTkTrfWOULZ0f1VquEnw3CwF6tpB5f8NpR3PpJKKal3zhF4utQepTj3Z0Gs1RsCK58M19AYQEiR0LHVdcs5VDxLf4HNYXTAxqEb0X0XhhvishTHYPh8N7D5NZ6YL4bWyPi1QkJV_pobBaTIoFHtP0PfV5LoTdT8KJaB0oZqOfs_q6Bnudb2pvO7mGHFi7ddd2DPoyQNjMplzXivOPasCDitOlOdnD0vrcliMaMlj9Qw0jXXrX_ecmQRFWISjskYYeUg2A8nsGmBDhNaAtK0qars_wtfIjGnLR-zcuXdLfAbN307og7iSFJmevKZAYYxBlqV_xwCAx1883A.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194655_1.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194655_1.jpg",
+          "size_bytes": 1051
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [
+      "plasma_ir"
+    ],
+    "links": [],
+    "emoji": [
+      "📬",
+      "🤣",
+      "👍"
+    ],
+    "reactions": [],
+    "type": "album"
+  },
+  {
+    "index": 4,
+    "post_url": "https://t.me/plasma_ir/194654",
+    "post_id": "plasma_ir/194654",
+    "date": "2026-08-26T13:12:54+00:00",
+    "date_unix": 1787749974,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "فول ترین کار دنیا اینه بری دلت اکانت کنی  📬@plasma_ir | پلاسما",
+    "text_html": "فول ترین کار دنیا اینه بری دلت اکانت کنی  <tg-emoji emoji-id=\"5445163772706582819\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93AC.png')\"><b>📬</b></i></tg-emoji>@plasma_ir | پلاسما",
+    "is_edited": false,
+    "views": 3210,
+    "views_raw": "3.21K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "album",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/194654",
+          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194654_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194654_0.jpg",
+          "size_bytes": 4488
+        },
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/194654",
+          "url": "https://cdn4.telesco.pe/file/DBFf8MgtV8FsWZPW7Ovak7NXYoj4bPITqF-jpeearzrVep5iGSZdE1-_0zZBAYFEq-vh9Z0oh_4kh5MBoaK4Td75WDRiQ5kw4t0e50y-axOLQeWNnRqCqJrYDy33OWGaFcfY_ue-XkcHMvJ4NlydvUIKghGTo1fQ-Gv-bVp1MXuItQwERQOyHVOCpROSYf1Zg4pGKhOjedBvq3oz9ZWavziHIbIhdnnEvR-EdiYJv87n1pTnoP9-Pjb4hyiXh-YOOFrO6c0AYggOEn3-qSoTxBMEvTqSsAXfYS3P3G2JguiUO-RLqaFfnvLbmJ0bhhMruiAPTR6wmtZ84URzByku5g.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/DBFf8MgtV8FsWZPW7Ovak7NXYoj4bPITqF-jpeearzrVep5iGSZdE1-_0zZBAYFEq-vh9Z0oh_4kh5MBoaK4Td75WDRiQ5kw4t0e50y-axOLQeWNnRqCqJrYDy33OWGaFcfY_ue-XkcHMvJ4NlydvUIKghGTo1fQ-Gv-bVp1MXuItQwERQOyHVOCpROSYf1Zg4pGKhOjedBvq3oz9ZWavziHIbIhdnnEvR-EdiYJv87n1pTnoP9-Pjb4hyiXh-YOOFrO6c0AYggOEn3-qSoTxBMEvTqSsAXfYS3P3G2JguiUO-RLqaFfnvLbmJ0bhhMruiAPTR6wmtZ84URzByku5g.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194654_1.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194654_1.jpg",
+          "size_bytes": 1051
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [
+      "plasma_ir"
+    ],
+    "links": [],
+    "emoji": [
+      "📬",
+      "👍",
+      "🤣"
+    ],
+    "reactions": [],
+    "type": "album"
+  },
+  {
+    "index": 5,
+    "post_url": "https://t.me/plasma_ir/194653",
+    "post_id": "plasma_ir/194653",
+    "date": "2026-08-26T13:12:33+00:00",
+    "date_unix": 1787749953,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "🔴اطلاعیه مهم | نتایج امتحانات نهایی\nتاکنون هیچ‌گونه نمره یا کارنامه‌ای از امتحانات نهایی در سامانه «مای‌مدیو» منتشر نشده است.\n\n🔹دانش‌آموزان و خانواده‌ها توجه داشته باشند؛ اخبار و اطلاعیه‌های غیررسمی و تبلیغات جعلی درباره اعلام نتایج را ملاک قرار ندهند.\n🔹اطلاع‌رسانی درباره زمان انتشار نتایج، صرفاً پس از اعلام رسمی مراجع مربوطه انجام خواهد شد.\n\n📬@plasma_ir | پلاسما",
+    "text_html": "<tg-emoji emoji-id=\"5947164356331443681\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji><b>اطلاعیه مهم | نتایج امتحانات نهایی</b><br/>تاکنون <b>هیچ‌گونه نمره یا کارنامه‌ای از امتحانات نهایی</b> در سامانه «مای‌مدیو» منتشر نشده است.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>دانش‌آموزان و خانواده‌ها توجه داشته باشند؛ اخبار و اطلاعیه‌های غیررسمی و تبلیغات جعلی درباره اعلام نتایج را ملاک قرار ندهند.<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i>اطلاع‌رسانی درباره زمان انتشار نتایج، صرفاً پس از اعلام رسمی مراجع مربوطه انجام خواهد شد.<br/><br/><tg-emoji emoji-id=\"5445163772706582819\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93AC.png')\"><b>📬</b></i></tg-emoji><a href=\"https://t.me/plasma_ir\" target=\"_blank\">@plasma_ir</a><b> | پلاسما</b>",
+    "is_edited": false,
+    "views": 3240,
+    "views_raw": "3.24K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/194653",
+          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194653_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194653_0.jpg",
+          "size_bytes": 4488
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [
+      "plasma_ir"
+    ],
+    "links": [],
+    "emoji": [
+      "🔴",
+      "🔹",
+      "📬"
+    ],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 6,
+    "post_url": "https://t.me/plasma_ir/194652",
+    "post_id": "plasma_ir/194652",
+    "date": "2026-08-26T11:56:25+00:00",
+    "date_unix": 1787745385,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "کسی امسال هدفش قبولیه پزشکی ۰۵ کرمان هست؟",
+    "text_html": "کسی امسال هدفش قبولیه پزشکی ۰۵ کرمان هست؟",
+    "is_edited": false,
+    "views": 4150,
+    "views_raw": "4.15K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/194652",
+          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194652_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194652_0.jpg",
+          "size_bytes": 4488
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "👍",
+      "🤣",
+      "💔"
+    ],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 7,
+    "post_url": "https://t.me/plasma_ir/194651",
+    "post_id": "plasma_ir/194651",
+    "date": "2026-08-26T11:30:54+00:00",
+    "date_unix": 1787743854,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "سلام میشه بذارین لطفاً \nبچه ها من کنکور دادم ولی پزشکی فیزیو نمیشه. برم پرستاری؟\nبرم حقوق بخونم که وکالت کنم یا سردفتری بشم میتونم از پس درسا بر بیام؟ چون مسیر عوض میکنم دیگه. چون دبیرستان انسانی نخوندم\nآیا بهم وابسته ان دانشگاه و دبیرستان توی انسانی؟ \nبچه های رشته انسانی هم کامنت بذارن بگن چطوریه این رشته. بیام خوبه؟ میگن اگه با سواد باشی میتونی به درآمد برسی. بی سواد باشی نه. چون وکیل زیاده.\n\nپسرم خودشم و اگه قرار باشه بمونم پشت ، ۴۰۶ آخریمه که میتونم بمونم",
+    "text_html": "سلام میشه بذارین لطفاً <br/>بچه ها من کنکور دادم ولی پزشکی فیزیو نمیشه. برم پرستاری؟<br/>برم حقوق بخونم که وکالت کنم یا سردفتری بشم میتونم از پس درسا بر بیام؟ چون مسیر عوض میکنم دیگه. چون دبیرستان انسانی نخوندم<br/>آیا بهم وابسته ان دانشگاه و دبیرستان توی انسانی؟ <br/>بچه های رشته انسانی هم کامنت بذارن بگن چطوریه این رشته. بیام خوبه؟ میگن اگه با سواد باشی میتونی به درآمد برسی. بی سواد باشی نه. چون وکیل زیاده.<br/><br/>پسرم خودشم و اگه قرار باشه بمونم پشت ، ۴۰۶ آخریمه که میتونم بمونم",
+    "is_edited": false,
+    "views": 4430,
+    "views_raw": "4.43K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/194651",
+          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194651_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194651_0.jpg",
+          "size_bytes": 4488
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "👍",
+      "😍"
+    ],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 8,
+    "post_url": "https://t.me/plasma_ir/194650",
+    "post_id": "plasma_ir/194650",
+    "date": "2026-08-26T11:30:38+00:00",
+    "date_unix": 1787743838,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "آقا میشه اینو بذاری ؟ \nمن بین انتخاب ریاضی و تجربی موندم برای کنکورم",
+    "text_html": "آقا میشه اینو بذاری ؟ <br/>من بین انتخاب ریاضی و تجربی موندم برای کنکورم",
+    "is_edited": false,
+    "views": 4330,
+    "views_raw": "4.33K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/194650",
+          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194650_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194650_0.jpg",
+          "size_bytes": 4488
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 9,
+    "post_url": "https://t.me/plasma_ir/194649",
+    "post_id": "plasma_ir/194649",
+    "date": "2026-08-26T11:30:02+00:00",
+    "date_unix": 1787743802,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "همیشه برام سواله اگر کسی یه کد رشته قبول بشه و نره کی جاشو میگیره؟",
+    "text_html": "همیشه برام سواله اگر کسی یه کد رشته قبول بشه و نره کی جاشو میگیره؟",
+    "is_edited": false,
+    "views": 4300,
+    "views_raw": "4.3K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/194649",
+          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194649_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194649_0.jpg",
+          "size_bytes": 4488
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "👍"
+    ],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 10,
+    "post_url": "https://t.me/plasma_ir/194648",
+    "post_id": "plasma_ir/194648",
+    "date": "2026-08-26T11:21:29+00:00",
+    "date_unix": 1787743289,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "‌\nسلام اگه پزشکی تعهدی بزنیم یعنی انتخاب رشته کنیم و قبول نشیم سال بعد از کنکور محرومیم؟",
+    "text_html": "‌<br/>سلام اگه پزشکی تعهدی بزنیم یعنی انتخاب رشته کنیم و قبول نشیم سال بعد از کنکور محرومیم؟",
+    "is_edited": false,
+    "views": 4420,
+    "views_raw": "4.42K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/194648",
+          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194648_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194648_0.jpg",
+          "size_bytes": 4488
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "👍",
+      "💔"
+    ],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 11,
+    "post_url": "https://t.me/plasma_ir/194647",
+    "post_id": "plasma_ir/194647",
+    "date": "2026-08-26T11:21:12+00:00",
+    "date_unix": 1787743272,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "‌\nاین دوستی که پدرش اذیت میکرد و میخواست  پشت بمونه\n\nفرهمند درمورد پشت موندن اینو میگف واقعا وقتی خودم پشت نشستم درکش کردم\nیه حقیقت تلخ اینه که\n\nپشت کنکور موندن برای خانواده‌های پرجمعیت و نداشتن روحیه حامی بودن و اونایی که مشکل مالی و خانوادگی دارن \nهم از نظر مالی و هم روانی خیلی سخته\n\nمن واقعیت ۴ سال پشت موندم و امسال میرم پرستاری چیزی\nفهمیدن فقط استعداد نیست خانواده خیلی مهمه خیلی\nپشت موندن برا دخترا تو این تیپ خانواده ها هم به مراتب سختره \n\n\n\nبد میگم ؟",
+    "text_html": "‌<br/>این دوستی که پدرش اذیت میکرد و میخواست  پشت بمونه<br/><br/>فرهمند درمورد پشت موندن اینو میگف واقعا وقتی خودم پشت نشستم درکش کردم<br/>یه حقیقت تلخ اینه که<br/><br/>پشت کنکور موندن برای خانواده‌های پرجمعیت و نداشتن روحیه حامی بودن و اونایی که مشکل مالی و خانوادگی دارن <br/>هم از نظر مالی و هم روانی خیلی سخته<br/><br/>من واقعیت ۴ سال پشت موندم و امسال میرم پرستاری چیزی<br/>فهمیدن فقط استعداد نیست خانواده خیلی مهمه خیلی<br/>پشت موندن برا دخترا تو این تیپ خانواده ها هم به مراتب سختره <br/><br/><br/><br/>بد میگم ؟",
+    "is_edited": false,
+    "views": 4360,
+    "views_raw": "4.36K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/194647",
+          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194647_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194647_0.jpg",
+          "size_bytes": 4488
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "👍",
+      "💔"
+    ],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 12,
+    "post_url": "https://t.me/plasma_ir/194646",
+    "post_id": "plasma_ir/194646",
+    "date": "2026-08-26T11:20:32+00:00",
+    "date_unix": 1787743232,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "استرس کارنامه نهایی و دارید؟",
+    "text_html": "استرس کارنامه نهایی و دارید؟",
+    "is_edited": false,
+    "views": 4090,
+    "views_raw": "4.09K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/194646",
+          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194646_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194646_0.jpg",
+          "size_bytes": 4488
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "👍",
+      "🗿",
+      "🤣",
+      "💔"
+    ],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 13,
+    "post_url": "https://t.me/plasma_ir/194645",
+    "post_id": "plasma_ir/194645",
+    "date": "2026-08-26T11:18:14+00:00",
+    "date_unix": 1787743094,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "بعدشم تبلیغ چنلا شروع میشه که بیایین اتاقشو ببینین تو چه شرایطی درس خونده",
+    "text_html": "بعدشم تبلیغ چنلا شروع میشه که بیایین اتاقشو ببینین تو چه شرایطی درس خونده",
+    "is_edited": false,
+    "views": 4120,
+    "views_raw": "4.12K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/194645",
+          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194645_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194645_0.jpg",
+          "size_bytes": 4488
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "🤣"
+    ],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 14,
+    "post_url": "https://t.me/plasma_ir/194644",
+    "post_id": "plasma_ir/194644",
+    "date": "2026-08-26T11:15:14+00:00",
+    "date_unix": 1787742914,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "تا چند وقت اینده :\nسلام من کصخله کصخلنیا هستم رتبه ۱ کنکور 1405 تجربی\nاز موسسه ماز خیلی سبز قلمچی جهشینو کلاسینو حلی سمپاد گزینه دو کیر خر کیر نر کیر ماده و هزاران کیره دیگه استفاده کردم و الا رتبه یک نمیشدم",
+    "text_html": "تا چند وقت اینده :<br/>سلام من کصخله کصخلنیا هستم رتبه ۱ کنکور 1405 تجربی<br/>از موسسه ماز خیلی سبز قلمچی جهشینو کلاسینو حلی سمپاد گزینه دو کیر خر کیر نر کیر ماده و هزاران کیره دیگه استفاده کردم و الا رتبه یک نمیشدم",
+    "is_edited": false,
+    "views": 4210,
+    "views_raw": "4.21K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/194644",
+          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194644_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194644_0.jpg",
+          "size_bytes": 4488
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "🤣",
+      "😍"
+    ],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 15,
+    "post_url": "https://t.me/plasma_ir/194643",
+    "post_id": "plasma_ir/194643",
+    "date": "2026-08-26T11:08:37+00:00",
+    "date_unix": 1787742517,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "‌\nسلام به عنوان یه برادر بزرگتر ازت کمک میخوام\nمن زندگیم خیلی سخته بابام معتاده خیلی خانوادمو اذیت میکنه و مادرم تمام امیدش به منه من امسال بخاطر این برنامه های دی و جنگ اصلا درست درس نخوندم و برای امتحانای نهایی نصف کتابارو من شب امتحان میخوندم ولی به این حال تونستم همه درسارا بالا ۱۸ بشم به جز فارسی و سلامت و هویت درصدای کنکورم همشون بین ۳۰ و ۵۰ تا دیگه امیدی به قبولی ندارم ولی پدرم خیلی اذیتم میکنه و بهم میگه باید پول در بیاری و مادرم همه امیدش به اینه من پزشکی بیارم ولی خودمم میدونم نمیارم\n\nحالا بین یه دوراهی موندم میدونم اگه بخوام پشت بمونم همش از طرف پدرم قراره اذیت بشم و مادرم دیگه تحمل نمیتونه بکنه منتظره من قبول بشم طلاق بگیره\nاگه جای من بودی چیکار میکردی؟\nمطمئنم اگه پشت بمونم میتونم دندون پزشکی بیارم ولی خیلی احتمالش کمه حالا نمیدونم چیکار کنم میخوام برای اینکه هرچه سریعتر پدرمو بیرون کنم برم دبیری زیست یا شیمی چیزی که همون اول کار حقوق بگیرم ولی از طرفی دوست ندارم ۵۰ سال آینده عمرمو توی رشته ای که دوست ندارم برم\nولی از یه طرف دیگه آینده خواهرم و مادرم به همین بستگی داره\n\nلطفا کمکم کن به عنوان یه دوست برادر هرچه فکر میکنی و از دیدگاه خودت بهم بگو پشت بمونم یا برم دبیری با توجه به زندگیم",
+    "text_html": "‌<br/>سلام به عنوان یه برادر بزرگتر ازت کمک میخوام<br/>من زندگیم خیلی سخته بابام معتاده خیلی خانوادمو اذیت میکنه و مادرم تمام امیدش به منه من امسال بخاطر این برنامه های دی و جنگ اصلا درست درس نخوندم و برای امتحانای نهایی نصف کتابارو من شب امتحان میخوندم ولی به این حال تونستم همه درسارا بالا ۱۸ بشم به جز فارسی و سلامت و هویت درصدای کنکورم همشون بین ۳۰ و ۵۰ تا دیگه امیدی به قبولی ندارم ولی پدرم خیلی اذیتم میکنه و بهم میگه باید پول در بیاری و مادرم همه امیدش به اینه من پزشکی بیارم ولی خودمم میدونم نمیارم<br/><br/>حالا بین یه دوراهی موندم میدونم اگه بخوام پشت بمونم همش از طرف پدرم قراره اذیت بشم و مادرم دیگه تحمل نمیتونه بکنه منتظره من قبول بشم طلاق بگیره<br/>اگه جای من بودی چیکار میکردی؟<br/>مطمئنم اگه پشت بمونم میتونم دندون پزشکی بیارم ولی خیلی احتمالش کمه حالا نمیدونم چیکار کنم میخوام برای اینکه هرچه سریعتر پدرمو بیرون کنم برم دبیری زیست یا شیمی چیزی که همون اول کار حقوق بگیرم ولی از طرفی دوست ندارم ۵۰ سال آینده عمرمو توی رشته ای که دوست ندارم برم<br/>ولی از یه طرف دیگه آینده خواهرم و مادرم به همین بستگی داره<br/><br/>لطفا کمکم کن به عنوان یه دوست برادر هرچه فکر میکنی و از دیدگاه خودت بهم بگو پشت بمونم یا برم دبیری با توجه به زندگیم",
+    "is_edited": false,
+    "views": 4360,
+    "views_raw": "4.36K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "plasma_ir/194643",
+          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194643_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194643_0.jpg",
+          "size_bytes": 4488
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [
+      "💔",
+      "😭"
+    ],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 16,
     "post_url": "https://t.me/plasma_ir/194642",
     "post_id": "plasma_ir/194642",
     "date": "2026-08-26T11:08:23+00:00",
@@ -12,8 +1060,8 @@
     "text": "‌\nپلاسما واقعا جای جالبیه\nطرف داره خودشو پاره می کنه که چرا به دختره گفتی زشت بعد خودش میاد اسم و قد و چهره بقیه رو مسخره می کنه",
     "text_html": "‌<br/>پلاسما واقعا جای جالبیه<br/>طرف داره خودشو پاره می کنه که چرا به دختره گفتی زشت بعد خودش میاد اسم و قد و چهره بقیه رو مسخره می کنه",
     "is_edited": false,
-    "views": 543,
-    "views_raw": "543",
+    "views": 4210,
+    "views_raw": "4.21K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -65,7 +1113,7 @@
     "type": "photo"
   },
   {
-    "index": 2,
+    "index": 17,
     "post_url": "https://t.me/plasma_ir/194641",
     "post_id": "plasma_ir/194641",
     "date": "2026-08-26T09:39:47+00:00",
@@ -77,8 +1125,8 @@
     "text": "با درخواست دوستان پست یکی به اخر چنل حذف شد و از دوستان عذرخواهی میکنم❤️",
     "text_html": "با درخواست دوستان پست یکی به اخر چنل حذف شد و از دوستان عذرخواهی میکنم<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29DA4.png')\"><b>❤️</b></i>",
     "is_edited": false,
-    "views": 2870,
-    "views_raw": "2.87K",
+    "views": 4900,
+    "views_raw": "4.9K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -133,7 +1181,7 @@
     "type": "photo"
   },
   {
-    "index": 3,
+    "index": 18,
     "post_url": "https://t.me/plasma_ir/194640",
     "post_id": "plasma_ir/194640",
     "date": "2026-08-26T09:38:47+00:00",
@@ -145,8 +1193,8 @@
     "text": "🔴مدیرکل ارزیابی عملکرد و پاسخگویی به شکایات وزارت آموزش و پرورش: امسال کلا فقط و فقط ۱۴۰ مورد شکایت والدین از مدارس ثبت شده که به تمامی آن‌ها رسیدگی و پاسخ داده شده و خداروشکر مشکلی نداشتیم.\n\n📬@plasma_ir | پلاسما",
     "text_html": "<tg-emoji emoji-id=\"5947164356331443681\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji>مدیرکل ارزیابی عملکرد و پاسخگویی به شکایات وزارت آموزش و پرورش: <b>امسال کلا فقط و فقط ۱۴۰ مورد شکایت والدین از مدارس ثبت شده که به تمامی آن‌ها رسیدگی و پاسخ داده شده و خداروشکر مشکلی نداشتیم.</b><br/><br/><tg-emoji emoji-id=\"5445163772706582819\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93AC.png')\"><b>📬</b></i></tg-emoji><a href=\"https://t.me/plasma_ir\" target=\"_blank\">@plasma_ir</a><b> | پلاسما</b>",
     "is_edited": false,
-    "views": 2900,
-    "views_raw": "2.9K",
+    "views": 4960,
+    "views_raw": "4.96K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -202,7 +1250,7 @@
     "type": "photo"
   },
   {
-    "index": 4,
+    "index": 19,
     "post_url": "https://t.me/plasma_ir/194638",
     "post_id": "plasma_ir/194638",
     "date": "2026-08-26T08:50:20+00:00",
@@ -214,8 +1262,8 @@
     "text": "بعد عمه ما ۱۲ سال صبر میکنه ما کنکور بدیم نتایج که اومد اونقدر زنگ میزنه تا روح و روانمونو نابود کنه\n\n📬@plasma_ir | پلاسما",
     "text_html": "بعد عمه ما ۱۲ سال صبر میکنه ما کنکور بدیم نتایج که اومد اونقدر زنگ میزنه تا روح و روانمونو نابود کنه<br/><br/><tg-emoji emoji-id=\"5445163772706582819\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93AC.png')\"><b>📬</b></i></tg-emoji><a href=\"https://t.me/plasma_ir\" target=\"_blank\">@plasma_ir</a><b> | پلاسما</b>",
     "is_edited": false,
-    "views": 3840,
-    "views_raw": "3.84K",
+    "views": 5480,
+    "views_raw": "5.48K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -285,1034 +1333,12 @@
     "emoji": [
       "📬",
       "👍",
+      "🤣",
       "💔",
       "‍",
-      "🔥",
-      "🤣"
+      "🔥"
     ],
     "reactions": [],
     "type": "text"
-  },
-  {
-    "index": 5,
-    "post_url": "https://t.me/plasma_ir/194637",
-    "post_id": "plasma_ir/194637",
-    "date": "2026-08-26T08:01:21+00:00",
-    "date_unix": 1787731281,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "بسیار رشته خوب و راحتی هستش قبولی هم بسیار سخت",
-    "text_html": "بسیار رشته خوب و راحتی هستش قبولی هم بسیار سخت",
-    "is_edited": false,
-    "views": 4350,
-    "views_raw": "4.35K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "plasma_ir/194637",
-          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194637_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194637_0.jpg",
-          "size_bytes": 4488
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [],
-    "links": [],
-    "emoji": [
-      "🤣",
-      "👍",
-      "🗿"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 6,
-    "post_url": "https://t.me/plasma_ir/194636",
-    "post_id": "plasma_ir/194636",
-    "date": "2026-08-26T08:00:20+00:00",
-    "date_unix": 1787731220,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "یکبار برای همیشه\n\nمن بیکارم و رشته بیکاری میخونم\n\n📱@PLASMA_IR | پلاسما",
-    "text_html": "یکبار برای همیشه<br/><br/>من بیکارم و رشته بیکاری میخونم<br/><br/><blockquote><tg-emoji emoji-id=\"5069005318537610314\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93B1.png')\"><b>📱</b></i></tg-emoji><a href=\"https://t.me/PLASMA_IR\" target=\"_blank\">@PLASMA_IR</a> | پلاسما</blockquote>",
-    "is_edited": false,
-    "views": 4320,
-    "views_raw": "4.32K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "plasma_ir/194636",
-          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194636_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194636_0.jpg",
-          "size_bytes": 4488
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [
-      "PLASMA_IR"
-    ],
-    "links": [],
-    "emoji": [
-      "📱",
-      "🗿",
-      "🤣",
-      "👍"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 7,
-    "post_url": "https://t.me/plasma_ir/194635",
-    "post_id": "plasma_ir/194635",
-    "date": "2026-08-26T08:00:00+00:00",
-    "date_unix": 1787731200,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "رامین نگفتی رشتت چیه منم کنجکاو شدم",
-    "text_html": "رامین نگفتی رشتت چیه منم کنجکاو شدم",
-    "is_edited": false,
-    "views": 4320,
-    "views_raw": "4.32K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "plasma_ir/194635",
-          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194635_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194635_0.jpg",
-          "size_bytes": 4488
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [],
-    "links": [],
-    "emoji": [],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 8,
-    "post_url": "https://t.me/plasma_ir/194634",
-    "post_id": "plasma_ir/194634",
-    "date": "2026-08-26T07:58:47+00:00",
-    "date_unix": 1787731127,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "مربی بهداشت  بجز مدرسه کجاها میتونه کار کنه",
-    "text_html": "مربی بهداشت  بجز مدرسه کجاها میتونه کار کنه",
-    "is_edited": false,
-    "views": 4350,
-    "views_raw": "4.35K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "plasma_ir/194634",
-          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194634_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194634_0.jpg",
-          "size_bytes": 4488
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [],
-    "links": [],
-    "emoji": [
-      "🤣",
-      "😍"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 9,
-    "post_url": "https://t.me/plasma_ir/194633",
-    "post_id": "plasma_ir/194633",
-    "date": "2026-08-26T07:58:26+00:00",
-    "date_unix": 1787731106,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "مربی بهداشت \nبجز مدرسه کجاها میتونه کار کنه",
-    "text_html": "مربی بهداشت <br/>بجز مدرسه کجاها میتونه کار کنه",
-    "is_edited": false,
-    "views": 4290,
-    "views_raw": "4.29K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "plasma_ir/194633",
-          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194633_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194633_0.jpg",
-          "size_bytes": 4488
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [],
-    "links": [],
-    "emoji": [
-      "🤣"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 10,
-    "post_url": "https://t.me/plasma_ir/194632",
-    "post_id": "plasma_ir/194632",
-    "date": "2026-08-26T07:55:17+00:00",
-    "date_unix": 1787730917,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "امسال انتخاب رشته فرهنگیان و سراسری باهمه؟",
-    "text_html": "امسال انتخاب رشته فرهنگیان و سراسری باهمه؟",
-    "is_edited": false,
-    "views": 4260,
-    "views_raw": "4.26K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "plasma_ir/194632",
-          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194632_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194632_0.jpg",
-          "size_bytes": 4488
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [],
-    "links": [],
-    "emoji": [
-      "👍"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 11,
-    "post_url": "https://t.me/plasma_ir/194631",
-    "post_id": "plasma_ir/194631",
-    "date": "2026-08-26T07:55:08+00:00",
-    "date_unix": 1787730908,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "اواخر شهریور دفترچه انتخاب رشته میاد اونموقع همچی مشخص میشه\n\n📬@plasma_ir | پلاسما",
-    "text_html": "اواخر شهریور دفترچه انتخاب رشته میاد اونموقع همچی مشخص میشه<br/><br/><tg-emoji emoji-id=\"5445163772706582819\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93AC.png')\"><b>📬</b></i></tg-emoji><a href=\"https://t.me/plasma_ir\" target=\"_blank\">@plasma_ir</a><b> | پلاسما</b>",
-    "is_edited": false,
-    "views": 4260,
-    "views_raw": "4.26K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "plasma_ir/194631",
-          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194631_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194631_0.jpg",
-          "size_bytes": 4488
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [
-      "plasma_ir"
-    ],
-    "links": [],
-    "emoji": [
-      "📬"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 12,
-    "post_url": "https://t.me/plasma_ir/194630",
-    "post_id": "plasma_ir/194630",
-    "date": "2026-08-26T07:54:52+00:00",
-    "date_unix": 1787730892,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "⭕ظرفیت پذیرش کنکورفرهنگیان ۱۴۰۵ حدود ٣٠ هزار نفر\n\n👤رئیس مرکز برنامه‌ریزی منابع انسانی و امور اداری وزارت آموزش و پرورش:\n🔹ظرفیت پذیرش دانشجومعلمان برای سال ١۴٠۵ حداقل ٣٠ هزار نفر برآورد شده و با استفاده از ظرفیت‌های قانونی، امکان افزایش این تعداد نیز وجود دارد؛ هرچند کمبود فضای آموزشی در مراکز استان‌ها یکی از چالش‌های جدی این مسیر است.\n\n🟡٢۶ هزارنفر دانشجومعلم فرهنگیان \n🟡١ هزار نفر تربیت دبیر شهید رجایی تهران \n🟡٣ هزار نفر بدون آزمون (استعداد درخشان) \n\n📬@plasma_ir | پلاسما",
-    "text_html": "<b><tg-emoji emoji-id=\"5947560906366915287\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕</b></i></tg-emoji></b><b>ظرفیت پذیرش کنکورفرهنگیان ۱۴۰۵ حدود ٣٠ هزار نفر</b><br/><br/><tg-emoji emoji-id=\"5949483325138670074\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91A4.png')\"><b>👤</b></i></tg-emoji>رئیس مرکز برنامه‌ریزی منابع انسانی و امور اداری وزارت آموزش و پرورش:<br/><tg-emoji emoji-id=\"5949668090336776775\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i></tg-emoji>ظرفیت پذیرش دانشجومعلمان برای سال ١۴٠۵ حداقل ٣٠ هزار نفر برآورد شده و با استفاده از ظرفیت‌های قانونی، امکان افزایش این تعداد نیز وجود دارد؛ هرچند کمبود فضای آموزشی در مراکز استان‌ها یکی از چالش‌های جدی این مسیر است.<br/><br/><tg-emoji emoji-id=\"5947357664219501043\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA1.png')\"><b>🟡</b></i></tg-emoji>٢۶ هزارنفر دانشجومعلم فرهنگیان <br/><tg-emoji emoji-id=\"5947357664219501043\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA1.png')\"><b>🟡</b></i></tg-emoji>١ هزار نفر تربیت دبیر شهید رجایی تهران <br/><tg-emoji emoji-id=\"5947357664219501043\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA1.png')\"><b>🟡</b></i></tg-emoji>٣ هزار نفر بدون آزمون (استعداد درخشان) <br/><br/><tg-emoji emoji-id=\"5445163772706582819\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93AC.png')\"><b>📬</b></i></tg-emoji><a href=\"https://t.me/plasma_ir\" target=\"_blank\">@plasma_ir</a><b> | پلاسما</b>",
-    "is_edited": false,
-    "views": 4230,
-    "views_raw": "4.23K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "plasma_ir/194630",
-          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194630_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194630_0.jpg",
-          "size_bytes": 4488
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [
-      "plasma_ir"
-    ],
-    "links": [],
-    "emoji": [
-      "⭕",
-      "👤",
-      "🔹",
-      "🟡",
-      "📬",
-      "🤣"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 13,
-    "post_url": "https://t.me/plasma_ir/194629",
-    "post_id": "plasma_ir/194629",
-    "date": "2026-08-26T07:50:01+00:00",
-    "date_unix": 1787730601,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "همون موقعی که فکرشو نمیکنی نمره ها میاد",
-    "text_html": "همون موقعی که فکرشو نمیکنی نمره ها میاد",
-    "is_edited": false,
-    "views": 4170,
-    "views_raw": "4.17K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "plasma_ir/194629",
-          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194629_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194629_0.jpg",
-          "size_bytes": 4488
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [],
-    "links": [],
-    "emoji": [
-      "🤣",
-      "👍"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 14,
-    "post_url": "https://t.me/plasma_ir/194628",
-    "post_id": "plasma_ir/194628",
-    "date": "2026-08-26T07:49:58+00:00",
-    "date_unix": 1787730598,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "همون موقعی که فکرشو نمیکنی نمره ها میاد",
-    "text_html": "همون موقعی که فکرشو نمیکنی نمره ها میاد",
-    "is_edited": false,
-    "views": 4110,
-    "views_raw": "4.11K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "plasma_ir/194628",
-          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194628_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194628_0.jpg",
-          "size_bytes": 4488
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [],
-    "links": [],
-    "emoji": [
-      "👍"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 15,
-    "post_url": "https://t.me/plasma_ir/194627",
-    "post_id": "plasma_ir/194627",
-    "date": "2026-08-26T07:47:50+00:00",
-    "date_unix": 1787730470,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "کاظمی مادراشتراکی نتایج نهایی ما چیشد؟",
-    "text_html": "کاظمی مادراشتراکی نتایج نهایی ما چیشد؟",
-    "is_edited": false,
-    "views": 4200,
-    "views_raw": "4.2K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "plasma_ir/194627",
-          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194627_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194627_0.jpg",
-          "size_bytes": 4488
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [],
-    "links": [],
-    "emoji": [
-      "👍"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 16,
-    "post_url": "https://t.me/plasma_ir/194626",
-    "post_id": "plasma_ir/194626",
-    "date": "2026-08-26T07:41:44+00:00",
-    "date_unix": 1787730104,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "کاظمی مادراشتراکی نتایج نهایی ما چیشد؟",
-    "text_html": "کاظمی مادراشتراکی نتایج نهایی ما چیشد؟",
-    "is_edited": false,
-    "views": 4300,
-    "views_raw": "4.3K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "plasma_ir/194626",
-          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194626_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194626_0.jpg",
-          "size_bytes": 4488
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [],
-    "links": [],
-    "emoji": [
-      "👍",
-      "💔"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 17,
-    "post_url": "https://t.me/plasma_ir/194625",
-    "post_id": "plasma_ir/194625",
-    "date": "2026-08-26T06:05:20+00:00",
-    "date_unix": 1787724320,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "دبیرای محترم همو بغل کنید و بکشید بیرون اخرش به جای خوبی ختم نمیشه این دیس و دیسبک بازیتون از ما گفتن  📬@plasma_ir | پلاسما",
-    "text_html": "دبیرای محترم همو بغل کنید و بکشید بیرون اخرش به جای خوبی ختم نمیشه این دیس و دیسبک بازیتون از ما گفتن  <tg-emoji emoji-id=\"5445163772706582819\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93AC.png')\"><b>📬</b></i></tg-emoji>@plasma_ir | پلاسما",
-    "is_edited": false,
-    "views": 5020,
-    "views_raw": "5.02K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "album",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "plasma_ir/194625",
-          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194625_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194625_0.jpg",
-          "size_bytes": 4488
-        },
-        {
-          "type": "photo",
-          "post_id": "plasma_ir/194625",
-          "url": "https://cdn4.telesco.pe/file/uoioWwVfoNFfcivMLnrARaJaevKLXpjR6wsc0ad31-2Im5vZlHmAQgw6bLj6nvhArIRTGVRP4hLP6MxHv88_KOjlgIxgwjPq7S8JuQD2gLql2htheS_E64dNqPptSiMKTE_Wc_0vLxXVYcdf4527Lg9zJkyX3uqk7fcHXi9WgIxpvWEsMI2zV6nkA0RrAlOfY5_nmjVOYYUuh6dYPB9rNZFSbfaIQgBIFDzJ9fS82i4jLw7onSOYXQuZGEkJJ-aAvaZJaXQwlB9pA-Mnp70qfSek3YLhU6m64qd6WBlw44UEPNfTbEMi0PXj2OTEkJVKYwo-i2SU_q5pE_5cjKEOcA.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/uoioWwVfoNFfcivMLnrARaJaevKLXpjR6wsc0ad31-2Im5vZlHmAQgw6bLj6nvhArIRTGVRP4hLP6MxHv88_KOjlgIxgwjPq7S8JuQD2gLql2htheS_E64dNqPptSiMKTE_Wc_0vLxXVYcdf4527Lg9zJkyX3uqk7fcHXi9WgIxpvWEsMI2zV6nkA0RrAlOfY5_nmjVOYYUuh6dYPB9rNZFSbfaIQgBIFDzJ9fS82i4jLw7onSOYXQuZGEkJJ-aAvaZJaXQwlB9pA-Mnp70qfSek3YLhU6m64qd6WBlw44UEPNfTbEMi0PXj2OTEkJVKYwo-i2SU_q5pE_5cjKEOcA.jpg",
-          "thumbnail": null,
-          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194625_1.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194625_1.jpg",
-          "size_bytes": 12253
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [
-      "plasma_ir"
-    ],
-    "links": [],
-    "emoji": [
-      "📬",
-      "🤣"
-    ],
-    "reactions": [],
-    "type": "album"
-  },
-  {
-    "index": 18,
-    "post_url": "https://t.me/plasma_ir/194624",
-    "post_id": "plasma_ir/194624",
-    "date": "2026-08-26T06:03:45+00:00",
-    "date_unix": 1787724225,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "دبیرای محترم همو بغل کنید و بکشید بیرون اخرش به جای خوبی ختم نمیشه این دیس و دیسبک بازیتون از ما گفتن\n\n📬@plasma_ir | پلاسما",
-    "text_html": "دبیرای محترم همو بغل کنید و بکشید بیرون اخرش به جای خوبی ختم نمیشه این دیس و دیسبک بازیتون از ما گفتن<br/><br/><tg-emoji emoji-id=\"5445163772706582819\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93AC.png')\"><b>📬</b></i></tg-emoji><a href=\"https://t.me/plasma_ir\" target=\"_blank\">@plasma_ir</a><b> | پلاسما</b>",
-    "is_edited": false,
-    "views": 4930,
-    "views_raw": "4.93K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "plasma_ir/194624",
-          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194624_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194624_0.jpg",
-          "size_bytes": 4488
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [
-      "plasma_ir"
-    ],
-    "links": [],
-    "emoji": [
-      "📬",
-      "🤣"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 19,
-    "post_url": "https://t.me/plasma_ir/194623",
-    "post_id": "plasma_ir/194623",
-    "date": "2026-08-26T06:01:33+00:00",
-    "date_unix": 1787724093,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "فول ترین کار دنیا اینه بری دلت اکانت کنی\n\n📬@plasma_ir | پلاسما",
-    "text_html": "فول ترین کار دنیا اینه بری دلت اکانت کنی<br/><br/><tg-emoji emoji-id=\"5445163772706582819\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93AC.png')\"><b>📬</b></i></tg-emoji><a href=\"https://t.me/plasma_ir\" target=\"_blank\">@plasma_ir</a><b> | پلاسما</b>",
-    "is_edited": false,
-    "views": 4990,
-    "views_raw": "4.99K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "album",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "plasma_ir/194623",
-          "url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/AOccbW6bGYUcuoYB7OETT0Amjh8phzyCc7auZegiWLvSWau3mPJscmo5OfCCfa0GBk4Pz2vP2YwdDDQ8c5mjj8zel7faNqLPmfMzkq-jaWR741SKi0cFrMA7AUF0XEXgGqR9q1ixreeq6BojYVi44wJy7aNlZ53Z7A617sVk-KTaTKFuq01sg4VGjKzqwApjTdBe9rO1w4-DCPT2AzevX23jaKVtIl6vmNEHKUkuC938NPjHWaNBYJWlJXkvq6PQ-fUVN_V1GM2Mw4wK6fgybdzBjLHaHOOS-jbBUjLP-RQk-VGzmU12mc7_Z4Xp5BB4huch71G8bzTl_RlAJsnlQQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194623_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194623_0.jpg",
-          "size_bytes": 4488
-        },
-        {
-          "type": "photo",
-          "post_id": "plasma_ir/194623",
-          "url": "https://cdn4.telesco.pe/file/OXKoGzvEhDgiU9qeU0kvaGckoCDNsunY7qh2p5rzU04Arkrybyq0UExLu8pTWFaICEolTjMFGPLFZVQK-xu9OnV1Psj8YN_yRHM43yuhaQWi2nUAhG2Ggxh5fWAmmMlMke_FGDzvH0mc_UODFIoxtMuwWq3e27weIqpQMHqyHrrH8-0bTwh8ZLa_V9mI9GLPf7-I2KkdNWHjwU-VsMD40tuBMyTwr-sLvbmGq_1ClNcdcmtt_47sFsHvejtht8Kbi_ZnmHaKuNfovIU_ntSALYLMVj1KVFMsPywYT3DEt3hHEmcSb6S9j9GjTsVtKvLLIcSJyhrLVU4yN24cxcl6Wg.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/OXKoGzvEhDgiU9qeU0kvaGckoCDNsunY7qh2p5rzU04Arkrybyq0UExLu8pTWFaICEolTjMFGPLFZVQK-xu9OnV1Psj8YN_yRHM43yuhaQWi2nUAhG2Ggxh5fWAmmMlMke_FGDzvH0mc_UODFIoxtMuwWq3e27weIqpQMHqyHrrH8-0bTwh8ZLa_V9mI9GLPf7-I2KkdNWHjwU-VsMD40tuBMyTwr-sLvbmGq_1ClNcdcmtt_47sFsHvejtht8Kbi_ZnmHaKuNfovIU_ntSALYLMVj1KVFMsPywYT3DEt3hHEmcSb6S9j9GjTsVtKvLLIcSJyhrLVU4yN24cxcl6Wg.jpg",
-          "thumbnail": null,
-          "local_path": "channels/plasma_ir/media/photo/plasma_ir_194623_1.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/plasma_ir/media/photo/plasma_ir_194623_1.jpg",
-          "size_bytes": 29754
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [
-      "plasma_ir"
-    ],
-    "links": [],
-    "emoji": [
-      "📬",
-      "👍",
-      "🤣"
-    ],
-    "reactions": [],
-    "type": "album"
   }
 ]
