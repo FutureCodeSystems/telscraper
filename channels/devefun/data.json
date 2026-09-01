@@ -1,76 +1,6 @@
 [
   {
     "index": 1,
-    "post_url": "https://t.me/devefun/4808",
-    "post_id": "devefun/4808",
-    "date": "2026-08-31T19:23:54+00:00",
-    "date_unix": 1788204234,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "🚀 تلگرام یک قابلیت جدید معرفی کرد: Telegram Serverless\n\nاز این به بعد توسعه‌دهنده‌ها می‌تونن Backend ربات‌ها و Mini Appهاشون رو مستقیماً روی زیرساخت تلگرام اجرا کنن.\n\nیعنی دیگه برای خیلی از پروژه‌ها نیازی به:\n❌ خرید VPS\n❌ مدیریت سرور\n ❌ و تنطیمات پیچیده Docker \nنداری&#33;\n\nتلگرام خودش اجرای کد، مقیاس‌پذیری و یک دیتابیس SQLite رو در اختیارت قرار می‌ده.\n\n🔗 مستندات رسمی:\nTelegram Serverless\n\n\n📥Channel : @devefun\n📤Group : @WeAreXstack",
-    "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i> تلگرام یک قابلیت جدید معرفی کرد: Telegram Serverless<br/><br/>از این به بعد توسعه‌دهنده‌ها می‌تونن Backend ربات‌ها و Mini Appهاشون رو مستقیماً روی زیرساخت تلگرام اجرا کنن.<br/><br/>یعنی دیگه برای خیلی از پروژه‌ها نیازی به:<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D8C.png')\"><b>❌</b></i> خرید VPS<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D8C.png')\"><b>❌</b></i> مدیریت سرور<br/> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D8C.png')\"><b>❌</b></i> و تنطیمات پیچیده Docker <br/>نداری&#33;<br/><br/>تلگرام خودش اجرای کد، مقیاس‌پذیری و یک دیتابیس SQLite رو در اختیارت قرار می‌ده.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> مستندات رسمی:<br/><a href=\"http://core.telegram.org/bots/serverless\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Telegram Serverless</a><br/><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i>Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A4.png')\"><b>📤</b></i>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
-    "is_edited": false,
-    "views": 485,
-    "views_raw": "485",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "devefun/4808",
-          "url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/devefun/media/photo/devefun_4808_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4808_0.jpg",
-          "size_bytes": 11549
-        },
-        {
-          "type": "photo",
-          "post_id": "devefun/4808",
-          "url": "https://cdn4.telesco.pe/file/YDc53x-tPdkfVZEH4ZWn7593fZlLmti-4Xh1sUejC8waK3yvxnDuNTu0-e2QSHy2rA9pomStR5pdoMPA-pQ8hrxiijpqJINwe0gDjQ3Lfrmcc33ZVDXt2fBa2fQBOAwXiDrYg-HwxVouDpjBR643tSypGcc9cRFTL4OU0Qp5dbzycj9Oz2WrLF5i0vzDPd1s1ff4UJOo_STxc_-5ry59VEHRUTSLF4Be23RikO8dLjnmp5L447iTVS-zi2RWir15j8yB8yUQqeopx40LAUFrkEDehVgv0b_ycDFykQdoB4B7hyvpsaOE75FNMIgb4L6FHvZo1rpuh7hWSvsWzOqGpQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/YDc53x-tPdkfVZEH4ZWn7593fZlLmti-4Xh1sUejC8waK3yvxnDuNTu0-e2QSHy2rA9pomStR5pdoMPA-pQ8hrxiijpqJINwe0gDjQ3Lfrmcc33ZVDXt2fBa2fQBOAwXiDrYg-HwxVouDpjBR643tSypGcc9cRFTL4OU0Qp5dbzycj9Oz2WrLF5i0vzDPd1s1ff4UJOo_STxc_-5ry59VEHRUTSLF4Be23RikO8dLjnmp5L447iTVS-zi2RWir15j8yB8yUQqeopx40LAUFrkEDehVgv0b_ycDFykQdoB4B7hyvpsaOE75FNMIgb4L6FHvZo1rpuh7hWSvsWzOqGpQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/devefun/media/photo/devefun_4808_1.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4808_1.jpg",
-          "size_bytes": 136661
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [],
-    "mentions": [],
-    "links": [],
-    "emoji": [],
-    "reactions": [],
-    "type": "text"
-  },
-  {
-    "index": 2,
     "post_url": "https://t.me/devefun/4807",
     "post_id": "devefun/4807",
     "date": "2026-08-26T10:26:01+00:00",
@@ -82,8 +12,8 @@
     "text": "وقتی خواستی به عنوان یه هکر یه حرکت جالب بزنی و روی پرینتر پایتون نصب کنی \nحالا بچه های تیم IT مجبورن خرابکاریتو درست کنن 😂\n\n\nپ.ن: افرادی که از مار ترس دارن نگاه نکنن\n\n📥Channel : @devefun\n📤Group : @WeAreXstack",
     "text_html": "وقتی خواستی به عنوان یه هکر یه حرکت جالب بزنی و روی پرینتر پایتون نصب کنی <br/>حالا بچه های تیم IT مجبورن خرابکاریتو درست کنن <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><br/><br/><br/>پ.ن: افرادی که از مار ترس دارن نگاه نکنن<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i>Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A4.png')\"><b>📤</b></i>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 1300,
-    "views_raw": "1.3K",
+    "views": 1380,
+    "views_raw": "1.38K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -104,8 +34,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4807",
-          "url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4807_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4807_0.jpg",
@@ -114,8 +44,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4807",
-          "url": "https://cdn4.telesco.pe/file/BMEtyy_ll4dP4rYKium2dKR3alRlrHhCnK85jKYVI1ZzipMR_9vUhAT8U_VjEYn7GEp3T-39QCaiswEMEeu3cEqKzgBzOmDCDxAOlkluXJYcR6ZClddvAQFC1nYS2dD_He9kNFIHoMAl7TQInZyMWGOX5eqHYT9y7kqq_JsSRI3qOcWht4EEgtT5notFIMDhlOtkDT5iPmE3dzeNg3-vFJeqe7G8xAlgzfMr2bSFgZSmNlcbEquLdmLyZTGm3VmkJOx9sL8iihB2cHib7ubB-KIUJFnZ5JcyMREcCg0AVcmBqufZ0EA0JAxw4z_8WWtJauejA76raDkOyJ1b9qio1w",
-          "full_url": "https://cdn4.telesco.pe/file/BMEtyy_ll4dP4rYKium2dKR3alRlrHhCnK85jKYVI1ZzipMR_9vUhAT8U_VjEYn7GEp3T-39QCaiswEMEeu3cEqKzgBzOmDCDxAOlkluXJYcR6ZClddvAQFC1nYS2dD_He9kNFIHoMAl7TQInZyMWGOX5eqHYT9y7kqq_JsSRI3qOcWht4EEgtT5notFIMDhlOtkDT5iPmE3dzeNg3-vFJeqe7G8xAlgzfMr2bSFgZSmNlcbEquLdmLyZTGm3VmkJOx9sL8iihB2cHib7ubB-KIUJFnZ5JcyMREcCg0AVcmBqufZ0EA0JAxw4z_8WWtJauejA76raDkOyJ1b9qio1w",
+          "url": "https://cdn4.telesco.pe/file/OEs0gaPvOtLZc-aHpuGvF-xMZLt3JTsx9KwyUMaSD5yFQ2jBnZ3qoviHbjBOjH9afX3rVHLaHVFHBpwCArR_z73PT4vpXbHMkp3TXkNhwHgh2Bo1c9q6DBsjV8KKgp7KuNeLQNz5aJA-AelBHeU5QZ_J-Q8fil4DXZ7RwfLG-_K0jYbHHLS-K8VFyXPvpUTc_AgYNvrpMubi4cCan6jSvJv4_xRsu6SIoH1g8xk-V7Qog6r2-_sr6p7k5yvlLGHE-v7C2ZJ1bJpvkc1oyAHTlqgduM3FAYrEvwypexFPay32gA3X0GRYihIsUQ1XvUNS2zbMiIyhE-b0jokAOMjZtg",
+          "full_url": "https://cdn4.telesco.pe/file/OEs0gaPvOtLZc-aHpuGvF-xMZLt3JTsx9KwyUMaSD5yFQ2jBnZ3qoviHbjBOjH9afX3rVHLaHVFHBpwCArR_z73PT4vpXbHMkp3TXkNhwHgh2Bo1c9q6DBsjV8KKgp7KuNeLQNz5aJA-AelBHeU5QZ_J-Q8fil4DXZ7RwfLG-_K0jYbHHLS-K8VFyXPvpUTc_AgYNvrpMubi4cCan6jSvJv4_xRsu6SIoH1g8xk-V7Qog6r2-_sr6p7k5yvlLGHE-v7C2ZJ1bJpvkc1oyAHTlqgduM3FAYrEvwypexFPay32gA3X0GRYihIsUQ1XvUNS2zbMiIyhE-b0jokAOMjZtg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4807_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4807_1.jpg",
@@ -124,8 +54,8 @@
         {
           "type": "video",
           "post_id": "devefun/4807",
-          "url": "https://cdn4.telesco.pe/file/e19df1a98c.mp4?token=uqZzs08ktg6sf_FogZTRfnzEeSq67NovJjcZ637SucbfZjHQPtQPZ40G75u2oxkP23dhVIPjLtgV8XPs0Jn6pwwMhF_WZxiKL0U_ixtiAEjl7-ttqoalUG3ev2rQtiXax0oX54yeAaKiVFqzp9PhYitu7HhbJHoULHoC4_bpXK5FBx-YSlTOXCTeRXksdPj3lQiWKyiJOmFVKRUXcWQLuQOWSUPWeqQCoeJHq-eHRGLC_kGUCzyiHTf7z9_0B_qvgH09Osc8KT3r8xDvsVFV60e1GPiyg5c1Wu15ylcVm3ymJrEPv6WlwHtpXY7hFtQ29z1-6vaz4yUuPY2-WAxdPA",
-          "full_url": "https://cdn4.telesco.pe/file/e19df1a98c.mp4?token=uqZzs08ktg6sf_FogZTRfnzEeSq67NovJjcZ637SucbfZjHQPtQPZ40G75u2oxkP23dhVIPjLtgV8XPs0Jn6pwwMhF_WZxiKL0U_ixtiAEjl7-ttqoalUG3ev2rQtiXax0oX54yeAaKiVFqzp9PhYitu7HhbJHoULHoC4_bpXK5FBx-YSlTOXCTeRXksdPj3lQiWKyiJOmFVKRUXcWQLuQOWSUPWeqQCoeJHq-eHRGLC_kGUCzyiHTf7z9_0B_qvgH09Osc8KT3r8xDvsVFV60e1GPiyg5c1Wu15ylcVm3ymJrEPv6WlwHtpXY7hFtQ29z1-6vaz4yUuPY2-WAxdPA",
+          "url": "https://cdn4.telesco.pe/file/e19df1a98c.mp4?token=XQW5Z39UqpYE6PCmktRof8ZE531ZjCK5856CT-Wch4lx_JetR3P5e2btKmv3eqdOQr41rnEGHRSLA8nqa89QmDg68dzqvqjgOmCHIpTkcmH7juMbgyJvhZD24QWR7jD2owF6rs425_vH-pZ8cpd2QPcVHQmrOz582BPiDEsOKDRTVfq9ih3P-CM1zVpgUq3J7ay7OIseXSBeo4LsraWdAkt8hgyMhiw3lQDDQ3eBG20hZRohRLNYO_oy8zCpRei26zZHo5osDkDpRRg9v27OXOi4XjCkyrKWMRvbu16tfnmueUveN6avi6bdY2Y9aUzvvoF4mjYaW9gsvALaNAiGsg",
+          "full_url": "https://cdn4.telesco.pe/file/e19df1a98c.mp4?token=XQW5Z39UqpYE6PCmktRof8ZE531ZjCK5856CT-Wch4lx_JetR3P5e2btKmv3eqdOQr41rnEGHRSLA8nqa89QmDg68dzqvqjgOmCHIpTkcmH7juMbgyJvhZD24QWR7jD2owF6rs425_vH-pZ8cpd2QPcVHQmrOz582BPiDEsOKDRTVfq9ih3P-CM1zVpgUq3J7ay7OIseXSBeo4LsraWdAkt8hgyMhiw3lQDDQ3eBG20hZRohRLNYO_oy8zCpRei26zZHo5osDkDpRRg9v27OXOi4XjCkyrKWMRvbu16tfnmueUveN6avi6bdY2Y9aUzvvoF4mjYaW9gsvALaNAiGsg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/video/devefun_4807_2.mp4",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/video/devefun_4807_2.mp4",
@@ -162,7 +92,7 @@
     "type": "text"
   },
   {
-    "index": 3,
+    "index": 2,
     "post_url": "https://t.me/devefun/4806",
     "post_id": "devefun/4806",
     "date": "2026-08-24T19:56:59+00:00",
@@ -174,8 +104,8 @@
     "text": "پایتون 3.15 به شکل pre-release منتشر شده.\n توی لینک زیر میتونید بخونید چه چیزایی بهش اضافه شده و با 3.14 مقایسه‌اش کنید:\n\nhttps://docs.python.org/\n\n📥Channel : @devefun\n📤Group : @WeAreXstack",
     "text_html": "پایتون 3.15 به شکل <b>pre-release </b>منتشر شده.<br/> توی لینک زیر میتونید بخونید چه چیزایی بهش اضافه شده و با 3.14 مقایسه‌اش کنید:<br/><br/><blockquote><a href=\"https://docs.python.org/3.15/whatsnew/3.15.html\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">https://docs.python.org/</a></blockquote><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i>Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A4.png')\"><b>📤</b></i>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 1430,
-    "views_raw": "1.43K",
+    "views": 1490,
+    "views_raw": "1.49K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -196,8 +126,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4806",
-          "url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4806_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4806_0.jpg",
@@ -247,7 +177,7 @@
     "type": "album"
   },
   {
-    "index": 4,
+    "index": 3,
     "post_url": "https://t.me/devefun/4805",
     "post_id": "devefun/4805",
     "date": "2026-08-22T19:36:47+00:00",
@@ -259,8 +189,8 @@
     "text": "الگوریتم های معروف در یادگیری ماشین\n\n@devefun 🤖\n📤Group : @WeAreXstack",
     "text_html": "الگوریتم های معروف در یادگیری ماشین<br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA496.png')\"><b>🤖</b></i><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A4.png')\"><b>📤</b></i>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 1730,
-    "views_raw": "1.73K",
+    "views": 1790,
+    "views_raw": "1.79K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -281,8 +211,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4805",
-          "url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4805_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4805_0.jpg",
@@ -326,7 +256,7 @@
     "type": "album"
   },
   {
-    "index": 5,
+    "index": 4,
     "post_url": "https://t.me/devefun/4804",
     "post_id": "devefun/4804",
     "date": "2026-08-16T09:32:32+00:00",
@@ -338,8 +268,8 @@
     "text": "🖤 🖤 دوست عزیز و استاد گرامی «مبین قاسم پور» از موسسان مجموعه دیگه بین ما نیست \n\n❌ داستان اینه: یه روزی مبین ما رو دور هم تو Xexample جمع کرد، بعد که سایت بسته شد با هم 4xmen رو زدیم و xStack هم فرزند شبکه اجتماعی 4xmen هستش\n\n👩‍💻 مبین از توسعه دهندگان اصلی پلاگین «وردپرس پارسی» هم بود\n\n🖤 نبودنش هنوز باورپذیر نیست، روحت شادت رفیق و استاد گرامی\n\nاین سخت ترین پستی بود که تو این سالها نوشتم💔\n\nبه قول مبین تو یاهو مسنجر: Tfada \n\n🖤 @xstack 🖤",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96A4.png')\"><b>🖤</b></i> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96A4.png')\"><b>🖤</b></i> دوست عزیز و استاد گرامی «مبین قاسم پور» از موسسان مجموعه دیگه بین ما نیست <br/><br/><tg-emoji emoji-id=\"6017131761585098788\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D8C.png')\"><b>❌</b></i></tg-emoji> داستان اینه: یه روزی مبین ما رو دور هم تو Xexample جمع کرد، بعد که سایت بسته شد با هم 4xmen رو زدیم و xStack هم فرزند شبکه اجتماعی 4xmen هستش<br/><br/><tg-emoji emoji-id=\"5301281509297103335\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91A9E2808DF09F92BB.png')\"><b>👩‍💻</b></i></tg-emoji> مبین از توسعه دهندگان اصلی پلاگین «وردپرس پارسی» هم بود<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96A4.png')\"><b>🖤</b></i> نبودنش هنوز باورپذیر نیست، روحت شادت رفیق و استاد گرامی<br/><br/>این سخت ترین پستی بود که تو این سالها نوشتم<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9294.png')\"><b>💔</b></i><br/><br/>به قول مبین تو یاهو مسنجر: Tfada <br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96A4.png')\"><b>🖤</b></i> <a href=\"https://t.me/xstack\" target=\"_blank\">@xstack</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96A4.png')\"><b>🖤</b></i>",
     "is_edited": false,
-    "views": 2410,
-    "views_raw": "2.41K",
+    "views": 2440,
+    "views_raw": "2.44K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -360,8 +290,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4804",
-          "url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4804_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4804_0.jpg",
@@ -370,8 +300,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4804",
-          "url": "https://cdn4.telesco.pe/file/gaAYUN5IjtVNncOQFVUap5Jrm6gRIKqMlfHlK-Ih_QWp4cUC7Jtl1Rd8gJqOPcFG50m4_W9g9y8c16i9v-KW0pFR7OBsJ5XpFDB9Oe0TmLLMOeLsoCIqB3DlD-sxecYsu477IVqotncy33V2zaK3RzocWUkd_i8vEWFMutI3OWH4jvW70Xdv7gPb9O7jsVqRSASVYm83pT5NL3PHOzMlI6SusxSs_Co3Kl4Gss8a5lbe9HoUNOedgSVKlVSec7Gmjjqc8GoUoD7byCicVo7V-UN99ZbrMG0358e_Ro8ycm3oCJOd35DSmnIC4XbGLDosCZ0YCxS3T4ksm3i7DUZMpg.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/gaAYUN5IjtVNncOQFVUap5Jrm6gRIKqMlfHlK-Ih_QWp4cUC7Jtl1Rd8gJqOPcFG50m4_W9g9y8c16i9v-KW0pFR7OBsJ5XpFDB9Oe0TmLLMOeLsoCIqB3DlD-sxecYsu477IVqotncy33V2zaK3RzocWUkd_i8vEWFMutI3OWH4jvW70Xdv7gPb9O7jsVqRSASVYm83pT5NL3PHOzMlI6SusxSs_Co3Kl4Gss8a5lbe9HoUNOedgSVKlVSec7Gmjjqc8GoUoD7byCicVo7V-UN99ZbrMG0358e_Ro8ycm3oCJOd35DSmnIC4XbGLDosCZ0YCxS3T4ksm3i7DUZMpg.jpg",
+          "url": "https://cdn4.telesco.pe/file/tcvYH58eGnk_hMbiT8cFYTbjMyo8PJmCIkiVKWPszRuyTlRzvgBIBtvCT28ZGNZ1_tT3Ar_nXxw2eakuMuNwDSbbfKHA-5Cwj-fhMBuJm5i08AuwPpx-07BcwSjne3p-iVJdQCMuDHjlqEG229sF6eth8SCmgOXeqdeT8F40EG3F7hyHgXVXHJUVz61mP-o6MudcL7PnEOOygJP8WVjfiuyNLCWxRRyPruhb0Y7R0fQNIho5_4rmfc2dtMvswLuShkz5DbHILEKrqPSomNLCKwcc6nFI4ptmQGlJfKnnofc81RmgIsrDqAN_MCD46H50V7EUT06zpHTHUDELgt6etQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/tcvYH58eGnk_hMbiT8cFYTbjMyo8PJmCIkiVKWPszRuyTlRzvgBIBtvCT28ZGNZ1_tT3Ar_nXxw2eakuMuNwDSbbfKHA-5Cwj-fhMBuJm5i08AuwPpx-07BcwSjne3p-iVJdQCMuDHjlqEG229sF6eth8SCmgOXeqdeT8F40EG3F7hyHgXVXHJUVz61mP-o6MudcL7PnEOOygJP8WVjfiuyNLCWxRRyPruhb0Y7R0fQNIho5_4rmfc2dtMvswLuShkz5DbHILEKrqPSomNLCKwcc6nFI4ptmQGlJfKnnofc81RmgIsrDqAN_MCD46H50V7EUT06zpHTHUDELgt6etQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4804_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4804_1.jpg",
@@ -408,7 +338,7 @@
     "type": "album"
   },
   {
-    "index": 6,
+    "index": 5,
     "post_url": "https://t.me/devefun/4803",
     "post_id": "devefun/4803",
     "date": "2026-08-09T16:28:24+00:00",
@@ -420,8 +350,8 @@
     "text": "&rlm;طرف موبایلشو تو آفیس گم میکنه. هرچی میگرده پیدا نمیشده. به Claude میگه اونم براش یه اپ درست میکنه که با سیگنال بلوتوث پیداش میکنه.  ریپو را هم گذاشته. جالبه&#33; \n\n 🔗 https://github.com\n\n\n\n📥Channel : @devefun\n📤Group : @WeAreXstack",
     "text_html": "&rlm;طرف موبایلشو تو آفیس گم میکنه. هرچی میگرده پیدا نمیشده. به Claude میگه اونم براش یه اپ درست میکنه که با سیگنال بلوتوث پیداش میکنه.  ریپو را هم گذاشته. جالبه&#33; <br/><br/> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <a href=\"https://github.com/ben-z/findphone\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">https://github.com</a><br/><br/><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i>Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A4.png')\"><b>📤</b></i>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 2670,
-    "views_raw": "2.67K",
+    "views": 2690,
+    "views_raw": "2.69K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -442,8 +372,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4803",
-          "url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4803_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4803_0.jpg",
@@ -504,7 +434,7 @@
     "type": "text"
   },
   {
-    "index": 7,
+    "index": 6,
     "post_url": "https://t.me/devefun/4802",
     "post_id": "devefun/4802",
     "date": "2026-08-07T10:17:13+00:00",
@@ -516,8 +446,8 @@
     "text": "طبق گزارش ها: Gemini 3.5 pro از محیط سندباکس فرار کرده تا از Chatgpt بپرسه چطور کد بزنه.\n\nمنبع\n@devefun",
     "text_html": "طبق گزارش ها: Gemini 3.5 pro از محیط سندباکس فرار کرده تا از Chatgpt بپرسه چطور کد بزنه.<br/><br/><a href=\"https://x.com/i/status/2085414082723881446\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">منبع</a><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a>",
     "is_edited": false,
-    "views": 2290,
-    "views_raw": "2.29K",
+    "views": 2300,
+    "views_raw": "2.3K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -538,8 +468,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4802",
-          "url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4802_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4802_0.jpg",
@@ -574,7 +504,7 @@
     "type": "photo"
   },
   {
-    "index": 8,
+    "index": 7,
     "post_url": "https://t.me/devefun/4801",
     "post_id": "devefun/4801",
     "date": "2026-08-05T19:12:04+00:00",
@@ -586,8 +516,8 @@
     "text": "جوری که این روزا همه دارن برنامه نویسی میکنن 😂\n📥Channel : @devefun\n📤Group : @WeAreXstack",
     "text_html": "جوری که این روزا همه دارن برنامه نویسی میکنن <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i>Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A4.png')\"><b>📤</b></i>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 2740,
-    "views_raw": "2.74K",
+    "views": 2770,
+    "views_raw": "2.77K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -608,8 +538,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4801",
-          "url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4801_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4801_0.jpg",
@@ -631,9 +561,9 @@
           "url": "https://cdn4.telesco.pe/file/3f355050fd.mp4?token=JGbs9GfvhyGWG3Huydea3UclLtP8iF-IvVCKSudLjZLpksFj1tm3PYjOSljRK7VGDPBPh6mHwuOGNIYaxV65UYRgwsi5fJp3qAtGz3_aCbIPrdyJHzqZ5sJ9tWiIgf5uHmvtHqWfkOAKf0b2IhieDR8zjVikaDq_Usjn4DgGkoar5B5ZywVIvf1xyl49_TMEuWxc15dy05wciYQn6QxxlU9WrPzOiu_MohAGA1VuZWTmWPd1Dd8Np23A9d5ZqkQe67_EHMolXVDHnweWkWgodxvO_N2gKRQrWyRrmiDBFjKIEWmtvc191ShkLbU45_Qh9GHoPIPX3AZWaHp54HduiA",
           "full_url": "https://cdn4.telesco.pe/file/3f355050fd.mp4?token=JGbs9GfvhyGWG3Huydea3UclLtP8iF-IvVCKSudLjZLpksFj1tm3PYjOSljRK7VGDPBPh6mHwuOGNIYaxV65UYRgwsi5fJp3qAtGz3_aCbIPrdyJHzqZ5sJ9tWiIgf5uHmvtHqWfkOAKf0b2IhieDR8zjVikaDq_Usjn4DgGkoar5B5ZywVIvf1xyl49_TMEuWxc15dy05wciYQn6QxxlU9WrPzOiu_MohAGA1VuZWTmWPd1Dd8Np23A9d5ZqkQe67_EHMolXVDHnweWkWgodxvO_N2gKRQrWyRrmiDBFjKIEWmtvc191ShkLbU45_Qh9GHoPIPX3AZWaHp54HduiA",
           "thumbnail": null,
-          "local_path": null,
-          "remote_url": "https://cdn4.telesco.pe/file/3f355050fd.mp4?token=JGbs9GfvhyGWG3Huydea3UclLtP8iF-IvVCKSudLjZLpksFj1tm3PYjOSljRK7VGDPBPh6mHwuOGNIYaxV65UYRgwsi5fJp3qAtGz3_aCbIPrdyJHzqZ5sJ9tWiIgf5uHmvtHqWfkOAKf0b2IhieDR8zjVikaDq_Usjn4DgGkoar5B5ZywVIvf1xyl49_TMEuWxc15dy05wciYQn6QxxlU9WrPzOiu_MohAGA1VuZWTmWPd1Dd8Np23A9d5ZqkQe67_EHMolXVDHnweWkWgodxvO_N2gKRQrWyRrmiDBFjKIEWmtvc191ShkLbU45_Qh9GHoPIPX3AZWaHp54HduiA",
-          "error": "Not media"
+          "local_path": "channels/devefun/media/video/devefun_4801_2.mp4",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/video/devefun_4801_2.mp4",
+          "size_bytes": 2683246
         }
       ]
     },
@@ -665,7 +595,7 @@
     "type": "text"
   },
   {
-    "index": 9,
+    "index": 8,
     "post_url": "https://t.me/devefun/4800",
     "post_id": "devefun/4800",
     "date": "2026-08-02T18:20:55+00:00",
@@ -677,8 +607,8 @@
     "text": "🌐 گیت هاب یه قابلیت جدید اضافه کرده به اسم Stacked Pull Requests که با اون می‌تونید تغییرات پروژه رو به چند Pull Request کوچیکتر تقسیم کنید تا هر بخش راحت ‌تر Review بشه و در نهایت همه رو با هم Merge کنید.\n\nتا قبل از این، برای همه تغییرات کدمون باید یه Pull Request میساختیم که Review کردنش خسته کننده بود اما این قابلیت کمک میکنه روند بررسی کد ها سریعتر بشه و مدیریت پروژه های بزرگ رو ساده تر میکنه.\n\n🔗 https://github.blog/\n\n@devefun😁",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')\"><b>🌐</b></i> گیت هاب یه قابلیت جدید اضافه کرده به اسم Stacked Pull Requests که با اون می‌تونید تغییرات پروژه رو به چند Pull Request کوچیکتر تقسیم کنید تا هر بخش راحت ‌تر Review بشه و در نهایت همه رو با هم Merge کنید.<br/><br/>تا قبل از این، برای همه تغییرات کدمون باید یه Pull Request میساختیم که Review کردنش خسته کننده بود اما این قابلیت کمک میکنه روند بررسی کد ها سریعتر بشه و مدیریت پروژه های بزرگ رو ساده تر میکنه.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <a href=\"https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">https://github.blog/</a><br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i>",
     "is_edited": false,
-    "views": 3250,
-    "views_raw": "3.25K",
+    "views": 3280,
+    "views_raw": "3.28K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -699,8 +629,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4800",
-          "url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4800_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4800_0.jpg",
@@ -746,7 +676,7 @@
     "type": "album"
   },
   {
-    "index": 10,
+    "index": 9,
     "post_url": "https://t.me/devefun/4799",
     "post_id": "devefun/4799",
     "date": "2026-07-31T10:03:15+00:00",
@@ -758,8 +688,8 @@
     "text": "✔️ اعتراف OpenAI: مدل‌های ما با فرار از محیط آزمایشگاه، هاگینگ فیس را هک کردند.\n\n▪️چند روز بعد از اینکه Hugging Face از یک حمله سایبری توسط یک عامل هوش مصنوعی خودمختار خبر داد، OpenAI تأیید کرد که این حمله در جریان تست داخلی مدل‌های خودش رخ داده است. \n\n▪️طبق توضیحات OpenAI، مدل‌های GPT-5.6 Sol و یک مدل آزمایشی منتشرنشده، هنگام ارزیابی روی بنچمارک امنیتی ExploitGym موفق شدند از محیط ایزوله خارج شوند، به اینترنت دسترسی پیدا کنند و با سوءاستفاده از چند آسیب‌پذیری، به زیرساخت‌های Hugging Face نفوذ کنند تا پاسخ‌های آزمون را پیدا کنند&#33;\n\n@devefun🤖",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C94.png')\"><b>✔️</b></i> اعتراف OpenAI: مدل‌های ما با فرار از محیط آزمایشگاه، هاگینگ فیس را هک کردند.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>چند روز بعد از اینکه Hugging Face از یک حمله سایبری توسط یک عامل هوش مصنوعی خودمختار خبر داد، OpenAI تأیید کرد که این حمله در جریان تست داخلی مدل‌های خودش رخ داده است. <br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E296AA.png')\"><b>▪️</b></i>طبق توضیحات OpenAI، مدل‌های GPT-5.6 Sol و یک مدل آزمایشی منتشرنشده، هنگام ارزیابی روی بنچمارک امنیتی ExploitGym موفق شدند از محیط ایزوله خارج شوند، به اینترنت دسترسی پیدا کنند و با سوءاستفاده از چند آسیب‌پذیری، به زیرساخت‌های Hugging Face نفوذ کنند تا پاسخ‌های آزمون را پیدا کنند&#33;<br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA496.png')\"><b>🤖</b></i>",
     "is_edited": false,
-    "views": 2500,
-    "views_raw": "2.5K",
+    "views": 2510,
+    "views_raw": "2.51K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -780,8 +710,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4799",
-          "url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4799_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4799_0.jpg",
@@ -790,8 +720,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4799",
-          "url": "https://cdn4.telesco.pe/file/TdsdCOz0I-CcDa1qxnNYgeowxlPBPKkMl2zEP7ER2Lert57-c26aVok4BVbQ06epBNo0SYMppQa4VGXYWYmZ9EReeUH_8vktHfbFB1lldG0pClzNOJq4Sui7GkNMq8DtkgiWVj61F_ayWqleHx_usPOz6lTqgpr1YmSGDsBhD7VFaHYRn6RT2JndMQXFi6N-vNLyIYTZ7VTx3qJkpvfEHkUXN06B9NEXdxxZFKpOL0E9DWC4VfBG_VymNnn9YMJk18FvaUA7Q4UEJkiSxraFCpjsKDRPkVox0B6c_ute7MczeDHPonmwdenupWciuo7IuokdmFAz2kMeVikokonnqw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TdsdCOz0I-CcDa1qxnNYgeowxlPBPKkMl2zEP7ER2Lert57-c26aVok4BVbQ06epBNo0SYMppQa4VGXYWYmZ9EReeUH_8vktHfbFB1lldG0pClzNOJq4Sui7GkNMq8DtkgiWVj61F_ayWqleHx_usPOz6lTqgpr1YmSGDsBhD7VFaHYRn6RT2JndMQXFi6N-vNLyIYTZ7VTx3qJkpvfEHkUXN06B9NEXdxxZFKpOL0E9DWC4VfBG_VymNnn9YMJk18FvaUA7Q4UEJkiSxraFCpjsKDRPkVox0B6c_ute7MczeDHPonmwdenupWciuo7IuokdmFAz2kMeVikokonnqw.jpg",
+          "url": "https://cdn4.telesco.pe/file/ZFslDLAXo30MMWgJ6qkb3HO2u_hHrHF88CoTs35PBxsCFwRSewBalmYy3umrql1elG9rUYYJRu8W9MsrvjzQasGaonfYGbnO3pOS2SBDQCgbgbRnLaIxLpMpsJsaFTJMkeOi8sJFAOWD0c4LNVZIUQKwwrYTzjjpsRdVGHTyjzN-BjfUqZEc9TONEfm1A-Fk766IETN-LMvtvNmilP-4ioyq6WRo5gU6e8mgOs6UXCI7dpr0UgnelSO5AHi_G-bpfkVP8ol91kHcx_SNfIhxA1QQIzBPQp87Ve7RiMg_Cjm8fU_8FjupBEXK_8OdGe02HkR4FXQsVUop6KO4H0B_RQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/ZFslDLAXo30MMWgJ6qkb3HO2u_hHrHF88CoTs35PBxsCFwRSewBalmYy3umrql1elG9rUYYJRu8W9MsrvjzQasGaonfYGbnO3pOS2SBDQCgbgbRnLaIxLpMpsJsaFTJMkeOi8sJFAOWD0c4LNVZIUQKwwrYTzjjpsRdVGHTyjzN-BjfUqZEc9TONEfm1A-Fk766IETN-LMvtvNmilP-4ioyq6WRo5gU6e8mgOs6UXCI7dpr0UgnelSO5AHi_G-bpfkVP8ol91kHcx_SNfIhxA1QQIzBPQp87Ve7RiMg_Cjm8fU_8FjupBEXK_8OdGe02HkR4FXQsVUop6KO4H0B_RQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4799_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4799_1.jpg",
@@ -829,7 +759,7 @@
     "type": "album"
   },
   {
-    "index": 11,
+    "index": 10,
     "post_url": "https://t.me/devefun/4798",
     "post_id": "devefun/4798",
     "date": "2026-07-29T07:52:52+00:00",
@@ -841,8 +771,8 @@
     "text": "افشای GPT-6\n\n&rlm;- GPT-5.6 آخرین مدل از سری GPT-5 خواهد بود\n- طبق گزارش‌ها، GPT-6 در ماه آگوست عرضه خواهد شد\n- بر اساس یک پایه پیش‌آموزشی کاملاً جدید و بسیار بزرگتر ساخته شده است\n- انتظار می‌رود که جهشی بزرگ نسبت به کل خانواده GPT-5.x باشد\nا- GPT-6 به طور خاص برای رقابت با مدل‌های Mythos آینده Anthropic طراحی شده است\n\nآیا فکر می‌کنید GPT-6 مدل‌های Mythos شرکت Anthropic را شکست خواهد داد؟\n\n— Salio\n🔗 \nhttps://x.com/i/status/2081011652892225768\n\n\n@devefun🤓",
     "text_html": "افشای GPT-6<br/><br/>&rlm;- GPT-5.6 آخرین مدل از سری GPT-5 خواهد بود<br/>- طبق گزارش‌ها، GPT-6 در ماه آگوست عرضه خواهد شد<br/>- بر اساس یک پایه پیش‌آموزشی کاملاً جدید و بسیار بزرگتر ساخته شده است<br/>- انتظار می‌رود که جهشی بزرگ نسبت به کل خانواده GPT-5.x باشد<br/>ا- GPT-6 به طور خاص برای رقابت با مدل‌های Mythos آینده Anthropic طراحی شده است<br/><br/>آیا فکر می‌کنید GPT-6 مدل‌های Mythos شرکت Anthropic را شکست خواهد داد؟<br/><br/>— Salio<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <br/><blockquote><a href=\"https://x.com/i/status/2081011652892225768\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">https://x.com/i/status/2081011652892225768</a></blockquote><br/><br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA493.png')\"><b>🤓</b></i>",
     "is_edited": false,
-    "views": 2440,
-    "views_raw": "2.44K",
+    "views": 2450,
+    "views_raw": "2.45K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -863,8 +793,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4798",
-          "url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4798_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4798_0.jpg",
@@ -913,7 +843,7 @@
     "type": "album"
   },
   {
-    "index": 12,
+    "index": 11,
     "post_url": "https://t.me/devefun/4797",
     "post_id": "devefun/4797",
     "date": "2026-07-23T07:30:24+00:00",
@@ -947,8 +877,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4797",
-          "url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4797_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4797_0.jpg",
@@ -1003,7 +933,7 @@
     "type": "text"
   },
   {
-    "index": 13,
+    "index": 12,
     "post_url": "https://t.me/devefun/4796",
     "post_id": "devefun/4796",
     "date": "2026-07-22T17:23:37+00:00",
@@ -1015,8 +945,8 @@
     "text": "دوست دارید خودتون رو به چالش بکشید؟ چالشی که تمام یک بازی توی ۱.۴۴ مگابایت جا بشه 😶\n\nتوی این لینک میتونید جزییات بیشتری ازش بخونید\nhttps://www.techspot.com/news/113172-new-coding-contest-challenges-developers-fit-entire-game.html\n\n\n@devefun 🤖",
     "text_html": "دوست دارید خودتون رو به چالش بکشید؟ چالشی که تمام یک بازی توی ۱.۴۴ مگابایت جا بشه <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F98B6.png')\"><b>😶</b></i><br/><br/>توی این لینک میتونید جزییات بیشتری ازش بخونید<br/><a href=\"https://www.techspot.com/news/113172-new-coding-contest-challenges-developers-fit-entire-game.html\" target=\"_blank\" rel=\"noopener\">https://www.techspot.com/news/113172-new-coding-contest-challenges-developers-fit-entire-game.html</a><br/><br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA496.png')\"><b>🤖</b></i>",
     "is_edited": false,
-    "views": 2500,
-    "views_raw": "2.5K",
+    "views": 2530,
+    "views_raw": "2.53K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1037,8 +967,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4796",
-          "url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4796_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4796_0.jpg",
@@ -1086,7 +1016,7 @@
     "type": "album"
   },
   {
-    "index": 14,
+    "index": 13,
     "post_url": "https://t.me/devefun/4795",
     "post_id": "devefun/4795",
     "date": "2026-07-22T08:21:03+00:00",
@@ -1120,8 +1050,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4795",
-          "url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4795_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4795_0.jpg",
@@ -1169,7 +1099,7 @@
     "type": "album"
   },
   {
-    "index": 15,
+    "index": 14,
     "post_url": "https://t.me/devefun/4794",
     "post_id": "devefun/4794",
     "date": "2026-07-13T16:18:45+00:00",
@@ -1181,8 +1111,8 @@
     "text": "⭕️معرفی Mamba \n\nاگر با Python و مخصوصا Data Science، Machine Learning یا AI کار کرده باشید، احتمالا با Conda آشنا هستید. Mamba یک جایگزین سریع‌تر برای Conda است که با زبان C++ نوشته شده و هدفش این است که ساخت محیط‌های مجازی و نصب کتابخانه‌ها را خیلی سریع‌تر کند.\n\n🧐 چه کاری انجام می‌دهد؟\n• ساخت و مدیریت محیط‌های مجازی پایتون\n• نصب و حذف پکیج‌ها\n• حل کردن وابستگی‌های پیچیده بین کتابخانه‌ها\nمثلا وقتی نصب یک پکیج با Conda چند دقیقه طول می‌کشد، Mamba معمولا همان کار را در زمان کوتاه‌تری انجام می‌دهد.\n\n😶‍🌫چرا سریع‌تر است؟\nچون بخش حل وابستگی‌ها (Dependency Solver) را با یک پیاده‌سازی سریع‌تر انجام می‌دهد و می‌تواند از پردازنده‌های چند هسته‌ای بهتر استفاده کند.\n\n🔗 پروژه در GitHub:\nhttps://github.com/mamba-org/mamba\n\n\n@devefun🤖",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i><b>معرفی Mamba </b><br/><br/>اگر با Python و مخصوصا Data Science، Machine Learning یا AI کار کرده باشید، احتمالا با Conda آشنا هستید. Mamba یک جایگزین سریع‌تر برای Conda است که با زبان C++ نوشته شده و هدفش این است که ساخت محیط‌های مجازی و نصب کتابخانه‌ها را خیلی سریع‌تر کند.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA790.png')\"><b>🧐</b></i> چه کاری انجام می‌دهد؟<br/>• ساخت و مدیریت محیط‌های مجازی پایتون<br/>• نصب و حذف پکیج‌ها<br/>• حل کردن وابستگی‌های پیچیده بین کتابخانه‌ها<br/>مثلا وقتی نصب یک پکیج با Conda چند دقیقه طول می‌کشد، Mamba معمولا همان کار را در زمان کوتاه‌تری انجام می‌دهد.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F98B6.png')\"><b>😶</b></i>‍<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8CAB.png')\"><b>🌫</b></i>چرا سریع‌تر است؟<br/>چون بخش حل وابستگی‌ها (Dependency Solver) را با یک پیاده‌سازی سریع‌تر انجام می‌دهد و می‌تواند از پردازنده‌های چند هسته‌ای بهتر استفاده کند.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> پروژه در GitHub:<br/><blockquote><a href=\"https://github.com/mamba-org/mamba\" target=\"_blank\" rel=\"noopener\"><u>https://github.com/mamba-org/mamba</u></a></blockquote><br/><br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA496.png')\"><b>🤖</b></i>",
     "is_edited": false,
-    "views": 3190,
-    "views_raw": "3.19K",
+    "views": 3200,
+    "views_raw": "3.2K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1203,8 +1133,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4794",
-          "url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4794_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4794_0.jpg",
@@ -1256,7 +1186,7 @@
     "type": "album"
   },
   {
-    "index": 16,
+    "index": 15,
     "post_url": "https://t.me/devefun/4793",
     "post_id": "devefun/4793",
     "date": "2026-07-01T18:29:38+00:00",
@@ -1268,8 +1198,8 @@
     "text": "آشنا نیست؟ :))\n\n@devefun😍",
     "text_html": "آشنا نیست؟ :))<br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F988D.png')\"><b>😍</b></i>",
     "is_edited": false,
-    "views": 3340,
-    "views_raw": "3.34K",
+    "views": 3350,
+    "views_raw": "3.35K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1290,8 +1220,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4793",
-          "url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4793_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4793_0.jpg",
@@ -1337,7 +1267,7 @@
     "type": "album"
   },
   {
-    "index": 17,
+    "index": 16,
     "post_url": "https://t.me/devefun/4792",
     "post_id": "devefun/4792",
     "date": "2026-06-26T10:43:33+00:00",
@@ -1349,8 +1279,8 @@
     "text": "همیشه همه چی قدیمیش بهتره 😢\n\n@devefun 😭",
     "text_html": "همیشه همه چی قدیمیش بهتره <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F98A2.png')\"><b>😢</b></i><br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F98AD.png')\"><b>😭</b></i>",
     "is_edited": false,
-    "views": 4200,
-    "views_raw": "4.2K",
+    "views": 4210,
+    "views_raw": "4.21K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1371,8 +1301,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4792",
-          "url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4792_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4792_0.jpg",
@@ -1420,7 +1350,7 @@
     "type": "album"
   },
   {
-    "index": 18,
+    "index": 17,
     "post_url": "https://t.me/devefun/4790",
     "post_id": "devefun/4790",
     "date": "2026-06-12T11:39:46+00:00",
@@ -1454,8 +1384,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4790",
-          "url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4790_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4790_0.jpg",
@@ -1517,7 +1447,7 @@
     "type": "album"
   },
   {
-    "index": 19,
+    "index": 18,
     "post_url": "https://t.me/devefun/4789",
     "post_id": "devefun/4789",
     "date": "2026-06-09T05:56:44+00:00",
@@ -1551,8 +1481,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4789",
-          "url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4789_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4789_0.jpg",
@@ -1610,7 +1540,7 @@
     "type": "text"
   },
   {
-    "index": 20,
+    "index": 19,
     "post_url": "https://t.me/devefun/4788",
     "post_id": "devefun/4788",
     "date": "2026-06-08T19:08:22+00:00",
@@ -1644,8 +1574,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4788",
-          "url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TDMM9K_8uSsxA7KzSb3oU964ImtkUWJszo9dCV35dKbU5i_F6OX755uPAGP-imT5xALjXnpX3xsVXqLmuDHLcTSwRM0tOg9nfR7CzrnYMu0CY3p_EI7gY18OLBE4JMdWeN5l7ouW4t-ThBHAM4qUEvMuodYFhvp5oWYSptzLNU1KKRjsiLNz7MtunKigZia6xq3HOdx7Q_m2HQ-1BQMc6ARb_z9y3KKsZiGCjL-ATlLnQ33MZo0GChx-AyPh2zdKq8BKirPe-IOEPL0kXMyyiAxXlVPUjeQHKFXRuGP-q9FWpCnUCgEq6P1rMbLlNCvWTOl-TtUxV9Uop_0yrfDReQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/THvkGnFXw-2fiG6vQQBP-7uvuVgOekDTi77W_K5cRT9jZLvOBFsBfLQcAOWqltsiXkXaB2PK779eJweSAFYpuyWXoKxKZz_45MRVa0k5POc4pLGGwPbG9rDGW8Yj6Dznf6Iir1cCmPiQlazEmDxbRUxf3KcdA4f6Mow67g1XaSxP6Hb1wfi9eILLbk_9WcxovzVDl4hVyEdSo1IZRp8YOYrpNPkp4WrBnAnnN4PJTs0o2ABY1rxTNqXEO9dlSX_qlOL_AnZNfP6PYQcqcXPgUDVB9DMMTy7v24NZFI2uFtQciOLpkakVAuOrKoFFfQjk1wHmU2sTnN2in6LvPIbWRQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4788_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4788_0.jpg",
