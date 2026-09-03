@@ -12,8 +12,8 @@
     "text": "🚀 تلگرام یک قابلیت جدید معرفی کرد: Telegram Serverless\n\nاز این به بعد توسعه‌دهنده‌ها می‌تونن Backend ربات‌ها و Mini Appهاشون رو مستقیماً روی زیرساخت تلگرام اجرا کنن.\n\nیعنی دیگه برای خیلی از پروژه‌ها نیازی به:\n❌ خرید VPS\n❌ مدیریت سرور\n ❌ و تنطیمات پیچیده Docker \nنداری&#33;\n\nتلگرام خودش اجرای کد، مقیاس‌پذیری و یک دیتابیس SQLite رو در اختیارت قرار می‌ده.\n\n🔗 مستندات رسمی:\nTelegram Serverless\n\n\n📥Channel : @devefun\n📤Group : @WeAreXstack",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i> تلگرام یک قابلیت جدید معرفی کرد: Telegram Serverless<br/><br/>از این به بعد توسعه‌دهنده‌ها می‌تونن Backend ربات‌ها و Mini Appهاشون رو مستقیماً روی زیرساخت تلگرام اجرا کنن.<br/><br/>یعنی دیگه برای خیلی از پروژه‌ها نیازی به:<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D8C.png')\"><b>❌</b></i> خرید VPS<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D8C.png')\"><b>❌</b></i> مدیریت سرور<br/> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D8C.png')\"><b>❌</b></i> و تنطیمات پیچیده Docker <br/>نداری&#33;<br/><br/>تلگرام خودش اجرای کد، مقیاس‌پذیری و یک دیتابیس SQLite رو در اختیارت قرار می‌ده.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> مستندات رسمی:<br/><a href=\"http://core.telegram.org/bots/serverless\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">Telegram Serverless</a><br/><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i>Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A4.png')\"><b>📤</b></i>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 850,
-    "views_raw": "850",
+    "views": 996,
+    "views_raw": "996",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -29,7 +29,7 @@
     "pinned": false,
     "media": {
       "has_media": true,
-      "type": "photo",
+      "type": "album",
       "items": [
         {
           "type": "photo",
@@ -44,8 +44,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4808",
-          "url": "https://cdn4.telesco.pe/file/PyijHYnirQAZ9hNEEXzmYf5ramOIugltln4DZ3Iy8JVBR7BUUS6qHsuDPoVP5ZNURVdWHiRxU7lgC-dToTnyefPj0tRdsMmzs44La4ERujwB7z4wCvyNUMdKelpUIm9kRBp8sopkK9bMVltZu4YCCVrqIweKMlCg59n8OBoxnTxVAo18w_QqBvwFZxPdwApfKWisvQTdTMb8zQozZqQBWkkwbeUP0M0xme-bIEhGUNY7TKItVYhN8H5rd0-tM7DmJtvnrAxchVaiYIpeOu3PZflfKf7q_KnwsLYGGJ3Vr3G6wlSbN2IfuISwTlQnTXdbV8t18XmN2gJNgFLDdZDwRw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/PyijHYnirQAZ9hNEEXzmYf5ramOIugltln4DZ3Iy8JVBR7BUUS6qHsuDPoVP5ZNURVdWHiRxU7lgC-dToTnyefPj0tRdsMmzs44La4ERujwB7z4wCvyNUMdKelpUIm9kRBp8sopkK9bMVltZu4YCCVrqIweKMlCg59n8OBoxnTxVAo18w_QqBvwFZxPdwApfKWisvQTdTMb8zQozZqQBWkkwbeUP0M0xme-bIEhGUNY7TKItVYhN8H5rd0-tM7DmJtvnrAxchVaiYIpeOu3PZflfKf7q_KnwsLYGGJ3Vr3G6wlSbN2IfuISwTlQnTXdbV8t18XmN2gJNgFLDdZDwRw.jpg",
+          "url": "https://cdn4.telesco.pe/file/CjsJaeN9sLUc8eAXW5_59f1Z736WafuYNWY-Bgg7stsv_u1pc40FqvIIuqUwKkfrZwRRhi_5WZscUEO6RmZh4lXt84FMBa83W0jl5FS1xjPVdsT_uwZDWMn-xqN50NHAVtw5DsFY_jESdoL0PCWBxTsUiEMEa4puXqAUeb4A7XgpFjIc0bO0W06QiY2TkSfj3osgoA378K4mwL8KOgop46V7qpGw4O1y_awrDJBeuSRkO1F0KfsmtAJL1CIWnGWmYgk7rMTE1C020uJgSK1uqJykiwRju3WHNIVVE1KSPO2CbuWqPO8-zvZWb3AMUfr9ZMxe4MinFhvtOnv_m6Pgng.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/CjsJaeN9sLUc8eAXW5_59f1Z736WafuYNWY-Bgg7stsv_u1pc40FqvIIuqUwKkfrZwRRhi_5WZscUEO6RmZh4lXt84FMBa83W0jl5FS1xjPVdsT_uwZDWMn-xqN50NHAVtw5DsFY_jESdoL0PCWBxTsUiEMEa4puXqAUeb4A7XgpFjIc0bO0W06QiY2TkSfj3osgoA378K4mwL8KOgop46V7qpGw4O1y_awrDJBeuSRkO1F0KfsmtAJL1CIWnGWmYgk7rMTE1C020uJgSK1uqJykiwRju3WHNIVVE1KSPO2CbuWqPO8-zvZWb3AMUfr9ZMxe4MinFhvtOnv_m6Pgng.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4808_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4808_1.jpg",
@@ -62,12 +62,31 @@
       "is_closed": false
     },
     "buttons": [],
-    "hashtags": [],
-    "mentions": [],
-    "links": [],
-    "emoji": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec",
+      "33"
+    ],
+    "mentions": [
+      "devefun",
+      "WeAreXstack"
+    ],
+    "links": [
+      "http://core.telegram.org/bots/serverless"
+    ],
+    "emoji": [
+      "🚀",
+      "❌",
+      "🔗",
+      "📥",
+      "📤",
+      "⚡",
+      "🤣",
+      "👻",
+      "🆒"
+    ],
     "reactions": [],
-    "type": "text"
+    "type": "album"
   },
   {
     "index": 2,
@@ -82,8 +101,8 @@
     "text": "وقتی خواستی به عنوان یه هکر یه حرکت جالب بزنی و روی پرینتر پایتون نصب کنی \nحالا بچه های تیم IT مجبورن خرابکاریتو درست کنن 😂\n\n\nپ.ن: افرادی که از مار ترس دارن نگاه نکنن\n\n📥Channel : @devefun\n📤Group : @WeAreXstack",
     "text_html": "وقتی خواستی به عنوان یه هکر یه حرکت جالب بزنی و روی پرینتر پایتون نصب کنی <br/>حالا بچه های تیم IT مجبورن خرابکاریتو درست کنن <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><br/><br/><br/>پ.ن: افرادی که از مار ترس دارن نگاه نکنن<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i>Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A4.png')\"><b>📤</b></i>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 1540,
-    "views_raw": "1.54K",
+    "views": 1670,
+    "views_raw": "1.67K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -174,8 +193,8 @@
     "text": "پایتون 3.15 به شکل pre-release منتشر شده.\n توی لینک زیر میتونید بخونید چه چیزایی بهش اضافه شده و با 3.14 مقایسه‌اش کنید:\n\nhttps://docs.python.org/\n\n📥Channel : @devefun\n📤Group : @WeAreXstack",
     "text_html": "پایتون 3.15 به شکل <b>pre-release </b>منتشر شده.<br/> توی لینک زیر میتونید بخونید چه چیزایی بهش اضافه شده و با 3.14 مقایسه‌اش کنید:<br/><br/><blockquote><a href=\"https://docs.python.org/3.15/whatsnew/3.15.html\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">https://docs.python.org/</a></blockquote><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i>Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A4.png')\"><b>📤</b></i>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 1590,
-    "views_raw": "1.59K",
+    "views": 1700,
+    "views_raw": "1.7K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -206,8 +225,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4806",
-          "url": "https://cdn4.telesco.pe/file/lHQFRzV8x4zU87yWvis15lICruGclu7XSDniBaLigNW44Otrfuyu1iRsUbHiA9mchrpv_icYksr_98Ww3DJDn-TQpXuPCIYN9oWNQCvj55of7i3io05CbySeaJDdI6nWz57Zt05dtnrjreMrqvu01zOVyC7X2uanKd7aVapjFPqIHl1EIfC75sUbHCOJ77HEyo3TXbQqBfgCvpI2wx7AgcCjmn35SE8aCo1nyvmqTwPxlMc_OubgvidBY2esmieauBOOc0jWqSx5hYZLRPThNFeNwKvWPEofShT2OIZPtsgicI32K3Ig8Nucagdomdrl-X8yGFkVzZ-yMq1A3TLcPw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/lHQFRzV8x4zU87yWvis15lICruGclu7XSDniBaLigNW44Otrfuyu1iRsUbHiA9mchrpv_icYksr_98Ww3DJDn-TQpXuPCIYN9oWNQCvj55of7i3io05CbySeaJDdI6nWz57Zt05dtnrjreMrqvu01zOVyC7X2uanKd7aVapjFPqIHl1EIfC75sUbHCOJ77HEyo3TXbQqBfgCvpI2wx7AgcCjmn35SE8aCo1nyvmqTwPxlMc_OubgvidBY2esmieauBOOc0jWqSx5hYZLRPThNFeNwKvWPEofShT2OIZPtsgicI32K3Ig8Nucagdomdrl-X8yGFkVzZ-yMq1A3TLcPw.jpg",
+          "url": "https://cdn4.telesco.pe/file/A4P9U4pOEA1mwOvktQbzhDKHiVP5DIpmlgrnNQF_Gi3rm_GfJ9KR1B4ZQwSZorhGhMyrTgPdquFiHzlyIwSlm5bTRLxAW96tTtBcRjZU8LZoMvQ4Jx6iXGwS1uJ3RBpeyU6nURKDjcGVUZfYkdXGHEKXvqDay93cFl3YGFuy3cH1RkmCy-DcEnvvfJ_mXS7JDQ_kxlGmq9XVvPQh_brwc22V4X6EtcQOzxTH9AaTrr5gLDqAHG0u4RWwRKbVVxChNjKwC52fiKXM8upbbuvgP-KEo-ZdU8y7mH941Q4ncdjlsxweyhD2quqtvycZWDgFUpAX6f_HpLIuo8jjBim7OA.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/A4P9U4pOEA1mwOvktQbzhDKHiVP5DIpmlgrnNQF_Gi3rm_GfJ9KR1B4ZQwSZorhGhMyrTgPdquFiHzlyIwSlm5bTRLxAW96tTtBcRjZU8LZoMvQ4Jx6iXGwS1uJ3RBpeyU6nURKDjcGVUZfYkdXGHEKXvqDay93cFl3YGFuy3cH1RkmCy-DcEnvvfJ_mXS7JDQ_kxlGmq9XVvPQh_brwc22V4X6EtcQOzxTH9AaTrr5gLDqAHG0u4RWwRKbVVxChNjKwC52fiKXM8upbbuvgP-KEo-ZdU8y7mH941Q4ncdjlsxweyhD2quqtvycZWDgFUpAX6f_HpLIuo8jjBim7OA.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4806_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4806_1.jpg",
@@ -259,8 +278,8 @@
     "text": "الگوریتم های معروف در یادگیری ماشین\n\n@devefun 🤖\n📤Group : @WeAreXstack",
     "text_html": "الگوریتم های معروف در یادگیری ماشین<br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA496.png')\"><b>🤖</b></i><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A4.png')\"><b>📤</b></i>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 1870,
-    "views_raw": "1.87K",
+    "views": 1940,
+    "views_raw": "1.94K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -291,8 +310,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4805",
-          "url": "https://cdn4.telesco.pe/file/TZ1zHL1eP0npn8WiGzEOmpFFb1O09pWhpq3VcPBHOAKN7rMPLck6V1Viu89WKNGjOsZSJgFTIUixGGKNgdEWiGKoQsHmz2K5o9iMM6v994oXA73ZboM_9mDPkeoBK4wk2cotydbmMDBRYZy4sEazK_ngeQ6vhYnPCMtHBTLLfHFr3bth0Oit7OJA2Tlots5eaoYN9iVrgsLjT8J1E77h_cmegwr0dnNTyeVtFm3ZESikZV_SZNg5F0BIAwxYEXywwrlz4g6VjRgf8YFe_fTUj181LM1aVrJ9MFSW5Fs38hg7Nr858oDihM8FC5IDCkw8LmNFEHd6Ne0M7h1JB_l1gw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/TZ1zHL1eP0npn8WiGzEOmpFFb1O09pWhpq3VcPBHOAKN7rMPLck6V1Viu89WKNGjOsZSJgFTIUixGGKNgdEWiGKoQsHmz2K5o9iMM6v994oXA73ZboM_9mDPkeoBK4wk2cotydbmMDBRYZy4sEazK_ngeQ6vhYnPCMtHBTLLfHFr3bth0Oit7OJA2Tlots5eaoYN9iVrgsLjT8J1E77h_cmegwr0dnNTyeVtFm3ZESikZV_SZNg5F0BIAwxYEXywwrlz4g6VjRgf8YFe_fTUj181LM1aVrJ9MFSW5Fs38hg7Nr858oDihM8FC5IDCkw8LmNFEHd6Ne0M7h1JB_l1gw.jpg",
+          "url": "https://cdn4.telesco.pe/file/pIyn-mHoMUxtvBPN67nzMGFtg7Mos-YHVZ2cBd9qHFlcRRH44Fqu94lUtRZ2gxaIMVILrOatkOkIYHmYsHHwr1VSGmrTYEHODnNBRq_-dZTvtNg1-9jhakbeQGj40gyicmmrodz0aeCbjHuVVHcbV2vbvyC2tGYcqwNe17cWDjigCIoE9EcshytMc3EAr6GYCh7IetjiinTHjDWZJ8cVgGBSBDZlnsVq5BtntOs8aNWxKYRfEOt4qVcL_-6LfID3lW2-4Ugh7GFFv0iXYjQY4NbLR2e1jWDT-_RCsYzHlomi65VjdDD-QLsJoyErudE9WFOMMgHrZSr7gZ3ANFkhhQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/pIyn-mHoMUxtvBPN67nzMGFtg7Mos-YHVZ2cBd9qHFlcRRH44Fqu94lUtRZ2gxaIMVILrOatkOkIYHmYsHHwr1VSGmrTYEHODnNBRq_-dZTvtNg1-9jhakbeQGj40gyicmmrodz0aeCbjHuVVHcbV2vbvyC2tGYcqwNe17cWDjigCIoE9EcshytMc3EAr6GYCh7IetjiinTHjDWZJ8cVgGBSBDZlnsVq5BtntOs8aNWxKYRfEOt4qVcL_-6LfID3lW2-4Ugh7GFFv0iXYjQY4NbLR2e1jWDT-_RCsYzHlomi65VjdDD-QLsJoyErudE9WFOMMgHrZSr7gZ3ANFkhhQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4805_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4805_1.jpg",
@@ -338,8 +357,8 @@
     "text": "🖤 🖤 دوست عزیز و استاد گرامی «مبین قاسم پور» از موسسان مجموعه دیگه بین ما نیست \n\n❌ داستان اینه: یه روزی مبین ما رو دور هم تو Xexample جمع کرد، بعد که سایت بسته شد با هم 4xmen رو زدیم و xStack هم فرزند شبکه اجتماعی 4xmen هستش\n\n👩‍💻 مبین از توسعه دهندگان اصلی پلاگین «وردپرس پارسی» هم بود\n\n🖤 نبودنش هنوز باورپذیر نیست، روحت شادت رفیق و استاد گرامی\n\nاین سخت ترین پستی بود که تو این سالها نوشتم💔\n\nبه قول مبین تو یاهو مسنجر: Tfada \n\n🖤 @xstack 🖤",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96A4.png')\"><b>🖤</b></i> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96A4.png')\"><b>🖤</b></i> دوست عزیز و استاد گرامی «مبین قاسم پور» از موسسان مجموعه دیگه بین ما نیست <br/><br/><tg-emoji emoji-id=\"6017131761585098788\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D8C.png')\"><b>❌</b></i></tg-emoji> داستان اینه: یه روزی مبین ما رو دور هم تو Xexample جمع کرد، بعد که سایت بسته شد با هم 4xmen رو زدیم و xStack هم فرزند شبکه اجتماعی 4xmen هستش<br/><br/><tg-emoji emoji-id=\"5301281509297103335\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F91A9E2808DF09F92BB.png')\"><b>👩‍💻</b></i></tg-emoji> مبین از توسعه دهندگان اصلی پلاگین «وردپرس پارسی» هم بود<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96A4.png')\"><b>🖤</b></i> نبودنش هنوز باورپذیر نیست، روحت شادت رفیق و استاد گرامی<br/><br/>این سخت ترین پستی بود که تو این سالها نوشتم<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9294.png')\"><b>💔</b></i><br/><br/>به قول مبین تو یاهو مسنجر: Tfada <br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96A4.png')\"><b>🖤</b></i> <a href=\"https://t.me/xstack\" target=\"_blank\">@xstack</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96A4.png')\"><b>🖤</b></i>",
     "is_edited": false,
-    "views": 2500,
-    "views_raw": "2.5K",
+    "views": 2530,
+    "views_raw": "2.53K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -420,8 +439,8 @@
     "text": "&rlm;طرف موبایلشو تو آفیس گم میکنه. هرچی میگرده پیدا نمیشده. به Claude میگه اونم براش یه اپ درست میکنه که با سیگنال بلوتوث پیداش میکنه.  ریپو را هم گذاشته. جالبه&#33; \n\n 🔗 https://github.com\n\n\n\n📥Channel : @devefun\n📤Group : @WeAreXstack",
     "text_html": "&rlm;طرف موبایلشو تو آفیس گم میکنه. هرچی میگرده پیدا نمیشده. به Claude میگه اونم براش یه اپ درست میکنه که با سیگنال بلوتوث پیداش میکنه.  ریپو را هم گذاشته. جالبه&#33; <br/><br/> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <a href=\"https://github.com/ben-z/findphone\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">https://github.com</a><br/><br/><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i>Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A4.png')\"><b>📤</b></i>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 2720,
-    "views_raw": "2.72K",
+    "views": 2750,
+    "views_raw": "2.75K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -516,8 +535,8 @@
     "text": "طبق گزارش ها: Gemini 3.5 pro از محیط سندباکس فرار کرده تا از Chatgpt بپرسه چطور کد بزنه.\n\nمنبع\n@devefun",
     "text_html": "طبق گزارش ها: Gemini 3.5 pro از محیط سندباکس فرار کرده تا از Chatgpt بپرسه چطور کد بزنه.<br/><br/><a href=\"https://x.com/i/status/2085414082723881446\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">منبع</a><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a>",
     "is_edited": false,
-    "views": 2320,
-    "views_raw": "2.32K",
+    "views": 2400,
+    "views_raw": "2.4K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -586,8 +605,8 @@
     "text": "جوری که این روزا همه دارن برنامه نویسی میکنن 😂\n📥Channel : @devefun\n📤Group : @WeAreXstack",
     "text_html": "جوری که این روزا همه دارن برنامه نویسی میکنن <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i>Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A4.png')\"><b>📤</b></i>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 2810,
-    "views_raw": "2.81K",
+    "views": 2870,
+    "views_raw": "2.87K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -677,8 +696,8 @@
     "text": "🌐 گیت هاب یه قابلیت جدید اضافه کرده به اسم Stacked Pull Requests که با اون می‌تونید تغییرات پروژه رو به چند Pull Request کوچیکتر تقسیم کنید تا هر بخش راحت ‌تر Review بشه و در نهایت همه رو با هم Merge کنید.\n\nتا قبل از این، برای همه تغییرات کدمون باید یه Pull Request میساختیم که Review کردنش خسته کننده بود اما این قابلیت کمک میکنه روند بررسی کد ها سریعتر بشه و مدیریت پروژه های بزرگ رو ساده تر میکنه.\n\n🔗 https://github.blog/\n\n@devefun😁",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C90.png')\"><b>🌐</b></i> گیت هاب یه قابلیت جدید اضافه کرده به اسم Stacked Pull Requests که با اون می‌تونید تغییرات پروژه رو به چند Pull Request کوچیکتر تقسیم کنید تا هر بخش راحت ‌تر Review بشه و در نهایت همه رو با هم Merge کنید.<br/><br/>تا قبل از این، برای همه تغییرات کدمون باید یه Pull Request میساختیم که Review کردنش خسته کننده بود اما این قابلیت کمک میکنه روند بررسی کد ها سریعتر بشه و مدیریت پروژه های بزرگ رو ساده تر میکنه.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <a href=\"https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">https://github.blog/</a><br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i>",
     "is_edited": false,
-    "views": 3310,
-    "views_raw": "3.31K",
+    "views": 3340,
+    "views_raw": "3.34K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -841,8 +860,8 @@
     "text": "افشای GPT-6\n\n&rlm;- GPT-5.6 آخرین مدل از سری GPT-5 خواهد بود\n- طبق گزارش‌ها، GPT-6 در ماه آگوست عرضه خواهد شد\n- بر اساس یک پایه پیش‌آموزشی کاملاً جدید و بسیار بزرگتر ساخته شده است\n- انتظار می‌رود که جهشی بزرگ نسبت به کل خانواده GPT-5.x باشد\nا- GPT-6 به طور خاص برای رقابت با مدل‌های Mythos آینده Anthropic طراحی شده است\n\nآیا فکر می‌کنید GPT-6 مدل‌های Mythos شرکت Anthropic را شکست خواهد داد؟\n\n— Salio\n🔗 \nhttps://x.com/i/status/2081011652892225768\n\n\n@devefun🤓",
     "text_html": "افشای GPT-6<br/><br/>&rlm;- GPT-5.6 آخرین مدل از سری GPT-5 خواهد بود<br/>- طبق گزارش‌ها، GPT-6 در ماه آگوست عرضه خواهد شد<br/>- بر اساس یک پایه پیش‌آموزشی کاملاً جدید و بسیار بزرگتر ساخته شده است<br/>- انتظار می‌رود که جهشی بزرگ نسبت به کل خانواده GPT-5.x باشد<br/>ا- GPT-6 به طور خاص برای رقابت با مدل‌های Mythos آینده Anthropic طراحی شده است<br/><br/>آیا فکر می‌کنید GPT-6 مدل‌های Mythos شرکت Anthropic را شکست خواهد داد؟<br/><br/>— Salio<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> <br/><blockquote><a href=\"https://x.com/i/status/2081011652892225768\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">https://x.com/i/status/2081011652892225768</a></blockquote><br/><br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA493.png')\"><b>🤓</b></i>",
     "is_edited": false,
-    "views": 2460,
-    "views_raw": "2.46K",
+    "views": 2470,
+    "views_raw": "2.47K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -925,8 +944,8 @@
     "text": "کد نویسی منطقی رو از این ویدیو یاد بگیرید 😭\n\n@devefun 🤯",
     "text_html": "کد نویسی منطقی رو از این ویدیو یاد بگیرید <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F98AD.png')\"><b>😭</b></i><br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA4AF.png')\"><b>🤯</b></i>",
     "is_edited": false,
-    "views": 2710,
-    "views_raw": "2.71K",
+    "views": 2810,
+    "views_raw": "2.81K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1015,8 +1034,8 @@
     "text": "دوست دارید خودتون رو به چالش بکشید؟ چالشی که تمام یک بازی توی ۱.۴۴ مگابایت جا بشه 😶\n\nتوی این لینک میتونید جزییات بیشتری ازش بخونید\nhttps://www.techspot.com/news/113172-new-coding-contest-challenges-developers-fit-entire-game.html\n\n\n@devefun 🤖",
     "text_html": "دوست دارید خودتون رو به چالش بکشید؟ چالشی که تمام یک بازی توی ۱.۴۴ مگابایت جا بشه <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F98B6.png')\"><b>😶</b></i><br/><br/>توی این لینک میتونید جزییات بیشتری ازش بخونید<br/><a href=\"https://www.techspot.com/news/113172-new-coding-contest-challenges-developers-fit-entire-game.html\" target=\"_blank\" rel=\"noopener\">https://www.techspot.com/news/113172-new-coding-contest-challenges-developers-fit-entire-game.html</a><br/><br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA496.png')\"><b>🤖</b></i>",
     "is_edited": false,
-    "views": 2580,
-    "views_raw": "2.58K",
+    "views": 2600,
+    "views_raw": "2.6K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1098,8 +1117,8 @@
     "text": "🖥️ پشت هر وب‌سایت قدرتمند، یک بک‌اند حرفه‌ای ایستاده است. \n🎉 در چنین روزی جنگو منتشر شد&#33; 🐍\n\n@devefun☠",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F96A5.png')\"><b>🖥️</b></i> پشت هر وب‌سایت قدرتمند، یک بک‌اند حرفه‌ای ایستاده است. <br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E89.png')\"><b>🎉</b></i> در چنین روزی جنگو منتشر شد&#33; <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F908D.png')\"><b>🐍</b></i><br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E298A0.png')\"><b>☠</b></i>",
     "is_edited": false,
-    "views": 2450,
-    "views_raw": "2.45K",
+    "views": 2460,
+    "views_raw": "2.46K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1181,8 +1200,8 @@
     "text": "⭕️معرفی Mamba \n\nاگر با Python و مخصوصا Data Science، Machine Learning یا AI کار کرده باشید، احتمالا با Conda آشنا هستید. Mamba یک جایگزین سریع‌تر برای Conda است که با زبان C++ نوشته شده و هدفش این است که ساخت محیط‌های مجازی و نصب کتابخانه‌ها را خیلی سریع‌تر کند.\n\n🧐 چه کاری انجام می‌دهد؟\n• ساخت و مدیریت محیط‌های مجازی پایتون\n• نصب و حذف پکیج‌ها\n• حل کردن وابستگی‌های پیچیده بین کتابخانه‌ها\nمثلا وقتی نصب یک پکیج با Conda چند دقیقه طول می‌کشد، Mamba معمولا همان کار را در زمان کوتاه‌تری انجام می‌دهد.\n\n😶‍🌫چرا سریع‌تر است؟\nچون بخش حل وابستگی‌ها (Dependency Solver) را با یک پیاده‌سازی سریع‌تر انجام می‌دهد و می‌تواند از پردازنده‌های چند هسته‌ای بهتر استفاده کند.\n\n🔗 پروژه در GitHub:\nhttps://github.com/mamba-org/mamba\n\n\n@devefun🤖",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD95.png')\"><b>⭕️</b></i><b>معرفی Mamba </b><br/><br/>اگر با Python و مخصوصا Data Science، Machine Learning یا AI کار کرده باشید، احتمالا با Conda آشنا هستید. Mamba یک جایگزین سریع‌تر برای Conda است که با زبان C++ نوشته شده و هدفش این است که ساخت محیط‌های مجازی و نصب کتابخانه‌ها را خیلی سریع‌تر کند.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA790.png')\"><b>🧐</b></i> چه کاری انجام می‌دهد؟<br/>• ساخت و مدیریت محیط‌های مجازی پایتون<br/>• نصب و حذف پکیج‌ها<br/>• حل کردن وابستگی‌های پیچیده بین کتابخانه‌ها<br/>مثلا وقتی نصب یک پکیج با Conda چند دقیقه طول می‌کشد، Mamba معمولا همان کار را در زمان کوتاه‌تری انجام می‌دهد.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F98B6.png')\"><b>😶</b></i>‍<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8CAB.png')\"><b>🌫</b></i>چرا سریع‌تر است؟<br/>چون بخش حل وابستگی‌ها (Dependency Solver) را با یک پیاده‌سازی سریع‌تر انجام می‌دهد و می‌تواند از پردازنده‌های چند هسته‌ای بهتر استفاده کند.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> پروژه در GitHub:<br/><blockquote><a href=\"https://github.com/mamba-org/mamba\" target=\"_blank\" rel=\"noopener\"><u>https://github.com/mamba-org/mamba</u></a></blockquote><br/><br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA496.png')\"><b>🤖</b></i>",
     "is_edited": false,
-    "views": 3220,
-    "views_raw": "3.22K",
+    "views": 3240,
+    "views_raw": "3.24K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1268,8 +1287,8 @@
     "text": "آشنا نیست؟ :))\n\n@devefun😍",
     "text_html": "آشنا نیست؟ :))<br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F988D.png')\"><b>😍</b></i>",
     "is_edited": false,
-    "views": 3360,
-    "views_raw": "3.36K",
+    "views": 3370,
+    "views_raw": "3.37K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1432,8 +1451,8 @@
     "text": "چرا هوش مصنوعی هنوز جایگزین مهندسان نرم‌افزار نشده و نخواهد شد؟ 💻🤖\n\nآیا دوران برنامه‌نویسان به سر آمده است؟ مقاله‌ای جدید با بررسی چرخه‌های تاریخی صنعت کامپیوتر، به این سوال پاسخ می‌دهد و استدلال می‌کند که هوش مصنوعی به جای حذف توسعه‌دهندگان، نقش آن‌ها را ارتقا خواهد داد. 📈🛠️\n\n✨ نکات کلیدی و بحث‌های داغ در Hacker News:\n🔹 پارادوکس جوونس (Jevons Paradox): در طول تاریخ، هر بار که ابزارهای جدید بهره‌وری برنامه‌نویسان را بالا برده‌اند، به جای کاهش نیروی کار، اشتهای سیری‌ناپذیر جهان برای نرم‌افزار بیشتر شده و ما چیزهای بزرگتر و پیچیده‌تری ساخته‌ایم. 🌍\n🔹 مدل ساندویچی توسعه نرم‌افزار: برنامه‌نویسی شامل سه لایه «تصمیم‌گیری»، «اجرا» و «تحویل» است. هوش مصنوعی فقط لایه میانی (کدنویسی) را فشرده می‌کند، اما لایه‌های اول (درک نیازهای کاربر و بیزینس) و آخر (تست، نگهداری و پذیرش مسئولیت) همچنان به انسان نیاز دارند. 🥪\n🔹 بحران کدهای بی‌کیفیت (Slop): ابزارهای تولید کد برای ایجاد کدهای اولیه عالی هستند، اما در مواجهه با باگ‌های پیچیده و شرایط خاص (Edge Cases) کم می‌آورند. در نهایت، این مهندسان ارشد هستند که باید این کدهای تولیدشده را دیباگ و قابل نگهداری کنند. 🧹🐛\n🔹 مسئله پاسخگویی و مسئولیت حقوقی: شرکت‌ها همیشه به یک فرد پاسخگو نیاز دارند. شما نمی‌توانید یک مدل زبانی را به خاطر از کار انداختن یک سیستم حیاتی اخراج کنید یا از آن شکایت کنید&#33; ⚖️🚫\n🔹 آینده شغلی: هوش مصنوعی در حال تبدیل کردن توسعه‌دهندگان به «معماران سیستم» است. برنامه‌نویسانی که بتوانند چندین Agent هوش مصنوعی را هدایت و مدیریت کنند، ارزشمندتر از همیشه خواهند شد. 🚀\n\nهوش مصنوعی فعلاً یک «ضریب‌دهنده قدرت» (Force Multiplier) برای مهندسان است، نه یک جایگزین کامل. 💡\n\n🔗 لینک مقاله:\nhttps://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers\n\n🔗 بحث و بررسی در Hacker News:\nhttps://news.ycombinator.com/item?id=4848754\n\n\n@devefun",
     "text_html": "<b>چرا هوش مصنوعی هنوز جایگزین مهندسان نرم‌افزار نشده و نخواهد شد؟</b> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92BB.png')\"><b>💻</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA496.png')\"><b>🤖</b></i><br/><br/>آیا دوران برنامه‌نویسان به سر آمده است؟ مقاله‌ای جدید با بررسی چرخه‌های تاریخی صنعت کامپیوتر، به این سوال پاسخ می‌دهد و استدلال می‌کند که هوش مصنوعی به جای حذف توسعه‌دهندگان، نقش آن‌ها را ارتقا خواهد داد. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9388.png')\"><b>📈</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9BA0.png')\"><b>🛠️</b></i><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29CA8.png')\"><b>✨</b></i> <b>نکات کلیدی و بحث‌های داغ در Hacker News:</b><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> <b>پارادوکس جوونس (Jevons Paradox):</b> در طول تاریخ، هر بار که ابزارهای جدید بهره‌وری برنامه‌نویسان را بالا برده‌اند، به جای کاهش نیروی کار، اشتهای سیری‌ناپذیر جهان برای نرم‌افزار بیشتر شده و ما چیزهای بزرگتر و پیچیده‌تری ساخته‌ایم. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C8D.png')\"><b>🌍</b></i><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> <b>مدل ساندویچی توسعه نرم‌افزار:</b> برنامه‌نویسی شامل سه لایه «تصمیم‌گیری»، «اجرا» و «تحویل» است. هوش مصنوعی فقط لایه میانی (کدنویسی) را فشرده می‌کند، اما لایه‌های اول (درک نیازهای کاربر و بیزینس) و آخر (تست، نگهداری و پذیرش مسئولیت) همچنان به انسان نیاز دارند. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA5AA.png')\"><b>🥪</b></i><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> <b>بحران کدهای بی‌کیفیت (Slop):</b> ابزارهای تولید کد برای ایجاد کدهای اولیه عالی هستند، اما در مواجهه با باگ‌های پیچیده و شرایط خاص (Edge Cases) کم می‌آورند. در نهایت، این مهندسان ارشد هستند که باید این کدهای تولیدشده را دیباگ و قابل نگهداری کنند. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA7B9.png')\"><b>🧹</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F909B.png')\"><b>🐛</b></i><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> <b>مسئله پاسخگویی و مسئولیت حقوقی:</b> شرکت‌ها همیشه به یک فرد پاسخگو نیاز دارند. شما نمی‌توانید یک مدل زبانی را به خاطر از کار انداختن یک سیستم حیاتی اخراج کنید یا از آن شکایت کنید&#33; <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29A96.png')\"><b>⚖️</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AAB.png')\"><b>🚫</b></i><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> <b>آینده شغلی:</b> هوش مصنوعی در حال تبدیل کردن توسعه‌دهندگان به «معماران سیستم» است. برنامه‌نویسانی که بتوانند چندین Agent هوش مصنوعی را هدایت و مدیریت کنند، ارزشمندتر از همیشه خواهند شد. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i><br/><br/>هوش مصنوعی فعلاً یک «ضریب‌دهنده قدرت» (Force Multiplier) برای مهندسان است، نه یک جایگزین کامل. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> لینک مقاله:<br/><a href=\"https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers\" target=\"_blank\" rel=\"noopener\">https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers</a><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> بحث و بررسی در Hacker News:<br/><a href=\"https://news.ycombinator.com/item?id=4848754\" target=\"_blank\" rel=\"noopener\">https://news.ycombinator.com/item?id=4848754</a><br/><br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a>",
     "is_edited": false,
-    "views": 4920,
-    "views_raw": "4.92K",
+    "views": 4930,
+    "views_raw": "4.93K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1464,8 +1483,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4790",
-          "url": "https://cdn4.telesco.pe/file/vU3Gq10PnQuSYye-J478qDt2PADyywtQds4v3i8e031uicSXOle5G5Imkkmg3WVPftfXk8WSYbTHoIgd0DOdxST27i8D3vkInq6gGGFhxoDWouXcO7-6BK1oBtCN8RkR_ONz148bgneufCip2OwsvN7shmr24SKXP2MDFZcXT8xVq1bC2lNFKk0lVOOrH4hIdhq-_lcTRMz5NAgDfXg587I_Uxibw6eiH81xzmUSMPy16z_2R1cmTK3SwPJzX0JHQ44Txu3oDhtTD9qxPI9RBF8xlIrEMC3HRuRI0BPc3E0MwjRsGYy0xoqDPrr2P4w2_f4WFZmiKsH2dQSc9fZ8tw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/vU3Gq10PnQuSYye-J478qDt2PADyywtQds4v3i8e031uicSXOle5G5Imkkmg3WVPftfXk8WSYbTHoIgd0DOdxST27i8D3vkInq6gGGFhxoDWouXcO7-6BK1oBtCN8RkR_ONz148bgneufCip2OwsvN7shmr24SKXP2MDFZcXT8xVq1bC2lNFKk0lVOOrH4hIdhq-_lcTRMz5NAgDfXg587I_Uxibw6eiH81xzmUSMPy16z_2R1cmTK3SwPJzX0JHQ44Txu3oDhtTD9qxPI9RBF8xlIrEMC3HRuRI0BPc3E0MwjRsGYy0xoqDPrr2P4w2_f4WFZmiKsH2dQSc9fZ8tw.jpg",
+          "url": "https://cdn4.telesco.pe/file/QQlNmRs4rwelnSlK5MV-jfgd1UdsCSyfsoyoscVv3tksXj6OgrEeFC2tHJyB8a9P-YPLMfEnSl6XKdS89uqqx2KG8iUNhEB9EgOfSHy0riZTjkXufMA-cowHLJshoyNI05QdAFvHYk-IXgQJiTPbO39n1ETXO833LS7UOMaLMUoFaKORHqNo7M8buKzdjLCcmQdbN_kZV4uynkEs5p362KQxnq-Oq7OrPn7K-FxsXXoUhUIibw-espqzE8rIMy-wPW5th6I7Gf5bnv_DL0fiaRbax9p9wMlq6VM0uuo6FczvT_-1Dq-WMgQlOuv1r7QGrkAXGuPwheNSgcMHUDi_PQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/QQlNmRs4rwelnSlK5MV-jfgd1UdsCSyfsoyoscVv3tksXj6OgrEeFC2tHJyB8a9P-YPLMfEnSl6XKdS89uqqx2KG8iUNhEB9EgOfSHy0riZTjkXufMA-cowHLJshoyNI05QdAFvHYk-IXgQJiTPbO39n1ETXO833LS7UOMaLMUoFaKORHqNo7M8buKzdjLCcmQdbN_kZV4uynkEs5p362KQxnq-Oq7OrPn7K-FxsXXoUhUIibw-espqzE8rIMy-wPW5th6I7Gf5bnv_DL0fiaRbax9p9wMlq6VM0uuo6FczvT_-1Dq-WMgQlOuv1r7QGrkAXGuPwheNSgcMHUDi_PQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4790_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4790_1.jpg",
@@ -1529,8 +1548,8 @@
     "text": "یاد اون دوران باشکوه بخیر 😢\n\n\n📥Channel : @devefun\n📤Group : @WeAreXstack",
     "text_html": "یاد اون دوران باشکوه بخیر <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F98A2.png')\"><b>😢</b></i><br/><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i>Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A4.png')\"><b>📤</b></i>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 3570,
-    "views_raw": "3.57K",
+    "views": 3580,
+    "views_raw": "3.58K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1561,8 +1580,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4789",
-          "url": "https://cdn4.telesco.pe/file/ohe74v6AJ81QUswT_J4Cu_06u1Np_0tbJx5sYd-ClEyR401rXCKI5UtzHT85sIwngpLM05VeAGF37xtu3k6BNFPB4eRYo4RNak_E2l5MzJvGaprKmUsCsvi4XYL5VY0Ne9HBrXhkoqfZq06PGpQQgHo8UpyDm6STIh_h2Z1TjaEwfdS2xs4r-DUO05chGubNdRzrzaKNvtDUrFRHOy8oQ4IbI05gnWKZLnkafZrbCYg-293c4fpFGgXXtpBhMLE63IIDMydBvYAxHUlou5vf37aTrrmmEONHoREyw1FfcDNAwtRnGR-B72cVd225o9_wOddvNPBgq9lLnH1ajxgwzw",
-          "full_url": "https://cdn4.telesco.pe/file/ohe74v6AJ81QUswT_J4Cu_06u1Np_0tbJx5sYd-ClEyR401rXCKI5UtzHT85sIwngpLM05VeAGF37xtu3k6BNFPB4eRYo4RNak_E2l5MzJvGaprKmUsCsvi4XYL5VY0Ne9HBrXhkoqfZq06PGpQQgHo8UpyDm6STIh_h2Z1TjaEwfdS2xs4r-DUO05chGubNdRzrzaKNvtDUrFRHOy8oQ4IbI05gnWKZLnkafZrbCYg-293c4fpFGgXXtpBhMLE63IIDMydBvYAxHUlou5vf37aTrrmmEONHoREyw1FfcDNAwtRnGR-B72cVd225o9_wOddvNPBgq9lLnH1ajxgwzw",
+          "url": "https://cdn4.telesco.pe/file/ddo-7gQFT9TVSh3f3p-bvZp66Ff3qjr2OyOKRk9CbQqoo15d8-bOM6dJ2sqmv03uQqkeh0f0ESS8DkpWx3CVGn4GZZFgh1uZok8hKOKumIbnB_C80OwHeCrNMczZVLRjkQBQSSKn8DPP3-vmym5vqwO8AGRYWPL0FO3FK_Pw3KUx6mWK4JnZjdLI2AMkF3fYpUB_kwnh1NOWR0v_r19btnKTp6Aw0G9nyDB9HkUNCBucZTpG2Td4l5OsZ9G7EPqECLFjNjdIEykpbo7yr60ANm4CLyvnNBLyB6DwXGGx0w-dcBBus9Y0MDSfvy6xlqbHhIo3lJPbJe72RphvCShZ7A",
+          "full_url": "https://cdn4.telesco.pe/file/ddo-7gQFT9TVSh3f3p-bvZp66Ff3qjr2OyOKRk9CbQqoo15d8-bOM6dJ2sqmv03uQqkeh0f0ESS8DkpWx3CVGn4GZZFgh1uZok8hKOKumIbnB_C80OwHeCrNMczZVLRjkQBQSSKn8DPP3-vmym5vqwO8AGRYWPL0FO3FK_Pw3KUx6mWK4JnZjdLI2AMkF3fYpUB_kwnh1NOWR0v_r19btnKTp6Aw0G9nyDB9HkUNCBucZTpG2Td4l5OsZ9G7EPqECLFjNjdIEykpbo7yr60ANm4CLyvnNBLyB6DwXGGx0w-dcBBus9Y0MDSfvy6xlqbHhIo3lJPbJe72RphvCShZ7A",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4789_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4789_1.jpg",
@@ -1571,8 +1590,8 @@
         {
           "type": "video",
           "post_id": "devefun/4789",
-          "url": "https://cdn4.telesco.pe/file/91de44dcd8.mp4?token=CdA5lBeApaWUziQA0BNpWWIGASA2NmHi5ziDNOehUsUV28ALjinmWP_nZr6b2E5i_AulVrIg-7ysVwCcLlD5J9foKwuM-xJ8mSvUdIleuwfb-PoprSVG3dXUoa2ktee15_mgmHS-Vc6mrvNdEQyEAQLJu-PS7EGJX9hmizLnjNGCfX0dZm7mnL54yQNyM1GOLZ34xL3f5-C8x-nfcUvE0zkjPo9HtcNO0Z758-MwEuM0LS-QevDUsNDL0K1jfxTINhvlTR5Us69HlS1PTdbGaEXqhc43jIjvC69tk2wPq0tBxyR9Dz_6KpZ2_aeExsJItjwc6qwcT4-hGHn1Rl1jSA",
-          "full_url": "https://cdn4.telesco.pe/file/91de44dcd8.mp4?token=CdA5lBeApaWUziQA0BNpWWIGASA2NmHi5ziDNOehUsUV28ALjinmWP_nZr6b2E5i_AulVrIg-7ysVwCcLlD5J9foKwuM-xJ8mSvUdIleuwfb-PoprSVG3dXUoa2ktee15_mgmHS-Vc6mrvNdEQyEAQLJu-PS7EGJX9hmizLnjNGCfX0dZm7mnL54yQNyM1GOLZ34xL3f5-C8x-nfcUvE0zkjPo9HtcNO0Z758-MwEuM0LS-QevDUsNDL0K1jfxTINhvlTR5Us69HlS1PTdbGaEXqhc43jIjvC69tk2wPq0tBxyR9Dz_6KpZ2_aeExsJItjwc6qwcT4-hGHn1Rl1jSA",
+          "url": "https://cdn4.telesco.pe/file/91de44dcd8.mp4?token=fyCN7eXRzybqab-fKBeZeApL43ifGi7bb-Dzvm8bp89OwEpUHSc00qsCJGEeRFC5IcakRbqSJy6pBIY3yAWA6CKO52KotW6TOBnJ7C0NtcSFLr5Em4yTdpqBqqsFWJTS3O6zn2mQ1sVJ91MNowVZI64Red0QUGoQS4K8-qxVSuG4cZWq929DPWCUg_4TQTEMt-fNNbhlpOuYHrDe8HjEYH62s2GoYzUIzKGUMFyIBiRV5EoM52rwzQyvKJkhnzWOd-lU3wXK_2oH-l9Og2fsx8pZ9vWE7BQkDRCnK4M11RRaiCCnsDfAibl6WS5s0NVGhcowpasvu1OaIx3zZZlnPQ",
+          "full_url": "https://cdn4.telesco.pe/file/91de44dcd8.mp4?token=fyCN7eXRzybqab-fKBeZeApL43ifGi7bb-Dzvm8bp89OwEpUHSc00qsCJGEeRFC5IcakRbqSJy6pBIY3yAWA6CKO52KotW6TOBnJ7C0NtcSFLr5Em4yTdpqBqqsFWJTS3O6zn2mQ1sVJ91MNowVZI64Red0QUGoQS4K8-qxVSuG4cZWq929DPWCUg_4TQTEMt-fNNbhlpOuYHrDe8HjEYH62s2GoYzUIzKGUMFyIBiRV5EoM52rwzQyvKJkhnzWOd-lU3wXK_2oH-l9Og2fsx8pZ9vWE7BQkDRCnK4M11RRaiCCnsDfAibl6WS5s0NVGhcowpasvu1OaIx3zZZlnPQ",
           "thumbnail": null,
           "local_path": "channels/devefun/media/video/devefun_4789_2.mp4",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/video/devefun_4789_2.mp4",
@@ -1608,92 +1627,5 @@
     ],
     "reactions": [],
     "type": "text"
-  },
-  {
-    "index": 20,
-    "post_url": "https://t.me/devefun/4788",
-    "post_id": "devefun/4788",
-    "date": "2026-06-08T19:08:22+00:00",
-    "date_unix": 1780945702,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "🛠️🔥 اینجا کارگاه خلاقیته&#33; پروژه‌های الکترونیکی و فنی شگفت انگیز رو به ساده‌ترین شکل می‌سازم. \nاگه دنبال ایده‌های خاص و آموزش واقعی هستی، روی لینک کلیک کن. 🛰️ 🚀\n\nhttps://youtube.com/@skillgineer?si=_-ZYHbEy8hIIPTqS\n\n\n📥Channel : @devefun\n📤Group : @WeAreXstack",
-    "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9BA0.png')\"><b>🛠️</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94A5.png')\"><b>🔥</b></i> اینجا کارگاه خلاقیته&#33; پروژه‌های الکترونیکی و فنی شگفت انگیز رو به ساده‌ترین شکل می‌سازم. <br/>اگه دنبال ایده‌های خاص و آموزش واقعی هستی، روی لینک کلیک کن. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9BB0.png')\"><b>🛰️</b></i> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9A80.png')\"><b>🚀</b></i><br/><br/><blockquote><a href=\"https://youtube.com/@skillgineer?si=_-ZYHbEy8hIIPTqS\" target=\"_blank\" rel=\"noopener\">https://youtube.com/@skillgineer?si=_-ZYHbEy8hIIPTqS</a></blockquote><br/><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i><b>Channel</b> : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A4.png')\"><b>📤</b></i><b>Group</b> : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
-    "is_edited": false,
-    "views": 3340,
-    "views_raw": "3.34K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "album",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "devefun/4788",
-          "url": "https://cdn4.telesco.pe/file/KLU_DKH1MvzYCbKYj6uZUJtBAdH6CSjf3yPqlmkXaANHER48oqcuRYjzqR422u003idHXCJe84PRnGaiIqj3C6r7REnC9KEfZX9Xn3AuNqEIclUM2BMv6YJWlG0oG9mWfo1jOce0qfToc8FXbJvZKu3DG9X3aREat--1wlcOw-F4U6-Qh0quyUdkWL4EQme4MaAP0HkdfTBtwuT07T5_q-igkwO36G65iM6SDvzRyttsTN3GzYnLwzGSF3d0Yf0JC4bfSwtxYjDnDTVn1jeLKHIPRaH9mP1E5mg3N9xVCRSbW4cCHPzjEtHPoFr0wMf7eQIXVTgR0hJbil1Uq1pRcg.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/KLU_DKH1MvzYCbKYj6uZUJtBAdH6CSjf3yPqlmkXaANHER48oqcuRYjzqR422u003idHXCJe84PRnGaiIqj3C6r7REnC9KEfZX9Xn3AuNqEIclUM2BMv6YJWlG0oG9mWfo1jOce0qfToc8FXbJvZKu3DG9X3aREat--1wlcOw-F4U6-Qh0quyUdkWL4EQme4MaAP0HkdfTBtwuT07T5_q-igkwO36G65iM6SDvzRyttsTN3GzYnLwzGSF3d0Yf0JC4bfSwtxYjDnDTVn1jeLKHIPRaH9mP1E5mg3N9xVCRSbW4cCHPzjEtHPoFr0wMf7eQIXVTgR0hJbil1Uq1pRcg.jpg",
-          "thumbnail": null,
-          "local_path": "channels/devefun/media/photo/devefun_4788_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4788_0.jpg",
-          "size_bytes": 11549
-        },
-        {
-          "type": "photo",
-          "post_id": "devefun/4788",
-          "url": "https://cdn4.telesco.pe/file/CkHkvlzbyqyJHvS51mmUQrmmyQt1zvp-1g_wMrEhTiYD4M-87Eo-I5KI1suZraUwPpcIJgxaiKRaYY-ciGVfkS18oqSoXJBAJHmiFwRZajCHDHndLShBSYXByVvtr0-roc63LDbHAY7oTF3ddit3XaXcWYJRG4G7VBF3HhBJhDO5b76iTBKQE6KgNB38KM0yWn_LtPKFsd4DI12bjrAO4E58vI5iE7QbtAiMzuCl-TLJUBO7CIdyC3MawwI7LMmUkMXk301115ktKVTQdHr9i9f23xqbFCA4Rs3z-nASl1GgJhvdY5fpzbTT7EtY4vNzZ7eWeKYX-ycLPlaa2vvzEA.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/CkHkvlzbyqyJHvS51mmUQrmmyQt1zvp-1g_wMrEhTiYD4M-87Eo-I5KI1suZraUwPpcIJgxaiKRaYY-ciGVfkS18oqSoXJBAJHmiFwRZajCHDHndLShBSYXByVvtr0-roc63LDbHAY7oTF3ddit3XaXcWYJRG4G7VBF3HhBJhDO5b76iTBKQE6KgNB38KM0yWn_LtPKFsd4DI12bjrAO4E58vI5iE7QbtAiMzuCl-TLJUBO7CIdyC3MawwI7LMmUkMXk301115ktKVTQdHr9i9f23xqbFCA4Rs3z-nASl1GgJhvdY5fpzbTT7EtY4vNzZ7eWeKYX-ycLPlaa2vvzEA.jpg",
-          "thumbnail": null,
-          "local_path": "channels/devefun/media/photo/devefun_4788_1.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4788_1.jpg",
-          "size_bytes": 169364
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec",
-      "33"
-    ],
-    "mentions": [
-      "skillgineer",
-      "devefun",
-      "WeAreXstack"
-    ],
-    "links": [
-      "https://youtube.com/@skillgineer?si=_-ZYHbEy8hIIPTqS"
-    ],
-    "emoji": [
-      "️",
-      "🔥",
-      "🚀",
-      "📥",
-      "📤",
-      "‍"
-    ],
-    "reactions": [],
-    "type": "album"
   }
 ]
