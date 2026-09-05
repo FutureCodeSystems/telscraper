@@ -1,6 +1,253 @@
 [
   {
     "index": 1,
+    "post_url": "https://t.me/BrawlStarsNews/19002",
+    "post_id": "BrawlStarsNews/19002",
+    "date": "2026-09-05T16:52:05+00:00",
+    "date_unix": 1788627125,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "Channel photo updated",
+    "text_html": "Channel photo updated",
+    "is_edited": false,
+    "views": null,
+    "views_raw": null,
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "album",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "BrawlStarsNews/19002",
+          "url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_19002_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_19002_0.jpg",
+          "size_bytes": 16263
+        },
+        {
+          "type": "photo",
+          "post_id": "BrawlStarsNews/19002",
+          "url": "https://cdn4.telesco.pe/file/f2t2DarPOeV8VjRz5QQkNuUZCvtgHfELb_yYNi5lTgRy4bKXlYCVnn1FJVC-s1cy28ZniQ79YKlrmwAGZ4pnO2BxqUVE2HbPEG_3Yd1hzQcoK0YPIdQKjKUzY4a_5ASlLj8GCvrNQOjn5LvQZjZPErYuLrq_Nwa8gE6u_VLMltcztuiBhAD9PM_g7-gClbVLQA0Qqs8Z6O515_OfL3NslLqQqvhwmFiJ-2tHTkyveQkNsDvUUjka7n_c7-c5DLznEaub0WyPozVsNrh2YzHLVMKZoZtgPwUwcifJ8lup4HiBwtyKk62WFwVoBZTnQyZqSHxXwaoiyVAgZjksQqVW6w.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/f2t2DarPOeV8VjRz5QQkNuUZCvtgHfELb_yYNi5lTgRy4bKXlYCVnn1FJVC-s1cy28ZniQ79YKlrmwAGZ4pnO2BxqUVE2HbPEG_3Yd1hzQcoK0YPIdQKjKUzY4a_5ASlLj8GCvrNQOjn5LvQZjZPErYuLrq_Nwa8gE6u_VLMltcztuiBhAD9PM_g7-gClbVLQA0Qqs8Z6O515_OfL3NslLqQqvhwmFiJ-2tHTkyveQkNsDvUUjka7n_c7-c5DLznEaub0WyPozVsNrh2YzHLVMKZoZtgPwUwcifJ8lup4HiBwtyKk62WFwVoBZTnQyZqSHxXwaoiyVAgZjksQqVW6w.jpg",
+          "thumbnail": null,
+          "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_19002_1.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_19002_1.jpg",
+          "size_bytes": 50768
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec"
+    ],
+    "mentions": [],
+    "links": [],
+    "emoji": [],
+    "reactions": [],
+    "type": "album"
+  },
+  {
+    "index": 2,
+    "post_url": "https://t.me/BrawlStarsNews/19001",
+    "post_id": "BrawlStarsNews/19001",
+    "date": "2026-09-05T13:08:44+00:00",
+    "date_unix": 1788613724,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "📢‼️#اخبار ❱❱❱ شاهکار جدید یوتیوبر محبوب همه‌ی براول استارز پلیرا عینک آبی، بنام=\n ✨[SHOWDOWN OF CHAOS 10]\n\nⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ\n#Brawlstars ☆ #براول_استارز\n💎@noyekgem 👈برای خرید جم و پس\n🆔 @BrawlStarsNews",
+    "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><a href=\"?q=%23%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1\">#اخبار</a> <b>❱❱❱ شاهکار جدید یوتیوبر محبوب همه‌ی براول استارز پلیرا عینک آبی، بنام=<br/></b><blockquote><b> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29CA8.png')\"><b>✨</b></i>[SHOWDOWN OF CHAOS 10]</b></blockquote><br/><br/><b>ⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ</b><br/><blockquote><a href=\"?q=%23Brawlstars\">#Brawlstars</a> ☆ <a href=\"?q=%23%D8%A8%D8%B1%D8%A7%D9%88%D9%84_%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%B2\">#براول_استارز</a></blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F928E.png')\"><b>💎</b></i><a href=\"https://t.me/noyekgem\" target=\"_blank\">@noyekgem</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i>برای خرید جم و پس</blockquote><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8694.png')\"><b>🆔</b></i> <a href=\"https://t.me/BrawlStarsNews\" target=\"_blank\"><b>@BrawlStarsNews</b></a>",
+    "is_edited": false,
+    "views": 2230,
+    "views_raw": "2.23K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "album",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "BrawlStarsNews/19001",
+          "url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_19001_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_19001_0.jpg",
+          "size_bytes": 16263
+        },
+        {
+          "type": "photo",
+          "post_id": "BrawlStarsNews/19001",
+          "url": "https://cdn4.telesco.pe/file/u47H5jbyHJGQsO9b4hXR1eVRxj4tsd3Sa23GlU_6gN9zq3uJwwNHPjpVAGHZu0oBYNY96tVoj8uH9YYxmPZ65T-NG-__q4EQ-OXlFL48FU6fBXJEmut5IotOyE3R-koD-y3w_HFUFgoBGVeWPsk_HZp9wq_mqo7znWsONGyxRHu4ex28vi91KYcPVe6aSh7TVbUp7VvRDQz3P7N6tmNkzen7cMRS3hgiyVU1BGK4W4jVYWVDXsIqrTazE5qBVzHOL1AdKxH7HTKfcGCIfuLrvEXr7RTn0fCilANKOZQmsQcYkAgx-EvElKEJa7w5NuJTbZbmHRVW66e8TQuDBDgZOg",
+          "full_url": "https://cdn4.telesco.pe/file/u47H5jbyHJGQsO9b4hXR1eVRxj4tsd3Sa23GlU_6gN9zq3uJwwNHPjpVAGHZu0oBYNY96tVoj8uH9YYxmPZ65T-NG-__q4EQ-OXlFL48FU6fBXJEmut5IotOyE3R-koD-y3w_HFUFgoBGVeWPsk_HZp9wq_mqo7znWsONGyxRHu4ex28vi91KYcPVe6aSh7TVbUp7VvRDQz3P7N6tmNkzen7cMRS3hgiyVU1BGK4W4jVYWVDXsIqrTazE5qBVzHOL1AdKxH7HTKfcGCIfuLrvEXr7RTn0fCilANKOZQmsQcYkAgx-EvElKEJa7w5NuJTbZbmHRVW66e8TQuDBDgZOg",
+          "thumbnail": null,
+          "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_19001_1.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_19001_1.jpg",
+          "size_bytes": 18831
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec",
+      "Brawlstars"
+    ],
+    "mentions": [
+      "noyekgem",
+      "BrawlStarsNews"
+    ],
+    "links": [],
+    "emoji": [
+      "📢",
+      "️",
+      "✨",
+      "💎",
+      "👈",
+      "🆔",
+      "🔥",
+      "😭",
+      "🎉",
+      "🥰",
+      "😱"
+    ],
+    "reactions": [],
+    "type": "album"
+  },
+  {
+    "index": 3,
+    "post_url": "https://t.me/BrawlStarsNews/19000",
+    "post_id": "BrawlStarsNews/19000",
+    "date": "2026-09-04T19:55:41+00:00",
+    "date_unix": 1788551741,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "📢‼️#متای ❱❱❱ رده بندی متای سیزن جدید با حضور کازمو اماده در خدمت شماست...\n\nⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ\n#Brawlstars ☆ #براول_استارز\n💎@noyekgem 👈برای خرید جم و پس\n🆔 @BrawlStarsNews",
+    "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><a href=\"?q=%23%D9%85%D8%AA%D8%A7%DB%8C\">#متای</a> <b>❱❱❱ رده بندی متای سیزن جدید با حضور کازمو اماده در خدمت شماست...</b><br/><br/><b>ⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ</b><br/><blockquote><a href=\"?q=%23Brawlstars\">#Brawlstars</a> ☆ <a href=\"?q=%23%D8%A8%D8%B1%D8%A7%D9%88%D9%84_%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%B2\">#براول_استارز</a></blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F928E.png')\"><b>💎</b></i><a href=\"https://t.me/noyekgem\" target=\"_blank\">@noyekgem</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i>برای خرید جم و پس</blockquote><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8694.png')\"><b>🆔</b></i> <a href=\"https://t.me/BrawlStarsNews\" target=\"_blank\"><b>@BrawlStarsNews</b></a>",
+    "is_edited": false,
+    "views": 2700,
+    "views_raw": "2.7K",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "album",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "BrawlStarsNews/19000",
+          "url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
+          "thumbnail": null,
+          "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_19000_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_19000_0.jpg",
+          "size_bytes": 16263
+        },
+        {
+          "type": "photo",
+          "post_id": "BrawlStarsNews/19000",
+          "url": "https://cdn4.telesco.pe/file/a2iwyN1TYpXGGJ9D5bnx-b5MFjjf7sgfeffSIkrbI8fxgD1BqqKzOtvbdxwfkBxnY1ZLBQI9g_G8lTS4aJhA41suUmYp_oel8TfD5AbXemjQ3d2OPlMpQ66nPiSwPVDGCpsESKX_IaKcnz_OcnAfRXdWMn1l8qqzJPQd6BaHIYpeAArI25S_tMg2bkReIia83ja-xKjKkFvtN_mkxG6BrS7-jWUGA5PErVDFEpsgMJGBdoCaarcL5CatBJMddcPfuBYBoUdl8DHzUkEk7tHAUCL_vHn0NMjbIkUf1XzTLkX4nbQYCIkGGF3LTNrS8lcSf_CekR3FHK4cbv3WvjUgAA.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/a2iwyN1TYpXGGJ9D5bnx-b5MFjjf7sgfeffSIkrbI8fxgD1BqqKzOtvbdxwfkBxnY1ZLBQI9g_G8lTS4aJhA41suUmYp_oel8TfD5AbXemjQ3d2OPlMpQ66nPiSwPVDGCpsESKX_IaKcnz_OcnAfRXdWMn1l8qqzJPQd6BaHIYpeAArI25S_tMg2bkReIia83ja-xKjKkFvtN_mkxG6BrS7-jWUGA5PErVDFEpsgMJGBdoCaarcL5CatBJMddcPfuBYBoUdl8DHzUkEk7tHAUCL_vHn0NMjbIkUf1XzTLkX4nbQYCIkGGF3LTNrS8lcSf_CekR3FHK4cbv3WvjUgAA.jpg",
+          "thumbnail": null,
+          "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_19000_1.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_19000_1.jpg",
+          "size_bytes": 152426
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec",
+      "Brawlstars"
+    ],
+    "mentions": [
+      "noyekgem",
+      "BrawlStarsNews"
+    ],
+    "links": [],
+    "emoji": [
+      "📢",
+      "️",
+      "💎",
+      "👈",
+      "🆔",
+      "🔥",
+      "😭"
+    ],
+    "reactions": [],
+    "type": "album"
+  },
+  {
+    "index": 4,
     "post_url": "https://t.me/BrawlStarsNews/18999",
     "post_id": "BrawlStarsNews/18999",
     "date": "2026-09-04T18:17:54+00:00",
@@ -12,8 +259,8 @@
     "text": "📢‼️#اخبار ❱❱❱ جالبه بدونین تیم براول از اپدیت جدید داره از مودفایر هایی استفاده میکنه که مدت هاست توی فایل های گیم وجود دارن و تا حالا هیچوقت استفاده نشدن...\n\n💫مودفایر مورد استفاده جدید امروز هایپر بی‌نهایته، توی این مودفایر هایپر شما همیشه فعاله و شما همیشه سوپر هایپری میزنید، این مودفایر صرفا توی فایل ها حضور داره و هیچ ایکونی نداره، بخاطر همین دیده نمیشه.\n✨احتمالا شودان پلاس جزو مود های دائمی جدید گیم باشه و برای تنوع و سرگرمی بیشتر مودفایر های ویژه ای بهش اضافه بشه.\nⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ\n#Brawlstars ☆ #براول_استارز\n💎@noyekgem 👈برای خرید جم و پس\n🆔 @BrawlStarsNews",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><a href=\"?q=%23%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1\">#اخبار</a> <b>❱❱❱ جالبه بدونین تیم براول از اپدیت جدید داره از مودفایر هایی استفاده میکنه که مدت هاست توی فایل های گیم وجود دارن و تا حالا هیچوقت استفاده نشدن...</b><br/><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AB.png')\"><b>💫</b></i>مودفایر مورد استفاده جدید امروز هایپر بی‌نهایته، توی این مودفایر هایپر شما همیشه فعاله و شما همیشه سوپر هایپری میزنید، این مودفایر صرفا توی فایل ها حضور داره و هیچ ایکونی نداره، بخاطر همین دیده نمیشه.<br/></blockquote><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29CA8.png')\"><b>✨</b></i>احتمالا شودان پلاس جزو مود های دائمی جدید گیم باشه و برای تنوع و سرگرمی بیشتر مودفایر های ویژه ای بهش اضافه بشه.<br/></blockquote><b>ⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ</b><br/><blockquote><a href=\"?q=%23Brawlstars\">#Brawlstars</a> ☆ <a href=\"?q=%23%D8%A8%D8%B1%D8%A7%D9%88%D9%84_%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%B2\">#براول_استارز</a></blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F928E.png')\"><b>💎</b></i><a href=\"https://t.me/noyekgem\" target=\"_blank\">@noyekgem</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i>برای خرید جم و پس</blockquote><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8694.png')\"><b>🆔</b></i> <a href=\"https://t.me/BrawlStarsNews\" target=\"_blank\"><b>@BrawlStarsNews</b></a>",
     "is_edited": false,
-    "views": 2100,
-    "views_raw": "2.1K",
+    "views": 2660,
+    "views_raw": "2.66K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -34,18 +281,18 @@
         {
           "type": "photo",
           "post_id": "BrawlStarsNews/18999",
-          "url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
+          "url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18999_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18999_0.jpg",
-          "size_bytes": 17094
+          "size_bytes": 16263
         },
         {
           "type": "photo",
           "post_id": "BrawlStarsNews/18999",
-          "url": "https://cdn4.telesco.pe/file/M5NRV_NtNoD4GSi9m5HCQAxxi0ShntsUzX3kgPx_LhksDsyEzMWSuBVzhhj8ySfhb6ONTdNQ-dLS13szL6BrT5WbRsYKgLisx4-2pO0Hr-Ln4Md4HCBscurFKSAetPK9ilsohLKg4pgMdJt1rHyWpY4INiiP-4XaV2a7jzb3qarj7CFp2bJLXHC9wWc1iIivGgg73Yvi4x7XnPBWl_1OnEnc2tmbdeRaC09-byjsCdXS5QG1TGBl_2mQnzluBZX6MSB9LSboJSYJ2IfYDyUSiAkPt3EB3VsvQBcHLxasYrNHyzwW13DCdcB1Bibivji3B7vidTPLjHH3wIQCJJMnBw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/M5NRV_NtNoD4GSi9m5HCQAxxi0ShntsUzX3kgPx_LhksDsyEzMWSuBVzhhj8ySfhb6ONTdNQ-dLS13szL6BrT5WbRsYKgLisx4-2pO0Hr-Ln4Md4HCBscurFKSAetPK9ilsohLKg4pgMdJt1rHyWpY4INiiP-4XaV2a7jzb3qarj7CFp2bJLXHC9wWc1iIivGgg73Yvi4x7XnPBWl_1OnEnc2tmbdeRaC09-byjsCdXS5QG1TGBl_2mQnzluBZX6MSB9LSboJSYJ2IfYDyUSiAkPt3EB3VsvQBcHLxasYrNHyzwW13DCdcB1Bibivji3B7vidTPLjHH3wIQCJJMnBw.jpg",
+          "url": "https://cdn4.telesco.pe/file/sJ08mmsiRhyW1Kgyw7vkdSw1ev2yEvs07KOqz4Z-VVUrJPT1HDR8FLuFtYIGGEWiC4MTd6By9ll2zyNO_wNYh5j2NkSwkGbw1QWvZNf7OlHxxsk0-Dic_JB40i1wYye6ZfwvK2XUs5xSllgLlniHL-b0HmDLBOn_4frmjhLs-dUbJJmZQKkRIhWyecrmwBC8XgRMzYCRpDHMDAsksy5FZbNm5MJawdCQm2RSCmAgQyfadInOhKjqpNQUt4LMkSf5EnqZAFmZ8n4bLb9Fox23CC5qhUOjV14RP3frGe6QcydY2mVkOumo6G42P8BmPolNxqMLzQVQkE5AUG1eXHD6Xw.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/sJ08mmsiRhyW1Kgyw7vkdSw1ev2yEvs07KOqz4Z-VVUrJPT1HDR8FLuFtYIGGEWiC4MTd6By9ll2zyNO_wNYh5j2NkSwkGbw1QWvZNf7OlHxxsk0-Dic_JB40i1wYye6ZfwvK2XUs5xSllgLlniHL-b0HmDLBOn_4frmjhLs-dUbJJmZQKkRIhWyecrmwBC8XgRMzYCRpDHMDAsksy5FZbNm5MJawdCQm2RSCmAgQyfadInOhKjqpNQUt4LMkSf5EnqZAFmZ8n4bLb9Fox23CC5qhUOjV14RP3frGe6QcydY2mVkOumo6G42P8BmPolNxqMLzQVQkE5AUG1eXHD6Xw.jpg",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18999_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18999_1.jpg",
@@ -86,7 +333,7 @@
     "type": "album"
   },
   {
-    "index": 2,
+    "index": 5,
     "post_url": "https://t.me/BrawlStarsNews/18998",
     "post_id": "BrawlStarsNews/18998",
     "date": "2026-09-04T16:59:47+00:00",
@@ -98,8 +345,8 @@
     "text": "📢‼️#متا ❱❱❱ ارزش خرید هر ست بافی برای هر براولر بر اساس اخرین بالانس...\n\n‼️اخطار مهم=\n💫اگه فول 11 نیستید بافی نخرید\n💫اگه جدی رنکد پلی نمیدین بافی نخرید\n💫تازه‌کار ها و پلیرای متوسط [کاپ 0 الا 65کا] به هیچ وجه بافی نخرن.\nⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ\n#Brawlstars ☆ #براول_استارز\n💎@noyekgem 👈برای خرید جم و پس\n🆔 @BrawlStarsNews",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><a href=\"?q=%23%D9%85%D8%AA%D8%A7\">#متا</a> <b>❱❱❱ ارزش خرید هر ست بافی برای هر براولر بر اساس اخرین بالانس...</b><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><b>اخطار مهم=</b><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AB.png')\"><b>💫</b></i>اگه فول 11 نیستید بافی نخرید<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AB.png')\"><b>💫</b></i>اگه جدی رنکد پلی نمیدین بافی نخرید<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AB.png')\"><b>💫</b></i>تازه‌کار ها و پلیرای متوسط [کاپ 0 الا 65کا] به هیچ وجه بافی نخرن.<br/></blockquote><b>ⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ</b><br/><blockquote><a href=\"?q=%23Brawlstars\">#Brawlstars</a> ☆ <a href=\"?q=%23%D8%A8%D8%B1%D8%A7%D9%88%D9%84_%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%B2\">#براول_استارز</a></blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F928E.png')\"><b>💎</b></i><a href=\"https://t.me/noyekgem\" target=\"_blank\">@noyekgem</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i>برای خرید جم و پس</blockquote><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8694.png')\"><b>🆔</b></i> <a href=\"https://t.me/BrawlStarsNews\" target=\"_blank\"><b>@BrawlStarsNews</b></a>",
     "is_edited": false,
-    "views": 2210,
-    "views_raw": "2.21K",
+    "views": 2620,
+    "views_raw": "2.62K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -120,18 +367,18 @@
         {
           "type": "photo",
           "post_id": "BrawlStarsNews/18998",
-          "url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
+          "url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18998_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18998_0.jpg",
-          "size_bytes": 17094
+          "size_bytes": 16263
         },
         {
           "type": "photo",
           "post_id": "BrawlStarsNews/18998",
-          "url": "https://cdn4.telesco.pe/file/nZXNiRVQxPhP7xmZEkbz7WtMS6QATgxv1NBw0S-bma3cT4lUqxQxeSZjegpH8TJM3C8FLtGq-no-_q_c8Ye7bq8ZVYGYzEqmngSNUJURVCtY30y81DdtVnh7azlfXhX9-RJKbn_dcs4Y1paoZCeP30wQyKrN0TzQvSZ-lclX4Hnugug1rmg3feWcTPriyiU7CHnyNrn_s1-iQcg1ch2IhdZmXqb8QLKqHaxPF9R9dQRU8Z482rqtpfMQecnsVtlqqwA1aKVdpdyyvh8GelspZTQABPHOJegItgjTa-q0v22QbHLNVPe5UlKC6CVLHqykrX2bGmsJjhmF2sJiQR9Wjw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/nZXNiRVQxPhP7xmZEkbz7WtMS6QATgxv1NBw0S-bma3cT4lUqxQxeSZjegpH8TJM3C8FLtGq-no-_q_c8Ye7bq8ZVYGYzEqmngSNUJURVCtY30y81DdtVnh7azlfXhX9-RJKbn_dcs4Y1paoZCeP30wQyKrN0TzQvSZ-lclX4Hnugug1rmg3feWcTPriyiU7CHnyNrn_s1-iQcg1ch2IhdZmXqb8QLKqHaxPF9R9dQRU8Z482rqtpfMQecnsVtlqqwA1aKVdpdyyvh8GelspZTQABPHOJegItgjTa-q0v22QbHLNVPe5UlKC6CVLHqykrX2bGmsJjhmF2sJiQR9Wjw.jpg",
+          "url": "https://cdn4.telesco.pe/file/kgJtEWvHiPmABepJZcPA9WYTQYvDjwSD09WhXJPRBBEH-4WNiBwqwM-fAUieGSyyHjkwLQq_1e1SnIGl1BcBdnthyLPhlAu4YdKezqbVsNYzJUhyQYD2Ga8oJgP6_bkV6wksYzOGDcy-JcCmxZgiEpzQQhS9HJGmV61jKerEnC8pOEctwPrrimU3KdrRJSz-3Lfxf0sNqZjAY5IYQ-hN2dztcL6gNC6bF-88biWaYJ5-lew_2pf_BA_ia8FTpM6pMjq5mrTcyRdXdfglWgLSQbcLuWWx5VaUld4LyouUfKjD2nWKVjghO82IPhz6Zwv_V9_gFh0om6I8idmbqJkgFQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/kgJtEWvHiPmABepJZcPA9WYTQYvDjwSD09WhXJPRBBEH-4WNiBwqwM-fAUieGSyyHjkwLQq_1e1SnIGl1BcBdnthyLPhlAu4YdKezqbVsNYzJUhyQYD2Ga8oJgP6_bkV6wksYzOGDcy-JcCmxZgiEpzQQhS9HJGmV61jKerEnC8pOEctwPrrimU3KdrRJSz-3Lfxf0sNqZjAY5IYQ-hN2dztcL6gNC6bF-88biWaYJ5-lew_2pf_BA_ia8FTpM6pMjq5mrTcyRdXdfglWgLSQbcLuWWx5VaUld4LyouUfKjD2nWKVjghO82IPhz6Zwv_V9_gFh0om6I8idmbqJkgFQ.jpg",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18998_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18998_1.jpg",
@@ -173,7 +420,7 @@
     "type": "album"
   },
   {
-    "index": 3,
+    "index": 6,
     "post_url": "https://t.me/BrawlStarsNews/18997",
     "post_id": "BrawlStarsNews/18997",
     "date": "2026-09-03T20:16:31+00:00",
@@ -207,12 +454,12 @@
         {
           "type": "photo",
           "post_id": "BrawlStarsNews/18997",
-          "url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
+          "url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18997_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18997_0.jpg",
-          "size_bytes": 17094
+          "size_bytes": 16263
         }
       ]
     },
@@ -236,7 +483,7 @@
     "type": "photo"
   },
   {
-    "index": 4,
+    "index": 7,
     "post_url": "https://t.me/BrawlStarsNews/18996",
     "post_id": "BrawlStarsNews/18996",
     "date": "2026-09-03T15:41:02+00:00",
@@ -248,8 +495,8 @@
     "text": "📢‼️#باگ‌استارز ❱❱❱ همونطوری که میدونین موزیک منوی گیم از کار افتاده...\n\n💫و امروز تیم براول سعی کرد تا بدون یه بریک این مشکل رو حل کنه اما یه جوری ریدن که به مدت بیش از 10 دقیقه کل سیستم گیم از کار افتاد و هیچ پلیری نمیتونست وارد گیم بشه و در آخر باگ فعال نبودن موزیک منوی گیم هم حل نشد.\n✨در نهایت احتمالا باید بزودی منتظر یه بریک رفع باگ جدی و فوری باشیم‌.\n\nⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ\n#Brawlstars ☆ #براول_استارز\n💎@noyekgem 👈برای خرید جم و پس\n🆔 @BrawlStarsNews",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><a href=\"?q=%23%D8%A8%D8%A7%DA%AF%E2%80%8C%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%B2\">#باگ‌استارز</a><b> ❱❱❱ همونطوری که میدونین موزیک منوی گیم از کار افتاده...</b><br/><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AB.png')\"><b>💫</b></i>و امروز تیم براول سعی کرد تا بدون یه بریک این مشکل رو حل کنه اما یه جوری ریدن که به مدت بیش از 10 دقیقه کل سیستم گیم از کار افتاد و هیچ پلیری نمیتونست وارد گیم بشه و در آخر باگ فعال نبودن موزیک منوی گیم هم حل نشد.<br/></blockquote><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29CA8.png')\"><b>✨</b></i>در نهایت احتمالا باید بزودی منتظر یه بریک رفع باگ جدی و فوری باشیم‌.</blockquote><br/><br/><b>ⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ</b><br/><blockquote><a href=\"?q=%23Brawlstars\">#Brawlstars</a> ☆ <a href=\"?q=%23%D8%A8%D8%B1%D8%A7%D9%88%D9%84_%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%B2\">#براول_استارز</a></blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F928E.png')\"><b>💎</b></i><a href=\"https://t.me/noyekgem\" target=\"_blank\">@noyekgem</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i>برای خرید جم و پس</blockquote><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8694.png')\"><b>🆔</b></i><b> </b><a href=\"https://t.me/BrawlStarsNews\" target=\"_blank\"><b>@BrawlStarsNews</b></a>",
     "is_edited": false,
-    "views": 2740,
-    "views_raw": "2.74K",
+    "views": 2910,
+    "views_raw": "2.91K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -270,12 +517,12 @@
         {
           "type": "photo",
           "post_id": "BrawlStarsNews/18996",
-          "url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
+          "url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18996_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18996_0.jpg",
-          "size_bytes": 17094
+          "size_bytes": 16263
         }
       ]
     },
@@ -315,7 +562,7 @@
     "type": "photo"
   },
   {
-    "index": 5,
+    "index": 8,
     "post_url": "https://t.me/BrawlStarsNews/18995",
     "post_id": "BrawlStarsNews/18995",
     "date": "2026-09-03T13:58:34+00:00",
@@ -327,8 +574,8 @@
     "text": "📢‼️#اخبار ❱❱❱ انواع جوایز رندوم روزانه ای که داخل این سیزن در دسترسه...\n\nⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ\n#Brawlstars ☆ #براول_استارز\n💎@noyekgem 👈برای خرید جم و پس\n🆔 @BrawlStarsNews",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><a href=\"?q=%23%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1\">#اخبار</a> <b>❱❱❱ انواع جوایز رندوم روزانه ای که داخل این سیزن در دسترسه...</b><br/><br/><b>ⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ</b><br/><blockquote><a href=\"?q=%23Brawlstars\">#Brawlstars</a> ☆ <a href=\"?q=%23%D8%A8%D8%B1%D8%A7%D9%88%D9%84_%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%B2\">#براول_استارز</a></blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F928E.png')\"><b>💎</b></i><a href=\"https://t.me/noyekgem\" target=\"_blank\">@noyekgem</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i>برای خرید جم و پس</blockquote><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8694.png')\"><b>🆔</b></i> <a href=\"https://t.me/BrawlStarsNews\" target=\"_blank\"><b>@BrawlStarsNews</b></a>",
     "is_edited": false,
-    "views": 2750,
-    "views_raw": "2.75K",
+    "views": 2890,
+    "views_raw": "2.89K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -349,18 +596,18 @@
         {
           "type": "photo",
           "post_id": "BrawlStarsNews/18995",
-          "url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
+          "url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18995_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18995_0.jpg",
-          "size_bytes": 17094
+          "size_bytes": 16263
         },
         {
           "type": "photo",
           "post_id": "BrawlStarsNews/18995",
-          "url": "https://cdn4.telesco.pe/file/ublwOX9SesD3IAWCp6wb1cat0kni2mSwpOM1dnDLNqf_OEBIrzfu726npx97Y6S9mns0VZms1fSLw5bv-F0bZaCfcGP8zD5YRKESD2hIsh5yDcXvwPlJVQrpJxtzDPqy5T65xfQODaemJG4-Y_HolIj9X3LpkGri9FjecBNKfBrmpbvB2qxvIjqWBPbZuYSKNo2WO4bGpUrdKzT1c_7opZ8BGYUCIEOqx8BVJWfkrpoVxBhR_e3FE4dxwF3CluJ7YoMPeNcfiyLKwSNm_UHRV40ohDofBWQlXUI61ps5PAZQweXUIdwPp_pgn4cCmWgd2Z64A-43uDXA8Dp7lWdW2Q.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/ublwOX9SesD3IAWCp6wb1cat0kni2mSwpOM1dnDLNqf_OEBIrzfu726npx97Y6S9mns0VZms1fSLw5bv-F0bZaCfcGP8zD5YRKESD2hIsh5yDcXvwPlJVQrpJxtzDPqy5T65xfQODaemJG4-Y_HolIj9X3LpkGri9FjecBNKfBrmpbvB2qxvIjqWBPbZuYSKNo2WO4bGpUrdKzT1c_7opZ8BGYUCIEOqx8BVJWfkrpoVxBhR_e3FE4dxwF3CluJ7YoMPeNcfiyLKwSNm_UHRV40ohDofBWQlXUI61ps5PAZQweXUIdwPp_pgn4cCmWgd2Z64A-43uDXA8Dp7lWdW2Q.jpg",
+          "url": "https://cdn4.telesco.pe/file/UuNgwTX-XY0EthUMElv8mhhH_0WjsTFQT4ndiN-ZNOVyACFZNhz_jwolA_MGBiRttGOy2fCeV-V9PXOjskYotF0lb0TM0vjfWvZxr0SDtwxw68bKDRu4N2D8MSp-d_bA7tTPHHeEeNnzLGy7QvpaIVaqUArj0Y4EAMxioXAmNpreY2rTyYu61eXyFm2JC9DOiNy7SPzgThosn_ToZyTRynLf-hRb5O-suU0NDVjVwBNjVKaIxm7R_nFTIBc8ambX3zE_KO-DRliYtvIak6wYrzhAlf1y7EP_dlw7VMv6UF9nlLZA-QzUl5bLVvfumlIbLSxh73eP_1g1_b575GO2aw.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/UuNgwTX-XY0EthUMElv8mhhH_0WjsTFQT4ndiN-ZNOVyACFZNhz_jwolA_MGBiRttGOy2fCeV-V9PXOjskYotF0lb0TM0vjfWvZxr0SDtwxw68bKDRu4N2D8MSp-d_bA7tTPHHeEeNnzLGy7QvpaIVaqUArj0Y4EAMxioXAmNpreY2rTyYu61eXyFm2JC9DOiNy7SPzgThosn_ToZyTRynLf-hRb5O-suU0NDVjVwBNjVKaIxm7R_nFTIBc8ambX3zE_KO-DRliYtvIak6wYrzhAlf1y7EP_dlw7VMv6UF9nlLZA-QzUl5bLVvfumlIbLSxh73eP_1g1_b575GO2aw.jpg",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18995_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18995_1.jpg",
@@ -399,7 +646,7 @@
     "type": "album"
   },
   {
-    "index": 6,
+    "index": 9,
     "post_url": "https://t.me/BrawlStarsNews/18994",
     "post_id": "BrawlStarsNews/18994",
     "date": "2026-09-03T08:02:08+00:00",
@@ -411,8 +658,8 @@
     "text": "‌‌‌‌‌‌ ‌‌‌‌‌‌         ‌‌‌‌  ‌‌‌˖ ݁𖥔 ݁˖ 𝐁𝐫𝐚𝐰𝐥 𝐏𝐚𝐬𝐬 / 𝐒𝐞𝐚𝐬𝐨𝐧 𝟓𝟒 ˖ ݁𖥔 ݁˖\n➺ 𝐍𝐚𝐦𝐞︙𝑹𝑶𝒀𝑨𝑳 𝑨𝑪𝑨𝑫𝑬𝑴𝒀✨\n❥︎--اکادمی سلطنتی 𐙚\n❥︎--ارزش خرید: (A+)\n❥︎--برای خرید این سیزن براول پس به پیوی ایدی موجود توی همین پست مراجعه کنین.\n❥︎--محتوای خاص: یه براول پس به مناسبت بازگشایی مدارس و شروع یه سال تحصیلی مزخرف دیگه، تنها آیتم انحصاری این سیزن تایتلش هستش.\n&nbsp; &nbsp;&nbsp;&nbsp;           ˖ ݁𖥔 ݁˖ 𝐂𝐨𝐬𝐦𝐞𝐭𝐢𝐜 𝐖𝐨𝐫𝐭𝐡 ˖ ݁𖥔 ݁˖\n╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n│✦𝐒𝐤𝐢𝐧(𝟏)𝐍𝐀𝐍𝐈: (𝟗/𝟏𝟎)\n│✦𝐒𝐤𝐢𝐧(𝟐)𝐇𝐀𝐍𝐊: (𝟕/𝟏𝟎)\n│✦𝐓𝐢𝐭𝐥𝐞: [𝐑𝐨𝐲𝐚𝐥𝐭𝐲] (𝑺𝒔𝒔+/𝟏𝟎)\n│✦𝐏𝐢𝐧 𝐒𝐞𝐭: (𝟏𝟎/𝟏𝟎)\n│✦𝐈𝐜𝐨𝐧 𝐚𝐧𝐝 𝐒𝐩𝐫𝐚𝐲: (𝟕/𝟏𝟎)\n╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈➤\n⊰⋆°࿔ID= @noyekgem_admin ‌𝜗𝜚°⋆",
     "text_html": "<blockquote>‌‌‌‌‌‌ ‌‌‌‌‌‌         ‌‌‌‌ <b> ‌‌‌˖ ݁𖥔 ݁˖ 𝐁𝐫𝐚𝐰𝐥 𝐏𝐚𝐬𝐬 / 𝐒𝐞𝐚𝐬𝐨𝐧 𝟓𝟒 ˖ ݁𖥔 ݁˖</b></blockquote><br/><blockquote><b>➺ 𝐍𝐚𝐦𝐞︙</b>𝑹𝑶𝒀𝑨𝑳 𝑨𝑪𝑨𝑫𝑬𝑴𝒀<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29CA8.png')\"><b>✨</b></i></blockquote><br/><blockquote><b>❥︎--</b>اکادمی سلطنتی 𐙚</blockquote><br/><blockquote><b>❥︎--ارزش خرید: </b>(A+)</blockquote><br/><blockquote>❥︎--برای خرید این سیزن براول پس به پیوی ایدی موجود توی همین پست مراجعه کنین.</blockquote><br/><blockquote><b>❥︎--محتوای خاص:</b> یه براول پس به مناسبت بازگشایی مدارس و شروع یه سال تحصیلی مزخرف دیگه، تنها آیتم انحصاری این سیزن تایتلش هستش.<br/></blockquote>&nbsp; &nbsp;&nbsp;&nbsp;           ˖ ݁𖥔 ݁˖ 𝐂𝐨𝐬𝐦𝐞𝐭𝐢𝐜 𝐖𝐨𝐫𝐭𝐡 ˖ ݁𖥔 ݁˖<br/>╭┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈<br/>│✦𝐒𝐤𝐢𝐧(𝟏)𝐍𝐀𝐍𝐈: (𝟗/𝟏𝟎)<br/>│✦𝐒𝐤𝐢𝐧(𝟐)𝐇𝐀𝐍𝐊: (𝟕/𝟏𝟎)<br/>│✦𝐓𝐢𝐭𝐥𝐞: [𝐑𝐨𝐲𝐚𝐥𝐭𝐲] (<b>𝑺𝒔𝒔+</b>/𝟏𝟎)<br/>│✦𝐏𝐢𝐧 𝐒𝐞𝐭: (𝟏𝟎/𝟏𝟎)<br/>│✦𝐈𝐜𝐨𝐧 𝐚𝐧𝐝 𝐒𝐩𝐫𝐚𝐲: (𝟕/𝟏𝟎)<br/>╰┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈➤<br/>⊰⋆°࿔ID= <a href=\"https://t.me/noyekgem_admin\" target=\"_blank\">@noyekgem_admin</a> ‌𝜗𝜚°⋆",
     "is_edited": false,
-    "views": 2770,
-    "views_raw": "2.77K",
+    "views": 2890,
+    "views_raw": "2.89K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -433,12 +680,12 @@
         {
           "type": "photo",
           "post_id": "BrawlStarsNews/18994",
-          "url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
+          "url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18994_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18994_0.jpg",
-          "size_bytes": 17094
+          "size_bytes": 16263
         },
         {
           "type": "photo",
@@ -478,7 +725,7 @@
     "type": "album"
   },
   {
-    "index": 7,
+    "index": 10,
     "post_url": "https://t.me/BrawlStarsNews/18992",
     "post_id": "BrawlStarsNews/18992",
     "date": "2026-09-02T18:31:13+00:00",
@@ -490,8 +737,8 @@
     "text": "📢‼️#باگ‌استارز ❱❱❱ به بخش دوم ویژه‌ برنامه‌ی باگ استارز ما خوش‌اومدین...\n\n🌟باگ‌ های بصری آپدیت جدید:\n💫فیوژن پاور های تغییر اندازه از کار افتادن و فقط به صورت انیمیشنی بیش از حد بزرگ شدن ولی اندازه حقیقی اصلا تغییر نمیکنه\n💫اسکین لجندری کازه کلا انیمیشنش توی بتل‌کارد از کار میوفته.\n💫اسکین پاپ استار استو بعد هر بار اتک زدن انیمیشن رقصش رو انجام میده.\n💫توضیحات برخی گجت ها از جمله گجت شعله آتش امبر خراب شدن.\n💫تعداد خیلی زیادی از انیمیشن های اسکینا و براولرا از کار افتادن و دچار مشکل شدن.\n🌟باگ بزرگ و تاثیر گذار شیلد نامیرا:\n💫شخصیت هایی مثل کازه و مو و کلا هر براولری که قابلیت جابجایی بین 2 نوع سیستم حمله رو داره و تغییر حالت میده یه شیلد ضد دمیج 100% میگیره و نامیرا میشه، این یعنی کازه با هربار گجت زدن برای چند ثانیه میتونه نامیرا بشه، دیروز تصور میشد این یه باگ بصری باشه اما شیلدی که فعال میشه یه شیلد ضد دمیج 100% واقعیه‼️\nⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ\n#Brawlstars ☆ #براول_استارز\n💎@noyekgem 👈برای خرید جم و پس\n🆔 @BrawlStarsNews",
     "text_html": "<div class=\"tgme_widget_message_text js-message_text\" dir=\"auto\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><a href=\"?q=%23%D8%A8%D8%A7%DA%AF%E2%80%8C%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%B2\">#باگ‌استارز</a> <b>❱❱❱ به بخش دوم ویژه‌ برنامه‌ی باگ استارز ما خوش‌اومدین...<br/></b><br/><blockquote><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C9F.png')\"><b>🌟</b></i>باگ‌ های بصری آپدیت جدید:</b></blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AB.png')\"><b>💫</b></i>فیوژن پاور های تغییر اندازه از کار افتادن و فقط به صورت انیمیشنی بیش از حد بزرگ شدن ولی اندازه حقیقی اصلا تغییر نمیکنه<br/></blockquote><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AB.png')\"><b>💫</b></i>اسکین لجندری کازه کلا انیمیشنش توی بتل‌کارد از کار میوفته.</blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AB.png')\"><b>💫</b></i>اسکین پاپ استار استو بعد هر بار اتک زدن انیمیشن رقصش رو انجام میده.</blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AB.png')\"><b>💫</b></i>توضیحات برخی گجت ها از جمله گجت شعله آتش امبر خراب شدن.</blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AB.png')\"><b>💫</b></i>تعداد خیلی زیادی از انیمیشن های اسکینا و براولرا از کار افتادن و دچار مشکل شدن.<br/></blockquote><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C9F.png')\"><b>🌟</b></i><b>باگ بزرگ و تاثیر گذار شیلد نامیرا:</b></blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AB.png')\"><b>💫</b></i>شخصیت هایی مثل کازه و مو و کلا هر براولری که قابلیت جابجایی بین 2 نوع سیستم حمله رو داره و تغییر حالت میده یه شیلد ضد دمیج 100% میگیره و نامیرا میشه، این یعنی کازه با هربار گجت زدن برای چند ثانیه میتونه نامیرا بشه، دیروز تصور میشد این یه باگ بصری باشه اما شیلدی که فعال میشه یه شیلد ضد دمیج 100% واقعیه<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><br/></blockquote><b>ⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ</b><br/><blockquote><a href=\"?q=%23Brawlstars\">#Brawlstars</a> ☆ <a href=\"?q=%23%D8%A8%D8%B1%D8%A7%D9%88%D9%84_%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%B2\">#براول_استارز</a></blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F928E.png')\"><b>💎</b></i><a href=\"https://t.me/noyekgem\" target=\"_blank\">@noyekgem</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i>برای خرید جم و پس</blockquote><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8694.png')\"><b>🆔</b></i> <a href=\"https://t.me/BrawlStarsNews\" target=\"_blank\"><b>@BrawlStarsNews</b></a>",
     "is_edited": false,
-    "views": 2910,
-    "views_raw": "2.91K",
+    "views": 3000,
+    "views_raw": "3K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -512,18 +759,18 @@
         {
           "type": "photo",
           "post_id": "BrawlStarsNews/18992",
-          "url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
+          "url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18992_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18992_0.jpg",
-          "size_bytes": 17094
+          "size_bytes": 16263
         },
         {
           "type": "photo",
           "post_id": "BrawlStarsNews/18992",
-          "url": "https://cdn4.telesco.pe/file/CdjlN0fAyZr7jyrITqBIPsL50ipgfWyourjM9qU28euJ4gS0h4bSmuwr6Od0_I1dxD5N7cllDivEVicRt4Fs8j7ALZvfwJjCsW5dMMXd5O09nUjmk-PrkaS_wRdS4u-G4ODFfCDBc6cg0Oe1iEQF_E4064BYns2adKSLZNPUZfz4uX8ivX-eJW5vu98XPNc1Wc781lNMN0n3rHAC2joYQrYDFwv7pLWGYSt6vLnGbknTqd_Eh4jcUbPzbVIRN0GXInmOIAwevY2XX1-uiDEljGs32iHpVz-4xPYflkQvdl_R4hqUIORLFcJE_-8YTgKa-7lm0PYAX9jOohBEB_tdcg.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/CdjlN0fAyZr7jyrITqBIPsL50ipgfWyourjM9qU28euJ4gS0h4bSmuwr6Od0_I1dxD5N7cllDivEVicRt4Fs8j7ALZvfwJjCsW5dMMXd5O09nUjmk-PrkaS_wRdS4u-G4ODFfCDBc6cg0Oe1iEQF_E4064BYns2adKSLZNPUZfz4uX8ivX-eJW5vu98XPNc1Wc781lNMN0n3rHAC2joYQrYDFwv7pLWGYSt6vLnGbknTqd_Eh4jcUbPzbVIRN0GXInmOIAwevY2XX1-uiDEljGs32iHpVz-4xPYflkQvdl_R4hqUIORLFcJE_-8YTgKa-7lm0PYAX9jOohBEB_tdcg.jpg",
+          "url": "https://cdn4.telesco.pe/file/Gjex6HAm_p6zy4HopHoohFddzSUQEV3zDXnSHzfR5d8hpGYcdOROYe6XwNN7SEaP1BfQQeGuRCL6EEtW5I6GyOlmR108DCtNXOMUZSADzB-uXd2Hx5a4fSZ6J6bUOaBA2IvEcVrwymL1pQTtqq_AYcVHWoxbtp3xDB8ETc1i99tHlzXFSFXCBOCsH1tl5t-_Xxqo7sm_zZwGfmI-RWMHVP6TwMQe1DyKh_tduUU1Q3B0TyhKaIVTBVAnpLadCTkkYOehI8b5uuaejpJEFvduYWDF5AUP7Yg7Q02R5bMfol-zXT6MnBaVVIib8a9ZAfG9fpuFwtFuqXU38zt6f_6KEg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/Gjex6HAm_p6zy4HopHoohFddzSUQEV3zDXnSHzfR5d8hpGYcdOROYe6XwNN7SEaP1BfQQeGuRCL6EEtW5I6GyOlmR108DCtNXOMUZSADzB-uXd2Hx5a4fSZ6J6bUOaBA2IvEcVrwymL1pQTtqq_AYcVHWoxbtp3xDB8ETc1i99tHlzXFSFXCBOCsH1tl5t-_Xxqo7sm_zZwGfmI-RWMHVP6TwMQe1DyKh_tduUU1Q3B0TyhKaIVTBVAnpLadCTkkYOehI8b5uuaejpJEFvduYWDF5AUP7Yg7Q02R5bMfol-zXT6MnBaVVIib8a9ZAfG9fpuFwtFuqXU38zt6f_6KEg.jpg",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18992_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18992_1.jpg",
@@ -532,8 +779,8 @@
         {
           "type": "photo",
           "post_id": "BrawlStarsNews/18992",
-          "url": "https://cdn4.telesco.pe/file/PexYmbG4AaI69PyHYB9GuYMm0ktrOXg-oyAlzttNu1DSdHO3h3x7_G1J8w_km8LqSOOVArjFA4ICzDtGHHU0c8hSwpvUFMzIQRXRz37bPepUXnZcWjGDlFRypzlcLm93NQ1wgHXvKG9YwEkrQBX6qk4RiTHUTz6YopYhhed57Y04R3amPmvT6P96QDCGTRFiQT-4oq3muYjMC4FZDM0Yg493pQeqfjzAT8UpSK_JYoasAdKGfJrKVwUhloh5G2K0XpFdwkrU78UFN89lEAGRHF6EjTu5m6wPBGSBvNKUzXpX6yj4VARzGAMEDlrqXNCV8V23HO03ARWytXa2_AZ90A.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/PexYmbG4AaI69PyHYB9GuYMm0ktrOXg-oyAlzttNu1DSdHO3h3x7_G1J8w_km8LqSOOVArjFA4ICzDtGHHU0c8hSwpvUFMzIQRXRz37bPepUXnZcWjGDlFRypzlcLm93NQ1wgHXvKG9YwEkrQBX6qk4RiTHUTz6YopYhhed57Y04R3amPmvT6P96QDCGTRFiQT-4oq3muYjMC4FZDM0Yg493pQeqfjzAT8UpSK_JYoasAdKGfJrKVwUhloh5G2K0XpFdwkrU78UFN89lEAGRHF6EjTu5m6wPBGSBvNKUzXpX6yj4VARzGAMEDlrqXNCV8V23HO03ARWytXa2_AZ90A.jpg",
+          "url": "https://cdn4.telesco.pe/file/hH5mTx4Y-qb4Fa6Uqkkw5loyBVkKM6BN0MsTMfkz-nOu46gt0yUtVsppH8K30MzgqvvGhtIImceSZGWZdx2O-xYsBEB9pJitqTluJWjyyF1pmsenUhvh_gfr4Pjc1amfnzuNF9By6VUxRDz4dSb216ApL3DJZSxIN6VSm6EyV6w6zqSWUIayHcpL7_2vg3kuXQ7fOmU1v_vfZhknYygynEmDPXyWatYOA8vIgaturxtb2KsBicGRxwZQSVWfrYBPOoeVdPEhvl__4S5iRlXn6tPUcO4ffKjdFTquET2u0Ps4DER_SSjQeXHV0Eqa3YF_MJ6395ePxLEAlNgPZHBodQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/hH5mTx4Y-qb4Fa6Uqkkw5loyBVkKM6BN0MsTMfkz-nOu46gt0yUtVsppH8K30MzgqvvGhtIImceSZGWZdx2O-xYsBEB9pJitqTluJWjyyF1pmsenUhvh_gfr4Pjc1amfnzuNF9By6VUxRDz4dSb216ApL3DJZSxIN6VSm6EyV6w6zqSWUIayHcpL7_2vg3kuXQ7fOmU1v_vfZhknYygynEmDPXyWatYOA8vIgaturxtb2KsBicGRxwZQSVWfrYBPOoeVdPEhvl__4S5iRlXn6tPUcO4ffKjdFTquET2u0Ps4DER_SSjQeXHV0Eqa3YF_MJ6395ePxLEAlNgPZHBodQ.jpg",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18992_2.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18992_2.jpg",
@@ -575,7 +822,7 @@
     "type": "album"
   },
   {
-    "index": 8,
+    "index": 11,
     "post_url": "https://t.me/BrawlStarsNews/18991",
     "post_id": "BrawlStarsNews/18991",
     "date": "2026-09-02T16:28:27+00:00",
@@ -587,8 +834,8 @@
     "text": "📢‼️#اخبار ❱❱❱ فردا سیزن 54، براول پس پلاس [رویال آکادمی] رسما شروع میشه...\n\nⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ\n#Brawlstars ☆ #براول_استارز\n💎@noyekgem 👈برای خرید جم و پس\n🆔 @BrawlStarsNews",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><a href=\"?q=%23%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1\">#اخبار</a> <b>❱❱❱ فردا سیزن 54، براول پس پلاس [رویال آکادمی] رسما شروع میشه...</b><br/><br/><b>ⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ</b><br/><blockquote><a href=\"?q=%23Brawlstars\">#Brawlstars</a> ☆ <a href=\"?q=%23%D8%A8%D8%B1%D8%A7%D9%88%D9%84_%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%B2\">#براول_استارز</a></blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F928E.png')\"><b>💎</b></i><a href=\"https://t.me/noyekgem\" target=\"_blank\">@noyekgem</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i>برای خرید جم و پس</blockquote><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8694.png')\"><b>🆔</b></i><b> </b><a href=\"https://t.me/BrawlStarsNews\" target=\"_blank\"><b>@BrawlStarsNews</b></a>",
     "is_edited": false,
-    "views": 2810,
-    "views_raw": "2.81K",
+    "views": 3110,
+    "views_raw": "3.11K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -609,18 +856,18 @@
         {
           "type": "photo",
           "post_id": "BrawlStarsNews/18991",
-          "url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
+          "url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18991_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18991_0.jpg",
-          "size_bytes": 17094
+          "size_bytes": 16263
         },
         {
           "type": "photo",
           "post_id": "BrawlStarsNews/18991",
-          "url": "https://cdn4.telesco.pe/file/dP6Rnm0cfB0ZnxENACskbK0vPboTNVUj8Y1MzB8pbhbwDrHzAqrNXJk0eddyRbhW4fO4z5W0HWk9Rxh4kEhr43VDsE-6A5U8uJqU1aAVIpH6Dcl-85u7J1ln4vJ58T3-yLCOpDwsNnxGTFijjkiGaz_x4isW9eDSyc8NL1rqs85XFpGl6N_3QBucnAGFloRLY9QdkK9SYcCqW3lYuICb07n5NU0fnwztLFUw1JhQPLum1OAEGDJCPRz5FoDGM4wAHYanfp0Y_W0o0nW6SbukWSAs6XKLaRuSijgaFlgE1_JStDUsWIlhIjyy6_R2oIfIIVo71IUTyl-WQUGSTnLdxg.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/dP6Rnm0cfB0ZnxENACskbK0vPboTNVUj8Y1MzB8pbhbwDrHzAqrNXJk0eddyRbhW4fO4z5W0HWk9Rxh4kEhr43VDsE-6A5U8uJqU1aAVIpH6Dcl-85u7J1ln4vJ58T3-yLCOpDwsNnxGTFijjkiGaz_x4isW9eDSyc8NL1rqs85XFpGl6N_3QBucnAGFloRLY9QdkK9SYcCqW3lYuICb07n5NU0fnwztLFUw1JhQPLum1OAEGDJCPRz5FoDGM4wAHYanfp0Y_W0o0nW6SbukWSAs6XKLaRuSijgaFlgE1_JStDUsWIlhIjyy6_R2oIfIIVo71IUTyl-WQUGSTnLdxg.jpg",
+          "url": "https://cdn4.telesco.pe/file/QBfHysVg3acWAq-6SKKVX_f4pS7BXnPU3H8xe1V8WVJqYr3-kPqRA3X4fGpxa8H4huoKRG9ngcHjqAw70-Wj1w0ggzcyhzc6DQM_ApIWB5Mw00f4U2QwlOACx1jquklIuHJVre-dDGVd2YN63WoTFA4SFH7fZto0wKD1tGDI_cu5smv8E344oyogrkR7Hb8NlgFh8PCxdAB6mrKT4TyqmnAdmRQEvR0i8BpH8Og5D6D30ZoEO_4rRRAHDt2Wj_kXbgXOJLJ4zjernxXGWxbmeGkTWEpPj2ike1SNQ8yKCsWOdpfmcnwhMRLk8d3MMhdvHfhwm7r083MsqTuqMN6z6g.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/QBfHysVg3acWAq-6SKKVX_f4pS7BXnPU3H8xe1V8WVJqYr3-kPqRA3X4fGpxa8H4huoKRG9ngcHjqAw70-Wj1w0ggzcyhzc6DQM_ApIWB5Mw00f4U2QwlOACx1jquklIuHJVre-dDGVd2YN63WoTFA4SFH7fZto0wKD1tGDI_cu5smv8E344oyogrkR7Hb8NlgFh8PCxdAB6mrKT4TyqmnAdmRQEvR0i8BpH8Og5D6D30ZoEO_4rRRAHDt2Wj_kXbgXOJLJ4zjernxXGWxbmeGkTWEpPj2ike1SNQ8yKCsWOdpfmcnwhMRLk8d3MMhdvHfhwm7r083MsqTuqMN6z6g.jpg",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18991_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18991_1.jpg",
@@ -660,7 +907,7 @@
     "type": "album"
   },
   {
-    "index": 9,
+    "index": 12,
     "post_url": "https://t.me/BrawlStarsNews/18990",
     "post_id": "BrawlStarsNews/18990",
     "date": "2026-09-02T15:30:07+00:00",
@@ -672,8 +919,8 @@
     "text": "📢‼️#متا ❱❱❱ شید درست و حسابی متای گیمو با تمام عشق و دوستیش بغل کرده...\n\nⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ\n#Brawlstars ☆ #براول_استارز\n💎@noyekgem 👈برای خرید جم و پس\n🆔 @BrawlStarsNews",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><a href=\"?q=%23%D9%85%D8%AA%D8%A7\">#متا</a> <b>❱❱❱ شید درست و حسابی متای گیمو با تمام عشق و دوستیش بغل کرده...</b><br/><br/><b>ⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ</b><br/><blockquote><a href=\"?q=%23Brawlstars\">#Brawlstars</a> ☆ <a href=\"?q=%23%D8%A8%D8%B1%D8%A7%D9%88%D9%84_%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%B2\">#براول_استارز</a></blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F928E.png')\"><b>💎</b></i><a href=\"https://t.me/noyekgem\" target=\"_blank\">@noyekgem</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i>برای خرید جم و پس</blockquote><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8694.png')\"><b>🆔</b></i> <a href=\"https://t.me/BrawlStarsNews\" target=\"_blank\"><b>@BrawlStarsNews</b></a>",
     "is_edited": false,
-    "views": 2780,
-    "views_raw": "2.78K",
+    "views": 3240,
+    "views_raw": "3.24K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -694,18 +941,18 @@
         {
           "type": "photo",
           "post_id": "BrawlStarsNews/18990",
-          "url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
+          "url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18990_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18990_0.jpg",
-          "size_bytes": 17094
+          "size_bytes": 16263
         },
         {
           "type": "photo",
           "post_id": "BrawlStarsNews/18990",
-          "url": "https://cdn4.telesco.pe/file/J4EKcMk0cunrnxnAADmAqU1BDe9r0ey93OPNzkVviomIYVbqk_21yT2KE6v7ON63y8dIF0tqcyGR0K6HlRyIXxNwV0VKlpKFQdrEFDGdS4BFA2FM2QyaFKDci0lFzLMAxtjpImmMFZRhQYndqtC7VEWDH1hpdvRQqIGRP4ljJX_rdZ6JVzK8dqTStrrACnqcDv-x6_u4K4X7rCTDptzk9Svd8Nu7WankHiAsQZA9Y5B6x3CoWgZ7HX97X99PhjzO5ZNb1R1p8YNnPJJO5Z4nQSQF6vq20RwJMWjVAaauIVYceALBm1gXsKC1AA0a5zWFIfe3Rt3JiMqVrLtDa9ayDw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/J4EKcMk0cunrnxnAADmAqU1BDe9r0ey93OPNzkVviomIYVbqk_21yT2KE6v7ON63y8dIF0tqcyGR0K6HlRyIXxNwV0VKlpKFQdrEFDGdS4BFA2FM2QyaFKDci0lFzLMAxtjpImmMFZRhQYndqtC7VEWDH1hpdvRQqIGRP4ljJX_rdZ6JVzK8dqTStrrACnqcDv-x6_u4K4X7rCTDptzk9Svd8Nu7WankHiAsQZA9Y5B6x3CoWgZ7HX97X99PhjzO5ZNb1R1p8YNnPJJO5Z4nQSQF6vq20RwJMWjVAaauIVYceALBm1gXsKC1AA0a5zWFIfe3Rt3JiMqVrLtDa9ayDw.jpg",
+          "url": "https://cdn4.telesco.pe/file/EoTgRnj7PD9A5Iyk6pBvc7v-L9ns6CXtLmbYyFph3epQNyvosgversBQcjywSUlLF2LFtSiQ1LIDl_SWjpEquQN2SDrsThnvbDIp8-iNJ4PNas1BfhlrqRC-EUJ_u8sd6_eo-EZ68vqeVN60FB2hgTLaL4k7s8EoGSW1Xwi7QVwEaqV8LyVMaK0e_cmbCUfHSlOtdz2A5rZXIo0iYCT5usPgZil9D-O0RCjflnKjmBVztEAZNemQDUH4iOmXwRSoXGpWEGz_YLi7tPQkITTUryELFA5BITuW-kPPvEPZmyWAipQhIwCbUuRwhX2-9F5PF-TG179L4UQtzglVZH0q-g.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/EoTgRnj7PD9A5Iyk6pBvc7v-L9ns6CXtLmbYyFph3epQNyvosgversBQcjywSUlLF2LFtSiQ1LIDl_SWjpEquQN2SDrsThnvbDIp8-iNJ4PNas1BfhlrqRC-EUJ_u8sd6_eo-EZ68vqeVN60FB2hgTLaL4k7s8EoGSW1Xwi7QVwEaqV8LyVMaK0e_cmbCUfHSlOtdz2A5rZXIo0iYCT5usPgZil9D-O0RCjflnKjmBVztEAZNemQDUH4iOmXwRSoXGpWEGz_YLi7tPQkITTUryELFA5BITuW-kPPvEPZmyWAipQhIwCbUuRwhX2-9F5PF-TG179L4UQtzglVZH0q-g.jpg",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18990_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18990_1.jpg",
@@ -745,7 +992,7 @@
     "type": "album"
   },
   {
-    "index": 10,
+    "index": 13,
     "post_url": "https://t.me/BrawlStarsNews/18989",
     "post_id": "BrawlStarsNews/18989",
     "date": "2026-09-01T17:04:45+00:00",
@@ -757,8 +1004,8 @@
     "text": "📢‼️#اخبار ❱❱❱ انگار یه ایونت سوپرسل میک برای سیزن بعدی برنامه ریزی شده...\n\n🌟جزئیات و نوع عملکرد هنوز مشخص نیست اما طبق فایل های گیم 3 اسکین تضمینی توی این ایونت وجود داره:\n💫اسکین میتیک جدید الی، اسکین میتیک جدید لیلی و اسکین لجندری جدید کیت\n💫از طریق این ایونت بافی و هایپر و 30 جم رایگان با شانس زیادی ممکنه در دسترس باشه.\n‼️اطلاعات ایونت هنوز کامل نیست و ممکنه خیلی چیزا موقع شروع عوض بشه.\n✨در صورت کسب اطلاعات بیشتر حتما بهتون اطلاع رسانی میشه.\n\nⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ\n#Brawlstars ☆ #براول_استارز\n💎@noyekgem 👈برای خرید جم و پس\n🆔 @BrawlStarsNews",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><a href=\"?q=%23%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1\">#اخبار</a> <b>❱❱❱ انگار یه ایونت سوپرسل میک برای سیزن بعدی برنامه ریزی شده...</b><br/><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C9F.png')\"><b>🌟</b></i>جزئیات و نوع عملکرد هنوز مشخص نیست اما طبق فایل های گیم<b> 3 اسکین تضمینی</b> توی این ایونت وجود داره:<br/></blockquote><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AB.png')\"><b>💫</b></i>اسکین میتیک جدید الی، اسکین میتیک جدید لیلی و اسکین لجندری جدید کیت<br/></blockquote><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AB.png')\"><b>💫</b></i>از طریق این ایونت بافی و هایپر و 30 جم رایگان با شانس زیادی ممکنه در دسترس باشه.</blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i>اطلاعات ایونت هنوز کامل نیست و ممکنه خیلی چیزا موقع شروع عوض بشه.</blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29CA8.png')\"><b>✨</b></i>در صورت کسب اطلاعات بیشتر حتما بهتون اطلاع رسانی میشه.</blockquote><br/><br/><b>ⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ</b><br/><blockquote><a href=\"?q=%23Brawlstars\">#Brawlstars</a> ☆ <a href=\"?q=%23%D8%A8%D8%B1%D8%A7%D9%88%D9%84_%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%B2\">#براول_استارز</a></blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F928E.png')\"><b>💎</b></i><a href=\"https://t.me/noyekgem\" target=\"_blank\">@noyekgem</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i>برای خرید جم و پس</blockquote><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8694.png')\"><b>🆔</b></i><b> </b><a href=\"https://t.me/BrawlStarsNews\" target=\"_blank\"><b>@BrawlStarsNews</b></a>",
     "is_edited": false,
-    "views": 2950,
-    "views_raw": "2.95K",
+    "views": 3660,
+    "views_raw": "3.66K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -779,12 +1026,12 @@
         {
           "type": "photo",
           "post_id": "BrawlStarsNews/18989",
-          "url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
+          "url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18989_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18989_0.jpg",
-          "size_bytes": 17094
+          "size_bytes": 16263
         }
       ]
     },
@@ -823,7 +1070,7 @@
     "type": "photo"
   },
   {
-    "index": 11,
+    "index": 14,
     "post_url": "https://t.me/BrawlStarsNews/18988",
     "post_id": "BrawlStarsNews/18988",
     "date": "2026-09-01T16:41:42+00:00",
@@ -832,11 +1079,11 @@
     "edit_date_unix": null,
     "author": null,
     "author_url": null,
-    "text": "📢‼️#اخبار ❱❱❱ سیستم ریوارد وین روزانه بامزه و جالب سیزن هالووینی امسال...\n\n💫فعلا اطلاعات کامل ایونت هالووین در دسترس نیست، اطلاعات بیشتر بعدا منتشر میشه.\n\nⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ\n#Brawlstars ☆ #براول_استارز\n💎@noyekgem 👈برای خرید جم و پس\n🆔 @BrawlStarsNews",
-    "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><a href=\"?q=%23%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1\">#اخبار</a> <b>❱❱❱ سیستم ریوارد وین روزانه بامزه و جالب سیزن هالووینی امسال...</b><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AB.png')\"><b>💫</b></i>فعلا اطلاعات کامل ایونت هالووین در دسترس نیست، اطلاعات بیشتر بعدا منتشر میشه.<br/><br/><b>ⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ</b><br/><blockquote><a href=\"?q=%23Brawlstars\">#Brawlstars</a> ☆ <a href=\"?q=%23%D8%A8%D8%B1%D8%A7%D9%88%D9%84_%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%B2\">#براول_استارز</a></blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F928E.png')\"><b>💎</b></i><a href=\"https://t.me/noyekgem\" target=\"_blank\">@noyekgem</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i>برای خرید جم و پس</blockquote><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8694.png')\"><b>🆔</b></i><b> </b><a href=\"https://t.me/BrawlStarsNews\" target=\"_blank\"><b>@BrawlStarsNews</b></a>",
+    "text": "📢‼️#اخبار ❱❱❱ سیستم ریوارد وین روزانه بامزه و جالب سیزن هالووینی امسال...\n\n����فعلا اطلاعات کامل ایونت هالووین در دسترس نیست، اطلاعات بیشتر بعدا منتشر میشه.\n\nⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ\n#Brawlstars ☆ #براول_استارز\n💎@noyekgem 👈برای خرید جم و پس\n🆔 @BrawlStarsNews",
+    "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><a href=\"?q=%23%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1\">#اخبار</a> <b>❱❱❱ سیستم ریوارد وین روزانه بامزه و جالب سیزن هالووینی امسال...</b><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AB.png')\"><b>����</b></i>فعلا اطلاعات کامل ایونت هالووین در دسترس نیست، اطلاعات بیشتر بعدا منتشر میشه.<br/><br/><b>ⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ</b><br/><blockquote><a href=\"?q=%23Brawlstars\">#Brawlstars</a> ☆ <a href=\"?q=%23%D8%A8%D8%B1%D8%A7%D9%88%D9%84_%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%B2\">#براول_استارز</a></blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F928E.png')\"><b>💎</b></i><a href=\"https://t.me/noyekgem\" target=\"_blank\">@noyekgem</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i>برای خرید جم و پس</blockquote><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8694.png')\"><b>🆔</b></i><b> </b><a href=\"https://t.me/BrawlStarsNews\" target=\"_blank\"><b>@BrawlStarsNews</b></a>",
     "is_edited": false,
-    "views": 3230,
-    "views_raw": "3.23K",
+    "views": 3440,
+    "views_raw": "3.44K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -857,18 +1104,18 @@
         {
           "type": "photo",
           "post_id": "BrawlStarsNews/18988",
-          "url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
+          "url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18988_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18988_0.jpg",
-          "size_bytes": 17094
+          "size_bytes": 16263
         },
         {
           "type": "photo",
           "post_id": "BrawlStarsNews/18988",
-          "url": "https://cdn4.telesco.pe/file/ohgB7vYc3e2-j3UVi6UbBbIP_gdEJQGh2x5dfxFtpt5D__mOHw5KdQ9FY_mBR8CaQsRpvmd2RZBN1mK5SG3QxXmBTqi9t7MoNCa-fqGLM9A0iFQ2_gVJ8b2GtgM6RYFAT1fqDs1hwT53cBtdsTcYQ1rLju888a708i1qw33JPf7Uq96CAcHU1zKO-ppLSVAvxtyxYzUkpeHO2cM1XqdyEUJ--lPLFJ1XBRrKlvz2sBfvSupAFuHch4EKo5Zf6Jr_vuVZxreYvtFw2Q8ki1IgQf2sd8M0BP5R8PfaetugbPd6F1miaIBm3bPhFh_XvOBx-OxTexmkfncZ61fjfyzhCQ",
-          "full_url": "https://cdn4.telesco.pe/file/ohgB7vYc3e2-j3UVi6UbBbIP_gdEJQGh2x5dfxFtpt5D__mOHw5KdQ9FY_mBR8CaQsRpvmd2RZBN1mK5SG3QxXmBTqi9t7MoNCa-fqGLM9A0iFQ2_gVJ8b2GtgM6RYFAT1fqDs1hwT53cBtdsTcYQ1rLju888a708i1qw33JPf7Uq96CAcHU1zKO-ppLSVAvxtyxYzUkpeHO2cM1XqdyEUJ--lPLFJ1XBRrKlvz2sBfvSupAFuHch4EKo5Zf6Jr_vuVZxreYvtFw2Q8ki1IgQf2sd8M0BP5R8PfaetugbPd6F1miaIBm3bPhFh_XvOBx-OxTexmkfncZ61fjfyzhCQ",
+          "url": "https://cdn4.telesco.pe/file/JU_RTiYxrzge-6mB46qnM0jY0qC2oI6M-NzpVazyQcDn4M45KNdyKf66nuqz0QWSb818ZN5mii51BW4SYQkbke_EVgqfeO7DVJ2IecgdgbySmWgGhLhxfsG9A_thKBYtomus48kSjxscham_PTkEJ-Rcpq9I7eijLQ4Tsi36YAi2A6CuLwhW1BPY1yS79vR1RA-oUxtuzO1trk7wA6u2im0NND-_G_FzweDsILqgTxeR8YipxuF_3Uv1eXf40igqLyp4beDzejLTO9gKkDgJtLAeXjDMFsXzBdisR-FdYHeqHUGIQCiVQu-NRgnDOFTQejFtOTlvOXJ7NfX_DjrxnA",
+          "full_url": "https://cdn4.telesco.pe/file/JU_RTiYxrzge-6mB46qnM0jY0qC2oI6M-NzpVazyQcDn4M45KNdyKf66nuqz0QWSb818ZN5mii51BW4SYQkbke_EVgqfeO7DVJ2IecgdgbySmWgGhLhxfsG9A_thKBYtomus48kSjxscham_PTkEJ-Rcpq9I7eijLQ4Tsi36YAi2A6CuLwhW1BPY1yS79vR1RA-oUxtuzO1trk7wA6u2im0NND-_G_FzweDsILqgTxeR8YipxuF_3Uv1eXf40igqLyp4beDzejLTO9gKkDgJtLAeXjDMFsXzBdisR-FdYHeqHUGIQCiVQu-NRgnDOFTQejFtOTlvOXJ7NfX_DjrxnA",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18988_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18988_1.jpg",
@@ -877,8 +1124,8 @@
         {
           "type": "video",
           "post_id": "BrawlStarsNews/18988",
-          "url": "https://cdn4.telesco.pe/file/a018e6311c.mp4?token=g-ttLozVWUN2KkjlH46xTxl6pxgW3J5f105X1dIDmM77B8J0OsxeiYbKlqbK6JyaL6tWgSTfVGNhTB559qnnPPdp0Bz6R63aJI31ZmOgP0X1IJPw_R5aUn7IWE7d6dWsdtswAw3EFUSTV4fOdDeK97tBDGpXotEN8CZX-uo6py0cGWs6m-kSKl-uWy4OnbcPzY6US3nnHNAYOxyqhD9LF51MRTCiQJXaVeebjr8THzambqXYaOvEPcna3-vL4qwt6HmB88EyKUdKmiVRh1qbCC2d-_ys6qZWvMZSeuE9hp2U_RWkn7wh1bLPvNHQARy58Yl009SYmz1mRcU-p2ZFhg",
-          "full_url": "https://cdn4.telesco.pe/file/a018e6311c.mp4?token=g-ttLozVWUN2KkjlH46xTxl6pxgW3J5f105X1dIDmM77B8J0OsxeiYbKlqbK6JyaL6tWgSTfVGNhTB559qnnPPdp0Bz6R63aJI31ZmOgP0X1IJPw_R5aUn7IWE7d6dWsdtswAw3EFUSTV4fOdDeK97tBDGpXotEN8CZX-uo6py0cGWs6m-kSKl-uWy4OnbcPzY6US3nnHNAYOxyqhD9LF51MRTCiQJXaVeebjr8THzambqXYaOvEPcna3-vL4qwt6HmB88EyKUdKmiVRh1qbCC2d-_ys6qZWvMZSeuE9hp2U_RWkn7wh1bLPvNHQARy58Yl009SYmz1mRcU-p2ZFhg",
+          "url": "https://cdn4.telesco.pe/file/a018e6311c.mp4?token=n3iuJCSt-DXQg4KbfAEfILGM2JsNbfE8Kg-U3cN2hWjATxecCTTxK--rdROhPXb-pqnA5KTtEP7Fodgb24ogO4ZR6MCgUr2PYA16joaRtUGnQtYy06aaYRlwzaXCbA_jeq1iqyUSMipcBnL-wuxYr6PoqEUeWOzQHgUSzF4zEu-xu-FSFDHoETMM2OdIYnt1VTNfVBkdnrBUBE1MxUGWlHqNtoTqSynghn9Z_WHZNVs6pz7pu9lUmRKhLUctd2CG_n1u52N3f0WqsuihkuFq2WxCviO2yQlJwMEo23KM1KcAW-m0LX2fuAgVPdA_d2JqNZg3k85yEqulc_E6RQkQBg",
+          "full_url": "https://cdn4.telesco.pe/file/a018e6311c.mp4?token=n3iuJCSt-DXQg4KbfAEfILGM2JsNbfE8Kg-U3cN2hWjATxecCTTxK--rdROhPXb-pqnA5KTtEP7Fodgb24ogO4ZR6MCgUr2PYA16joaRtUGnQtYy06aaYRlwzaXCbA_jeq1iqyUSMipcBnL-wuxYr6PoqEUeWOzQHgUSzF4zEu-xu-FSFDHoETMM2OdIYnt1VTNfVBkdnrBUBE1MxUGWlHqNtoTqSynghn9Z_WHZNVs6pz7pu9lUmRKhLUctd2CG_n1u52N3f0WqsuihkuFq2WxCviO2yQlJwMEo23KM1KcAW-m0LX2fuAgVPdA_d2JqNZg3k85yEqulc_E6RQkQBg",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/video/BrawlStarsNews_18988_2.mp4",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/video/BrawlStarsNews_18988_2.mp4",
@@ -908,7 +1155,6 @@
     "emoji": [
       "📢",
       "️",
-      "💫",
       "💎",
       "👈",
       "🆔"
@@ -917,7 +1163,7 @@
     "type": "text"
   },
   {
-    "index": 12,
+    "index": 15,
     "post_url": "https://t.me/BrawlStarsNews/18987",
     "post_id": "BrawlStarsNews/18987",
     "date": "2026-09-01T15:33:28+00:00",
@@ -929,8 +1175,8 @@
     "text": "📢‼️#اخبار ❱❱❱ اسپری هایی که برای هر تیم ایسپورت براول توی این اپدیت اضافه شده...\n\n💫بزودی برای خرید در دسترس قرار میگیرن\n\nⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ\n#Brawlstars ☆ #براول_استارز\n💎@noyekgem 👈برای خرید جم و پس\n🆔 @BrawlStarsNews",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><a href=\"?q=%23%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1\">#اخبار</a> <b>❱❱❱ اسپری هایی که برای هر تیم ایسپورت براول توی این اپدیت اضافه شده...</b><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AB.png')\"><b>💫</b></i>بزودی برای خرید در دسترس قرار میگیرن<br/><br/><b>ⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ</b><br/><blockquote><a href=\"?q=%23Brawlstars\">#Brawlstars</a> ☆ <a href=\"?q=%23%D8%A8%D8%B1%D8%A7%D9%88%D9%84_%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%B2\">#براول_استارز</a></blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F928E.png')\"><b>💎</b></i><a href=\"https://t.me/noyekgem\" target=\"_blank\">@noyekgem</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i>برای خرید جم و پس</blockquote><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8694.png')\"><b>🆔</b></i><b> </b><a href=\"https://t.me/BrawlStarsNews\" target=\"_blank\"><b>@BrawlStarsNews</b></a>",
     "is_edited": false,
-    "views": 3190,
-    "views_raw": "3.19K",
+    "views": 3300,
+    "views_raw": "3.3K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -951,18 +1197,18 @@
         {
           "type": "photo",
           "post_id": "BrawlStarsNews/18987",
-          "url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
+          "url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18987_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18987_0.jpg",
-          "size_bytes": 17094
+          "size_bytes": 16263
         },
         {
           "type": "photo",
           "post_id": "BrawlStarsNews/18987",
-          "url": "https://cdn4.telesco.pe/file/pHAEFuwibzVPd3BARPt6ljMWsr0yU2SjYVoDMoTf3DweHHMBaeuEVIPrHoCSXNLmF6MWdP3R1By_YNfkfUrI0-cvl_GH711hVRQVQIAXjXF05FZ0mXZ3UwPjkgyktnx_W1uXUL9gohnOLt6DyO0lYNLYzggl001cO6aqIiV2CRqcfla-KdzBW0YzRMQa9ELw8v_KjVhhOcmnfR_wAO4O4-OHEr6cYMyC-7aGFJUz-pKXN69zchO1tvSuASmKp0Jrm4KUEoVBzqveY26nIBfWcwJmd5opj_B1mNy5Z7z32CIlqW5WIeTkcU-VQumUKnKivjPScGppQqpIBRSdBLxzqA.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/pHAEFuwibzVPd3BARPt6ljMWsr0yU2SjYVoDMoTf3DweHHMBaeuEVIPrHoCSXNLmF6MWdP3R1By_YNfkfUrI0-cvl_GH711hVRQVQIAXjXF05FZ0mXZ3UwPjkgyktnx_W1uXUL9gohnOLt6DyO0lYNLYzggl001cO6aqIiV2CRqcfla-KdzBW0YzRMQa9ELw8v_KjVhhOcmnfR_wAO4O4-OHEr6cYMyC-7aGFJUz-pKXN69zchO1tvSuASmKp0Jrm4KUEoVBzqveY26nIBfWcwJmd5opj_B1mNy5Z7z32CIlqW5WIeTkcU-VQumUKnKivjPScGppQqpIBRSdBLxzqA.jpg",
+          "url": "https://cdn4.telesco.pe/file/XkJOjtQoiCcWLky9ard7nSUJwp-UZZI7D_R6eUMnS-vXxIZr1YoJS_JFIQiL-REib1HpnleqkLF3vw1AUIpAf1cZzVBvv2PBalML8YY2J2H3DUtWfCpFzi6am84aPTfX6ycvBO64fOrGk34KqLOWwC5WrVsqJSTT8OT1nwW3ay0fj9S2NBtB13y3TGJsu2YPrCgzemZX76T2rdc9rFYZ2hkRViFI6umBiltY0N7DYfYaCXVFE38Wt-0ul_EzOFffTSVCNhMiO0zmpQV1jXGmcNF7gSCcO0lm2v6-6QoRQ7mzclHBY_uMIqgYQAFLafrT0pHEPugVVfVFF2PSYv8wFQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/XkJOjtQoiCcWLky9ard7nSUJwp-UZZI7D_R6eUMnS-vXxIZr1YoJS_JFIQiL-REib1HpnleqkLF3vw1AUIpAf1cZzVBvv2PBalML8YY2J2H3DUtWfCpFzi6am84aPTfX6ycvBO64fOrGk34KqLOWwC5WrVsqJSTT8OT1nwW3ay0fj9S2NBtB13y3TGJsu2YPrCgzemZX76T2rdc9rFYZ2hkRViFI6umBiltY0N7DYfYaCXVFE38Wt-0ul_EzOFffTSVCNhMiO0zmpQV1jXGmcNF7gSCcO0lm2v6-6QoRQ7mzclHBY_uMIqgYQAFLafrT0pHEPugVVfVFF2PSYv8wFQ.jpg",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18987_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18987_1.jpg",
@@ -1003,7 +1249,7 @@
     "type": "album"
   },
   {
-    "index": 13,
+    "index": 16,
     "post_url": "https://t.me/BrawlStarsNews/18986",
     "post_id": "BrawlStarsNews/18986",
     "date": "2026-09-01T10:13:52+00:00",
@@ -1015,8 +1261,8 @@
     "text": "📢‼️#باگ‌استارز ❱❱❱ به ویژه‌ برنامه‌ مورد علاقه‌ی تمامی براول پلیرا یعنی باگ‌استارز خوش اومدین...\n\n🌟باگ ناپدید شدن سلامتی:\n💫اکثر براولر هایی که سوپرشون قابلیت پرش داره یا به نوعی میپرن سلامتیشون کاملا ناپدید میشه، مثل نوری و کنجی\n🌟باگ شیلد:\n💫براولر هایی که 2 حالت دارن مثل براولر مو، وقتی بین حالت هاشون جابجا میشن گاهی یه شیلد عجب بی‌دلیل میگیرن‌.\n✨به امید باگ های بیشتر، بعدا ویژه‌برنامه‌ باگ استارز رو ادامه میدیم.\nⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ\n#Brawlstars ☆ #براول_استارز\n💎@noyekgem 👈برای خرید جم و پس\n🆔 @BrawlStarsNews",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><a href=\"?q=%23%D8%A8%D8%A7%DA%AF%E2%80%8C%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%B2\">#باگ‌استارز</a> <b>❱❱❱ به ویژه‌ برنامه‌ مورد علاقه‌ی تمامی براول پلیرا یعنی باگ‌استارز خوش اومدین...</b><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C9F.png')\"><b>🌟</b></i><b>باگ ناپدید شدن سلامتی:</b><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AB.png')\"><b>💫</b></i>اکثر براولر هایی که سوپرشون قابلیت پرش داره یا به نوعی میپرن سلامتیشون کاملا ناپدید میشه، مثل نوری و کنجی<br/></blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C9F.png')\"><b>🌟</b></i><b>باگ شیلد:</b><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AB.png')\"><b>💫</b></i>براولر هایی که 2 حالت دارن مثل براولر مو، وقتی بین حالت هاشون جابجا میشن گاهی یه شیلد عجب بی‌دلیل میگیرن‌.<br/></blockquote><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29CA8.png')\"><b>✨</b></i>به امید باگ های بیشتر، بعدا ویژه‌برنامه‌ باگ استارز رو ادامه میدیم.</blockquote><br/><b>ⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ</b><br/><blockquote><a href=\"?q=%23Brawlstars\">#Brawlstars</a> ☆ <a href=\"?q=%23%D8%A8%D8%B1%D8%A7%D9%88%D9%84_%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%B2\">#براول_استارز</a></blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F928E.png')\"><b>💎</b></i><a href=\"https://t.me/noyekgem\" target=\"_blank\">@noyekgem</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i>برای خرید جم و پس</blockquote><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8694.png')\"><b>🆔</b></i><b> </b><a href=\"https://t.me/BrawlStarsNews\" target=\"_blank\"><b>@BrawlStarsNews</b></a>",
     "is_edited": false,
-    "views": 3620,
-    "views_raw": "3.62K",
+    "views": 3790,
+    "views_raw": "3.79K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1037,12 +1283,12 @@
         {
           "type": "photo",
           "post_id": "BrawlStarsNews/18986",
-          "url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
+          "url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18986_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18986_0.jpg",
-          "size_bytes": 17094
+          "size_bytes": 16263
         }
       ]
     },
@@ -1081,7 +1327,7 @@
     "type": "photo"
   },
   {
-    "index": 14,
+    "index": 17,
     "post_url": "https://t.me/BrawlStarsNews/18985",
     "post_id": "BrawlStarsNews/18985",
     "date": "2026-09-01T09:40:40+00:00",
@@ -1093,8 +1339,8 @@
     "text": "📢‼️#اخبار ❱❱❱ بریک تموم شد...\n\nⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ\n#Brawlstars ☆ #براول_استارز\n💎@noyekgem 👈برای خرید جم و پس\n🆔 @BrawlStarsNews",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><a href=\"?q=%23%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1\">#اخبار</a> <b>❱❱❱ بریک تموم شد...</b><br/><br/><b>ⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ</b><br/><blockquote><a href=\"?q=%23Brawlstars\">#Brawlstars</a> ☆ <a href=\"?q=%23%D8%A8%D8%B1%D8%A7%D9%88%D9%84_%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%B2\">#براول_استارز</a></blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F928E.png')\"><b>💎</b></i><a href=\"https://t.me/noyekgem\" target=\"_blank\">@noyekgem</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i>برای خرید جم و پس</blockquote><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8694.png')\"><b>🆔</b></i> <a href=\"https://t.me/BrawlStarsNews\" target=\"_blank\"><b>@BrawlStarsNews</b></a>",
     "is_edited": false,
-    "views": 3120,
-    "views_raw": "3.12K",
+    "views": 3210,
+    "views_raw": "3.21K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1115,12 +1361,12 @@
         {
           "type": "photo",
           "post_id": "BrawlStarsNews/18985",
-          "url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
+          "url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18985_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18985_0.jpg",
-          "size_bytes": 17094
+          "size_bytes": 16263
         }
       ]
     },
@@ -1155,7 +1401,7 @@
     "type": "photo"
   },
   {
-    "index": 15,
+    "index": 18,
     "post_url": "https://t.me/BrawlStarsNews/18984",
     "post_id": "BrawlStarsNews/18984",
     "date": "2026-09-01T09:24:39+00:00",
@@ -1167,8 +1413,8 @@
     "text": "📢‼️#اخبار ❱❱❱ کل آیتم های جدیدی که بعد از بریک توی شاپ شگفتی در دسترسه...\n\nⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ\n#Brawlstars ☆ #براول_استارز\n💎@noyekgem 👈برای خرید جم و پس\n🆔 @BrawlStarsNews",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><a href=\"?q=%23%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1\">#اخبار</a> <b>❱❱❱ کل آیتم های جدیدی که بعد از بریک توی شاپ شگفتی در دسترسه...</b><br/><br/><b>ⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ</b><br/><blockquote><a href=\"?q=%23Brawlstars\">#Brawlstars</a> ☆ <a href=\"?q=%23%D8%A8%D8%B1%D8%A7%D9%88%D9%84_%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%B2\">#براول_استارز</a></blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F928E.png')\"><b>💎</b></i><a href=\"https://t.me/noyekgem\" target=\"_blank\">@noyekgem</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i>برای خرید جم و پس</blockquote><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8694.png')\"><b>🆔</b></i><b> </b><a href=\"https://t.me/BrawlStarsNews\" target=\"_blank\"><b>@BrawlStarsNews</b></a>",
     "is_edited": false,
-    "views": 3280,
-    "views_raw": "3.28K",
+    "views": 3380,
+    "views_raw": "3.38K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1189,12 +1435,12 @@
         {
           "type": "photo",
           "post_id": "BrawlStarsNews/18984",
-          "url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
+          "url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/uOT-MDjhBL5tlbRIlpZJsygDoIeQU2pnkGQetU8b6_u0QjeMl_1ycWs6eNhBzey_jj5E4Wct54UXlAUqbigS2iFRyTQnjrfx92THdTXk_o7mOZ0ai8uYEMH8IbyFlJZ283UgYlv_D-O9rfkmiSZWxaJZcBA3tSpojDZPuSMjgFSzOBuVMVECd0LBlGvQMqGrcH4le_Zay-iszu85pPNTaNjpxN2AHBlytQrQ0kSQpUblrPkWYfZpDpjqUOPNrA1tX0Pnu2etjYhgrpV8C7xEsQxNY-mOok_PxITy1UhjZdmESsBHZXTA2gBG-uMp-fsgDCwhM-kAEa4bJuuwkJM1LQ.jpg",
           "thumbnail": null,
           "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18984_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18984_0.jpg",
-          "size_bytes": 17094
+          "size_bytes": 16263
         },
         {
           "type": "photo",
@@ -1238,248 +1484,5 @@
     ],
     "reactions": [],
     "type": "album"
-  },
-  {
-    "index": 16,
-    "post_url": "https://t.me/BrawlStarsNews/18983",
-    "post_id": "BrawlStarsNews/18983",
-    "date": "2026-09-01T08:14:02+00:00",
-    "date_unix": 1788250442,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "📢‼️#اخبار ❱❱❱ همونطوری که میدونین آپدیت جدید منتشر شده و از حدود ساعت 9 تا به همین الان گیم توی بریک به سر میبره...\n\n💫بعد از بریک چیا در دسترسن؟\n✨سیستم دریافت براولر جدید\n✨اخرین تغییرات بالانس\n✨بازسازی براولر چاک\n✨تمامی بافی های جدید\n✨هایپر شارژ نوری و وندی\nⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ\n#Brawlstars ☆ #براول_استارز\n💎@noyekgem 👈برای خرید جم و پس\n🆔 @BrawlStarsNews",
-    "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><a href=\"?q=%23%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1\">#اخبار</a> <b>❱❱❱ همونطوری که میدونین آپدیت جدید منتشر شده و از حدود ساعت 9 تا به همین الان گیم توی بریک به سر میبره...</b><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AB.png')\"><b>💫</b></i><b>بعد از بریک چیا در دسترسن؟<br/></b><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29CA8.png')\"><b>✨</b></i>سیستم دریافت براولر جدید<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29CA8.png')\"><b>✨</b></i>اخرین تغییرات بالانس<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29CA8.png')\"><b>✨</b></i>بازسازی براولر چاک<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29CA8.png')\"><b>✨</b></i>تمامی بافی های جدید<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29CA8.png')\"><b>✨</b></i>هایپر شارژ نوری و وندی<br/></blockquote><b>ⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ</b><br/><blockquote><a href=\"?q=%23Brawlstars\">#Brawlstars</a> ☆ <a href=\"?q=%23%D8%A8%D8%B1%D8%A7%D9%88%D9%84_%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%B2\">#براول_استارز</a></blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F928E.png')\"><b>💎</b></i><a href=\"https://t.me/noyekgem\" target=\"_blank\">@noyekgem</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i>برای خرید جم و پس</blockquote><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8694.png')\"><b>🆔</b></i><b> </b><a href=\"https://t.me/BrawlStarsNews\" target=\"_blank\"><b>@BrawlStarsNews</b></a>",
-    "is_edited": false,
-    "views": 3050,
-    "views_raw": "3.05K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "BrawlStarsNews/18983",
-          "url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
-          "thumbnail": null,
-          "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18983_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18983_0.jpg",
-          "size_bytes": 17094
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec",
-      "Brawlstars"
-    ],
-    "mentions": [
-      "noyekgem",
-      "BrawlStarsNews"
-    ],
-    "links": [],
-    "emoji": [
-      "📢",
-      "️",
-      "💫",
-      "✨",
-      "💎",
-      "👈",
-      "🆔",
-      "🙏",
-      "🔥"
-    ],
-    "reactions": [],
-    "type": "photo"
-  },
-  {
-    "index": 17,
-    "post_url": "https://t.me/BrawlStarsNews/18982",
-    "post_id": "BrawlStarsNews/18982",
-    "date": "2026-08-31T18:48:51+00:00",
-    "date_unix": 1788202131,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "📢‼️#اخبار ❱❱❱ شاید جالب باشه سرگذشت مکانیک [جاذبه اتک] براولر کازمو رو بدونین...\n\n💫در واقع توسط دوستان لیکر کاشف به عمل اومد مکانیک جذب اتک کازمو مدت خیلی زیادیه توی فایل های براول استارز وجود داره.\n✨در ابتدا قرار بود این قابلیت جزو گجت های براولر ناجیا باشه اما این ایده لغو شد، بعدش قرار شد جزو سیستم براولر بولت بشه، اما بازم این ایده لغو شد و در نهایت کازمو ساخته شد.\nⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ\n#Brawlstars ☆ #براول_استارز\n💎@noyekgem 👈برای خرید جم و پس\n🆔 @BrawlStarsNews",
-    "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i><a href=\"?q=%23%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1\">#اخبار</a> <b>❱❱❱ شاید جالب باشه سرگذشت مکانیک [جاذبه اتک] براولر کازمو رو بدونین...</b><br/><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AB.png')\"><b>💫</b></i>در واقع توسط دوستان لیکر کاشف به عمل اومد مکانیک جذب اتک کازمو مدت خیلی زیادیه توی فایل های براول استارز وجود داره.<br/></blockquote><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29CA8.png')\"><b>✨</b></i>در ابتدا قرار بود این قابلیت جزو گجت های براولر ناجیا باشه اما این ایده لغو شد، بعدش قرار شد جزو سیستم براولر بولت بشه، اما بازم این ایده لغو شد و در نهایت کازمو ساخته شد.<br/></blockquote><b>ⓈⓉⒶⓇ꧁𝐓𝐕꧂ⓃⒺⓌⓈ</b><br/><blockquote><a href=\"?q=%23Brawlstars\">#Brawlstars</a> ☆ <a href=\"?q=%23%D8%A8%D8%B1%D8%A7%D9%88%D9%84_%D8%A7%D8%B3%D8%AA%D8%A7%D8%B1%D8%B2\">#براول_استارز</a></blockquote><br/><blockquote><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F928E.png')\"><b>💎</b></i><a href=\"https://t.me/noyekgem\" target=\"_blank\">@noyekgem</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i>برای خرید جم و پس</blockquote><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8694.png')\"><b>🆔</b></i><b> </b><a href=\"https://t.me/BrawlStarsNews\" target=\"_blank\"><b>@BrawlStarsNews</b></a>",
-    "is_edited": false,
-    "views": 3240,
-    "views_raw": "3.24K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "album",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "BrawlStarsNews/18982",
-          "url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
-          "thumbnail": null,
-          "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18982_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18982_0.jpg",
-          "size_bytes": 17094
-        },
-        {
-          "type": "photo",
-          "post_id": "BrawlStarsNews/18982",
-          "url": "https://cdn4.telesco.pe/file/HQlRef4uLifO7KWuIkZ7G4xfXY5Tku_iIXKJSU-jSiou_YAgUZwJzuVLUV7AMzjH7SIBMLJDhKNPpXmg_iXWdqWWeJJJty97a68IvCg5LIsvTR2CsTCTszIbRzsn9lJhuV3yuKQ4KSDRNqTtjhUUYwnT2CQbr0_-XkTgQp3nPa7BwoUb2ESN1pHDoEwOGq25sy7G5aAsLAiOsY4-z37I8eb8PAIljURC19uCB9t9sIXnqEOujTlGET7OEOBaKF87usAWj8SqZUraeBkC0A3WfURTZxYQ2Dw6guCqhssr0TXQAo2RHgzT8j_YkWZ2i1P2QxeD80lBCdbqxFyx9-4HvQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/HQlRef4uLifO7KWuIkZ7G4xfXY5Tku_iIXKJSU-jSiou_YAgUZwJzuVLUV7AMzjH7SIBMLJDhKNPpXmg_iXWdqWWeJJJty97a68IvCg5LIsvTR2CsTCTszIbRzsn9lJhuV3yuKQ4KSDRNqTtjhUUYwnT2CQbr0_-XkTgQp3nPa7BwoUb2ESN1pHDoEwOGq25sy7G5aAsLAiOsY4-z37I8eb8PAIljURC19uCB9t9sIXnqEOujTlGET7OEOBaKF87usAWj8SqZUraeBkC0A3WfURTZxYQ2Dw6guCqhssr0TXQAo2RHgzT8j_YkWZ2i1P2QxeD80lBCdbqxFyx9-4HvQ.jpg",
-          "thumbnail": null,
-          "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18982_1.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18982_1.jpg",
-          "size_bytes": 52623
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec",
-      "Brawlstars"
-    ],
-    "mentions": [
-      "noyekgem",
-      "BrawlStarsNews"
-    ],
-    "links": [],
-    "emoji": [
-      "📢",
-      "️",
-      "💫",
-      "✨",
-      "💎",
-      "👈",
-      "🆔",
-      "👍",
-      "😱"
-    ],
-    "reactions": [],
-    "type": "album"
-  },
-  {
-    "index": 18,
-    "post_url": "https://t.me/BrawlStarsNews/18981",
-    "post_id": "BrawlStarsNews/18981",
-    "date": "2026-08-31T18:04:46+00:00",
-    "date_unix": 1788199486,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "📢‼️#اخبار ❱❱❱ بیاین ببینیم تیم براول واقعا چه بلایی سر چاک اوردن...   🌟اول از همه تغییرات مکانیک‌ چاک= 💫سلامتی چاک 4٫25% کمتر شده. 💫سوپر چاک دیگه خودکار و سرعتی پر نمیشه بلکه چاک‌ هر بار میتونه مچ رو با 4 سوپر صد در صد پر شده شروع کنه. 💫حداکثر 4 تا ایستگاه…",
-    "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A2.png')\"><b>📢</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E280BC.png')\"><b>‼️</b></i>#اخبار ❱❱❱ بیاین ببینیم تیم براول واقعا چه بلایی سر چاک اوردن...   <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8C9F.png')\"><b>🌟</b></i>اول از همه تغییرات مکانیک‌ چاک= <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AB.png')\"><b>💫</b></i>سلامتی چاک 4٫25% کمتر شده. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AB.png')\"><b>💫</b></i>سوپر چاک دیگه خودکار و سرعتی پر نمیشه بلکه چاک‌ هر بار میتونه مچ رو با 4 سوپر صد در صد پر شده شروع کنه. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AB.png')\"><b>💫</b></i>حداکثر 4 تا ایستگاه…",
-    "is_edited": false,
-    "views": 2900,
-    "views_raw": "2.9K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "photo",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "BrawlStarsNews/18981",
-          "url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/G2HzmxYy4hFYi1QIpMTVmsSFswg5GzdA7Au-0vKn-AkBOHJA21yxMspvCXQUi2ok7vrIBdvChHzbX215fR1H4Pfk7kIasb-WUL9tjAJUfZUgQK1BHkdyGKjjI5RuHGGLSr8I8XaBEhokrvQmVUWGTZe57kBGLF8WxLLgG-yRxEMubp98tbflVkplzKYs8oNELAjZviI4KeaPxjlSIOEx6Az0GkGmh3hriWhcgLvSC67xUDo7ro0L-IQ5xP1X6vwwp00-lGrw9zqllofSAxKv7YQ-pKVbLw6jMa_EDOC0kszJFexCSgV-1dirxFk8IOvTlrcFwmDQZixFTECfTCtRbw.jpg",
-          "thumbnail": null,
-          "local_path": "channels/brawlstarsnews/media/photo/BrawlStarsNews_18981_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/brawlstarsnews/media/photo/BrawlStarsNews_18981_0.jpg",
-          "size_bytes": 17094
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec",
-      "Brawlstars"
-    ],
-    "mentions": [
-      "noyekgem",
-      "BrawlStarsNews"
-    ],
-    "links": [],
-    "emoji": [
-      "📢",
-      "️",
-      "🌟",
-      "💫",
-      "💎",
-      "👈",
-      "🆔",
-      "👍",
-      "🤯",
-      "😈",
-      "🔥"
-    ],
-    "reactions": [],
-    "type": "photo"
   }
 ]
