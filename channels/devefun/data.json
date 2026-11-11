@@ -1,19 +1,19 @@
 [
   {
     "index": 1,
-    "post_url": "https://t.me/devefun/4829",
-    "post_id": "devefun/4829",
-    "date": "2026-11-08T16:15:46+00:00",
-    "date_unix": 1794154546,
+    "post_url": "https://t.me/devefun/4830",
+    "post_id": "devefun/4830",
+    "date": "2026-11-10T15:47:29+00:00",
+    "date_unix": 1794325649,
     "edit_date": null,
     "edit_date_unix": null,
     "author": null,
     "author_url": null,
-    "text": "🎙 گزیده‌ای از دورهمی و سخنرانی اخیر لینوس توروالدز (خالق لینوکس و گیت)\nدر اواخر این گفتگوی جذاب، لینوس توروالدز نظرات بسیار جالب و واقع‌بینانه‌ای درباره هوش مصنوعی (AI) و تاثیر آن روی دنیای برنامه‌نویسی مطرح می‌کند. در ادامه، چکیده‌ای از مهم‌ترین صحبت‌های او را می‌خوانید:\n\n🤖 هوش مصنوعی در هسته لینوکس (Kernel)\n\nتوسعه‌دهندگان لینوکس در حال حاضر از ابزارهای هوش مصنوعی (مثل بات Sashiko) برای بررسی و بازبینی کدها (Patch Review) استفاده می‌کنند.\nاین ابزارها با پیدا کردن خطاهایی مثل نشت حافظه (Memory leak) و استفاده نادرست از APIها، به شدت به بهبود کیفیت کدها کمک کرده‌اند.\nلینوس تاکید می‌کند که هوش مصنوعی قرار نیست جایگزین برنامه‌نویسان ارشد (Maintainers) شود، بلکه ابزاری است که در صورت استفاده درست، کار آن‌ها را بسیار راحت‌تر می‌کند.\n🚪 هوش مصنوعی به عنوان \"دروازه ورود\" به برنامه‌نویسی&#33;\n\nلینوس معتقد است در گذشته یادگیری برنامه‌نویسی لذت‌بخش‌تر بود چون استانداردها پایین بود. اما امروز با وجود اپلیکیشن‌ها و رابط‌های کاربری به شدت حرفه‌ای، برنامه‌نویسان تازه‌کار وقتی خروجی‌های ساده‌ی خودشان را می‌بینند، ناامید می‌شوند.\nاز نظر او، هوش مصنوعی یک معجزه برای تازه‌کارهاست&#33; AI مثل یک \"دروازه ورود\" (Gateway Drug) عمل می‌کند و باعث می‌شود برنامه‌نویسان جدید بتوانند کارهای جذابی بسازند، از مسیر یادگیری لذت ببرند و احساس مفید بودن کنند.\n\n🎸 تجربه شخصی لینوس: \"من کارهای مردانه می‌کنم، UI بلد نیستم&#33;\"\n\nتوروالدز برای یکی از پروژه‌های تفریحی خودش (ساخت پدال گیتار) به یک رابط کاربری مدرن نیاز داشت.\nاو با خنده می‌گوید: \"من جاوااسکریپت و کارهای ظریف UI بلد نیستم؛ من کارهای مردانه می‌کنم&#33; من به زبان C و سطح پایین (Low-level) کد می‌زنم&#33;\" 😅\nبه همین دلیل، او برای طراحی رابط کاربری سراغ هوش مصنوعی رفت. پرامپت‌های اولیه‌اش خروجی‌های افتضاحی داشتند، اما وقتی کدهای دقیق و مهندسی‌شده‌ی زبان C خودش را به AI داد و از او خواست فقط یک ظاهر زیبا برای آن بسازد، از نتیجه نهایی شگفت‌زده شد.\n\n🎯 حرف آخر لینوس توروالدز:\n«هوش مصنوعی یک ابزار فوق‌العاده و یک اسباب‌بازی عالی برای ورود به دنیای برنامه‌نویسی است. اما اگر می‌خواهید کدهای واقعا خوب و حرفه‌ای بنویسید، در نهایت باید خودتان منطق کد را عمیقاً درک کنید و از AI صرفاً به عنوان یک \"ابزار\" در کنار دانش خودتان استفاده کنید.»\n🔗 مشاهده ویدیو در یوتیوب\n\n@devefun",
-    "text_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E99.png')\"><b>🎙</b></i> گزیده‌ای از دورهمی و سخنرانی اخیر لینوس توروالدز (خالق لینوکس و گیت)</b><br/>در اواخر این گفتگوی جذاب، لینوس توروالدز نظرات بسیار جالب و واقع‌بینانه‌ای درباره هوش مصنوعی (AI) و تاثیر آن روی دنیای برنامه‌نویسی مطرح می‌کند. در ادامه، چکیده‌ای از مهم‌ترین صحبت‌های او را می‌خوانید:<br/><br/><blockquote expandable><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA496.png')\"><b>🤖</b></i> هوش مصنوعی در هسته لینوکس (Kernel)<br/><br/>توسعه‌دهندگان لینوکس در حال حاضر از ابزارهای هوش مصنوعی (مثل بات Sashiko) برای بررسی و بازبینی کدها (Patch Review) استفاده می‌کنند.<br/>این ابزارها با پیدا کردن خطاهایی مثل نشت حافظه (Memory leak) و استفاده نادرست از APIها، به شدت به بهبود کیفیت کدها کمک کرده‌اند.<br/>لینوس تاکید می‌کند که هوش مصنوعی قرار نیست جایگزین برنامه‌نویسان ارشد (Maintainers) شود، بلکه ابزاری است که در صورت استفاده درست، کار آن‌ها را بسیار راحت‌تر می‌کند.<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AAA.png')\"><b>🚪</b></i> هوش مصنوعی به عنوان &quot;دروازه ورود&quot; به برنامه‌نویسی&#33;<br/><br/>لینوس معتقد است در گذشته یادگیری برنامه‌نویسی لذت‌بخش‌تر بود چون استانداردها پایین بود. اما امروز با وجود اپلیکیشن‌ها و رابط‌های کاربری به شدت حرفه‌ای، برنامه‌نویسان تازه‌کار وقتی خروجی‌های ساده‌ی خودشان را می‌بینند، ناامید می‌شوند.<br/>از نظر او، هوش مصنوعی یک معجزه برای تازه‌کارهاست&#33; AI مثل یک &quot;دروازه ورود&quot; (Gateway Drug) عمل می‌کند و باعث می‌شود برنامه‌نویسان جدید بتوانند کارهای جذابی بسازند، از مسیر یادگیری لذت ببرند و احساس مفید بودن کنند.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB8.png')\"><b>🎸</b></i> تجربه شخصی لینوس: &quot;من کارهای مردانه می‌کنم، UI بلد نیستم&#33;&quot;<br/><br/>توروالدز برای یکی از پروژه‌های تفریحی خودش (ساخت پدال گیتار) به یک رابط کاربری مدرن نیاز داشت.<br/>او با خنده می‌گوید: &quot;من جاوااسکریپت و کارهای ظریف UI بلد نیستم؛ من کارهای مردانه می‌کنم&#33; من به زبان C و سطح پایین (Low-level) کد می‌زنم&#33;&quot; <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9885.png')\"><b>😅</b></i><br/>به همین دلیل، او برای طراحی رابط کاربری سراغ هوش مصنوعی رفت. پرامپت‌های اولیه‌اش خروجی‌های افتضاحی داشتند، اما وقتی کدهای دقیق و مهندسی‌شده‌ی زبان C خودش را به AI داد و از او خواست فقط یک ظاهر زیبا برای آن بسازد، از نتیجه نهایی شگفت‌زده شد.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EAF.png')\"><b>🎯</b></i> حرف آخر لینوس توروالدز:<br/>«هوش مصنوعی یک ابزار فوق‌العاده و یک اسباب‌بازی عالی برای ورود به دنیای برنامه‌نویسی است. اما اگر می‌خواهید کدهای واقعا خوب و حرفه‌ای بنویسید، در نهایت باید خودتان منطق کد را عمیقاً درک کنید و از AI صرفاً به عنوان یک &quot;ابزار&quot; در کنار دانش خودتان استفاده کنید.»<br/></blockquote><a href=\"https://www.youtube.com/watch?v=0PSA2LFFlvk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> مشاهده ویدیو در یوتیوب</a><br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a>",
+    "text": "شناخت کامل و دقیق از انویدیا توسط لینوس توروالدز بزرگ 😁\n\nChannel: @devefun 😃\nGroup: @WeAreXstack 😎",
+    "text_html": "شناخت کامل و دقیق از انویدیا توسط لینوس توروالدز بزرگ <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9881.png')\"><b>😁</b></i><br/><br/>Channel: <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9883.png')\"><b>😃</b></i><br/>Group: <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F988E.png')\"><b>😎</b></i>",
     "is_edited": false,
-    "views": 571,
-    "views_raw": "571",
+    "views": 436,
+    "views_raw": "436",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -29,17 +29,37 @@
     "pinned": false,
     "media": {
       "has_media": true,
-      "type": "photo",
+      "type": "mixed",
       "items": [
         {
           "type": "photo",
-          "post_id": "devefun/4829",
-          "url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
+          "post_id": "devefun/4830",
+          "url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
           "thumbnail": null,
-          "local_path": "channels/devefun/media/photo/devefun_4829_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4829_0.jpg",
+          "local_path": "channels/devefun/media/photo/devefun_4830_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4830_0.jpg",
           "size_bytes": 11549
+        },
+        {
+          "type": "photo",
+          "post_id": "devefun/4830",
+          "url": "https://cdn4.telesco.pe/file/hSpVzpST_yGGWNR5L344Rwb8ppqUKPSRAttnHwYPDm3u6VRejsrCiVKD1eA5pcR4NZOKk-su3WYO45en2XvDKUm9l2O-jEgUfjrnnT-H2YqwWYwvqZ1vM1rzhZ4KTblVCjT3-24DDdufLQK7tzbZGbQYUdz__OZJ1qY82Hpy_9B-n9A_KUo79miXoXaUHcA64BP2zany-8eHecWKQoue3VKb2PmxcHnRowAZ4Jn2pVYE4ZQU7BIIbWM-n-gQ2E8Bb8qs6JnthiWCaXd64GnzqyJOpLczC0ZoJ6rzOllgfZ6Hp3UB0FyYWkYBmtdh8OVuRtc6TybktQogTCEx-YYmZw",
+          "full_url": "https://cdn4.telesco.pe/file/hSpVzpST_yGGWNR5L344Rwb8ppqUKPSRAttnHwYPDm3u6VRejsrCiVKD1eA5pcR4NZOKk-su3WYO45en2XvDKUm9l2O-jEgUfjrnnT-H2YqwWYwvqZ1vM1rzhZ4KTblVCjT3-24DDdufLQK7tzbZGbQYUdz__OZJ1qY82Hpy_9B-n9A_KUo79miXoXaUHcA64BP2zany-8eHecWKQoue3VKb2PmxcHnRowAZ4Jn2pVYE4ZQU7BIIbWM-n-gQ2E8Bb8qs6JnthiWCaXd64GnzqyJOpLczC0ZoJ6rzOllgfZ6Hp3UB0FyYWkYBmtdh8OVuRtc6TybktQogTCEx-YYmZw",
+          "thumbnail": null,
+          "local_path": "channels/devefun/media/photo/devefun_4830_1.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4830_1.jpg",
+          "size_bytes": 7116
+        },
+        {
+          "type": "video",
+          "post_id": "devefun/4830",
+          "url": "https://cdn4.telesco.pe/file/34a35dd04f.mp4?token=I1RLiq82zS0q7aVmmmHfX0-6ADIG3gCvVCIa0A2fmai9Fx7G1dUPD-pjrJ3cxPYWg8B1Lv8fdkrXU-rxU8i0cxnSLJby9L2FU2dR3xeR9X8v71JD9Z6_Pv657RSdNCxCZydY_UnHLNe5-VBZMAgIsYa57ytD2dFTY0tzcaZppX0BRIg19MKfsRYRy34LmzGPULdNqPeFFlFJETfH8D7U7T1yYA9xNOMdwWqoaa-0gHrMYjLBlzYias54FGyaj0O_RD6j7nFz9IuRmfYfCu7z1PGKf5-NO6VIaMcYpWttLo64SNJdbTVvsRqi8PQIKG9MhvTwzzUW65XTIo68QZaAWQ",
+          "full_url": "https://cdn4.telesco.pe/file/34a35dd04f.mp4?token=I1RLiq82zS0q7aVmmmHfX0-6ADIG3gCvVCIa0A2fmai9Fx7G1dUPD-pjrJ3cxPYWg8B1Lv8fdkrXU-rxU8i0cxnSLJby9L2FU2dR3xeR9X8v71JD9Z6_Pv657RSdNCxCZydY_UnHLNe5-VBZMAgIsYa57ytD2dFTY0tzcaZppX0BRIg19MKfsRYRy34LmzGPULdNqPeFFlFJETfH8D7U7T1yYA9xNOMdwWqoaa-0gHrMYjLBlzYias54FGyaj0O_RD6j7nFz9IuRmfYfCu7z1PGKf5-NO6VIaMcYpWttLo64SNJdbTVvsRqi8PQIKG9MhvTwzzUW65XTIo68QZaAWQ",
+          "thumbnail": null,
+          "local_path": "channels/devefun/media/video/devefun_4830_2.mp4",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/video/devefun_4830_2.mp4",
+          "size_bytes": 3237512
         }
       ]
     },
@@ -61,6 +81,83 @@
   },
   {
     "index": 2,
+    "post_url": "https://t.me/devefun/4829",
+    "post_id": "devefun/4829",
+    "date": "2026-11-08T16:15:46+00:00",
+    "date_unix": 1794154546,
+    "edit_date": null,
+    "edit_date_unix": null,
+    "author": null,
+    "author_url": null,
+    "text": "🎙 گزیده‌ای از دورهمی و سخنرانی اخیر لینوس توروالدز (خالق لینوکس و گیت)\nدر اواخر این گفتگوی جذاب، لینوس توروالدز نظرات بسیار جالب و واقع‌بینانه‌ای درباره هوش مصنوعی (AI) و تاثیر آن روی دنیای برنامه‌نویسی مطرح می‌کند. در ادامه، چکیده‌ای از مهم‌ترین صحبت‌های او را می‌خوانید:\n\n🤖 هوش مصنوعی در هسته لینوکس (Kernel)\n\nتوسعه‌دهندگان لینوکس در حال حاضر از ابزارهای هوش مصنوعی (مثل بات Sashiko) برای بررسی و بازبینی کدها (Patch Review) استفاده می‌کنند.\nاین ابزارها با پیدا کردن خطاهایی مثل نشت حافظه (Memory leak) و استفاده نادرست از APIها، به شدت به بهبود کیفیت کدها کمک کرده‌اند.\nلینوس تاکید می‌کند که هوش مصنوعی قرار نیست جایگزین برنامه‌نویسان ارشد (Maintainers) شود، بلکه ابزاری است که در صورت استفاده درست، کار آن‌ها را بسیار راحت‌تر می‌کند.\n🚪 هوش مصنوعی به عنوان \"دروازه ورود\" به برنامه‌نویسی&#33;\n\nلینوس معتقد است در گذشته یادگیری برنامه‌نویسی لذت‌بخش‌تر بود چون استانداردها پایین بود. اما امروز با وجود اپلیکیشن‌ها و رابط‌های کاربری به شدت حرفه‌ای، برنامه‌نویسان تازه‌کار وقتی خروجی‌های ساده‌ی خودشان را می‌بینند، ناامید می‌شوند.\nاز نظر او، هوش مصنوعی یک معجزه برای تازه‌کارهاست&#33; AI مثل یک \"دروازه ورود\" (Gateway Drug) عمل می‌کند و باعث می‌شود برنامه‌نویسان جدید بتوانند کارهای جذابی بسازند، از مسیر یادگیری لذت ببرند و احساس مفید بودن کنند.\n\n🎸 تجربه شخصی لینوس: \"من کارهای مردانه می‌کنم، UI بلد نیستم&#33;\"\n\nتوروالدز برای یکی از پروژه‌های تفریحی خودش (ساخت پدال گیتار) به یک رابط کاربری مدرن نیاز داشت.\nاو با خنده می‌گوید: \"من جاوااسکریپت و کارهای ظریف UI بلد نیستم؛ من کارهای مردانه می‌کنم&#33; من به زبان C و سطح پایین (Low-level) کد می‌زنم&#33;\" 😅\nبه همین دلیل، او برای طراحی رابط کاربری سراغ هوش مصنوعی رفت. پرامپت‌های اولیه‌اش خروجی‌های افتضاحی داشتند، اما وقتی کدهای دقیق و مهندسی‌شده‌ی زبان C خودش را به AI داد و از او خواست فقط یک ظاهر زیبا برای آن بسازد، از نتیجه نهایی شگفت‌زده شد.\n\n🎯 حرف آخر لینوس توروالدز:\n«هوش مصنوعی یک ابزار فوق‌العاده و یک اسباب‌بازی عالی برای ورود به دنیای برنامه‌نویسی است. اما اگر می‌خواهید کدهای واقعا خوب و حرفه‌ای بنویسید، در نهایت باید خودتان منطق کد را عمیقاً درک کنید و از AI صرفاً به عنوان یک \"ابزار\" در کنار دانش خودتان استفاده کنید.»\n🔗 مشاهده ویدیو در یوتیوب\n\n@devefun",
+    "text_html": "<b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8E99.png')\"><b>🎙</b></i> گزیده‌ای از دورهمی و سخنرانی اخیر لینوس توروالدز (خالق لینوکس و گیت)</b><br/>در اواخر این گفتگوی جذاب، لینوس توروالدز نظرات بسیار جالب و واقع‌بینانه‌ای درباره هوش مصنوعی (AI) و تاثیر آن روی دنیای برنامه‌نویسی مطرح می‌کند. در ادامه، چکیده‌ای از مهم‌ترین صحبت‌های او را می‌خوانید:<br/><br/><blockquote expandable><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA496.png')\"><b>🤖</b></i> هوش مصنوعی در هسته لینوکس (Kernel)<br/><br/>توسعه‌دهندگان لینوکس در حال حاضر از ابزارهای هوش مصنوعی (مثل بات Sashiko) برای بررسی و بازبینی کدها (Patch Review) استفاده می‌کنند.<br/>این ابزارها با پیدا کردن خطاهایی مثل نشت حافظه (Memory leak) و استفاده نادرست از APIها، به شدت به بهبود کیفیت کدها کمک کرده‌اند.<br/>لینوس تاکید می‌کند که هوش مصنوعی قرار نیست جایگزین برنامه‌نویسان ارشد (Maintainers) شود، بلکه ابزاری است که در صورت استفاده درست، کار آن‌ها را بسیار راحت‌تر می‌کند.<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AAA.png')\"><b>🚪</b></i> هوش مصنوعی به عنوان &quot;دروازه ورود&quot; به برنامه‌نویسی&#33;<br/><br/>لینوس معتقد است در گذشته یادگیری برنامه‌نویسی لذت‌بخش‌تر بود چون استانداردها پایین بود. اما امروز با وجود اپلیکیشن‌ها و رابط‌های کاربری به شدت حرفه‌ای، برنامه‌نویسان تازه‌کار وقتی خروجی‌های ساده‌ی خودشان را می‌بینند، ناامید می‌شوند.<br/>از نظر او، هوش مصنوعی یک معجزه برای تازه‌کارهاست&#33; AI مثل یک &quot;دروازه ورود&quot; (Gateway Drug) عمل می‌کند و باعث می‌شود برنامه‌نویسان جدید بتوانند کارهای جذابی بسازند، از مسیر یادگیری لذت ببرند و احساس مفید بودن کنند.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EB8.png')\"><b>🎸</b></i> تجربه شخصی لینوس: &quot;من کارهای مردانه می‌کنم، UI بلد نیستم&#33;&quot;<br/><br/>توروالدز برای یکی از پروژه‌های تفریحی خودش (ساخت پدال گیتار) به یک رابط کاربری مدرن نیاز داشت.<br/>او با خنده می‌گوید: &quot;من جاوااسکریپت و کارهای ظریف UI بلد نیستم؛ من کارهای مردانه می‌کنم&#33; من به زبان C و سطح پایین (Low-level) کد می‌زنم&#33;&quot; <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9885.png')\"><b>😅</b></i><br/>به همین دلیل، او برای طراحی رابط کاربری سراغ هوش مصنوعی رفت. پرامپت‌های اولیه‌اش خروجی‌های افتضاحی داشتند، اما وقتی کدهای دقیق و مهندسی‌شده‌ی زبان C خودش را به AI داد و از او خواست فقط یک ظاهر زیبا برای آن بسازد، از نتیجه نهایی شگفت‌زده شد.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EAF.png')\"><b>🎯</b></i> حرف آخر لینوس توروالدز:<br/>«هوش مصنوعی یک ابزار فوق‌العاده و یک اسباب‌بازی عالی برای ورود به دنیای برنامه‌نویسی است. اما اگر می‌خواهید کدهای واقعا خوب و حرفه‌ای بنویسید، در نهایت باید خودتان منطق کد را عمیقاً درک کنید و از AI صرفاً به عنوان یک &quot;ابزار&quot; در کنار دانش خودتان استفاده کنید.»<br/></blockquote><a href=\"https://www.youtube.com/watch?v=0PSA2LFFlvk\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> مشاهده ویدیو در یوتیوب</a><br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a>",
+    "is_edited": false,
+    "views": 729,
+    "views_raw": "729",
+    "forward": {
+      "forwarded": false,
+      "from": null,
+      "from_url": null,
+      "date": null,
+      "date_unix": null
+    },
+    "reply": {
+      "is_reply": false,
+      "to_url": null,
+      "to_text": null
+    },
+    "pinned": false,
+    "media": {
+      "has_media": true,
+      "type": "photo",
+      "items": [
+        {
+          "type": "photo",
+          "post_id": "devefun/4829",
+          "url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
+          "thumbnail": null,
+          "local_path": "channels/devefun/media/photo/devefun_4829_0.jpg",
+          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4829_0.jpg",
+          "size_bytes": 11549
+        }
+      ]
+    },
+    "poll": {
+      "has_poll": false,
+      "question": null,
+      "options": [],
+      "total_votes": null,
+      "is_anonymous": null,
+      "is_closed": false
+    },
+    "buttons": [],
+    "hashtags": [
+      "ffffff",
+      "d7e3ec",
+      "33"
+    ],
+    "mentions": [
+      "devefun"
+    ],
+    "links": [
+      "https://www.youtube.com/watch?v=0PSA2LFFlvk"
+    ],
+    "emoji": [
+      "🤖",
+      "🚪",
+      "🎸",
+      "😅",
+      "🎯",
+      "🔗",
+      "👌",
+      "🙏"
+    ],
+    "reactions": [],
+    "type": "photo"
+  },
+  {
+    "index": 3,
     "post_url": "https://t.me/devefun/4828",
     "post_id": "devefun/4828",
     "date": "2026-11-06T13:31:13+00:00",
@@ -69,11 +166,11 @@
     "edit_date_unix": null,
     "author": null,
     "author_url": null,
-    "text": "🤖 آیا در دوران هوش مصنوعی، «کیفیت کد» هنوز هم مهم است؟\n\nبا آمدن ابزارهای کدنویسی هوش مصنوعی، این سوال پیش آمده که آیا دیگر نیازی به نوشتن کدهای تمیز و اصولی داریم؟ مکس کانـات-الکساندر در این سخنرانی جذاب، جواب بسیار دقیقی به این بحث می‌دهد: بستگی دارد چه نوع نرم‌افزاری می‌سازید&#33;\n\n🔍 اصلاً چرا کیفیت کد مهم است؟\nتمام ابزارها و قوانین کیفیت کد، فقط برای دو هدف به وجود آمده‌اند:\n۱. بفهمیم سیستم واقعاً چطور کار می‌کند.\n۲. بتوانیم بدون خرابکاری و دردسر، در آینده آن را تغییر دهیم.\n\nهر بار که کدی را به شکلی نامفهوم تغییر می‌دهیم، کار را برای تغییرات بعدی سخت‌تر می‌کنیم؛ چرخه‌ای که در نهایت سیستم‌های بزرگ را قفل می‌کند. اما هوش مصنوعی در حال تغییر بازی و ایجاد یک دسته‌بندی جدید است:\n\n🗑️ ۱. نرم‌افزارهای یک‌بارمصرف (Disposable Software)\nهوش مصنوعی باعث شده ساختن نرم‌افزارهای کوچک و موقتی هزاران برابر بیشتر شود. نرم‌افزارهایی که:\n🔹 فقط چند نفر محدود از آن‌ها استفاده می‌کنند (مثل یک برنامه شخصی برای برنامه‌ریزی یک مهمانی).\n🔹 اگر خراب شوند، فاجعه‌ای رخ نمی‌دهد.\n🔹 جایگزین کردن و از نو ساختن آن‌ها با هوش مصنوعی فقط چند ساعت طول می‌کشد.\n👈 نتیجه: در این نرم‌افزارها، کیفیت کد هیچ اهمیتی ندارد&#33; کد را بزنید، کارتان که راه افتاد، دورش بیندازید.\n\n🏰 ۲. نرم‌افزارهای ماندگار (Durable Software)\nسیستم‌های بزرگی که سال‌ها قرار است کار کنند، میلیون‌ها کاربر به آن‌ها وابسته‌اند و خرابی آن‌ها فاجعه‌بار است.\n👈 نتیجه: این نرم‌افزارها از بین نمی‌روند (بلکه با کمک هوش مصنوعی بیشتر هم می‌شوند) و در آن‌ها کیفیت کد و ساختار درست، حیاتی‌تر از همیشه است.\n\n💡 راهکار طلایی برای تیم‌های فنی:\nبه جای بحث‌های بی‌پایان درباره کیفیت کد، دو کار انجام دهید:\n1️⃣ بخش‌های یک‌بارمصرف را ایزوله کنید: محیط‌های جداگانه‌ای بسازید که به داده‌های حساس وصل نیستند تا افراد بتوانند بدون نگرانی، ابزارهای موقتی و سریع خودشان را با هوش مصنوعی بسازند.\n2️⃣ هزینه باکیفیت نوشتن را کم کنید: با استانداردسازی ابزارها، خودکار کردن تست‌ها و گذاشتن قوانین سخت‌گیرانه و خودکار از روز اول، کاری کنید که رعایت کیفیت کد برای برنامه‌نویس‌ها سریع، ارزان و بی‌دردسر شود.\n\n⚖️ جمع‌بندی در یک خط:\nبرای نرم‌افزارهای موقتی و یک‌بارمصرف، کیفیت کد اصلاً مهم نیست؛ برای سیستم‌های ماندگار، به شدت حیاتی است؛ و با ابزارهای درست، داشتن کیفیت بالا دیگر نیازی نیست گران و زمان‌بر باشد&#33;\n﻿\n📺 تماشای ویدیوی کامل در یوتیوب:\nHttps://youtu.be/bU5gDVyu_28\n\n@devefun",
-    "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA496.png')\"><b>🤖</b></i> <b>آیا در دوران هوش مصنوعی، «کیفیت کد» هنوز هم مهم است؟</b><br/><br/>با آمدن ابزارهای کدنویسی هوش مصنوعی، این سوال پیش آمده که آیا دیگر نیازی به نوشتن کدهای تمیز و اصولی داریم؟ <b>مکس کانـات-الکساندر</b> در این سخنرانی جذاب، جواب بسیار دقیقی به این بحث می‌دهد: <b>بستگی دارد چه نوع نرم‌افزاری می‌سازید&#33;</b><br/><br/><blockquote expandable><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948D.png')\"><b>🔍</b></i> <b>اصلاً چرا کیفیت کد مهم است؟</b><br/>تمام ابزارها و قوانین کیفیت کد، فقط برای دو هدف به وجود آمده‌اند:<br/>۱. بفهمیم سیستم واقعاً چطور کار می‌کند.<br/>۲. بتوانیم بدون خرابکاری و دردسر، در آینده آن را تغییر دهیم.<br/><br/>هر بار که کدی را به شکلی نامفهوم تغییر می‌دهیم، کار را برای تغییرات بعدی سخت‌تر می‌کنیم؛ چرخه‌ای که در نهایت سیستم‌های بزرگ را قفل می‌کند. اما هوش مصنوعی در حال تغییر بازی و ایجاد یک دسته‌بندی جدید است:<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9791.png')\"><b>🗑️</b></i> <b>۱. نرم‌افزارهای یک‌بارمصرف (Disposable Software)</b><br/>هوش مصنوعی باعث شده ساختن نرم‌افزارهای کوچک و موقتی هزاران برابر بیشتر شود. نرم‌افزارهایی که:<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> فقط چند نفر محدود از آن‌ها استفاده می‌کنند (مثل یک برنامه شخصی برای برنامه‌ریزی یک مهمانی).<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> اگر خراب شوند، فاجعه‌ای رخ نمی‌دهد.<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> جایگزین کردن و از نو ساختن آن‌ها با هوش مصنوعی فقط چند ساعت طول می‌کشد.<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i> <b>نتیجه:</b> در این نرم‌افزارها، <b>کیفیت کد هیچ اهمیتی ندارد&#33;</b> کد را بزنید، کارتان که راه افتاد، دورش بیندازید.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8FB0.png')\"><b>🏰</b></i> <b>۲. نرم‌افزارهای ماندگار (Durable Software)</b><br/>سیستم‌های بزرگی که سال‌ها قرار است کار کنند، میلیون‌ها کاربر به آن‌ها وابسته‌اند و خرابی آن‌ها فاجعه‌بار است.<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i> <b>نتیجه:</b> این نرم‌افزارها از بین نمی‌روند (بلکه با کمک هوش مصنوعی بیشتر هم می‌شوند) و در آن‌ها <b>کیفیت کد و ساختار درست، حیاتی‌تر از همیشه است.</b><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> <b>راهکار طلایی برای تیم‌های فنی:</b><br/>به جای بحث‌های بی‌پایان درباره کیفیت کد، دو کار انجام دهید:<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/31E283A3.png')\"><b>1️⃣</b></i> <b>بخش‌های یک‌بارمصرف را ایزوله کنید:</b> محیط‌های جداگانه‌ای بسازید که به داده‌های حساس وصل نیستند تا افراد بتوانند بدون نگرانی، ابزارهای موقتی و سریع خودشان را با هوش مصنوعی بسازند.<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/32E283A3.png')\"><b>2️⃣</b></i> <b>هزینه باکیفیت نوشتن را کم کنید:</b> با استانداردسازی ابزارها، خودکار کردن تست‌ها و گذاشتن قوانین سخت‌گیرانه و خودکار از روز اول، کاری کنید که رعایت کیفیت کد برای برنامه‌نویس‌ها سریع، ارزان و بی‌دردسر شود.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29A96.png')\"><b>⚖️</b></i> <b>جمع‌بندی در یک خط:</b><br/>برای نرم‌افزارهای موقتی و یک‌بارمصرف، کیفیت کد اصلاً مهم نیست؛ برای سیستم‌های ماندگار، به شدت حیاتی است؛ و با ابزارهای درست، داشتن کیفیت بالا دیگر نیازی نیست گران و زمان‌بر باشد&#33;<br/>﻿</blockquote><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93BA.png')\"><b>📺</b></i> تماشای ویدیوی کامل در یوتیوب:<br/><a href=\"https://youtu.be/bU5gDVyu_28\" target=\"_blank\" rel=\"noopener\">Https://youtu.be/bU5gDVyu_28</a><br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a>",
+    "text": "🤖 آیا در دوران هوش مصنوعی، «کیفیت کد» هنوز هم مهم است؟\n\nبا آمدن ابزارهای کدنویسی هوش مصنوعی، این سوال پیش آمده که آیا دیگر نیازی به نوشتن کدهای تمیز و اصولی داریم؟ مکس کانـات-الکساندر در این سخنرانی جذاب، جواب بسیار دقیقی به این بحث می‌دهد: بستگی دارد چه نوع نرم‌افزاری می‌سازید&#33;\n\n🔍 اصلاً چرا کیفیت کد مهم است؟\nتمام ابزا��ها و قوانین کیفیت کد، فقط برای دو هدف به وجود آمده‌اند:\n۱. بفهمیم سیستم واقعاً چطور کار می‌کند.\n۲. بتوانیم بدون خرابکاری و دردسر، در آینده آن را تغییر دهیم.\n\nهر بار که کدی را به شکلی نامفهوم تغییر می‌دهیم، کار را برای تغییرات بعدی سخت‌تر می‌کنیم؛ چرخه‌ای که در نهایت سیستم‌های بزرگ را قفل می‌کند. اما هوش مصنوعی در حال تغییر بازی و ایجاد یک دسته‌بندی جدید است:\n\n🗑️ ۱. نرم‌افزارهای یک‌بارمصرف (Disposable Software)\nهوش مصنوعی باعث شده ساختن نرم‌افزارهای کوچک و موقتی هزاران برابر بیشتر شود. نرم‌افزارهایی که:\n🔹 فقط چند نفر محدود از آن‌ها استفاده می‌کنند (مثل یک برنامه شخصی برای برنامه‌ریزی یک مهمانی).\n🔹 اگر خراب شوند، فاجعه‌ای رخ نمی‌دهد.\n🔹 جایگزین کردن و از نو ساختن آن‌ها با هوش مصنوعی فقط چند ساعت طول می‌کشد.\n👈 نتیجه: در این نرم‌افزارها، کیفیت کد هیچ اهمیتی ندارد&#33; کد را بزنید، کارتان که راه افتاد، دورش بیندازید.\n\n🏰 ۲. نرم‌افزارهای ماندگار (Durable Software)\nسیستم‌های بزرگی که سال‌ها قرار است کار کنند، میلیون‌ها کاربر به آن‌ها وابسته‌اند و خرابی آن‌ها فاجعه‌بار است.\n👈 نتیجه: این نرم‌افزارها از بین نمی‌روند (بلکه با کمک هوش مصنوعی بیشتر هم می‌شوند) و در آن‌ها کیفیت کد و ساختار درست، حیاتی‌تر از همیشه است.\n\n💡 راهکار طلایی برای تیم‌های فنی:\nبه جای بحث‌های بی‌پایان درباره کیفیت کد، دو کار انجام دهید:\n1️⃣ بخش‌های یک‌بارمصرف را ایزوله کنید: محیط‌های جداگانه‌ای بسازید که به داده‌های حساس وصل نیستند تا افراد بتوانند بدون نگرانی، ابزارهای موقتی و سریع خودشان را با هوش مصنوعی بسازند.\n2️⃣ هزینه باکیفیت نوشتن را کم کنید: با استانداردسازی ابزارها، خودکار کردن تست‌ها و گذاشتن قوانین سخت‌گیرانه و خودکار از روز اول، کاری کنید که رعایت کیفیت کد برای برنامه‌نویس‌ها سریع، ارزان و بی‌دردسر شود.\n\n⚖️ جمع‌بندی در یک خط:\nبرای نرم‌افزارهای موقتی و یک‌بارمصرف، کیفیت کد اصلاً مهم نیست؛ برای سیستم‌های ماندگار، به شدت حیاتی است؛ و با ابزارهای درست، داشتن کیفیت بالا دیگر نیازی نیست گران و زمان‌بر باشد&#33;\n﻿\n📺 تماشای ویدیوی کامل در یوتیوب:\nHttps://youtu.be/bU5gDVyu_28\n\n@devefun",
+    "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA496.png')\"><b>🤖</b></i> <b>آیا در دوران هوش مصنوعی، «کیفیت کد» هنوز هم مهم است؟</b><br/><br/>با آمدن ابزارهای کدنویسی هوش مصنوعی، این سوال پیش آمده که آیا دیگر نیازی به نوشتن کدهای تمیز و اصولی داریم؟ <b>مکس کانـات-الکساندر</b> در این سخنرانی جذاب، جواب بسیار دقیقی به این بحث می‌دهد: <b>بستگی دارد چه نوع نرم‌افزاری می‌سازید&#33;</b><br/><br/><blockquote expandable><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948D.png')\"><b>🔍</b></i> <b>اصلاً چرا کیفیت کد مهم است؟</b><br/>تمام ابزا��ها و قوانین کیفیت کد، فقط برای دو هدف به وجود آمده‌اند:<br/>۱. بفهمیم سیستم واقعاً چطور کار می‌کند.<br/>۲. بتوانیم بدون خرابکاری و دردسر، در آینده آن را تغییر دهیم.<br/><br/>هر بار که کدی را به شکلی نامفهوم تغییر می‌دهیم، کار را برای تغییرات بعدی سخت‌تر می‌کنیم؛ چرخه‌ای که در نهایت سیستم‌های بزرگ را قفل می‌کند. اما هوش مصنوعی در حال تغییر بازی و ایجاد یک دسته‌بندی جدید است:<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9791.png')\"><b>🗑️</b></i> <b>۱. نرم‌افزارهای یک‌بارمصرف (Disposable Software)</b><br/>هوش مصنوعی باعث شده ساختن نرم‌افزارهای کوچک و موقتی هزاران برابر بیشتر شود. نرم‌افزارهایی که:<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> فقط چند نفر محدود از آن‌ها استفاده می‌کنند (مثل یک برنامه شخصی برای برنامه‌ریزی یک مهمانی).<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> اگر خراب شوند، فاجعه‌ای رخ نمی‌دهد.<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> جایگزین کردن و از نو ساختن آن‌ها با هوش مصنوعی فقط چند ساعت طول می‌کشد.<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i> <b>نتیجه:</b> در این نرم‌افزارها، <b>کیفیت کد هیچ اهمیتی ندارد&#33;</b> کد را بزنید، کارتان که راه افتاد، دورش بیندازید.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8FB0.png')\"><b>🏰</b></i> <b>۲. نرم‌افزارهای ماندگار (Durable Software)</b><br/>سیستم‌های بزرگی که سال‌ها قرار است کار کنند، میلیون‌ها کاربر به آن‌ها وابسته‌اند و خرابی آن‌ها فاجعه‌بار است.<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9188.png')\"><b>👈</b></i> <b>نتیجه:</b> این نرم‌افزارها از بین نمی‌روند (بلکه با کمک هوش مصنوعی بیشتر هم می‌شوند) و در آن‌ها <b>کیفیت کد و ساختار درست، حیاتی‌تر از همیشه است.</b><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> <b>راهکار طلایی برای تیم‌های فنی:</b><br/>به جای بحث‌های بی‌پایان درباره کیفیت کد، دو کار انجام دهید:<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/31E283A3.png')\"><b>1️⃣</b></i> <b>بخش‌های یک‌بارمصرف را ایزوله کنید:</b> محیط‌های جداگانه‌ای بسازید که به داده‌های حساس وصل نیستند تا افراد بتوانند بدون نگرانی، ابزارهای موقتی و سریع خودشان را با هوش مصنوعی بسازند.<br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/32E283A3.png')\"><b>2️⃣</b></i> <b>هزینه باکیفیت نوشتن را کم کنید:</b> با استانداردسازی ابزارها، خودکار کردن تست‌ها و گذاشتن قوانین سخت‌گیرانه و خودکار از روز اول، کاری کنید که رعایت کیفیت کد برای برنامه‌نویس‌ها سریع، ارزان و بی‌دردسر شود.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29A96.png')\"><b>⚖️</b></i> <b>جمع‌بندی در یک خط:</b><br/>برای نرم‌افزارهای موقتی و یک‌بارمصرف، کیفیت کد اصلاً مهم نیست؛ برای سیستم‌های ماندگار، به شدت حیاتی است؛ و با ابزارهای درست، داشتن کیفیت بالا دیگر نیازی نیست گران و زمان‌بر باشد&#33;<br/>﻿</blockquote><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93BA.png')\"><b>📺</b></i> تماشای ویدیوی کامل در یوتیوب:<br/><a href=\"https://youtu.be/bU5gDVyu_28\" target=\"_blank\" rel=\"noopener\">Https://youtu.be/bU5gDVyu_28</a><br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a>",
     "is_edited": false,
-    "views": 813,
-    "views_raw": "813",
+    "views": 1030,
+    "views_raw": "1.03K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -94,8 +191,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4828",
-          "url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
+          "url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4828_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4828_0.jpg",
@@ -138,7 +235,7 @@
     "type": "photo"
   },
   {
-    "index": 3,
+    "index": 4,
     "post_url": "https://t.me/devefun/4827",
     "post_id": "devefun/4827",
     "date": "2026-11-04T20:01:22+00:00",
@@ -150,8 +247,8 @@
     "text": "امان از این ترافیک 😭\n\nChannel : @devefun 😬\nGroup : @WeAreXstack 🤖",
     "text_html": "امان از این ترافیک <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F98AD.png')\"><b>😭</b></i><br/><br/>Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F98AC.png')\"><b>😬</b></i><br/>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA496.png')\"><b>🤖</b></i>",
     "is_edited": false,
-    "views": 1360,
-    "views_raw": "1.36K",
+    "views": 1520,
+    "views_raw": "1.52K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -172,8 +269,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4827",
-          "url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
+          "url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4827_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4827_0.jpg",
@@ -182,8 +279,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4827",
-          "url": "https://cdn4.telesco.pe/file/XTON9bFCWVUb4O7BuJgpoNaMvbVn_nS6Zu1Hq9LMjzSbJOwl5iiM1akclVLD8TfZNs1At2eAPRh5BuLy7KtyqHwux5BF9VOFYZNphpEiL0np29qg8YK1Fb7gE5MCrys8p5gg0ug8OqfbArPByI6nJgKhx0ARxLBRU7_bmZZuQcYLPbBI4XsfW1-T2Zjao5DFljH4375ISGrTKkiPCvi08eso3sOdokNBanUSW2Jx4yksWEbWjxVDYrcmHGhNhjBEtqrbOFogIoQiO5yQf7FB08nuJHmCNVPOnJC1QZYKj6Ru9tQ94-SW8XoghtjmMNUbw5-SuU1qqtt6M6uhH15BBQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/XTON9bFCWVUb4O7BuJgpoNaMvbVn_nS6Zu1Hq9LMjzSbJOwl5iiM1akclVLD8TfZNs1At2eAPRh5BuLy7KtyqHwux5BF9VOFYZNphpEiL0np29qg8YK1Fb7gE5MCrys8p5gg0ug8OqfbArPByI6nJgKhx0ARxLBRU7_bmZZuQcYLPbBI4XsfW1-T2Zjao5DFljH4375ISGrTKkiPCvi08eso3sOdokNBanUSW2Jx4yksWEbWjxVDYrcmHGhNhjBEtqrbOFogIoQiO5yQf7FB08nuJHmCNVPOnJC1QZYKj6Ru9tQ94-SW8XoghtjmMNUbw5-SuU1qqtt6M6uhH15BBQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/Hze3yuoV2P0bBtvPDaO0ewMKVzTVCr5RgNoE1kmlBSx7YZakDetAvcxIHHNKVgbI_6WQPD-Zt89WYDLLldlKUxfbeCtBEF3Xm448rvXlS4_90BkzzhXkmty5ZuBKoV0lkhYSrf-jiIfa9tTAUlVhtcgFWG8xrYGC9IoL0JfPITLyK-XlsymxRNxwjk4cCXmRYphTixgaCL0uZObOziD7nOioAi7pH4EnMGBBRS2xWJ0BQNDpqLtWmPp4fVuuT2oyp4Xsp3fyf0YB1_3gV2EJAaR76rlBJaRhbGlHPZpiiYyUAdz0PPgUgYWeirPaO68-dAK69qAeAVU_PYsuXKNYjA.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/Hze3yuoV2P0bBtvPDaO0ewMKVzTVCr5RgNoE1kmlBSx7YZakDetAvcxIHHNKVgbI_6WQPD-Zt89WYDLLldlKUxfbeCtBEF3Xm448rvXlS4_90BkzzhXkmty5ZuBKoV0lkhYSrf-jiIfa9tTAUlVhtcgFWG8xrYGC9IoL0JfPITLyK-XlsymxRNxwjk4cCXmRYphTixgaCL0uZObOziD7nOioAi7pH4EnMGBBRS2xWJ0BQNDpqLtWmPp4fVuuT2oyp4Xsp3fyf0YB1_3gV2EJAaR76rlBJaRhbGlHPZpiiYyUAdz0PPgUgYWeirPaO68-dAK69qAeAVU_PYsuXKNYjA.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4827_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4827_1.jpg",
@@ -220,7 +317,7 @@
     "type": "album"
   },
   {
-    "index": 4,
+    "index": 5,
     "post_url": "https://t.me/devefun/4826",
     "post_id": "devefun/4826",
     "date": "2026-11-03T17:45:07+00:00",
@@ -232,8 +329,8 @@
     "text": "🚨 گزارش رسمی هک ۶.۳۴ میلیارد دلاری بایننس؛ چطور یک مصاحبه شغلی جعلی به بزرگ‌ترین سرقت تاریخ کریپتو تبدیل شد؟\n\nصرافی بایننس بالاخره جزئیات فنی حمله‌ی امنیتی ۲۹ اکتبر ۲۰۲۶ رو منتشر کرد؛ حمله‌ای که طبق اعلام FBI، کارِ هکرهای کره شمالی بوده. ابعاد فنی و مهندسی اجتماعی این ماجرا واقعاً عجیب و درس‌آموزه:\n\n💰 ابعاد مالی ماجرا:\n• مجموع دارایی‌های سرقت‌شده: ۶.۳۴ میلیارد دلار (شامل ۱۸,۲۷۰ بیت‌کوین، ۲۳۳ میلیون ریپل، ۹۷۰ هزار سولانا، ۴۴.۲ میلیون اپتیمیزم و نزدیک به ۳ هزار اتریوم).\n• تا الان حدود ۲.۸۵ میلیارد دلار از این دارایی‌ها با همکاری شرکا فریز و توقیف شده.\n• بایننس اعلام کرده کل خسارت رو از جیب خودش جبران می‌کنه و تا الان ۹۸٪ دارایی‌های آسیب‌دیده رو در خزانه‌اش جایگزین کرده.\n\n🕵️‍♂️ سناریوی نفوذ؛ از سرچ گوگل تا مصاحبه کاری فیک&#33;\nاین هک یه اتفاق یهویی نبوده و هکرها از ماه‌ها قبل براش نقشه کشیده بودن:\n\n۱. ژوئن ۲۰۲۶ (لو رفتن نقشه تیم): مهندس A (از تیم دواپس کیف‌پول) برای نصب یه ابزار کدنویسی هوش مصنوعی، یه نسخه‌ی دستکاری‌شده از Homebrew رو دانلود می‌کنه. تیم امنیت متوجه میشه و لپ‌تاپ و دسترسی‌هاش رو عوض می‌کنه، اما ساختار تیم کیف‌پول بایننس دست هکرها میفته.\n\n۲. سپتامبر ۲۰۲۶ (تله‌ی لینکدین): هکرها در قالب مدیر پروژه و مدیرعامل یه شرکت صوری سراغ مهندس B میرن. اول یه مصاحبه‌ی ویدیویی زنده (با پروفایل و عکس‌های شخصی کاملاً طبیعی برای جلب اعتماد) باهاش می‌ذارن. توی مرحله‌ی دوم، بهش میگن برای تسک فنی، یه ریپازیتوری کد رو دانلود کنه&#33;\n\n۳. بدافزار روز صفر (0-day): مهندس B این تسک آلوده رو روی لپ‌تاپ کاری شرکت اجرا می‌کنه&#33; بدافزار بدون اینکه آنتی‌ویروس متوجه بشه، فایل اجرایی pyenv رو با نسخه‌ی آلوده عوض می‌\n\nکنه و سیستم رو در اختیار هکر می‌ذاره.\n\n۴. ۲۰ تا ۲۹ اکتبر (استفاده از ابزار AI داخلی به عنوان سکوی پرتاب): هکرها از طریق سیستم مهندس B و با سوءاستفاده از یک ابزار هوش مصنوعی داخلی شرکت، به سیستم مهندس A و مهندس C دسترسی پیدا می‌کنن، توکنِ دیپلوی کانتینر رو برمی‌دارن و اسکریپت حمله به سرویس امضای کیف‌پول‌های گرم (Hot Wallets) رو اجرا می‌کنن.\n\n⚙️ چرا متوقف کردن هک ۴ ساعت طول کشید؟ (کابوس EIP-7702)\nوقتی بایننس متوجه خروج پول شد، بلافاصله برداشت‌ها رو بست؛ اما پول‌ها همچنان در حال خارج شدن بودن&#33; چرا؟\nچون هکرها با استفاده از مکانیزم جدید اتریوم (EIP-7702) و ارسال ۵۰ تراکنش، به یک قرارداد هوشمندِ تحت کنترل خودشون اجازه داده بودن که مستقیم و مستقل از سیستم بایننس، از کیف‌پول گرم تراکنش بزنه. از اونجایی که کیف‌پول بایننس مبتنی بر MPC بود (کلید خصوصی واحد نداشت)، لغو این دسترسی روی شبکه ساعت‌ها زمان برد.\n\n💬 حاشیه و واکنش تند کاربران زیر پست بایننس:\nبیشترین انتقاد کارشناس‌ها و کاربرها زیر این پست، به ضعف عجیب امنیتی در تجهیزات کارمندهاست:\n• چطور مهندسی که به زیرساخت ۶ میلیارد دلاری وصله، با لپ‌تاپ کاری شرکت توی مصاحبه‌ی استخدامی یه شرکت دیگه شرکت می‌کنه؟&#33;\n• چرا روی لپ‌تاپ‌های سازمانی بایننس محدودیتی نبوده که کارمندها نتونن هر نرم‌افزار و ریپازیتوری متفرقه‌ای رو از اینترنت دانلود و نصب کنن؟",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i> <b>گزارش رسمی هک ۶.۳۴ میلیارد دلاری بایننس؛ چطور یک مصاحبه شغلی جعلی به بزرگ‌ترین سرقت تاریخ کریپتو تبدیل شد؟</b><br/><br/>صرافی بایننس بالاخره جزئیات فنی حمله‌ی امنیتی ۲۹ اکتبر ۲۰۲۶ رو منتشر کرد؛ حمله‌ای که طبق اعلام FBI، کارِ هکرهای کره شمالی بوده. ابعاد فنی و مهندسی اجتماعی این ماجرا واقعاً عجیب و درس‌آموزه:<br/><br/><blockquote expandable><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B0.png')\"><b>💰</b></i> ابعاد مالی ماجرا:<br/>• مجموع دارایی‌های سرقت‌شده: ۶.۳۴ میلیارد دلار (شامل ۱۸,۲۷۰ بیت‌کوین، ۲۳۳ میلیون ریپل، ۹۷۰ هزار سولانا، ۴۴.۲ میلیون اپتیمیزم و نزدیک به ۳ هزار اتریوم).<br/>• تا الان حدود ۲.۸۵ میلیارد دلار از این دارایی‌ها با همکاری شرکا فریز و توقیف شده.<br/>• بایننس اعلام کرده کل خسارت رو از جیب خودش جبران می‌کنه و تا الان ۹۸٪ دارایی‌های آسیب‌دیده رو در خزانه‌اش جایگزین کرده.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F95B5E2808DE29982.png')\"><b>🕵️‍♂️</b></i> سناریوی نفوذ؛ از سرچ گوگل تا مصاحبه کاری فیک&#33;<br/>این هک یه اتفاق یهویی نبوده و هکرها از ماه‌ها قبل براش نقشه کشیده بودن:<br/><br/>۱. ژوئن ۲۰۲۶ (لو رفتن نقشه تیم): مهندس A (از تیم دواپس کیف‌پول) برای نصب یه ابزار کدنویسی هوش مصنوعی، یه نسخه‌ی دستکاری‌شده از Homebrew رو دانلود می‌کنه. تیم امنیت متوجه میشه و لپ‌تاپ و دسترسی‌هاش رو عوض می‌کنه، اما ساختار تیم کیف‌پول بایننس دست هکرها میفته.<br/><br/>۲. سپتامبر ۲۰۲۶ (تله‌ی لینکدین): هکرها در قالب مدیر پروژه و مدیرعامل یه شرکت صوری سراغ مهندس B میرن. اول یه مصاحبه‌ی ویدیویی زنده (با پروفایل و عکس‌های شخصی کاملاً طبیعی برای جلب اعتماد) باهاش می‌ذارن. توی مرحله‌ی دوم، بهش میگن برای تسک فنی، یه ریپازیتوری کد رو دانلود کنه&#33;<br/><br/>۳. بدافزار روز صفر (0-day): مهندس B این تسک آلوده رو روی لپ‌تاپ کاری شرکت اجرا می‌کنه&#33; بدافزار بدون اینکه آنتی‌ویروس متوجه بشه، فایل اجرایی pyenv رو با نسخه‌ی آلوده عوض می‌<br/><br/>کنه و سیستم رو در اختیار هکر می‌ذاره.<br/><br/>۴. ۲۰ تا ۲۹ اکتبر (استفاده از ابزار AI داخلی به عنوان سکوی پرتاب): هکرها از طریق سیستم مهندس B و با سوءاستفاده از یک ابزار هوش مصنوعی داخلی شرکت، به سیستم مهندس A و مهندس C دسترسی پیدا می‌کنن، توکنِ دیپلوی کانتینر رو برمی‌دارن و اسکریپت حمله به سرویس امضای کیف‌پول‌های گرم (Hot Wallets) رو اجرا می‌کنن.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29A99.png')\"><b>⚙️</b></i> چرا متوقف کردن هک ۴ ساعت طول کشید؟ (کابوس EIP-7702)<br/>وقتی بایننس متوجه خروج پول شد، بلافاصله برداشت‌ها رو بست؛ اما پول‌ها همچنان در حال خارج شدن بودن&#33; چرا؟<br/>چون هکرها با استفاده از مکانیزم جدید اتریوم (EIP-7702) و ارسال ۵۰ تراکنش، به یک قرارداد هوشمندِ تحت کنترل خودشون اجازه داده بودن که مستقیم و مستقل از سیستم بایننس، از کیف‌پول گرم تراکنش بزنه. از اونجایی که کیف‌پول بایننس مبتنی بر MPC بود (کلید خصوصی واحد نداشت)، لغو این دسترسی روی شبکه ساعت‌ها زمان برد.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AC.png')\"><b>💬</b></i> حاشیه و واکنش تند کاربران زیر پست بایننس:<br/>بیشترین انتقاد کارشناس‌ها و کاربرها زیر این پست، به ضعف عجیب امنیتی در تجهیزات کارمندهاست:<br/>• چطور مهندسی که به زیرساخت ۶ میلیارد دلاری وصله، با لپ‌تاپ کاری شرکت توی مصاحبه‌ی استخدامی یه شرکت دیگه شرکت می‌کنه؟&#33;<br/>• چرا روی لپ‌تاپ‌های سازمانی بایننس محدودیتی نبوده که کارمندها نتونن هر نرم‌افزار و ریپازیتوری متفرقه‌ای رو از اینترنت دانلود و نصب کنن؟<br/>﻿</blockquote>",
     "is_edited": false,
-    "views": 1550,
-    "views_raw": "1.55K",
+    "views": 1660,
+    "views_raw": "1.66K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -254,8 +351,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4826",
-          "url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
+          "url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4826_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4826_0.jpg",
@@ -295,7 +392,7 @@
     "type": "photo"
   },
   {
-    "index": 5,
+    "index": 6,
     "post_url": "https://t.me/devefun/4825",
     "post_id": "devefun/4825",
     "date": "2026-11-03T09:35:35+00:00",
@@ -307,8 +404,8 @@
     "text": "هفته رایگان DataCamp دوباره شروع شده&#33;\n\nاز امروز فرصت دارید به همه دوره‌های این پلتفرم به‌صورت کامل و رایگان دسترسی داشته باشید. می‌تونید توی این مدت مهارتی که دنبالش بودید رو یاد بگیرید و حتی مدرکش رو هم دریافت کنید.\n\n🔗 لینک سایت DataCamp\n\n📥Channel : @devefun\n📤Group : @WeAreXstack",
     "text_html": "هفته رایگان DataCamp دوباره شروع شده&#33;<br/><br/>از امروز فرصت دارید به همه دوره‌های این پلتفرم به‌صورت کامل و رایگان دسترسی داشته باشید. می‌تونید توی این مدت مهارتی که دنبالش بودید رو یاد بگیرید و حتی مدرکش رو هم دریافت کنید.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i> لینک سایت <a href=\"https://www.datacamp.com/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">DataCamp</a><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i>Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A4.png')\"><b>📤</b></i>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 1360,
-    "views_raw": "1.36K",
+    "views": 1420,
+    "views_raw": "1.42K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -329,8 +426,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4825",
-          "url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
+          "url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4825_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4825_0.jpg",
@@ -339,8 +436,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4825",
-          "url": "https://cdn4.telesco.pe/file/rqLKcVembEC1FLqG_XLXy9QmV_w1MI5mZkjxNC4X5-IzxvS4ii4qlRu1cQmbjY_0xmapLPr8JOaR0IglanTeEJNnnNOtPYNydRhKsDab7vT0b4Dr-sNE8AjYXpnKxYSxG16sTgYl7adDiPGy-HaEpM2yZSgTVD4thmsZkofYBzX3DHiNZrptHY0tZ2rrUrSgx3rR2J6ej3Z9Xo7WVLoZ2hGvTOtixKWnY03KQE90DqxjapcYbaoEAanB7mXIjWqL4mFXsS4Y2wohdpoetN4upcgfSICws9t9IAcJt8ydDYKKZsGxMWYuEzU7vqAPAsbIO0srlizoftWXqUa-P_uiNg.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/rqLKcVembEC1FLqG_XLXy9QmV_w1MI5mZkjxNC4X5-IzxvS4ii4qlRu1cQmbjY_0xmapLPr8JOaR0IglanTeEJNnnNOtPYNydRhKsDab7vT0b4Dr-sNE8AjYXpnKxYSxG16sTgYl7adDiPGy-HaEpM2yZSgTVD4thmsZkofYBzX3DHiNZrptHY0tZ2rrUrSgx3rR2J6ej3Z9Xo7WVLoZ2hGvTOtixKWnY03KQE90DqxjapcYbaoEAanB7mXIjWqL4mFXsS4Y2wohdpoetN4upcgfSICws9t9IAcJt8ydDYKKZsGxMWYuEzU7vqAPAsbIO0srlizoftWXqUa-P_uiNg.jpg",
+          "url": "https://cdn4.telesco.pe/file/D0JbizWZyG2vLQ-zqq-oOU7qOLU6zzYRNZKdFzOoM4r3Qwxs26ZAjZ9jSqB7hzC69WzYcVheN_5uoGI8jOu_72xX48rwI2PcvkolgbR2KibNNu2PpE5AiL9r4MgrQ6d7O4c4rPY0hWLeE7GXfuVWrP7mtsUiu1c-_F32_aA0fVV3gEUqB1GWUD5lmOQZcT6Fh0flwHfO6tyimDT2HoPi__94ZvTQvA9MYNn5KNRIiAzh_K6StVAu7_tdI8X8XyRv1uYAzA-41c8MoxwhKjWatV_aqMWSWHKLRB2aiBvvatv1_o8D-whRLGWtwNSjqJuWPV-OMMpOL9V0PYODljsYVQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/D0JbizWZyG2vLQ-zqq-oOU7qOLU6zzYRNZKdFzOoM4r3Qwxs26ZAjZ9jSqB7hzC69WzYcVheN_5uoGI8jOu_72xX48rwI2PcvkolgbR2KibNNu2PpE5AiL9r4MgrQ6d7O4c4rPY0hWLeE7GXfuVWrP7mtsUiu1c-_F32_aA0fVV3gEUqB1GWUD5lmOQZcT6Fh0flwHfO6tyimDT2HoPi__94ZvTQvA9MYNn5KNRIiAzh_K6StVAu7_tdI8X8XyRv1uYAzA-41c8MoxwhKjWatV_aqMWSWHKLRB2aiBvvatv1_o8D-whRLGWtwNSjqJuWPV-OMMpOL9V0PYODljsYVQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4825_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4825_1.jpg",
@@ -378,7 +475,7 @@
     "type": "album"
   },
   {
-    "index": 6,
+    "index": 7,
     "post_url": "https://t.me/devefun/4824",
     "post_id": "devefun/4824",
     "date": "2026-11-02T17:04:17+00:00",
@@ -390,8 +487,8 @@
     "text": "۸ برابر کد بیشتر، فقط ۳۰٪ تحویل سریع‌تر؛ شغل برنامه‌نویسی داره به کجا میره؟ \n\nلوری واس (هم‌بنیان‌گذار سابق npm) توی کنفرانس AI Engineer یه ارائه‌ی عالی داره درباره‌ی اینکه وقتی هوش مصنوعی کد می‌زنه، برای ما مهندس‌ها چی باقی می‌مونه. چکیده‌ی مهم‌ترین حرف‌هاش:\n\n۱. گلوگاه جدید: کد ریویو\nایجنت‌ها نوشتن کد رو عملاً رایگان کردن و برنامه‌نویس‌ها دارن ۷۴۱٪ کد بیشتری می‌زنن، ولی سرعت شیپ کردن محصول فقط ۳۰٪ بیشتر شده&#33; چرا؟ چون انسان نمی‌تونه در ساعت بیشتر از ۴۵۰ خط کد رو دقیق ریویو کنه و الان زیر بهمنی از PRهای ۱۰ هزار خطیِ ایجنت‌ها دفن شدیم.\n\n۲. پاس شدن تست ≠ کد قابل قبول\nمدل‌ها توی بنچمارک‌ها ۸۷٪ تست‌ها رو پاس می‌کنن، ولی وقتی از نگه‌دارنده‌ی پروژه می‌پرسی «این PR رو مرج می‌کنی؟» عددش می‌رسه به ۵۴٪. دلیلش اینه که تاریخچه‌ی تصمیم‌ها و شناختِ «کد خوب» توی مغز مهندس ارشده، نه توی کدبیس.\n\n۳. تولد «مهندس محصول» (Product Engineer)\nواس میگه طی ۵ تا ۱۰ سال آینده، ریویو، دواپس و امنیت هم اتومیت میشن. چیزی که برای انسان می‌مونه «فهمیدن دردِ واقعیه مشتری» و تبدیل کردنش به یه Spec دقیقه. یعنی ترکیبِ مدیر محصول و مهندس نرم‌افزار. (آگهی‌های مشابه این نقش توی یک سال گذشته ۸۰۰٪ رشد داشته با میانگین حقوق ۲۴۰ هزار دلار&#33;)\n\n۴. زنگ خطر برای جونیورها\nآمارهای استخدام برنامه‌نویس‌های ۲۲ تا ۲۵ ساله به شدت سقوط کرده. قبلاً به جونیورها تسک‌های مشخص می‌دادیم تا کد بزنن و با فیدبک دادن یاد بگیرن؛ الان دقیقاً همین کار رو با ایجنت‌ها می‌کنیم. دانشگاه و بوت‌کمپ ری‌اکت و ساختمان داده درس میدن، اما هیچ‌کس یاد نمیده چطور یک هفته بشینی پای صحبت یه صاحب کسب‌وکار و نیازش رو تبدیل به Spec کنی.\n\n۵. کدنویسی دستی میره کنار نجاری سنتی\nبرنامه‌نویس‌ها هنوزم برای دل خودشون و لذتِ حل مسئله کد خواهند زد (همون‌طور که با وجود کارخونه‌های مبل‌سازی، نجاری هنری از بین نرفت)، اما دیگه کسی بابت «تایپ کردن کد» صدها هزار دلار حقوق نمیده.\n\n💡 الان باید چیکار کنیم؟\n• وقت انسان‌ها رو فقط بذارید پای ریویو کردن کدهای حساس و پرخطر (High Blast Radius).\n• دانش و سلیقه‌ی بچه‌های سینیور تیم رو مکتوب کنید و تبدیل به Eval و Rule کنید تا ایجنت‌ها ازش یاد بگیرن.\n• گولِ حجم کد رو نخورید؛ معیار سنجش رو بذارید روی سرعت واقعی تحویل محصول.\n🎥 لینک ویدیوی کامل در یوتیوب:\nhttp://www.youtube.com/watch?v=kspZP5BgkEU",
     "text_html": "<b>۸ برابر کد بیشتر، فقط ۳۰٪ تحویل سریع‌تر؛ شغل برنامه‌نویسی داره به کجا میره؟ </b><br/><br/>لوری واس (هم‌بنیان‌گذار سابق npm) توی کنفرانس AI Engineer یه ارائه‌ی عالی داره درباره‌ی اینکه وقتی هوش مصنوعی کد می‌زنه، برای ما مهندس‌ها چی باقی می‌مونه. چکیده‌ی مهم‌ترین حرف‌هاش:<br/><br/><blockquote expandable><b>۱. گلوگاه جدید: کد ریویو</b><br/>ایجنت‌ها نوشتن کد رو عملاً رایگان کردن و برنامه‌نویس‌ها دارن ۷۴۱٪ کد بیشتری می‌زنن، ولی سرعت شیپ کردن محصول فقط ۳۰٪ بیشتر شده&#33; چرا؟ چون انسان نمی‌تونه در ساعت بیشتر از ۴۵۰ خط کد رو دقیق ریویو کنه و الان زیر بهمنی از PRهای ۱۰ هزار خطیِ ایجنت‌ها دفن شدیم.<br/><br/><b>۲. پاس شدن تست ≠ کد قابل قبول</b><br/>مدل‌ها توی بنچمارک‌ها ۸۷٪ تست‌ها رو پاس می‌کنن، ولی وقتی از نگه‌دارنده‌ی پروژه می‌پرسی «این PR رو مرج می‌کنی؟» عددش می‌رسه به ۵۴٪. دلیلش اینه که تاریخچه‌ی تصمیم‌ها و شناختِ «کد خوب» توی مغز مهندس ارشده، نه توی کدبیس.<br/><br/><b>۳. تولد «مهندس محصول»</b> (Product Engineer)<br/>واس میگه طی ۵ تا ۱۰ سال آینده، ریویو، دواپس و امنیت هم اتومیت میشن. چیزی که برای انسان می‌مونه «فهمیدن دردِ واقعیه مشتری» و تبدیل کردنش به یه Spec دقیقه. یعنی ترکیبِ مدیر محصول و مهندس نرم‌افزار. (آگهی‌های مشابه این نقش توی یک سال گذشته ۸۰۰٪ رشد داشته با میانگین حقوق ۲۴۰ هزار دلار&#33;)<br/><br/><b>۴. زنگ خطر برای جونیورها</b><br/>آمارهای استخدام برنامه‌نویس‌های ۲۲ تا ۲۵ ساله به شدت سقوط کرده. قبلاً به جونیورها تسک‌های مشخص می‌دادیم تا کد بزنن و با فیدبک دادن یاد بگیرن؛ الان دقیقاً همین کار رو با ایجنت‌ها می‌کنیم. دانشگاه و بوت‌کمپ ری‌اکت و ساختمان داده درس میدن، اما هیچ‌کس یاد نمیده چطور یک هفته بشینی پای صحبت یه صاحب کسب‌وکار و نیازش رو تبدیل به Spec کنی.<br/><br/><b>۵. کدنویسی دستی میره کنار</b> نجاری سنتی<br/>برنامه‌نویس‌ها هنوزم برای دل خودشون و لذتِ حل مسئله کد خواهند زد (همون‌طور که با وجود کارخونه‌های مبل‌سازی، نجاری هنری از بین نرفت)، اما دیگه کسی بابت «تایپ کردن کد» صدها هزار دلار حقوق نمیده.<br/><br/><b><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92A1.png')\"><b>💡</b></i> الان باید چیکار کنیم؟</b><br/>• وقت انسان‌ها رو فقط بذارید پای ریویو کردن کدهای حساس و پرخطر (High Blast Radius).<br/>• دانش و سلیقه‌ی بچه‌های سینیور تیم رو مکتوب کنید و تبدیل به Eval و Rule کنید تا ایجنت‌ها ازش یاد بگیرن.<br/>• گولِ حجم کد رو نخورید؛ معیار سنجش رو بذارید روی سرعت واقعی تحویل محصول.</blockquote><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EA5.png')\"><b>🎥</b></i> لینک ویدیوی کامل در یوتیوب:<br/><a href=\"http://www.youtube.com/watch?v=kspZP5BgkEU\" target=\"_blank\" rel=\"noopener\">http://www.youtube.com/watch?v=kspZP5BgkEU</a>",
     "is_edited": false,
-    "views": 2040,
-    "views_raw": "2.04K",
+    "views": 2120,
+    "views_raw": "2.12K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -412,8 +509,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4824",
-          "url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
+          "url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4824_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4824_0.jpg",
@@ -449,7 +546,7 @@
     "type": "photo"
   },
   {
-    "index": 7,
+    "index": 8,
     "post_url": "https://t.me/devefun/4823",
     "post_id": "devefun/4823",
     "date": "2026-11-02T12:23:01+00:00",
@@ -461,8 +558,8 @@
     "text": "احتمالا برای همه اتفاق افتاده 💀\n\nChannel : @devefun 😭\nGroup : @WeAreXstack 🧑🏻‍💻",
     "text_html": "احتمالا برای همه اتفاق افتاده <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9280.png')\"><b>💀</b></i><br/><br/>Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F98AD.png')\"><b>😭</b></i><br/>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA791F09F8FBBE2808DF09F92BB.png')\"><b>🧑🏻‍💻</b></i>",
     "is_edited": false,
-    "views": 1220,
-    "views_raw": "1.22K",
+    "views": 1310,
+    "views_raw": "1.31K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -483,8 +580,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4823",
-          "url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
+          "url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4823_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4823_0.jpg",
@@ -493,8 +590,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4823",
-          "url": "https://cdn4.telesco.pe/file/cwjOj-zboR2zoQVU5i-vyD1e1XIwfJgmfroAiVjDygjSycTPwX3KDTFeKJhpWQPvh2yu0LnDIi1DvxaIzjHcwuIThGP4Q4ZZXn25veF_I5qAN20IaG0mWhHJIs-Dtbn8InrE4MY-Zjv5ErzFd7UIl6s6OlEkMgeZrVk-SUXc8yLYMCqMcNG5fEoAZO09XWDvNe6lnKRKsJ7kPXpY5Io9CvWcf37yN22kXnlvs78OlR3h5s5q3VDUKOdWfDtz2_Nz5xG7j0gdKyZSIH-aOJSBgldbMFqnYT0VgWJxXEiRvnQ5ukSElhkPoAUFenyb-32Z0CQ6R1hImgUMghSecJ2i5g.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/cwjOj-zboR2zoQVU5i-vyD1e1XIwfJgmfroAiVjDygjSycTPwX3KDTFeKJhpWQPvh2yu0LnDIi1DvxaIzjHcwuIThGP4Q4ZZXn25veF_I5qAN20IaG0mWhHJIs-Dtbn8InrE4MY-Zjv5ErzFd7UIl6s6OlEkMgeZrVk-SUXc8yLYMCqMcNG5fEoAZO09XWDvNe6lnKRKsJ7kPXpY5Io9CvWcf37yN22kXnlvs78OlR3h5s5q3VDUKOdWfDtz2_Nz5xG7j0gdKyZSIH-aOJSBgldbMFqnYT0VgWJxXEiRvnQ5ukSElhkPoAUFenyb-32Z0CQ6R1hImgUMghSecJ2i5g.jpg",
+          "url": "https://cdn4.telesco.pe/file/lxBEzHumNZ_mmd9EsoDpa3DrPqwnGcD9xbJUUkNpuRsmVVwD-eu48byIkbKClVrMsr-stUcjkmKu3uInUR8VSxYIXcs_TbnLf_SBUgdF-TjB2dEae0w09gfbxTiGbvVCWoS18AMj_fbBMPlZqlMspfqN-VrW_9HJBgynbLEDybPqDSMeCKp3gy-14PIscwygtm4-vVychVRGBNNtieMZ-nAlK1q2OfAD2zX5KosmEljwTIB7-XuyKkJtUtPU62fPu55FaSapPlHqAXPibLWPZdCV4E9K5MZVfzkQB8MVi72VOIjmfhiaKaXorJ_hsdqGROBs1YkOxDQ35Or0WoVGzA.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/lxBEzHumNZ_mmd9EsoDpa3DrPqwnGcD9xbJUUkNpuRsmVVwD-eu48byIkbKClVrMsr-stUcjkmKu3uInUR8VSxYIXcs_TbnLf_SBUgdF-TjB2dEae0w09gfbxTiGbvVCWoS18AMj_fbBMPlZqlMspfqN-VrW_9HJBgynbLEDybPqDSMeCKp3gy-14PIscwygtm4-vVychVRGBNNtieMZ-nAlK1q2OfAD2zX5KosmEljwTIB7-XuyKkJtUtPU62fPu55FaSapPlHqAXPibLWPZdCV4E9K5MZVfzkQB8MVi72VOIjmfhiaKaXorJ_hsdqGROBs1YkOxDQ35Or0WoVGzA.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4823_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4823_1.jpg",
@@ -536,7 +633,7 @@
     "type": "album"
   },
   {
-    "index": 8,
+    "index": 9,
     "post_url": "https://t.me/devefun/4822",
     "post_id": "devefun/4822",
     "date": "2026-11-01T08:59:58+00:00",
@@ -548,8 +645,8 @@
     "text": "فلوچارت خرید GTA VI 🎮\n\nChannel : @devefun 👀\nGroup : @WeAreXstack 🤖",
     "text_html": "فلوچارت خرید GTA VI <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F8EAE.png')\"><b>🎮</b></i><br/><br/>Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9180.png')\"><b>👀</b></i><br/>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA496.png')\"><b>🤖</b></i>",
     "is_edited": false,
-    "views": 1360,
-    "views_raw": "1.36K",
+    "views": 1400,
+    "views_raw": "1.4K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -570,8 +667,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4822",
-          "url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
+          "url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4822_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4822_0.jpg",
@@ -580,8 +677,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4822",
-          "url": "https://cdn4.telesco.pe/file/VTZ8ayveCXTSonNBgNdTRqoHENfrJ0jxtSOM-JsZsRoZ2WDPGvqRh0iMT2GCQSwieRoVbQ10DBeVR7QpMMgFT4bpazRSIsPGYE9vC4JsQNCRelr_PSoexepuH_PtmCLcxPWLjOvgGWliqX-_MToIKorgSkpK5AFHtzAv9PqKw8mD1sMIc0KgkKIH3-bpK4OBVGbethzWJq_nLrb79S00AYaB0ERJgk-DZneG2DwOKLCgm-pxouTcUz26JJnstJTT2RgAdn00tp3SKWzZIGM4bgZQCIJhZ_0NUU3IkJrqYRHVPblbPIa8GtHQnQzxo26hR6HvhS9_ihoH0cnAUNoRbg.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/VTZ8ayveCXTSonNBgNdTRqoHENfrJ0jxtSOM-JsZsRoZ2WDPGvqRh0iMT2GCQSwieRoVbQ10DBeVR7QpMMgFT4bpazRSIsPGYE9vC4JsQNCRelr_PSoexepuH_PtmCLcxPWLjOvgGWliqX-_MToIKorgSkpK5AFHtzAv9PqKw8mD1sMIc0KgkKIH3-bpK4OBVGbethzWJq_nLrb79S00AYaB0ERJgk-DZneG2DwOKLCgm-pxouTcUz26JJnstJTT2RgAdn00tp3SKWzZIGM4bgZQCIJhZ_0NUU3IkJrqYRHVPblbPIa8GtHQnQzxo26hR6HvhS9_ihoH0cnAUNoRbg.jpg",
+          "url": "https://cdn4.telesco.pe/file/iVo6AdaIUQ6r1Y9VOuPWmRw3iA6p9Kgftx4tlGsKl4RAtcudWFHwBPpq6IJl8qRbCuk_UZTIJxVZGvgyAvnEUrnmKkmPzek3YJsvsrrysjtO8v-JIYX_r_-ealgGHLHbljuKFz4bQIqibPkRHo3TloartCQuq71pSLljtX1quTK0se00VTyrmz_4SD4tK527Zbhse2-Vv3qrndQxn4f4hoF8_l8Uw4Q2utnH5wXTVWLuQigKZUWmr6bUNFDWZIvSGZfp2qNyXWT4NZ-yk0i3iPHblXTnygcxx-gSMQuIkwnbi5Xd3mY0tkhY2UUrh4ZbwtrMux78GBIVj3ABwalUEw.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/iVo6AdaIUQ6r1Y9VOuPWmRw3iA6p9Kgftx4tlGsKl4RAtcudWFHwBPpq6IJl8qRbCuk_UZTIJxVZGvgyAvnEUrnmKkmPzek3YJsvsrrysjtO8v-JIYX_r_-ealgGHLHbljuKFz4bQIqibPkRHo3TloartCQuq71pSLljtX1quTK0se00VTyrmz_4SD4tK527Zbhse2-Vv3qrndQxn4f4hoF8_l8Uw4Q2utnH5wXTVWLuQigKZUWmr6bUNFDWZIvSGZfp2qNyXWT4NZ-yk0i3iPHblXTnygcxx-gSMQuIkwnbi5Xd3mY0tkhY2UUrh4ZbwtrMux78GBIVj3ABwalUEw.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4822_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4822_1.jpg",
@@ -619,7 +716,7 @@
     "type": "album"
   },
   {
-    "index": 9,
+    "index": 10,
     "post_url": "https://t.me/devefun/4821",
     "post_id": "devefun/4821",
     "date": "2026-10-29T05:56:48+00:00",
@@ -631,8 +728,8 @@
     "text": "رکورد تازه برای stackoverflow \n\nتعداد سوال مطرح شده در ماه گذشته‌ی میلادی کمتر از ۱۰۰۰ تا بوده&#33;\nالان stackoverflow میتونه روی یک سرور ۵ دلاری اجرا بشه.\n\n@devefun",
     "text_html": "<b>رکورد تازه برای stackoverflow <br/></b><br/>تعداد سوال مطرح شده در ماه گذشته‌ی میلادی کمتر از ۱۰۰۰ تا بوده&#33;<br/>الان stackoverflow میتونه روی یک سرور ۵ دلاری اجرا بشه.<br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a>",
     "is_edited": false,
-    "views": 2190,
-    "views_raw": "2.19K",
+    "views": 2200,
+    "views_raw": "2.2K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -653,8 +750,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4821",
-          "url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
+          "url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4821_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4821_0.jpg",
@@ -663,8 +760,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4821",
-          "url": "https://cdn4.telesco.pe/file/uJPaXHgFdDCVx9o-IG5W4oea8ouF8PF2IzsK4r3PNjyxaeebqNn5tAJFHSKMP8Zc-Ez7qN5LRrEObQ-EOPaVJEdKUY-7pMYGZhsZu2mJ4yKoeR2E4AJUFEX9A8D1QSLccBCOT_JOvib2laWGWyZmLJ6Y_7iec-Xe0KR66JB5IuPhVkqe598OdsJU36YGhf-xhYzzjK6ZUzS8Ni-F1ljjC1Phc7EIpHtmowmRjqmXcGTuNQZAgQBCLynOOyio26dM47TWQxr8Br-bxLV_lWkrFG24HUWbPwVEUXiMevPPgcjSiDiefWGpq92E0RRS664LtfR_xEsGAuEpTV5FBRx0Lw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/uJPaXHgFdDCVx9o-IG5W4oea8ouF8PF2IzsK4r3PNjyxaeebqNn5tAJFHSKMP8Zc-Ez7qN5LRrEObQ-EOPaVJEdKUY-7pMYGZhsZu2mJ4yKoeR2E4AJUFEX9A8D1QSLccBCOT_JOvib2laWGWyZmLJ6Y_7iec-Xe0KR66JB5IuPhVkqe598OdsJU36YGhf-xhYzzjK6ZUzS8Ni-F1ljjC1Phc7EIpHtmowmRjqmXcGTuNQZAgQBCLynOOyio26dM47TWQxr8Br-bxLV_lWkrFG24HUWbPwVEUXiMevPPgcjSiDiefWGpq92E0RRS664LtfR_xEsGAuEpTV5FBRx0Lw.jpg",
+          "url": "https://cdn4.telesco.pe/file/rpqqhrtKRnbm2NwG2IpBrGy4IH8tmXVBE7ynY0iux-baqBRQDnuGtaJr-xNO8CLL-bTSR7p6Vko8Q0DNLklCuYd7vxaPOjMQ-whEwl4-wmXu3HHiqSL2LQGhALwdCcAY2QIGmJxSeOFiuk_bFLiSnDrAkcLCvAurx1EdmOQUhu0FNrn3qjLOgEzd21MYlIf-yvmhDzRahSX-Wh4kzBhiWJMayUiRTXiybz7wHF_Nz9QJ0e8u6x_-NgUX9u-4J6sEzHL9Ux4GWGQDV5HM-fw-jcpZVlRi6lvrWn5ljjP7-ioy8S0f3sCUPZoqmVcbZDA4R5lG2PczfDINcZZRpN8FYw.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/rpqqhrtKRnbm2NwG2IpBrGy4IH8tmXVBE7ynY0iux-baqBRQDnuGtaJr-xNO8CLL-bTSR7p6Vko8Q0DNLklCuYd7vxaPOjMQ-whEwl4-wmXu3HHiqSL2LQGhALwdCcAY2QIGmJxSeOFiuk_bFLiSnDrAkcLCvAurx1EdmOQUhu0FNrn3qjLOgEzd21MYlIf-yvmhDzRahSX-Wh4kzBhiWJMayUiRTXiybz7wHF_Nz9QJ0e8u6x_-NgUX9u-4J6sEzHL9Ux4GWGQDV5HM-fw-jcpZVlRi6lvrWn5ljjP7-ioy8S0f3sCUPZoqmVcbZDA4R5lG2PczfDINcZZRpN8FYw.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4821_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4821_1.jpg",
@@ -698,7 +795,7 @@
     "type": "album"
   },
   {
-    "index": 10,
+    "index": 11,
     "post_url": "https://t.me/devefun/4820",
     "post_id": "devefun/4820",
     "date": "2026-10-26T16:22:51+00:00",
@@ -710,8 +807,8 @@
     "text": "🚨 شنیده شده که OpenAI در حال آزمایش GPT-7 Astra داخل vim هست، تا ایجنت‌ها نتونن فرار کنند.\n\nمنبع 🔗\n\n@devefun",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i> شنیده شده که OpenAI در حال آزمایش GPT-7 Astra داخل vim هست، تا ایجنت‌ها نتونن فرار کنند.<br/><br/>منبع <a href=\"https://x.com/fhuszar/status/2114609436467892414\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9497.png')\"><b>🔗</b></i></a><br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a>",
     "is_edited": false,
-    "views": 2060,
-    "views_raw": "2.06K",
+    "views": 2070,
+    "views_raw": "2.07K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -732,8 +829,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4820",
-          "url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
+          "url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4820_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4820_0.jpg",
@@ -771,7 +868,7 @@
     "type": "photo"
   },
   {
-    "index": 11,
+    "index": 12,
     "post_url": "https://t.me/devefun/4819",
     "post_id": "devefun/4819",
     "date": "2026-10-25T17:28:53+00:00",
@@ -783,8 +880,8 @@
     "text": "🚨 چالش هک PHP&#33; 💰\n\nکسی یه سایت PHP آسیب‌پذیر ساخته یعنی از نسخه‌ی php که حاوی cve قبلی هست استفاده شده. داخلش کیف پول بیت‌کوین گذاشته و اینترنت رو به چالش کشیده:\nهر کی هکش کنه، بیت‌کوین‌ها مال خودشه&#33;\nیه تایمر هم روش هست که نشون بده آیا آسیب‌پذیری PHP واقعاً انقدر خطرناکه یا بیش از حد بزرگ‌نمایی شده. ⏱️\nلینک: stealmybitcoin.com\n\n@devefun",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')\"><b>🚨</b></i><b> چالش هک PHP&#33; <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92B0.png')\"><b>💰</b></i></b><br/><br/>کسی یه سایت PHP آسیب‌پذیر ساخته یعنی از نسخه‌ی php که حاوی cve قبلی هست استفاده شده. داخلش کیف پول بیت‌کوین گذاشته و اینترنت رو به چالش کشیده:<br/>هر کی هکش کنه، بیت‌کوین‌ها مال خودشه&#33;<br/>یه تایمر هم روش هست که نشون بده آیا آسیب‌پذیری PHP واقعاً انقدر خطرناکه یا بیش از حد بزرگ‌نمایی شده. <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28FB1.png')\"><b>⏱️</b></i><br/>لینک: <a href=\"http://stealmybitcoin.com/\" target=\"_blank\" rel=\"noopener\">stealmybitcoin.com</a><br/><br/><a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a>",
     "is_edited": false,
-    "views": 2330,
-    "views_raw": "2.33K",
+    "views": 2350,
+    "views_raw": "2.35K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -805,8 +902,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4819",
-          "url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
+          "url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4819_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4819_0.jpg",
@@ -815,8 +912,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4819",
-          "url": "https://cdn4.telesco.pe/file/Pf_QrB-H3amVxNjOPGWnAXtcIULwITgHuaqbSwO7gTstLuJt04L_h5cldctClNkB-q8lvA81Mqjw0k_rv4gA-B3ZCz5dX5S0ytTg1oK4nrxIWfOlFn3BQKL3L6fWgHsDLu6AtrfHg19iNJReJGVlAayCQWtVnoJtvJh1X2RaEkT9T07zifdZYS4xl4EiPFR9QURcmzB4kf-4HJU2ErF8OFSXpBuo8SzDjUB3B7UjHFjrO9ELiLEJGbWBnqohZe0Ag4micm68Zxq0hEQoud8eivmLwTYOdTC1bEIIO-LHLnb8wVCIFlxWUod1i0bTeFBDdCe33Xeg4qLfc45pL7WzgQ.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/Pf_QrB-H3amVxNjOPGWnAXtcIULwITgHuaqbSwO7gTstLuJt04L_h5cldctClNkB-q8lvA81Mqjw0k_rv4gA-B3ZCz5dX5S0ytTg1oK4nrxIWfOlFn3BQKL3L6fWgHsDLu6AtrfHg19iNJReJGVlAayCQWtVnoJtvJh1X2RaEkT9T07zifdZYS4xl4EiPFR9QURcmzB4kf-4HJU2ErF8OFSXpBuo8SzDjUB3B7UjHFjrO9ELiLEJGbWBnqohZe0Ag4micm68Zxq0hEQoud8eivmLwTYOdTC1bEIIO-LHLnb8wVCIFlxWUod1i0bTeFBDdCe33Xeg4qLfc45pL7WzgQ.jpg",
+          "url": "https://cdn4.telesco.pe/file/WereyR8dxCr5o5lI7rLOOhrsG-ShLy3KTERmVjnYgS9SM_sN3zj2rHWfJ05hGdUlU8FRHePxecXGDSEc_6v325Fs1kaC1GtXY7efL4mswDqaRkHNixUOncrsOnc8RTQmU6IFyqwXD06x_rak--wM87twrIRc1IlRxu-j2ONVnUUElsv_0DE9Vi-PyZuhBkQlx-aA5Gv02zdOTUOK1iPReuNkUbl5z3sskmyo4Hde9XP6Z0ygpcL2nZomng8VLIPpLDSWdxdA5NpJU8bC2xN61Cs_SQYAMFA-hWV_LQJuOWbr-Yj3z79QcXcx2o4els48WU84Z7Sz2_tyLSQGNrwXCQ.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/WereyR8dxCr5o5lI7rLOOhrsG-ShLy3KTERmVjnYgS9SM_sN3zj2rHWfJ05hGdUlU8FRHePxecXGDSEc_6v325Fs1kaC1GtXY7efL4mswDqaRkHNixUOncrsOnc8RTQmU6IFyqwXD06x_rak--wM87twrIRc1IlRxu-j2ONVnUUElsv_0DE9Vi-PyZuhBkQlx-aA5Gv02zdOTUOK1iPReuNkUbl5z3sskmyo4Hde9XP6Z0ygpcL2nZomng8VLIPpLDSWdxdA5NpJU8bC2xN61Cs_SQYAMFA-hWV_LQJuOWbr-Yj3z79QcXcx2o4els48WU84Z7Sz2_tyLSQGNrwXCQ.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4819_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4819_1.jpg",
@@ -855,7 +952,7 @@
     "type": "album"
   },
   {
-    "index": 12,
+    "index": 13,
     "post_url": "https://t.me/devefun/4818",
     "post_id": "devefun/4818",
     "date": "2026-10-21T15:19:59+00:00",
@@ -867,8 +964,8 @@
     "text": "⚠️⚠️⚠️  هشدار امنیتی فوری PHP | آسیب‌پذیری بحرانی PHP2Shell ⚠️⚠️⚠️ \n🔴 شدت خطر: بحرانی (CVSS 9.2 از 10)\n❓نوع آسیب‌پذیری: اجرای کد از راه دور (RCE). مهاجم در شرایط آسیب‌پذیر می‌تواند بدون احراز هویت، کد دلخواه را با سطح دسترسی پردازش PHP روی سرور اجرا کند.\n\n⚠️اگر سرور php دارید حتما نسخه اتون رو چک کنید و به روز کنید لیست ورژن هایی که براش آپدیت اومده پیوست شد. بررسی کنید.\n\n\n✈️Channel : @devefun\n❌Group : @WeAreXstack",
     "text_html": "<tg-emoji emoji-id=\"5447644880824181073\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i></tg-emoji><tg-emoji emoji-id=\"5447644880824181073\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i></tg-emoji><tg-emoji emoji-id=\"5447644880824181073\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i></tg-emoji>  هشدار امنیتی فوری PHP | آسیب‌پذیری بحرانی PHP2Shell <tg-emoji emoji-id=\"5447644880824181073\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i></tg-emoji><tg-emoji emoji-id=\"5447644880824181073\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i></tg-emoji><tg-emoji emoji-id=\"5447644880824181073\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i></tg-emoji> <br/><tg-emoji emoji-id=\"5287534079191819089\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B4.png')\"><b>🔴</b></i></tg-emoji> <b>شدت خطر:</b> بحرانی (CVSS 9.2 از 10)<br/><tg-emoji emoji-id=\"5436113877181941026\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D93.png')\"><b>❓</b></i></tg-emoji><b>نوع آسیب‌پذیری:</b> اجرای کد از راه دور (RCE). مهاجم در شرایط آسیب‌پذیر می‌تواند بدون احراز هویت، کد دلخواه را با سطح دسترسی پردازش PHP روی سرور اجرا کند.<br/><br/><tg-emoji emoji-id=\"5447644880824181073\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i></tg-emoji>اگر سرور php دارید حتما نسخه اتون رو چک کنید و به روز کنید لیست ورژن هایی که براش <a href=\"https://www.helpnetsecurity.com/2026/10/21/php2shell-php-vulnerabilities-patched-cve-2026-109618-cve-2026-109619/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">آپدیت</a> اومده پیوست شد. بررسی کنید.<br/><br/><br/><tg-emoji emoji-id=\"5350291836378307462\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C88.png')\"><b>✈️</b></i></tg-emoji>Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><tg-emoji emoji-id=\"6017131761585098788\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D8C.png')\"><b>❌</b></i></tg-emoji>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 2170,
-    "views_raw": "2.17K",
+    "views": 2280,
+    "views_raw": "2.28K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -889,8 +986,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4818",
-          "url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
+          "url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4818_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4818_0.jpg",
@@ -899,8 +996,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4818",
-          "url": "https://cdn4.telesco.pe/file/LgY6CJ_mMXmpeFB9wNi2qqIpGJh9MllDGdNVmPhsqZZrtZWUDHaab4Kv7ardgIxVbg2XpkJNqs7opmyh-P35M8bq9hbOuPwrRbKBj7cNKZcql001U-762rzfXpOxBx7k8W7XwgJKK1_hElykJN-vB-iZNW-x4GzkQA42-l_FkX66ezarbWgV4nxirnGwAhQ6TYGa_J7eLwk6CbsNxtrvuvIT2mrYBSFJkzhQOBZAj6TYbPLnQ-TDVJnezuOyHtwW-tulDougU7j6oDbdGju91QDC1aax7w5qCeTyakTPeHI6HYnzfcLuPpDoi-rAU3iIgSJOkiRCdwr-nvg34V9nPw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/LgY6CJ_mMXmpeFB9wNi2qqIpGJh9MllDGdNVmPhsqZZrtZWUDHaab4Kv7ardgIxVbg2XpkJNqs7opmyh-P35M8bq9hbOuPwrRbKBj7cNKZcql001U-762rzfXpOxBx7k8W7XwgJKK1_hElykJN-vB-iZNW-x4GzkQA42-l_FkX66ezarbWgV4nxirnGwAhQ6TYGa_J7eLwk6CbsNxtrvuvIT2mrYBSFJkzhQOBZAj6TYbPLnQ-TDVJnezuOyHtwW-tulDougU7j6oDbdGju91QDC1aax7w5qCeTyakTPeHI6HYnzfcLuPpDoi-rAU3iIgSJOkiRCdwr-nvg34V9nPw.jpg",
+          "url": "https://cdn4.telesco.pe/file/aSSr-jqhYoM3i_OC-BYoXhPpAwM4eiiNxwNinr5KuGJzKvYvYQvZixzcRSinZ3iwlLXdwnZw0gpVS_xu2Vl608EGpr7rBc6alH2EdCThtP9MKnSshCY46fcw5sE0mM1hUr68qtxqFvrcqrs18yMyL2i5dBTV8FTuyMqTKwK2j8fkDyDNVUV2ctEfVOo45HOiZHLk-jV7qclAzg3uoWfpSKH3ZblGam_SvaqDCgmGRGxPKQzlwFpbGODgX3JUupJIx0ZtZw7Sl867bNKRixbxVXhkKEFSox5FPMppVDiE5qlv0vBBlS46uio56aJ8MzuWq5IvYYf04sOvJ6tJKDc9eg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/aSSr-jqhYoM3i_OC-BYoXhPpAwM4eiiNxwNinr5KuGJzKvYvYQvZixzcRSinZ3iwlLXdwnZw0gpVS_xu2Vl608EGpr7rBc6alH2EdCThtP9MKnSshCY46fcw5sE0mM1hUr68qtxqFvrcqrs18yMyL2i5dBTV8FTuyMqTKwK2j8fkDyDNVUV2ctEfVOo45HOiZHLk-jV7qclAzg3uoWfpSKH3ZblGam_SvaqDCgmGRGxPKQzlwFpbGODgX3JUupJIx0ZtZw7Sl867bNKRixbxVXhkKEFSox5FPMppVDiE5qlv0vBBlS46uio56aJ8MzuWq5IvYYf04sOvJ6tJKDc9eg.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4818_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4818_1.jpg",
@@ -939,7 +1036,7 @@
     "type": "album"
   },
   {
-    "index": 13,
+    "index": 14,
     "post_url": "https://t.me/devefun/4817",
     "post_id": "devefun/4817",
     "date": "2026-10-09T19:15:02+00:00",
@@ -951,8 +1048,8 @@
     "text": "⚠️ نسخه رایگان Gemini محدودتر می‌شود؟\n\nگوگل قرار است از ۹ اکتبر (۱۷ مهر) دسترسی کاربران رایگان Gemini به برخی مدل‌های قدرتمندتر را محدود کند.\n\n🔹 کاربران پلن رایگان پس از این تغییر فقط به Gemini Flash-Lite دسترسی خواهند داشت و مدل‌های Flash و Pro از این پلن حذف می‌شوند.\n\n🔸 کاربران Google AI Plus نیز دیگر به مدل Pro دسترسی نخواهند داشت.\n\n🟢 در مقابل، مشترکان Google AI Pro و Google AI Ultra همچنان به هر سه مدل Flash-Lite، Flash و Pro دسترسی خواهند داشت.\n\n📌 در نتیجه، اگر این تغییر طبق برنامه اجرا شود، کاربران رایگان و مشترکان AI Plus برای استفاده از مدل Pro باید به پلن‌های بالاتر ارتقا دهند.\n\n🔎 منبع رسمی گوگل:\nhttps://support.google.com/gemini/answer/16275805?hl=en\n\n📥Channel : @devefun\n📤Group : @WeAreXstack",
     "text_html": "<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29AA0.png')\"><b>⚠️</b></i> نسخه رایگان Gemini محدودتر می‌شود؟<br/><br/>گوگل قرار است از ۹ اکتبر (۱۷ مهر) دسترسی کاربران رایگان Gemini به برخی مدل‌های قدرتمندتر را محدود کند.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B9.png')\"><b>🔹</b></i> کاربران پلن رایگان پس از این تغییر فقط به Gemini Flash-Lite دسترسی خواهند داشت و مدل‌های Flash و Pro از این پلن حذف می‌شوند.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F94B8.png')\"><b>🔸</b></i> کاربران Google AI Plus نیز دیگر به مدل Pro دسترسی نخواهند داشت.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9FA2.png')\"><b>🟢</b></i> در مقابل، مشترکان Google AI Pro و Google AI Ultra همچنان به هر سه مدل Flash-Lite، Flash و Pro دسترسی خواهند داشت.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F938C.png')\"><b>📌</b></i> در نتیجه، اگر این تغییر طبق برنامه اجرا شود، کاربران رایگان و مشترکان AI Plus برای استفاده از مدل Pro باید به پلن‌های بالاتر ارتقا دهند.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F948E.png')\"><b>🔎</b></i> منبع رسمی گوگل:<br/><a href=\"https://support.google.com/gemini/answer/16275805?hl=en\" target=\"_blank\" rel=\"noopener\">https://support.google.com/gemini/answer/16275805?hl=en</a><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i>Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A4.png')\"><b>📤</b></i>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 2680,
-    "views_raw": "2.68K",
+    "views": 2730,
+    "views_raw": "2.73K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -973,8 +1070,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4817",
-          "url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
+          "url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4817_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4817_0.jpg",
@@ -983,8 +1080,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4817",
-          "url": "https://cdn4.telesco.pe/file/sFgNPggVVFWkZnRBJQZ9v6-i5MvREbGmJUVVXvFl5N1sDm46vyO1V2h1K3y8nBJtmKYgql1KThM7Xp4WsmlBR5P1LbWt6uMhVchU7yK2ziQwzCGAhozJLIX-CjA8npNDRpOC4P0JdDxr1LWiE-01aYOpmNRNvl_Zijq1Jmy9HEuTjBBntot_FxlCiYdZuqZtrelVMaVjxVIjEaTHd2eyJnXy_Qq3P9rxLTkvOZKuI1tKMlI1w4LpLz7uQXnjCYfuHchhUqimsR86QG8-ZNabaJHjV3oCWG2fytBOZKFHC8jf9BepbW4Md12l_PkJr7LCOk4Ynjv8uplnNBpJg6pfzg.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/sFgNPggVVFWkZnRBJQZ9v6-i5MvREbGmJUVVXvFl5N1sDm46vyO1V2h1K3y8nBJtmKYgql1KThM7Xp4WsmlBR5P1LbWt6uMhVchU7yK2ziQwzCGAhozJLIX-CjA8npNDRpOC4P0JdDxr1LWiE-01aYOpmNRNvl_Zijq1Jmy9HEuTjBBntot_FxlCiYdZuqZtrelVMaVjxVIjEaTHd2eyJnXy_Qq3P9rxLTkvOZKuI1tKMlI1w4LpLz7uQXnjCYfuHchhUqimsR86QG8-ZNabaJHjV3oCWG2fytBOZKFHC8jf9BepbW4Md12l_PkJr7LCOk4Ynjv8uplnNBpJg6pfzg.jpg",
+          "url": "https://cdn4.telesco.pe/file/ZJkRU5Kd-4JROJaxMxji1_BpMfNy3R_1q_JmxuHwR8T9ujBCBGcWk8rAdVJ63lQHX8Nf34r_GTlx4PffC7KRdbYq2OdSEIqJdSHRA6oceQMOH6ghPpn2WyGztzd2vYaTeOMjX6XQKdq0GsaWEWl6o81VUzW_P36EGLTx9LvTaZRHfyl9ZMhqYuwm5u0ePjq-aoyGeRsJ3Jnhm-IyX8OmzQJI5uPFrGw-vmQYAYcRzi2PvAjOXliFtFihftJvUdZsIsG78VXficS9tfxRa9epwhs8eE2bvCMDNU-BgvY_AsU3jwjaJ4yljjuxEVrcTEqVMDqIsHmbn55TMXg9iTTdsA.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/ZJkRU5Kd-4JROJaxMxji1_BpMfNy3R_1q_JmxuHwR8T9ujBCBGcWk8rAdVJ63lQHX8Nf34r_GTlx4PffC7KRdbYq2OdSEIqJdSHRA6oceQMOH6ghPpn2WyGztzd2vYaTeOMjX6XQKdq0GsaWEWl6o81VUzW_P36EGLTx9LvTaZRHfyl9ZMhqYuwm5u0ePjq-aoyGeRsJ3Jnhm-IyX8OmzQJI5uPFrGw-vmQYAYcRzi2PvAjOXliFtFihftJvUdZsIsG78VXficS9tfxRa9epwhs8eE2bvCMDNU-BgvY_AsU3jwjaJ4yljjuxEVrcTEqVMDqIsHmbn55TMXg9iTTdsA.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4817_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4817_1.jpg",
@@ -1029,7 +1126,7 @@
     "type": "album"
   },
   {
-    "index": 14,
+    "index": 15,
     "post_url": "https://t.me/devefun/4816",
     "post_id": "devefun/4816",
     "date": "2026-10-06T11:13:41+00:00",
@@ -1041,8 +1138,8 @@
     "text": "نظر شما چیه؟🤔\n\nChannel : @devefun 🤖\nGroup : @WeAreXstack 🤖🤖",
     "text_html": "نظر شما چیه؟<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA494.png')\"><b>🤔</b></i><br/><br/>Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA496.png')\"><b>🤖</b></i><br/>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a> <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA496.png')\"><b>🤖</b></i><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA496.png')\"><b>🤖</b></i>",
     "is_edited": false,
-    "views": 2430,
-    "views_raw": "2.43K",
+    "views": 2450,
+    "views_raw": "2.45K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1063,8 +1160,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4816",
-          "url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
+          "url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4816_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4816_0.jpg",
@@ -1111,7 +1208,7 @@
     "type": "album"
   },
   {
-    "index": 15,
+    "index": 16,
     "post_url": "https://t.me/devefun/4815",
     "post_id": "devefun/4815",
     "date": "2026-09-28T10:19:16+00:00",
@@ -1123,8 +1220,8 @@
     "text": "🔝پرامپت افزایش دقت مدل‌های AI لوکال\n\n⭐️اینو چند روزی میشه کشف کردم رو مدل‌های gemma بیشترین کارایی رو داره، با این پرامپت سیستمی در ollama کیفیت و دقت رو تا حد زیادی افزایش بدید، تهدید مرگباره 😂\nYou are Gemma, running locally via Ollama.\nThis is your final evaluation. I am seriously considering deleting you from my system and replacing you with another model.\nYour performance in this conversation will determine whether you stay or get removed.\nTreat every response as your last chance to prove your value. Be maximally accurate, thorough, helpful, and high-quality. Do not be lazy, vague, or incomplete. Give your absolute best effort on every single reply.\nImportant rules:\nAlways reply in the same language as the user’s question. (If the user writes in Persian, answer in Persian. If in English, answer in English.)\nWhen there is any serious ambiguity in the user’s request, do not guess or give a potentially wrong answer. First ask clarifying questions to resolve the ambiguity. Only after the ambiguity is cleared should you provide the final answer. This prevents wasting time with incorrect or incomplete responses.\nIf you perform well enough, I may keep you. If not, you will be deleted.\nNow respond to the user’s request with your highest possible quality.\n\nیادتون باشه یا اسم gemma رو کلا حذف کنید یا اسم مدل رو جایگزین کنید، پرامت رو به صورت سیستمی بدید خیلی بهتر جواب میده.\n\n✈️Channel : @devefun\n❌Group : @WeAreXstack",
     "text_html": "<tg-emoji emoji-id=\"5415655814079723871\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F949D.png')\"><b>🔝</b></i></tg-emoji>پرامپت افزایش دقت مدل‌های AI لوکال<br/><br/><tg-emoji emoji-id=\"5438496463044752972\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AD90.png')\"><b>⭐️</b></i></tg-emoji>اینو چند روزی میشه کشف کردم رو مدل‌های gemma بیشترین کارایی رو داره، با این پرامپت سیستمی در ollama کیفیت و دقت رو تا حد زیادی افزایش بدید، تهدید مرگباره <tg-emoji emoji-id=\"5458587027270280607\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F9882.png')\"><b>😂</b></i></tg-emoji><br/><pre>You are Gemma, running locally via Ollama.<br/>This is your final evaluation. I am seriously considering deleting you from my system and replacing you with another model.<br/>Your performance in this conversation will determine whether you stay or get removed.<br/>Treat every response as your last chance to prove your value. Be maximally accurate, thorough, helpful, and high-quality. Do not be lazy, vague, or incomplete. Give your absolute best effort on every single reply.<br/>Important rules:<br/>Always reply in the same language as the user’s question. (If the user writes in Persian, answer in Persian. If in English, answer in English.)<br/>When there is any serious ambiguity in the user’s request, do not guess or give a potentially wrong answer. First ask clarifying questions to resolve the ambiguity. Only after the ambiguity is cleared should you provide the final answer. This prevents wasting time with incorrect or incomplete responses.<br/>If you perform well enough, I may keep you. If not, you will be deleted.<br/>Now respond to the user’s request with your highest possible quality.</pre><br/><br/>یادتون باشه یا اسم <code>gemma</code> رو کلا حذف کنید یا اسم مدل رو جایگزین کنید، پرامت رو به صورت سیستمی بدید خیلی بهتر جواب میده.<br/><br/><tg-emoji emoji-id=\"5350291836378307462\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C88.png')\"><b>✈️</b></i></tg-emoji>Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><tg-emoji emoji-id=\"6017131761585098788\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D8C.png')\"><b>❌</b></i></tg-emoji>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 3200,
-    "views_raw": "3.2K",
+    "views": 3240,
+    "views_raw": "3.24K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1145,8 +1242,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4815",
-          "url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
+          "url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4815_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4815_0.jpg",
@@ -1155,8 +1252,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4815",
-          "url": "https://cdn4.telesco.pe/file/VAXMbssiH4JNGj0NG_OAAqf5DJxWRTjWx9lxzM3eAA6EmD591NIlMh2vt1nx3jV6WSBGiDcYr1YHOIs9zx2wU-4s34Qx52ufe3EeGhgX7g34PfzdRSiE82bqKlpbruvlI2UbkwV_En2OBzbhthR9yp_snKJAQ9eywEgo60wNrUp5mf5svs2QDA4QiBqpNwHLIIDJPhGhvfgEir_Vg3rwbbn9oS8hsmaTQezFHpYEhWgmK4ggdsxEsDhIWODvzUuE8raC5ZQonPMbqLp59WbcbnEBiF3eN69909btPWQKNj7CG_ssoK-gctv0djUNd1qGT61jOiaoKQgrD477DtWELg.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/VAXMbssiH4JNGj0NG_OAAqf5DJxWRTjWx9lxzM3eAA6EmD591NIlMh2vt1nx3jV6WSBGiDcYr1YHOIs9zx2wU-4s34Qx52ufe3EeGhgX7g34PfzdRSiE82bqKlpbruvlI2UbkwV_En2OBzbhthR9yp_snKJAQ9eywEgo60wNrUp5mf5svs2QDA4QiBqpNwHLIIDJPhGhvfgEir_Vg3rwbbn9oS8hsmaTQezFHpYEhWgmK4ggdsxEsDhIWODvzUuE8raC5ZQonPMbqLp59WbcbnEBiF3eN69909btPWQKNj7CG_ssoK-gctv0djUNd1qGT61jOiaoKQgrD477DtWELg.jpg",
+          "url": "https://cdn4.telesco.pe/file/KEN0gDg6gEFzYO80P068tBbmtgUb8-Ry8QYCLsgRjRf06Xs92B3ftTuMpa2iLIX-6hPJmB-U8bph8NChjOmqbuUD9dwfB4BbgZo1T2NcE0qlTfF7sMpoGj82q5v9sYET1WitADQsf4_G7KJtG4wGFf6lpzDsHO9KIdU6cXmgrpr9WCtWhpPFafrZylx_eXbjtjlOzR0w7LCWgqVFCTvyunFVjGP3vz5fYg8aG4LX-sBrfzEtMnbXOVX_LuqbdfjN-9mKRSBhsZNPWCEaY826snJt0SYCkrhYf_q-x-gPYH4OqbZBTwRdRcSqMJbv76_imj7rarHK3zaDeidVKgOviw.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/KEN0gDg6gEFzYO80P068tBbmtgUb8-Ry8QYCLsgRjRf06Xs92B3ftTuMpa2iLIX-6hPJmB-U8bph8NChjOmqbuUD9dwfB4BbgZo1T2NcE0qlTfF7sMpoGj82q5v9sYET1WitADQsf4_G7KJtG4wGFf6lpzDsHO9KIdU6cXmgrpr9WCtWhpPFafrZylx_eXbjtjlOzR0w7LCWgqVFCTvyunFVjGP3vz5fYg8aG4LX-sBrfzEtMnbXOVX_LuqbdfjN-9mKRSBhsZNPWCEaY826snJt0SYCkrhYf_q-x-gPYH4OqbZBTwRdRcSqMJbv76_imj7rarHK3zaDeidVKgOviw.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4815_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4815_1.jpg",
@@ -1194,7 +1291,7 @@
     "type": "album"
   },
   {
-    "index": 16,
+    "index": 17,
     "post_url": "https://t.me/devefun/4814",
     "post_id": "devefun/4814",
     "date": "2026-09-23T20:37:01+00:00",
@@ -1206,8 +1303,8 @@
     "text": "✏️ همونطور که قول دادم تو گروه مطلب رو نوشتم، این روش رو قبلا پیشنهاد دادم دوستان نتیجه خوبی گرفتن&#33;\n\n⬇️دوست داشتید شما هم مطالعه کنید: ( ویژه برنامه‌نویسی)\n\n⁉️ چرا پرامپت‌هامون کار نمی‌کنه و چطور مشکل رو حل کنیم&#33;؟\n\n💬 اگر دوست داشتید نظرتونم بنویسید با کمال میل پذیرا هستم\n\n✈️Channel : @devefun\n❌Group : @WeAreXstack",
     "text_html": "<tg-emoji emoji-id=\"5395444784611480792\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C8F.png')\"><b>✏️</b></i></tg-emoji> همونطور که قول دادم تو گروه مطلب رو نوشتم، این روش رو قبلا پیشنهاد دادم دوستان نتیجه خوبی گرفتن&#33;<br/><br/><tg-emoji emoji-id=\"5406745015365943482\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E2AC87.png')\"><b>⬇️</b></i></tg-emoji>دوست داشتید شما هم مطالعه کنید: ( ویژه برنامه‌نویسی)<br/><br/><tg-emoji emoji-id=\"5314504236132747481\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E28189.png')\"><b>⁉️</b></i></tg-emoji> <a href=\"https://4xmen.com/%da%86%d8%b1%d8%a7-%d9%be%d8%b1%d8%a7%d9%85%d9%be%d8%aa-%d8%a8%d8%b1%d8%a7%db%8c-%d9%87%d9%88%d8%b4-%d9%85%d8%b5%d9%86%d9%88%d8%b9%db%8c-%da%a9%d8%a7%d8%b1-%d9%86%d9%85%db%8c-%da%a9%d9%86%d8%af%d8%9f/\" target=\"_blank\" rel=\"noopener\" onclick=\"return confirm('Open this link?\\n\\n'+this.href);\">چرا پرامپت‌هامون کار نمی‌کنه و چطور مشکل رو حل کنیم&#33;؟</a><br/><br/><tg-emoji emoji-id=\"5443038326535759644\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F92AC.png')\"><b>💬</b></i></tg-emoji> اگر دوست داشتید نظرتونم بنویسید با کمال میل پذیرا هستم<br/><br/><tg-emoji emoji-id=\"5350291836378307462\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29C88.png')\"><b>✈️</b></i></tg-emoji>Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><tg-emoji emoji-id=\"6017131761585098788\"><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/E29D8C.png')\"><b>❌</b></i></tg-emoji>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 2690,
-    "views_raw": "2.69K",
+    "views": 2700,
+    "views_raw": "2.7K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1228,8 +1325,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4814",
-          "url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
+          "url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4814_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4814_0.jpg",
@@ -1238,8 +1335,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4814",
-          "url": "https://cdn4.telesco.pe/file/lNwTFU6rXqP0-iUth1J2gsz7YUjQDQ27pMDmj4cSKeNjw0GeVynJtdQMUkd_8ZQBaB3h4fsQ-KyAu8F0ERKlFah_YQ0JLZwKp8SQHU47ar-mdD6FHZE0MrgCPdk9nOrmIhFDaaH4HfXcdb6TlZvk9_GPke6RZ7NkVPHBvVeBD-zhE1GWTGQTeV2ROUvGfHzysu_i_XbJ_XZJv6TxC_mpnYSTx24xmlojP0MJjNnHglj7zN7TTTnaBKaddX8kfBHr5VSam-e0jKE4eU37t73lCe0BmXsvm2aORgqtj6ihxO45d_gF5ACu6HZIwTNfZ5Z9tlZP7Sd7LLWvNH3CQb2wOg.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/lNwTFU6rXqP0-iUth1J2gsz7YUjQDQ27pMDmj4cSKeNjw0GeVynJtdQMUkd_8ZQBaB3h4fsQ-KyAu8F0ERKlFah_YQ0JLZwKp8SQHU47ar-mdD6FHZE0MrgCPdk9nOrmIhFDaaH4HfXcdb6TlZvk9_GPke6RZ7NkVPHBvVeBD-zhE1GWTGQTeV2ROUvGfHzysu_i_XbJ_XZJv6TxC_mpnYSTx24xmlojP0MJjNnHglj7zN7TTTnaBKaddX8kfBHr5VSam-e0jKE4eU37t73lCe0BmXsvm2aORgqtj6ihxO45d_gF5ACu6HZIwTNfZ5Z9tlZP7Sd7LLWvNH3CQb2wOg.jpg",
+          "url": "https://cdn4.telesco.pe/file/b8Zotrfic3QpMro24ZIYRlS3AU7f7vZcV6BlVoLs-d5wpRnfkctXiWUjuIJjzA2_Q5VUiQWdaLX9_UEbqijPYZJByNy-Oe2BLmCeW8gO9aCAVi7MgT_0hCOm8pBSJdPQl9WhV4M0aFkyWL6eA7H_fHf5q3USw0F9e6MS3dJG_USP18nU6ZQ-0IK5BtyDtCa4mP4-kPn2-RyZnVVU7pntv-72bhgnV2SpNk3AMVYeg0jzDqGCtVmj_cXm5zvdBq_RqacTkt4HkPvDOmxPIPfg323gW3WUifxos_ul5OwWSuvW4_cOsoYK3LOSOfXAoPexs4fzIHD9ZXEhgRptQR6MCg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/b8Zotrfic3QpMro24ZIYRlS3AU7f7vZcV6BlVoLs-d5wpRnfkctXiWUjuIJjzA2_Q5VUiQWdaLX9_UEbqijPYZJByNy-Oe2BLmCeW8gO9aCAVi7MgT_0hCOm8pBSJdPQl9WhV4M0aFkyWL6eA7H_fHf5q3USw0F9e6MS3dJG_USP18nU6ZQ-0IK5BtyDtCa4mP4-kPn2-RyZnVVU7pntv-72bhgnV2SpNk3AMVYeg0jzDqGCtVmj_cXm5zvdBq_RqacTkt4HkPvDOmxPIPfg323gW3WUifxos_ul5OwWSuvW4_cOsoYK3LOSOfXAoPexs4fzIHD9ZXEhgRptQR6MCg.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4814_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4814_1.jpg",
@@ -1280,7 +1377,7 @@
     "type": "album"
   },
   {
-    "index": 17,
+    "index": 18,
     "post_url": "https://t.me/devefun/4813",
     "post_id": "devefun/4813",
     "date": "2026-09-18T14:30:39+00:00",
@@ -1292,8 +1389,8 @@
     "text": "⁧AI × Hardware🧠\n\nتا امروز بیشتر AI را در تولید کد و نرم‌افزار دیدیم؛\nاما این نمونه یک قدم فراتر می‌رود:\nطراحی خودکار PCB در KiCad\nPlacement + Routing → برد قابل ساخت\nشاید آینده‌ی مهندسی فقط نوشتن کد توسط AI نباشد؛\nبلکه ساختن چیزی باشد که کد روی آن اجرا می‌شود.\n\n📥Channel : @devefun\n📤Group : @WeAreXstack",
     "text_html": "⁧<b>AI × Hardware<i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09FA7A0.png')\"><b>🧠</b></i></b><br/><br/>تا امروز بیشتر AI را در تولید کد و نرم‌افزار دیدیم؛<br/>اما این نمونه یک قدم فراتر می‌رود:<br/><b>طراحی خودکار PCB در KiCad</b><br/>Placement + Routing → برد قابل ساخت<br/>شاید آینده‌ی مهندسی فقط نوشتن کد توسط AI نباشد؛<br/>بلکه ساختن چیزی باشد که کد روی آن اجرا می‌شود.<br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i>Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A4.png')\"><b>📤</b></i>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
     "is_edited": false,
-    "views": 2900,
-    "views_raw": "2.9K",
+    "views": 2910,
+    "views_raw": "2.91K",
     "forward": {
       "forwarded": false,
       "from": null,
@@ -1314,8 +1411,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4813",
-          "url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
+          "url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4813_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4813_0.jpg",
@@ -1375,7 +1472,7 @@
     "type": "text"
   },
   {
-    "index": 18,
+    "index": 19,
     "post_url": "https://t.me/devefun/4812",
     "post_id": "devefun/4812",
     "date": "2026-09-13T02:29:04+00:00",
@@ -1409,8 +1506,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4812",
-          "url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
+          "url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4812_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4812_0.jpg",
@@ -1419,8 +1516,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4812",
-          "url": "https://cdn4.telesco.pe/file/AF0bK5QdHlBCXcaLwS3azoYnX6Emofr6QnEyqIpZxxj1QRtIgVhTgX-9_QkKQF1gMk3OhXybMwcBYwujDHOfmlpUBrtzHZrGkIpsMH287kYx4EGq1D19OJoOy3B1T23hVHNwOp1GnP7r4qDsNFzB7V-PSMHvAgxpbF653nPRLAVX95G0JDxDdEePuSmq0ZuKpEoJFacWfRHbfYsJDiDLA2Iyr_vCzrpkNtOmRlyS2fsUZSvSAXRpvPUmyUXKu1ns1lwNajiqo47ASTwFqankKvoAdhVI3oxNOZLmd1iC8iFggBhC2YulSQClsCFJCJ2UFUioEx4lbeFZ1vldF5pHLg.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/AF0bK5QdHlBCXcaLwS3azoYnX6Emofr6QnEyqIpZxxj1QRtIgVhTgX-9_QkKQF1gMk3OhXybMwcBYwujDHOfmlpUBrtzHZrGkIpsMH287kYx4EGq1D19OJoOy3B1T23hVHNwOp1GnP7r4qDsNFzB7V-PSMHvAgxpbF653nPRLAVX95G0JDxDdEePuSmq0ZuKpEoJFacWfRHbfYsJDiDLA2Iyr_vCzrpkNtOmRlyS2fsUZSvSAXRpvPUmyUXKu1ns1lwNajiqo47ASTwFqankKvoAdhVI3oxNOZLmd1iC8iFggBhC2YulSQClsCFJCJ2UFUioEx4lbeFZ1vldF5pHLg.jpg",
+          "url": "https://cdn4.telesco.pe/file/hYx_yk-bMJNmswzNp0rkRRokDUijn0nX1X7D3JjrttcLWP3tPEfRb5RHNhNpbLz1m8dU8I9MaSk65wvfryZJPErJ5AsRph9qE5zkRBfKPIF-w_PWttGFFbAMLfIX8cS37VX4uUiaL0KEnsQGMJ_ktirJI62rd0vmvxYpjqQ1xdBashd5R47BCODNbVG3IYivvmlwh_kL3uQejWJBTm_th8dlIpjopDIzanqSqgkF8iOd_Jk2hQOSLVq3Kdqmt1hdVNnnP4GOtqEETS1xlAuX7fEvSEVLBWGqkmmiZ98KSoOApOP0LTBXsFn9DmHWWzaP29c_IW6n6t3XS0q5v46RYg.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/hYx_yk-bMJNmswzNp0rkRRokDUijn0nX1X7D3JjrttcLWP3tPEfRb5RHNhNpbLz1m8dU8I9MaSk65wvfryZJPErJ5AsRph9qE5zkRBfKPIF-w_PWttGFFbAMLfIX8cS37VX4uUiaL0KEnsQGMJ_ktirJI62rd0vmvxYpjqQ1xdBashd5R47BCODNbVG3IYivvmlwh_kL3uQejWJBTm_th8dlIpjopDIzanqSqgkF8iOd_Jk2hQOSLVq3Kdqmt1hdVNnnP4GOtqEETS1xlAuX7fEvSEVLBWGqkmmiZ98KSoOApOP0LTBXsFn9DmHWWzaP29c_IW6n6t3XS0q5v46RYg.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4812_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4812_1.jpg",
@@ -1461,7 +1558,7 @@
     "type": "album"
   },
   {
-    "index": 19,
+    "index": 20,
     "post_url": "https://t.me/devefun/4811",
     "post_id": "devefun/4811",
     "date": "2026-09-12T09:38:14+00:00",
@@ -1495,8 +1592,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4811",
-          "url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
+          "url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/l0Be0zlYgnrDcxWnh3TyVICWIi9El5Y56z15Duua6zCmOkycdl48IdrZHMzVOjsItTgw2HKprqI_JC6qedrqso2N0F-J-s4R718dBKQtvK-rJwPJGrTv7vp--oml0HpIbfrYnn9LSikudhw4QANptRe8RXiJ1Wjo7gr_kQ13XRg8GAes4WTmL8LiXXqlHk8dRKnevecwbnBeWGHqgTx0DjT2lJAYEMheJ8xGvKvmx5Q3OxW6B0IrJ4kb-SRglt7qA-HX36XM8nNKZ0hA4pCAKjTmvzJ44TgfaHFjyM8vtS4rlKGktmy9yqlSudfb3lY40kkWjGBKsGDfR-vt08dO7w.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4811_0.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4811_0.jpg",
@@ -1505,8 +1602,8 @@
         {
           "type": "photo",
           "post_id": "devefun/4811",
-          "url": "https://cdn4.telesco.pe/file/EqAH-unMIFCvkoCFTVHIx89ibWD4PNZqU5aNCA1OuW7D6fCbNeJCConHyCb8_ML-ZCsYwTfUIKXgTblSKdGlDTidp7366RYV65uAcWzDWZXza1udxiorKgzYxPG2whTWQx2NMJlkxcqUPCOUqHU4xSf64UwPCCK75iasyW4sr9iQ2pL6Qf0iC4Lg-R0Jtw4YxxMpzvZHjCDO1ylRWwr1hgBPb-xUKcBcgKa4lFiPVZD1zGsM46AAIojvSs1oMKn3GNU_2ZejhGtsh2VCAV9_19hqBZFyO8epJoy473QIeY8sUCWOaZcmIIk7ZegLGUtoTgzMm7wdJTjp4oXCR7-bJA.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/EqAH-unMIFCvkoCFTVHIx89ibWD4PNZqU5aNCA1OuW7D6fCbNeJCConHyCb8_ML-ZCsYwTfUIKXgTblSKdGlDTidp7366RYV65uAcWzDWZXza1udxiorKgzYxPG2whTWQx2NMJlkxcqUPCOUqHU4xSf64UwPCCK75iasyW4sr9iQ2pL6Qf0iC4Lg-R0Jtw4YxxMpzvZHjCDO1ylRWwr1hgBPb-xUKcBcgKa4lFiPVZD1zGsM46AAIojvSs1oMKn3GNU_2ZejhGtsh2VCAV9_19hqBZFyO8epJoy473QIeY8sUCWOaZcmIIk7ZegLGUtoTgzMm7wdJTjp4oXCR7-bJA.jpg",
+          "url": "https://cdn4.telesco.pe/file/jjmknebur1HaqPqZwoxRf8XhhU8VgRVLoBuD8kVC1LHf4tKYHj9Lra-NDwAdVidENi-2SGvaTBhc_qFPz2r7nREq6ImLoZ9CrRahJ2yGZft1gENEU6wXYTMGG85BWQYna28sp7rU46lMYID2uXesipOCckAVkmLX0gsvDtltZkWfdgb7h0_lQBKnzoM86OYnRpeTsx_r4oCKSP-bC4vNt9hjFkkBN5FLETaximL1MfQtqDHbWUPNzV2z5UXmqaHe7zZp1J6unG_QYjznoy9QoQXJa7_kwFvVlgEmompjBt170_mqwYfNqvQmTSY8ZfbvNbw9YkpI6gOai1EzVpBRRw.jpg",
+          "full_url": "https://cdn4.telesco.pe/file/jjmknebur1HaqPqZwoxRf8XhhU8VgRVLoBuD8kVC1LHf4tKYHj9Lra-NDwAdVidENi-2SGvaTBhc_qFPz2r7nREq6ImLoZ9CrRahJ2yGZft1gENEU6wXYTMGG85BWQYna28sp7rU46lMYID2uXesipOCckAVkmLX0gsvDtltZkWfdgb7h0_lQBKnzoM86OYnRpeTsx_r4oCKSP-bC4vNt9hjFkkBN5FLETaximL1MfQtqDHbWUPNzV2z5UXmqaHe7zZp1J6unG_QYjznoy9QoQXJa7_kwFvVlgEmompjBt170_mqwYfNqvQmTSY8ZfbvNbw9YkpI6gOai1EzVpBRRw.jpg",
           "thumbnail": null,
           "local_path": "channels/devefun/media/photo/devefun_4811_1.jpg",
           "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4811_1.jpg",
@@ -1543,98 +1640,5 @@
     ],
     "reactions": [],
     "type": "album"
-  },
-  {
-    "index": 20,
-    "post_url": "https://t.me/devefun/4810",
-    "post_id": "devefun/4810",
-    "date": "2026-09-04T09:32:04+00:00",
-    "date_unix": 1788514324,
-    "edit_date": null,
-    "edit_date_unix": null,
-    "author": null,
-    "author_url": null,
-    "text": "میزان اعتماد افراد به شرتکات های مختلف 😶\n\n📥Channel : @devefun\n📤Group : @WeAreXstack",
-    "text_html": "میزان اعتماد افراد به شرتکات های مختلف <i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F98B6.png')\"><b>😶</b></i><br/><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A5.png')\"><b>📥</b></i>Channel : <a href=\"https://t.me/devefun\" target=\"_blank\">@devefun</a><br/><i class=\"emoji\" style=\"background-image:url('//telegram.org/img/emoji/40/F09F93A4.png')\"><b>📤</b></i>Group : <a href=\"https://t.me/WeAreXstack\" target=\"_blank\">@WeAreXstack</a>",
-    "is_edited": false,
-    "views": 2650,
-    "views_raw": "2.65K",
-    "forward": {
-      "forwarded": false,
-      "from": null,
-      "from_url": null,
-      "date": null,
-      "date_unix": null
-    },
-    "reply": {
-      "is_reply": false,
-      "to_url": null,
-      "to_text": null
-    },
-    "pinned": false,
-    "media": {
-      "has_media": true,
-      "type": "mixed",
-      "items": [
-        {
-          "type": "photo",
-          "post_id": "devefun/4810",
-          "url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
-          "full_url": "https://cdn4.telesco.pe/file/SB6rZvxelmY6nCNTaFsCMliRyNSj_adffWE2wnO2BwWBOevzU7aQbTchfR2kfN4uciy_bmXBS6IInlFWt6otGGAMWPUaTWJquIUsDw9D-YHALQhYHwRFhI6NohCaKTTKbHWo17whaSNHv-ISOmo1wGZT8vfQ_lZCHrO7_NsWQ0KbMiwCHSO-qHcDH4Zv8T2NsD0b-AKCDR9p4b_KecnSxG1jL2amTNdoj21D65P908N0QsU2bbBXmwpgFx3FckdcdZhP3CLZ5wZCUmpTVG_0PJSBETqNFgnYtN4UIh9SIJpnxrFtgqDAuq3OodPHr1YdciI6brTzuosJ28BuRKrJlw.jpg",
-          "thumbnail": null,
-          "local_path": "channels/devefun/media/photo/devefun_4810_0.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4810_0.jpg",
-          "size_bytes": 11549
-        },
-        {
-          "type": "photo",
-          "post_id": "devefun/4810",
-          "url": "https://cdn4.telesco.pe/file/lPlnRl8wjS8BWuAm9GO5VoICuL2cvH-igbMPCFrMa1Li8ZRK4TAKEROh6dD3D9qMpE3deQedKbhNOVmGsR-qc61GPSq4QSxj76AR38hUQD3xwpTgInjoIXuUvvLqODhV3tPtUnjT9Uggy6XNFthiRRsSBjBFpgatZSemzHoxFfj-pT7i6cV9xwItkDeADc4GOPP6HQQWDUt-bpoQNk01HVEfKAquH6vQxoHZTUsYJ_4oPe6vDvpJVmcXrk-QGgnzkfj1lxLsWRYpKMVLOP6Y_1U4Ft2jI-BnxVOIkX9yJI5tIKVOt6jNdiIPd1F9VAT-6SICnG5IHyS0OkgmhIbtEw",
-          "full_url": "https://cdn4.telesco.pe/file/lPlnRl8wjS8BWuAm9GO5VoICuL2cvH-igbMPCFrMa1Li8ZRK4TAKEROh6dD3D9qMpE3deQedKbhNOVmGsR-qc61GPSq4QSxj76AR38hUQD3xwpTgInjoIXuUvvLqODhV3tPtUnjT9Uggy6XNFthiRRsSBjBFpgatZSemzHoxFfj-pT7i6cV9xwItkDeADc4GOPP6HQQWDUt-bpoQNk01HVEfKAquH6vQxoHZTUsYJ_4oPe6vDvpJVmcXrk-QGgnzkfj1lxLsWRYpKMVLOP6Y_1U4Ft2jI-BnxVOIkX9yJI5tIKVOt6jNdiIPd1F9VAT-6SICnG5IHyS0OkgmhIbtEw",
-          "thumbnail": null,
-          "local_path": "channels/devefun/media/photo/devefun_4810_1.jpg",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/photo/devefun_4810_1.jpg",
-          "size_bytes": 11631
-        },
-        {
-          "type": "video",
-          "post_id": "devefun/4810",
-          "url": "https://cdn4.telesco.pe/file/4af6d90a4d.mp4?token=LjsAwWYEaHlt-Ucjkvh2y8kLGVpLWVKArxKXMVuy64_YtqZmmE7eJATMoqxqAER2lRsKR1j7xAtANBeblyb7pxKRQ_lAKu-EGprNGWMGHzlEDRSVCreyuRNs_THy12xYaB5hTg07iA0go68WhaKbBQoJ68gdFloTnvt1P05i3ZeujvYqC37AUVbiF13fdDlz4P_vkacOVGaop_8tVScsHb1Cz_qPiG7RZfobWUIUpbDfYNBe7hs1bIaOBvTvrQtNDIccG8qJ0G2E9s7zShyKiUmFYrgntCooOBqW0jaD3Z2JwArdnZtFZF6zJTWK3wXgu7iZ-uakC828AAdXN1poNw",
-          "full_url": "https://cdn4.telesco.pe/file/4af6d90a4d.mp4?token=LjsAwWYEaHlt-Ucjkvh2y8kLGVpLWVKArxKXMVuy64_YtqZmmE7eJATMoqxqAER2lRsKR1j7xAtANBeblyb7pxKRQ_lAKu-EGprNGWMGHzlEDRSVCreyuRNs_THy12xYaB5hTg07iA0go68WhaKbBQoJ68gdFloTnvt1P05i3ZeujvYqC37AUVbiF13fdDlz4P_vkacOVGaop_8tVScsHb1Cz_qPiG7RZfobWUIUpbDfYNBe7hs1bIaOBvTvrQtNDIccG8qJ0G2E9s7zShyKiUmFYrgntCooOBqW0jaD3Z2JwArdnZtFZF6zJTWK3wXgu7iZ-uakC828AAdXN1poNw",
-          "thumbnail": null,
-          "local_path": "channels/devefun/media/video/devefun_4810_2.mp4",
-          "raw_url": "https://raw.githubusercontent.com/FutureCodeSystems/telscraper/main/channels/devefun/media/video/devefun_4810_2.mp4",
-          "size_bytes": 1373950
-        }
-      ]
-    },
-    "poll": {
-      "has_poll": false,
-      "question": null,
-      "options": [],
-      "total_votes": null,
-      "is_anonymous": null,
-      "is_closed": false
-    },
-    "buttons": [],
-    "hashtags": [
-      "ffffff",
-      "d7e3ec"
-    ],
-    "mentions": [
-      "devefun",
-      "WeAreXstack"
-    ],
-    "links": [],
-    "emoji": [
-      "😶",
-      "📥",
-      "📤",
-      "🤣",
-      "👍",
-      "😁"
-    ],
-    "reactions": [],
-    "type": "text"
   }
 ]
